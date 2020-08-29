@@ -534,7 +534,7 @@ Bloodhound is sprawled in his Autodoc, ready for you. As you aim your blaster, l
 76
 You strap yourself into the crash couch, which at a command from CAIN, moves backwards and swivels upwards into your flyer and the flyer's cockpit canopy clicks into place. The Launch Doors at the top of Falcon's Wing slide apart and the flyer is catapulted into the outside air. Turn to 400.
 
- 77
+77
 Throwing up your shield arm you manage to deflect the arrow and jump down into the melee below you. Turn to 66.
 
 78
