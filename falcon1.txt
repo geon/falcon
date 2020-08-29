@@ -1091,10 +1091,8 @@ You move behind Lynx but she watches out of the corner of her e y e , waiting fo
 If you score 7-12, turn to 339 If you score 2-5, turn to 352 If you score 6, roll again.
 
 187
-You try to twist aside from the wicked thrust but are caught under the arm. Flailing wildly you fall backwards off the ladder to the ground below. Lose 14 Endurance points. If you are still alive you bind your wound with a piece of your cloak, to staunch the
+You try to twist aside from the wicked thrust but are caught under the arm. Flailing wildly you fall backwards off the ladder to the ground below. Lose 14 Endurance points. If you are still alive you bind your wound with a piece of your cloak, to staunch the blood. Do you:
 
-
- blood. IX) you:
 Wait outside the city leaving Alexander
 to his fate? Turn to 200
 Try again to scale the wall? Turn to 147
