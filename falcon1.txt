@@ -1018,7 +1018,16 @@ You thank the Lords of TIME for attending your Graduation Ceremony, saying that 
 
 168
 Lynx's training has left nothing to be desired. Her reactions are superb and even as your blaster leaves its place of concealment she has hurled herself behind a dead horse. The crackling plasma stabs above her head, lost in the rolling smoke of the guns and she ducks out of sight. Unable to hit her with your blaster, do you:
-sight of you. You slam the door and run across Ogedai's room towards the balcony. The door swings open and several members of the Imperial Guard charge at you. You try to dive through the awning to the balcony. Make an Evasion Roll.
+
+Thinkstrike her?
+Use Power of Will to control her?
+Turn to 268 Turn to 286
+
+169
+You step into the small hovrail car, secure the bubble hatch and type in your destination and clearance code as the car rises on its air buffer. The acceleration is steady but not uncomfortable and lasts for half the journey, before you decelerate to the Eiget Vault embarkation point. After many changes of direction, occasionally riding above slower moving cars, you leave the spectacular vista of the neon-clad city behind and plunge into the tunnel to the Eiger. Leaving the monorail you walk to the checkpoint outside the enormous plasteel doors where your ID chip is checked and the mind scanner is used to double-check that you may be allowed into the vault. You step through a small personnel door, past two security droids and into the cavern which houses the Time Machines and the research section of TIME. The area in which the machines are kept is partitioned at intervals and you head straight for your own bay. In the centre of the bay which is lined on three sides with racks carrying maintenance equipment, spare parts, the Variac Drive Re- charger and sundry other useful items, lies Falcon's Wing. You approach the access hatch and the mind scanner lights up red, then green. You are drawn up into the Time Machine by invisible Tractor Beams, activated by CAIN. Soon you are standing on the glowing Access Disc and CAIN chimes, 'Welcome Falcon.' Turn to 210.
+
+170
+As you step over the prone bodies of the general and the guard, a group of Imperial Guards mounting the wooden stairs catch sight of you. You slam the door and run across Ogedai's room towards the balcony. The door swings open and several members of the Imperial Guard charge at you. You try to dive through the awning to the balcony. Make an Evasion Roll.
 If you score 6-12, turn to 189 II you score 2-5, turn to 201
 
 171
@@ -1030,18 +1039,7 @@ Guessing that whoever is controlling the Phocian, possibly the Renegade Lord, is
 If you score 6-12, turn to 224 If you score 2-5, turn to 203
 
 173
-You throw yourself behind a plasteel container but are too late. Unluckily for you, this is a very advanced model and the Particle Disrupter catches your side, and uniform and flesh fizz to nothing. The siren wail of an approaching Citpol jetcopter sounds more than pleasant as you wait for the cydroid to appear behind the container. Instead it makes a superhuman leap to the edge of the loading bay and drops fifty feet to the level below, crackingthe streetmetal on impact. Unaffected by the cloud of sparks this causes it disappears into the maze of the city's traffic lanes. You drag yourself to your feet in time to greet the two Enforcers who alight from the jetcopter. There are always two of the City Police, and they both cover you with their stun- lances. 'Let's see your ID.' You produce your ID chip and hand it to the one who spoke, still covered by the other. He clips it into the Remote Access Terminal (RAT) on his arm and a look of disappointment crosses his features as he sees you are a genuine SAT. 'Fun and games on your first day, eh? What have you to
-Thinkstrike her?
-Use Power of Will to control her?
-
-169
-Turn to 268 Turn to 286
-You step into the small hovrail car, secure the bubble hatch and type in your destination and clearance code as the car rises on its air buffer. The acceleration is steady but not uncomfortable and lasts for half the journey, before you decelerate to the Eiget Vault embarkation point. After many changes of direction, occasionally riding above slower moving cars, you leave the spectacular vista of the neon-clad city behind and plunge into the tunnel to the Eiger. Leaving the monorail you walk to the checkpoint outside the enormous plasteel doors where your ID chip is checked and the mind scanner is used to double-check that you may be allowed into the vault. You step through a small personnel door, past two security droids and into the cavern which houses the Time Machines and the research section of TIME. The area in which the machines are kept is partitioned at intervals and you head straight for your own bay. In the centre of the bay which is lined on three sides with racks carrying maintenance equipment, spare parts, the Variac Drive Re- charger and sundry other useful items, lies Falcon's Wing. You approach the access hatch and the mind scanner lights up red, then green. You are drawn up into the Time Machine by invisible Tractor Beams, activated by CAIN. Soon you are standing on the glowing Access Disc and CAIN chimes, 'Welcome Falcon.' Turn to 210.
-
-170
-As you step over the prone bodies of the general and the guard, a group of Imperial Guards mounting the wooden stairs catch
-
-say for yourself?' You report exactly what happened and the Enforcer hands back your ID chip, saying, 'A file of your statement will be flashed to your Section Chief.'
+You throw yourself behind a plasteel container but are too late. Unluckily for you, this is a very advanced model and the Particle Disrupter catches your side, and uniform and flesh fizz to nothing. The siren wail of an approaching Citpol jetcopter sounds more than pleasant as you wait for the cydroid to appear behind the container. Instead it makes a superhuman leap to the edge of the loading bay and drops fifty feet to the level below, crackingthe streetmetal on impact. Unaffected by the cloud of sparks this causes it disappears into the maze of the city's traffic lanes. You drag yourself to your feet in time to greet the two Enforcers who alight from the jetcopter. There are always two of the City Police, and they both cover you with their stun- lances. 'Let's see your ID.' You produce your ID chip and hand it to the one who spoke, still covered by the other. He clips it into the Remote Access Terminal (RAT) on his arm and a look of disappointment crosses his features as he sees you are a genuine SAT. 'Fun and games on your first day, eh? What have you to say for yourself?' You report exactly what happened and the Enforcer hands back your ID chip, saying, 'A file of your statement will be flashed to your Section Chief.'
 The second says, 'I have summoned an ambulance - they'll look after you.' He leaves a Homing Beacon for the ambulance and theytakeoff.Soon,theHealthExecutiveambulanceishovering above you. Two medtechs jump down with a stretcher and you are soon within one of the Autodocs, an outdated model. Your vapourised tissue is regenerated at an incredible rate, but a wound of this nature does not always heal perfectly. Subtract one from your Attack Modifier as your reactions are not what they were. Restore your Endurance points to 18. Refusing sedatives, you are soon ready to board the hovrail. Turn to 169.
 
 174
