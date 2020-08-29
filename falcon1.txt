@@ -465,8 +465,18 @@ You wake up dazed, in a detention cubicle at TIME head quarters. Your arms and l
 63
 You cruise about the city, unseen in the darkness. Torches light some of the streets and there are fires at some of the crossroads around which people are dancing. Will you:
 
+Hover above the pagoda-like roof of
+the palace, which is well lit, and climb down to the balcony where Ogedai showed himself to the crowd?
+Hover above the gardens behind the palace, which are large and unlit and climb down the flyer's rope ladder?
+Turn to 28
+Turn to 16
+
+64
+You drive your fist towards your pursuer's temple. Make an Attack Roll.
+If you score 7-12, turn to 406 If you score 2-6, turn to 233
+
 65
-Youraim is true and the Hornet explodes like a shell soon after it leaves Lynx's hands, startling her. You run in and aim a karate kick at her, while Bloodhound tries to wrestle her to the floor.
+Your aim is true and the Hornet explodes like a shell soon after it leaves Lynx's hands, startling her. You run in and aim a karate kick at her, while Bloodhound tries to wrestle her to the floor.
 Turn to 339.
 
 66
@@ -474,33 +484,41 @@ The melee rages around you. The Macedonians fighting with dreadful ferocity are 
 
 67
 You force Napoleon to recall the Imperial Guard and Ney, deprived of his reinforcements, does not launch his men in another attack. Beside you, Bloodhound suddenly tenses and draws his blaster, as if to shoot you. Do you:
-Hover above the pagoda-like roof of
-the palace, which is well lit, and climb down to the balcony where Ogedai showed himself to the crowd?
-Hover above the gardens behind the palace, which are large and unlit and climb down the flyer's rope ladder?
 
-64
-Turn to 28
-Turn to 16
+Thinkstrike Bloodhound? Use your blaster on him?
+Turn to 292 Turn to 248
+
+68
 Only one collapses, but the other clutches his head. He screams out: 'Evil Spirits, Evil Spirits, help me!' Twenty or more guards some running from the building outside which the horses are tethered. Whispering together, they look out into the shadows, tearfully. Strengthening their resolve, they fan out towards you in four groups, drawing their swords. You cannot use your blaster in the darkness. Do you:
-You drive your fist towards your pursuer's temple. Make an
-Attack Roll.
-If you score 7-12, turn to 406 If you score 2-6, turn to 233
+
+Run back to your flyer?
+Hide in a stand of cherry trees?
+Turn to 401 Turn to 412
+
+69
 You pull out your blaster as the energy weapon sensors trigger the sirens. If you can stay alive a few moments longer security droids will arrive. Make a Chance Roll.
 If you score 1-4, turn to 33
 If you score 5 or 6, turn to 158
-ThinkstrikeBloodhound? Use your blaster on him?
-Turn to 292 Turn to 248
-Run back to your flyer?
-Hide in a stand of cherry trees?
-
-69
-Turn to 401 Turn to 412
-
-68
-
 
 70
 Your blast catches Bloodhound in the shoulder as he ducks, and spins him backwards towards the gas-tank that is in fact his Time Machine. He staggers inside the hologram and you hear the sound of the hatch opening. Do you:
+
+Rise up through the hatch, blasting? Use your Power of Will to try to control
+him?
+Turn to 75 Turn to 95
+
+71
+You approach the second Phocian Corsair ship and notice a guard on watch. Your Psychic Awareness tells you nothing, but he is not alert. You decide to Thinkstrike him and the power of your mental attack makes the tired guard unconscious. You board the sleek, arrow-shaped ship, passing through the small hold and up the stairwell to the bridge and sleeping quarters. These small ships were built for a one- or two- man operation Their design is archaic to your eyes, but the ship computer assists you to pilot the vessel. The scanners show the other Phocian ship climbing into orbit, soon to leave the atmosphere Wasting no time, you secure yourself in the oddly-shaped, free fall couch, and gun the Phocian pirate ship into the sky, on the trail of her sister ship. As you clear the atmosphere, locked on to the other Phocian's course, its pilot hails you on the ship-to-ship Lascom. Your ship computer picks up the coded bursts of low intensity laser light and converts them to speech. 'Why are you following me?' Do you:
+
+Ignore the laser communication?
+Tell the Phocian that he is under mind
+control?
+Open fire on the Phocian with the
+ship's Pulse Lasers?
+Turn to 136 Turn to 155 Turn to 172
+
+72
+'A mental, a mutie mental,' shouts one of the gang, starting a hysterical screaming. Some drag Clone's hovbike to safety whilst others turn tail and scud into the maze of alleys criss- crossing the old city. Thankful that they are terrified of psionics, you find your way out of Old Geneva as quickly as possible and make your way to the hovrail embarkation point. Turn to 169.
 
 73
 While you dismount and look around, trying to locate the source of the mental powers which you sense, an infantry battalion passes you, marching to the attack. You are within a hundred yards of Marshal Poniatowski and his staff when the battalion's drummer boy, in the rear rank, stops drumming and turns towards you. You look at him suspiciously as he frowns in your direction. Before you can look into his mind you realise that he is attacking you with a blast of mental power, a Thinkstrike! You
@@ -515,21 +533,6 @@ Bloodhound is sprawled in his Autodoc, ready for you. As you aim your blaster, l
 
 76
 You strap yourself into the crash couch, which at a command from CAIN, moves backwards and swivels upwards into your flyer and the flyer's cockpit canopy clicks into place. The Launch Doors at the top of Falcon's Wing slide apart and the flyer is catapulted into the outside air. Turn to 400.
-Rise up through the hatch, blasting? Use your Power of Will to try to control
-him?
-
-71
-You approach the second Phocian Corsair ship and notice a guard on watch. Your Psychic Awareness tells you nothing, but he is not alert. You decide to Thinkstrike him and the power of your mental attack makes the tired guard unconscious. You board the sleek, arrow-shaped ship, passing through the small hold and up the stairwell to the bridge and sleeping quarters. These small ships were built for a one- or two- man operation Their design is archaic to your eyes, but the ship computer assists you to pilot the vessel. The scanners show the other Phocian ship climbing into orbit, soon to leave the atmosphere Wasting no time, you secure yourself in the oddly-shaped, free fall couch, and gun the Phocian pirate ship into the sky, on the trail of her sister ship. As you clear the atmosphere, locked on to the other Phocian's course, its pilot hails you on the ship-to-ship Lascom. Your ship computer picks up the coded bursts of low intensity laser light and converts them to speech. 'Why are you following me?' Do you:
-Ignore the laser communication?
-Tell the Phocian that he is under mind
-control?
-Open fire on the Phocian with the
-ship's Pulse Lasers?
-
-72
-'A mental, a mutie mental,' shouts one of the gang, starting a hysterical screaming. Some drag Clone's hovbike to safety whilst others turn tail and scud into the maze of alleys criss- crossing the old city. Thankful that they are terrified of psionics, you find your way out of Old Geneva as quickly as possible and make your way to the hovrail embarkation point. Turn to 169.
-Turn to 75 Turn to 95
-Turn to 136 Turn to 155 Turn to 172
 
  77
 Throwing up your shield arm you manage to deflect the arrow and jump down into the melee below you. Turn to 66.
