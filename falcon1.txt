@@ -982,7 +982,8 @@ You parry the spear-thrust with your sword and counter quickly slashing across h
 
 If you score 7-12, turn to 94 If you score 2-6, turn to 111
 
-161 [score a C]
+161
+[score a C]
 Bloodhound hurries back with you to your Time Machines, Falcon's Wing and Hunter, and you both set out for the only Timehole on planet Hel, 600 AD, hoping finally to corner the Creche. You may use your Autodoc to restore up to 12 Endurance points on the way. While waiting to rematerialise, you ask CAIN about planet Hel. CAIN chimes: 'Planet Hel was discovered in 2978 AD by Skirrow, head of the Research Section of TIME, during the same voyage on which he discovered Skirrow's World. It is a tropical world with many dangerous predators, and plants which can trap and digest humans. There are no intelligent life forms. The air is breathable.' It seems that planet Hel was well named by its discoverer.
 You rematerialise at the same instant as Bloodhound and Falcon's Wing settles slightly, as if on soft ground. You are resting on the top of a tropical rain forest. The tops of the trees are flattened by a mass of tangled creepers which form a carpet so dense that CAIN mistook it for the surface of the planet. Even the weight of Falcon's Wing has only bowed it slightly. You meet outside, on the tree carpet and move towards a Time Machine, undisguised by a hologram, which rests on the foliage a hundred metres away. Your Psychic Awareness tells you that the Creche are inside. As you watch, they begin to descend from the hatch of their machine. You must act quickly. Do you shout
 
@@ -1743,7 +1744,8 @@ Turn to 389
 
 terminal in front of you. The screen flashes up the follow information.
 place in one of the columns. Sensing that his men, war weary and far from home, are reluctant to storm another city after the bad omens, Alexander exhorts them to attack. They hesitate and he grabs a ladder and thrusts it against the wall. He scales it quickly, followed by his shieldbearer and a member of his bodyguard, and is soon atop the wall. Seeing this, the Macedonians bring up the ladders and crying, 'Iskander, Iskander!' for that is how they say his name, they rush up the ladders, which break in their eagerness. Alexander, an obvious target, is pelted with missiles and jumps down inside the city, almost alone. Turn to 273.
-309 [score a T]
+309
+[score a T]
 Knowing what must be done and hoping to make his death seem natural, you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours, but he is too weak to resist. The guards' wills seem to grow stronger, battling with yours, at the sight of you murdering their Khan. You must make another Power of Will Roll to see if you can maintain your control.
 If you score 7-12, turn to 329 - If you score 2-6, turn to 317
 
@@ -2151,7 +2153,8 @@ If you score 8-12, turn to 97 If you score 2-5, turn to 115 If you score 6 or 7 
 
 378
 Your hand was shaking with fatigue and you have missed your target, blowing a hole in the wooden wall. The mongol crashes into you and buries his sword in your stomach. Death is swift. You have failed and the Space Federation will never be.
-379 [score an F]
+379
+[score an F]
 The monstrous crocodile has nothing that you would call a mind - you locate one instinct only, to kill and eat. It lunges swiftly, rolling out of the swamp to clamp its jaws around you. Make an Evasion Roll.
 If you score 7-12, turn to 313 If you score 2-6, turn to 345
 
@@ -2386,7 +2389,8 @@ Turn to 372
 Turn to 361
 Ride up to him and await his commands?
 Set spur to your horse and gallop off?
-405 [score an M]
+405
+[score an M]
 Turn to 271 Turn to 347
 Almost deafened by the cries of battle you draw your sword and manage to force your way up one of the ladders, strong and big enough to be one of the first. As you reach the top a defender is waiting and he tries to spear you. Make an Evasion Roll.
 If you score 7-12, turn to 160 If you score 2-6, turn to 187
@@ -2459,7 +2463,8 @@ You instruct CAIN to turn on the Variac Drive to shift you into null-space and t
 Turn to 297 Turn to 49
 
 disguising your features. Taking your holo-detector, you set out in search of Lord Speke. Turn to 360.
-419 [score a G]
+419
+[score a G]
 Bloodhound suggests that the first move should be to find Napoleon and as you set out with him, towards Napoleon's Command Post at the hamlet of Shevardino, the French troops begin to press home their attack: Davout's infantry, in massed blue columns, storm the redoubt upon which the Russian guns are mounted and Ney prepares to send his troops against the nearby village. Smoke from the guns rolls across the battlefield and the crackle of muskets is incessant. Your fleet horses carry you swiftly towards Napoleon and his staff, who are out of range of the Russian cannon. There are perhaps fifty generals and other staff around the Emperor, many holding spy-glasses to their eyes, the better to follow the course of the battle. In the background is a magnificent squadron of twenty-five light cavalry, dressed in green, red and gold - the Chasseurs a Cheval of the Old Guard, Napoleon's personal escort. You rein in close to a group of aides-de-camp dressed similarly to yourselves, as if awaiting instructions. Your Psychic Awareness cannot find anyone else with mental powers. The Emperor looks pale and unwell, complaining of a headache and as you watch he dismounts and sits down on a folding chair. As he does so, his escorts also dismount and fix bayonets. Bloodhound turns to you and suggests that you go in search of the Renegade Lord, whilst he stays with Napoleon. Do you:
 the Timelines as a result of your actions in the past, but that these are too minor to concern TIME.
 Two days later you stand once more in the Hall of Honours with Bloodhound and Lynx. Lords Silvermane and Pilota sit at the horseshoe table. Lord Speke is not present, having admitted to Jobanque as a result of the interest in his activities your mission has aroused that he has been breaking the First Law of TIME and living as an ancient Greek for sport. Jobanque tells of your heroic valour and the skill with which you guarded history. He has gathered all of the evidence and tells the Lords what has been happening. 'The Hivers had intended to gain power over the Space Federation. They set out to change the past in Kelados but when this was prevented they went back to change the past in two places on Earth, in the hope that at least one would be successful. Straight after your graduation ceremony they examined the chance of using the mongol Golden Horde to set back civilisation on Earth, before travelling to Kelados in 2710 where they hoped to ensure the outbreak of war between Earth and Kelados. Thwarted by you they then travelled to Karakorum in 1241 AD and kept Ogedai Khan alive, using drugs and the Khan's shamans, whom they controlled, mentally. When you killed Ogedai Khan they tried to change history at the battle of Borodino in 1812 and were then pursued to planet Hel where they, or it, died. The Hiver membership of the Federation has been cancelled, of course. We have used the . Mind Probe on Agidy Yelov: he is the traitor working with the Creche who had promised him great power under their rule. As a Siriun, he would have had an excellent chance of surviving a change in Earth's history and the Hivers were to make him Emperor of Earth. He killed Lord Kirik himself, when Kirik began to come close to finding out what was happening. Indeed, Yelov would not have sent Falcon on this mission at all, if I had
