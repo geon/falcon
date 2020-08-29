@@ -339,23 +339,24 @@ If you score 7-12, turn to 74 If you score 2-6, turn to 61
 39
 Your mental barrier throws off the mind attack of the drummer boy, and you recognise Lynx, another Special Agent of TIME. The disguise is perfect, her boyish features smeared with mud
 from the battlefield. Like Bloodhound was, she may well be trying to kill you. Do you:
-Pull out your blaster and use it on them?
-Run back out of the city, hoping to lose them?
 
-41
-Turn to 139 Turn to 156
 Thinkstrike her back?
 Use your Power of Will on her?
 Use your blaster to kill her?
 Explain to her that she must not attack
 you?
-
-40
-The guards are already drunk on Koumiss, fermented mare's milk, and slump to the floor. You slip into the courtyard beyond the gate and approach the palace itself but are faced with
-another group of guards, resplendent in red and white lacquered armour, who have seen their comrades fall. Seeing you appear suddenly through the gate they cry out and others come running towards you from a nearby barracks, some
-drawing swords, others readying their bows. Do you:
 Turn to 6 Turn to 25 Turn to 59
 Turn to 96
+
+40
+The guards are already drunk on Koumiss, fermented mare's milk, and slump to the floor. You slip into the courtyard beyond the gate and approach the palace itself but are faced with another group of guards, resplendent in red and white lacquered armour, who have seen their comrades fall. Seeing you appear suddenly through the gate they cry out and others come running towards you from a nearby barracks, some
+drawing swords, others readying their bows. Do you:
+
+Pull out your blaster and use it on them?
+Run back out of the city, hoping to lose them?
+Turn to 139 Turn to 156
+
+41
 A white-hot bolt, like lightning, shoots from your blaster, felling Lord Speke. Alexander stares at you in shock, but some of the Macedonians behind you, thinking that you are an evil spirit trying to kill their king, bury their swords in your back. Alexander is slain whilst his attention is on you and you die together. You have failed.
 
 42
