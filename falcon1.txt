@@ -1283,14 +1283,22 @@ If you score 5-12, turn to 311 If you score 2-4, turn to 239
 Your Thinkstrike works. The hussar clutches his forehead and then tumbles gracefully from the saddle into the brook with a splash. As he lies there, spluttering, you seem to see an uncanny resemblance to the portraits of your early ancestors. An uneasy feeling comes over you as you spur your horse on, out of the hollow. Looking back you see the hussar emptying water out of his shako. Turn to 145.
 
 228
-You set your two controlled mongols against the Imperial
-
-Guardsman and the general who cry the alarm. You take advantage of the battle to slip through the door and into the room beyond.
+You set your two controlled mongols against the Imperial Guardsman and the general who cry the alarm. You take advantage of the battle to slip through the door and into the room beyond.
 Inside is a bedchamber, and sitting on a large litter, swaddled in silks and furs, is Ogedai Khan, still weak from his illness. He looks up, his narrow eyes questioning your purpose. Golden statues, chests of treasure and tapestries line the walls. Silk awnings close off the balcony at the back of the room. You sense that your controlled guards will soon be defeated. You do not have much time. Knowing what must be done and hoping to make his death seem natural, you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours, but he is too weak to resist. His face turns blue as he dies. Suddenly the door swings open and several members of the Imperial Guard run in and charge at you. You try to dive through the awning to the balcony. Make an Evasion Roll.
+
 If you score 6-12, turn to 189 If you score 2-5, turn to 201
 
 229
 Back in your Time Machine you catch your breath and decide where in time to travel to next. Will you:
+
+Try to track down Lord Speke? Follow Lord Kirik to Kelados in 3033AD?
+Turn to 220 Turn to 284
+
+230
+Lord Silvermane seems a little alarmed but he says, 'I am on important diplomatic business which cannot wait. Besides, it is not for me to cause an incident by compromising one of my fellow Lords. I will, however, give a report to Agidy Yelov and 1 will be available to meet you at 12.00 tomorrow.' With that he turns on his heel and strides bullishly towards the exit of the Eiger Vault. Do you:
+
+Return to Falcon's Wing? Turn to 119 Follow Silvermane to find out where
+he is going? Turn to 142
 
 231
 You manage to turn the stricken ship back towards the Starport. As you do so you notice on the rear scanner an asteroid mining ship appear from behind the Asteroid Belt, and your Psychic Awareness registers the presence of a being with great powers of the mind, probably the Renegade Lord. You catch a thought, Golden Horde and then, self destruct. To your surprise the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? It takes all of your skill to land the under-powered Corsair ship which groans and shudders during re-entry but, thankfully, gains the safety of the Starport, after a very hard landing. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emisson from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. Do you have a nuclear bomb? If you do, turn to 415. If you do not, turn to 306.
@@ -1299,15 +1307,6 @@ You manage to turn the stricken ship back towards the Starport. As you do so you
 [score a G]
 Your aim was true. A lancing white bolt of superheated plasma erupts against one of the guards. He is blown back against the end wall of the corridor and then slumps to the floor. The second guard runs off as two security droids arrive. You walk up to the fallen man after giving your Security Code to the hovering droids as they aim their stun-lances at you. You identify yourself. Satisfied, they begin to hunt the second assassin. Your fallen assailant is dying, there is nothing you can do to save him. You ask him who sent him and lean close to hear him gasp: TIME Lord...' but the rest is lost in a spasm of coughing as he dies. You may keep his psionic damping circlet.
 This would impede your own powers of the mind but may be useful. Note it on your Agent Profile, if you wish to keep it. You head back to the safety of Falcon's Wing. Turn to 336.
-Try to track down Lord Speke? Follow Lord Kirik to Kelados in
-3033AD?
-
-230
-Lord Silvermane seems a little alarmed but he says, 'I am on important diplomatic business which cannot wait. Besides, it is not for me to cause an incident by compromising one of my fellow Lords. I will, however, give a report to Agidy Yelov and 1 will be available to meet you at 12.00 tomorrow.' With that he turns on his heel and strides bullishly towards the exit of the Eiger Vault. Do you:
-Return to Falcon's Wing? Turn to 119 Follow Silvermane to find out where
-he is going? Turn to 142
-Turn to 220 Turn to 284
-
 
 233
 Your blow is blocked with surprising speed. Before you can dodge, his forearm catches you in the stomach, throwing you back against a wall. Lose 4 Endurance points. You are amazed at his speed and strength. Will you:
