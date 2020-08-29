@@ -1070,15 +1070,19 @@ If you score 8-12, turn to 116 If you score 2-7, turn to 238
 
 181
 Caught by surprise Lord Silvermane's powerful body falls over your leg largely under his own momentum. With a shout of alarm he turns to look at you only to find your blaster inches from his face. 'With respect sir, I must again ask, where are you going?'
-Barely controlling his rage he says: 'I have come for an important document, kept in the safest place I know of here on Earth, my Time Machine.' The hatch opens in response to his mind scanner and he directs you to a document holder. Looking inside you can see that it contains the blueprints of some of the most advanced Rigellian technology together with information which shows that Silvermane is carrying out a technology trade to the mutual benefit of both Earth and Rigel Prime. 'Thank you,' says Silvermane, taking the documents from you. 'I must be at the Galactic Trade Centre within the hour. Your career with TIME has been a short one has it not?' Realising that you will be powerless if your security code clearance with CAIN is stopped you decide to take a risk and tell him of your mission. He listens, at first with impatience which changes to alarm. Then I shall defer court martial, but I expect a full report of the investigation which I am sure Agidy Yelov will commission.' He turns to leave, then pauses. 'Lord Speke bears investigation if I
-of you feel a very strong mental presence. Your heads turn as one towards a strange contraption coming nearer Napoleon and his escort. Two horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical elderlyis riding the first of the horses. It is one of the first ambulances ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. The strength of the mental presence within the ambulance leads you to believe that the Renegade Lord must be inside, and you prepare to attack together. Turn to 304.
+Barely controlling his rage he says: 'I have come for an important document, kept in the safest place I know of here on Earth, my Time Machine.' The hatch opens in response to his mind scanner and he directs you to a document holder. Looking inside you can see that it contains the blueprints of some of the most advanced Rigellian technology together with information which shows that Silvermane is carrying out a technology trade to the mutual benefit of both Earth and Rigel Prime. 'Thank you,' says Silvermane, taking the documents from you. 'I must be at the Galactic Trade Centre within the hour. Your career with TIME has been a short one has it not?' Realising that you will be powerless if your security code clearance with CAIN is stopped you decide to take a risk and tell him of your mission. He listens, at first with impatience which changes to alarm. Then I shall defer court martial, but I expect a full report of the investigation which I am sure Agidy Yelov will commission.' He turns to leave, then pauses. 'Lord Speke bears investigation if I am not mistaken,' and with that he strides to the exit of the Vault. You return to Falcon's Wing. Turn to 119.
+
+182
+You protest your innocence and tell him he is a fool if he shoots you, but with a look of contempt, Bloodhound triggers a bolt of superheated plasma which catches you in the head. Death is instantaneous, you are completely unrecognisable. You have failed.
+
+183
+Bloodhound is telling you that every thing has been quiet, except that the Emperor has been attended by a doctor when all three of you feel a very strong mental presence. Your heads turn as one towards a strange contraption coming nearer Napoleon and his escort. Two horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical elderlyis riding the first of the horses. It is one of the first ambulances ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. The strength of the mental presence within the ambulance leads you to believe that the Renegade Lord must be inside, and you prepare to attack together. Turn to 304.
 
 184
 Lynx attempts to Thinkstrike you again, but she is still not powerful enough to overcome your mental defences. Turn back to 39 and choose again.
 
 185
-You run through the gateway just in time and arrows whistle past you. They chase you through the streets as you dodge between drunken revellers. At last you sight the city gate and sprint towards it. Two more guards seeing you fleeing from the palaceguard draw their bows. In desperation you fire your
-blaster.Make an Attack Roll.
+You run through the gateway just in time and arrows whistle past you. They chase you through the streets as you dodge between drunken revellers. At last you sight the city gate and sprint towards it. Two more guards seeing you fleeing from the palaceguard draw their bows. In desperation you fire your blaster. Make an Attack Roll.
 If you score 7-12, turn to 199
 If you score 2-6, turn to 207
 
@@ -1088,13 +1092,7 @@ If you score 7-12, turn to 339 If you score 2-5, turn to 352 If you score 6, rol
 
 187
 You try to twist aside from the wicked thrust but are caught under the arm. Flailing wildly you fall backwards off the ladder to the ground below. Lose 14 Endurance points. If you are still alive you bind your wound with a piece of your cloak, to staunch the
-am not mistaken,' and with that he strides to the exit of the Vault. You return to Falcon's Wing. Turn to 119.
 
-182
-You protest your innocence and tell him he is a fool if he shoots you, but with a look of contempt, Bloodhound triggers a bolt of superheated plasma which catches you in the head. Death is instantaneous, you are completely unrecognisable. You have failed.
-
-183
-Bloodhound is telling you that every thing has been quiet, except that the Emperor has been attended by a doctor when all three
 
  blood. IX) you:
 Wait outside the city leaving Alexander
