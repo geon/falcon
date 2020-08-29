@@ -622,7 +622,7 @@ Afterwards, battered and muddied, you pick yourself up. You have found no trace 
 horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical orderly is riding the first of the horses. It is one of the first ambulances ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. The strength of the mental presence within the ambulance leads you to believe that the Renegade Lord must be inside, and you prepare to attack together. Turn to 53.
 
 94
-done, Man.' Your shield stops two arrows, but others behind you are not so lucky. Archers in the towers of the wall are finding their mark. Turn to 66.
+You cut him down and leap over the wall, closely followed by other Macedonians and Persians, one of whom shouts, 'Bravely done, Man.' Your shield stops two arrows, but others behind you are not so lucky. Archers in the towers of the wall are finding their mark. Turn to 66.
 
 95
 You reach out with your thoughts and contact Bloodhound's mind, inside his Machine, in an attempt to control him. He is wounded so he will have less resistance, as his mind is distracted. However, he also has powers of the mind. Make a Power of Will Roll.
@@ -635,14 +635,22 @@ If you score 6-12, turn to 184 If you score 2-5, turn to 240
 
 97
 With a great effort you manage to dominate their wills, holding them under control. You walk up to them and order them to take you to Ogedai Khan and to pretend you are a messenger. They walk through the door with a rolling, bandy-legged gait and you follow entering a store room lined with barrels of Koumiss, fermented mare's milk. A row of carcasses hangs on hooks above a smoking fire. In the corner lies the huddled form of an unconscious mongol, obviously drunk. The two guards lead you out of a door opposite into a banqueting hall whose walls are lined with gold, the plunder of half the world. It is full
-of mongols, eating and drinking. To your surprise there are no tables, but a great fire has been lit in the centre of the hall. Musicians are playing fast rhythmic music and some of the mongols strut around the fire, showing off the splendour of their leather coats, decorated and lined with fur. Others are still gorging themselves, tearing chunks of meat from whole carcasses with their hunting knives. As the music quickens
-53.
-You cut him down and leap over the wall, closely followed by other Macedonians and Persians, one of whom shouts, 'Bravely
-
-some begin to whirl and leap around the fire, dancing wildly. Your guards lead you up a wooden stairway just to the left of the storeroom door. Turn to 278.
+of mongols, eating and drinking. To your surprise there are no tables, but a great fire has been lit in the centre of the hall. Musicians are playing fast rhythmic music and some of the mongols strut around the fire, showing off the splendour of their leather coats, decorated and lined with fur. Others are still gorging themselves, tearing chunks of meat from whole carcasses with their hunting knives. As the music quickens, some begin to whirl and leap around the fire, dancing wildly. Your guards lead you up a wooden stairway just to the left of the storeroom door. Turn to 278.
 
 98
 You roll to one side as a translucent beam of ruby light connects the tip of the laser-rifle to the end of the corridor. Still rolling do you:
+
+Thinkstrike?
+Pull out your blaster?
+Turn to 48 Turn to 69
+
+99
+The battle is fierce but soon Bloodhound is attacking your mind and before you can recover he has blasted you again. You double up as the plasma bolt hits your side - lose 13 Endurancepoints. If you are still alive, you find yourself too stunned to do anything. Bloodhound walks over to your stricken body and levels his weapon for the final blast. 'Wait, Bloodhound! Kill me and the population of all Earth and the colonies may perish. I am helpless, but look at CAIN's memory banks before you void me.' He hesitates, then drags you into Falcon's Wing and ties you up. Examining CAIN's records, it soon becomes obvious to him that you are on a vitally important mission and that his mission to kill you must be abandoned. He unties you, but your wounds are so bad you must subtract one from your Evasion Modifier.
+Bloodhound says, 'I'm sorry, Falcon, someone has used me, someone who wants the timelines to be changed.'
+'Who gave the order to kill me?' you ask.
+'Our Section Chief, Agidy Yelov,' he replies. 'He told me you had killed Lord Kirik.'
+'But Kirik has only been dead a matter of minutes,' you tell him.
+Bloodhound pauses, then says, 'Yes, of course, Falcon, how can he know of Kirik's death so soon? Either he was responsible or he is in league with the traitor that did it.' Your Section Chief is working with the Renegade Lord. Turn to 255.
 
 100
 AH you approach the carriage the mind inside senses you and you are locked in a battle of wills. It is a battle which you are hound to lose as the Renegade Lord's mind is stronger than yours. All of your being is taken up with the struggle when, abruptly,the attack ceases. You shake your head dizzily, but it is only the lull before the storm. A wave of mental energy flows intoyou and your brain goes haywire. You seem to feel hot, cold,rain and fire all at once. It is as if you can see all colours at once and myriad voices speak in every language you have ever studied. Your brain overheats, literally burning itself out like a faulty electric motor. You are a zombie, incapable of thought, swayingon your horse and gurgling like a baby. You have failed.
@@ -657,21 +665,11 @@ Before you can ask for more information the Service Computer intones softly, 'Yo
 
 102
 Lynx has drawn a knife on Bloodhound and though he is very strong, he is no match for her and is already bleeding badly. They are locked together and you cannot use your blaster. Do you:
-Thinkstrike?
-Pull out your blaster?
-Turn to 48 Turn to 69
 
-99
-The battle is fierce but soon Bloodhound is attacking your mind and before you can recover he has blasted you again. You double up as the plasma bolt hits your side - lose 13 Endurancepoints. If you are still alive, you find yourself too stunned to do anything. Bloodhound walks over to your stricken body and levels his weapon for the final blast. 'Wait, Bloodhound! Kill me and the population of all Earth and the colonies may perish. I am helpless, but look at CAIN's memory banks before you void me.' He hesitates, then drags you into Falcon's Wing and ties you up. Examining CAIN's records, it soon becomes obvious to him that you are on a vitally important mission and that his mission to kill you must be abandoned. He unties you, but your wounds are so bad you must subtract one from your Evasion Modifier.
-Bloodhound says, 'I'm sorry, Falcon, someone has used me, someone who wants the timelines to be changed.'
-'Who gave the order to kill me?' you ask.
-'Our Section Chief, Agidy Yelov,' he replies. 'He told me you had killed Lord Kirik.'
-'But Kirik has only been dead a matter of minutes,' you tell him.
-Bloodhound pauses, then says, 'Yes, of course, Falcon, how can he know of Kirik's death so soon? Either he was responsible or he is in league with the traitor that did it.' Your Section Chief is working with the Renegade Lord. Turn to 255.
-Turn to 164 Turn to 186
 Thinkstrike Lynx?
 Join in the combat with a karate kick
 against Lynx?
+Turn to 164 Turn to 186
 
 103
 They both slump to the floor, stunned, and you move quickly to
