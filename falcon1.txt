@@ -1109,7 +1109,6 @@ If you score 5-12, turn to 296 If you score 2-4, turn to 175
 
 190
 Twin laser pulses from the Phocian ship strike your bows. The ship shudders and there is a thunderous report as the lights fail.
-
 The computer flashes up a damage report:
 LIFE SUPPORT: BRIDGE ONLY MAIN DRIVE: 10% EFFICIENCY ENERGY: LOW
 ATTACK LASERS: INTACT CABIN PRESSURE: NORMAL SCANNERS: FUNCTIONAL LASCOM SYSTEM: RECEPTION ONLY
@@ -1117,8 +1116,7 @@ The Scanner shows a second ship approaching from behind an asteroid belt and the
 If you score 8-12, turn to 213 If you score 2-7, turn to 242
 
 191
-You throw yourself behind a plasteel container and the Particle Disruptor dissolves part of a nearby stanchion with a fizzing sound. This cydroid is apparently a very advanced model. You hear the siren wail of an approaching Citpol jetcopter. The cydroid makes a superhuman leap to the edge of the loading bay and drops fifty feet to the level below, cracking the streetmetal on impact. Unaffected by the cloud of sparks this causes, it disappears into the maze of the city's traffic lanes. You are on your feet in time to greet the two Enforcers who alight from the jetcopter. There are always two of the City Police, and they both cover you with their stun-lances. 'Let's see your ID.' You produce your ID chip and hand it to the one who spoke, still covered by the other. He clips it into the Remote Access Terminal (RAT) on his arm and a look of disappointment crosses his features as he sees you are a genuine SAT. 'Fun and games on your first day, eh? What have you to say for yourself?' You report exactly what happened and the Enforcer hands back your
-ID chip, saying, 'A file of your statement will be flashed to your Section Chief.' With that they turn on their heels and take off, bathing you with the hot exhaust of their 'copter as they go. Turn to 169.
+You throw yourself behind a plasteel container and the Particle Disruptor dissolves part of a nearby stanchion with a fizzing sound. This cydroid is apparently a very advanced model. You hear the siren wail of an approaching Citpol jetcopter. The cydroid makes a superhuman leap to the edge of the loading bay and drops fifty feet to the level below, cracking the streetmetal on impact. Unaffected by the cloud of sparks this causes, it disappears into the maze of the city's traffic lanes. You are on your feet in time to greet the two Enforcers who alight from the jetcopter. There are always two of the City Police, and they both cover you with their stun-lances. 'Let's see your ID.' You produce your ID chip and hand it to the one who spoke, still covered by the other. He clips it into the Remote Access Terminal (RAT) on his arm and a look of disappointment crosses his features as he sees you are a genuine SAT. 'Fun and games on your first day, eh? What have you to say for yourself?' You report exactly what happened and the Enforcer hands back your ID chip, saying, 'A file of your statement will be flashed to your Section Chief.' With that they turn on their heels and take off, bathing you with the hot exhaust of their 'copter as they go. Turn to 169.
 
 192
 Acting with the instincts of a trained combateer, you throw yourself through the air, roll, and come up in a shooting position on one knee, both hands steadying your blaster. A translucent beamof ruby light connects the tip of the laser rifle to the wall of the bay, behind your shoulder, severing a camera from its gymbals,and the Eiger Vault energy weapon siren begins to wail. You open fire. Make an Attack Roll.
@@ -1141,30 +1139,31 @@ You lie down in the Autodoc and the anaesthetising pad which rests over a small 
 The cydroid's mechanical reactions are even faster than yours. It catches your leg in its hand and then, with amazing strength, begins to crush it slowly. Pain overcomes you as you dangle helpless, before it places its foot on your head, and pulverises it as if it were an over-ripe melon. You have failed, Falcon.
 
 198
-You concentrate your mind in an attempt to control Blood- hound's mind. Bloodhound also has powers of the mind and it will be no easy task. Make a Power of Will Roll.
+You concentrate your mind in an attempt to control Bloodhound's mind. Bloodhound also has powers of the mind and it will be no easy task. Make a Power of Will Roll.
 If you score 7-12, turn to 126 If you score 2-5, turn to 99
 If you score a 6, roll again.
 
 199
 One is vapourised by the superheated blast of plasma and the other immediately throws himself to the ground. You jump over him and out of the city. Your pursuers have stopped at the gate looking for the remains of the warrior you have killed, in sheer disbelief. Hoping your actions have not seriously changed the Timelines, you arrive back at the cave mouth in time to see a largebear poking at the flyer. If you blast it you will damage the flyer. Do you:
-Try to Thinkstrike the bear? Move in to attack the bear using
-unarmed combat?
+
+Try to Thinkstrike the bear? Move in to attack the bear using unarmed combat?
+Turn to 216 Turn to 112
 
 200
 You wait outside, pretending to be wounded as the clamour inside the city increases. New siege ladders are brought up and a phalanx of men smashes through the city gates. Soon the clash of arms gives way to the screams of the townspeople as the Macedonians massacre them in the frenzy that has seized them when Alexander was lost to sight. Minutes later, Alexander, badly wounded, is carried by several soldiers from the gate to his great white tent. Your Psychic Awareness tells you that one of the nearby soldiers is Lord Speke, and he has also noticed you. He pauses, then approaches you. He is carrying a sword but he gives himself up.
 You walk up into the hills, and he explains that for some time he has been breaking the First Law of TIME and living as an ancient Greek. He has always been careful not to upset the Timelines seriously, but he knows he has been acting wrongly. His collection of ancient Greek weapons in his Time Machine is authentic and he has even buried ancient artifacts in places where he could 'discover' them as archeological finds in the 31st century. You look into his mind, with his consent, and see that it is all true - Speke is not the Renegade Lord. Tears run down his face as he realises his hobby is over. 'At least,' he says, 'I can say I saw the man whose people thought he was a god.' He asks you how you discovered him and you tell him about your mission. He is shocked by the news of a traitor Lord but offers a few words of advice. 'It is not likely to be either Pilota, or myself - we are both Earther stock and interference with Earth's past might mean that we had never existed.' You thank Speke, but feel obliged to order him to return to 3033 AD and give himself up. Downcast, he assents and returns to his. Time Machine while you continue with your mission. Turn to 272.
-Turn to 216 Turn to 112
-
 
 201
 A hand-axe, thrown by one of the Imperial Guardsmen strikes the back of your knee and you fall to the floor and are taken. The fate of the Khan's assassin is not a pleasant one. They discuss your punishment which will be to have molten silver poured into your eyes and ears, before you are boiled alive - a death reserved for their respected enemies. You have failed and the Space Federation will never be.
 
 202
 Too late! A translucent beam of ruby light connects the tip of the laser rifle to your hip, shearing through skin and bone like a hot knife through fungspread. Lose 10 Endurance points. If you are still alive, as you fall to the ground you manage to ready your blaster. The Eiger Vault energy weapon detector sirens begin to wail. Overcoming the pain you fire your blaster. Make an Attack Roll.
+
 If you score 8-12, turn to 105 If you score 2-7, turn to 238
 
 203
 Twin laser pulses dart from your ship but your aim was off. They miss the Phocian ship and are lost in blackest space. As you lock on for a second shot you see your target darting and weaving. He is a skilful pilot, used to combat in these craft and he will soon have you in his laser's sights. You decide to take evasive action. Make an Evasion Roll, but count your Evasion Modifier as 0 for this roll only.
+
 If you score 7-12, turn to 253 If you score 2-6, turn to 190
 
 204
@@ -1180,13 +1179,14 @@ There is a wooden stairway just to the left of the store-room door and you decid
 206
 You wheel your horse about and wishing Bloodhound ban chance head back towards the battle line. You veer right, deciding to begin near Poniatowski and then work your way along to the great redoubt. You crouch low as a cannon ball whistles overhead, bouncing along for three hundred yards before coming to rest against a tree-stump. Every now and then you see a small gap appear in the French columns where a cannon ball has mown down as many as ten men, before losing momentum. But each time they close ranks and charge on. You are approaching Poniatowski's wing when suddenly your Psychic Awareness tells you that a being with mental powers is nearby. Turn to 73.
 
-
 207
 The guards gape at you, as the plasma burns a hole in the ground before them. Their bows go slack. You leap over the hole and decide to charge one of the guards and force your way by. Make an Attack Roll.
+
 If you score 6-12, turn to 246 If you score 2-5, turn to 225
 
 208
 The second guard raises a laser rifle equipped with an energy grenade launcher but you manage to blast before he takes aim Make an Attack Roll.
+
 If you score 6-12, turn to 232 If you score 2-5, turn to 27
 
 209
@@ -1198,16 +1198,18 @@ If you have recorded the serial number of a cydroid and wish to investigate its 
 Otherwise, turn to 243
 
 211
-You hurl a blast of mental energy at Bloodhound. But he himself is trained in this art and has his own defences. Make a
-Thinkstrike Roll.
+You hurl a blast of mental energy at Bloodhound. But he himself is trained in this art and has his own defences. Make a Thinkstrike Roll.
+
 If you score 8-12, turn to 107 If you score 2-6, turn to 117 If you score 7, roll again.
 
 212
 You concentrate on trying to control the mind of the Emperor Napoleon, one of the greatest leaders in Earth's history! He is an exceptionally strong-willed man, but the mental attack of the Renegade Lord and his illness have left him weakened in spirit. Make a Power of Will Roll.
+
 If you score 8-12, turn to 67 If you score 2-6, turn to 79 If you score a 7 roll again.
 
 213
 Twin laser pulses cut through space from your ship to the Phocian's. You can see parts breaking away from the hull in the dazzling red light of your lasers. Suddenly, the scanner screen lights up fiercely; you have scored a direct hit on his Power Plant and the Phocian has been vapourised with his ship. You can only hope that his descendants were not to be shapers of history and that changes in the Timelines will be small. You have, however, saved Korakiik, the Keladi envoy and thwarted the Renegade Lord. You try to turn your ship back to the Starport but she is badly damaged. Make a Chance Roll.
+
 If you score 3-6, turn to 231 If you score l-2,turn to 242
 
 214
@@ -1217,16 +1219,9 @@ Follow Lord Silvermane to find out where he is going?
 Return to Falcon's Wing?
 Turn to 142 Turn to 119
 
-218
-As you take aim you are hit by the fragments of an energy grenade fired by the weapon of the second guard, who has a launcherattached to his laser-rifle. You lose 14 Endurance points. If you are still alive you manage to blast. Make an Attack Roll.
-If you score 6-12, turn to 232 If you score 2-5, turn to 27
-
-219
-You describe the situation to Lynx and tell her that Bloodhound had also been sent by Yelov to kill you and that he is now watching over Napoleon at the hamlet of Shevardino. Your horse has been frightened away and you set out on foot to explore the battle line nearer the redoubts. As you approach, bugles sound behind you and a great charge of French infantry is launched with Marshal Ney at their head. The Frenchmen, singing the Marseillaise, come on shoulder to shoulder, mag- nificent in their blue and white uniforms. You are swept up in the charge and carried forward, unable to do anything against the hundreds of men, exhilarated in the heat of battle. On the redoubt ahead of you, the Russian commander, Prince Bagration, rides out in front of his line of green-jacketed men and salutes the French columns, crying in French, 'Bravo, messieurs, c'est superbe!' As you approach Bagration's men they unleash a hail of musket fire and you take this opportunity to throw yourself to the ground as if dead, and let the charge pass over you.
-Afterwards, battered and muddied, you pick yourselves up. You have found no trace of the Renegade Lord and Lynx suggests you return to Napoleon's Command Post at Shevardino in case Bloodhound needs help. You agree and after a short time lost in the fog of battle, you approach the Emperor and his staff. Bloodhound rides to greet you and you tell him what has passed between you and Lynx. Turn to 183.
-
 215
 You have taken them by surprise and they both slump to the floor. You step over them and go through the door. Inside is a bedchamber, and sitting on a large litter, swaddled in silks and furs, is Ogedai Khan, still weak from his illness. He looks up, his narrow eyes questioning your purpose. Golden statues, chests of treasure and tapestries line the walls. Silk awnings close off the balcony at the back of the room. Knowing what must be done and hoping to make his death look natural, you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours, but he is too weak to resist. His face turns blue as he dies. You leave the room, hoping to slip back out to the flyer without being seen. Make a Chance Roll.
+
 If you score 1-3, turn to 170 If you score 4-6, turn to 127
 
 216
@@ -1235,40 +1230,49 @@ The bear is not clever enough to be affected. It just snarls and rushes at you. 
 217
 You hurl a blast of thought at your pursuer, but too late realise that he has no mind, is in fact a cydroid. The cydroid lifts you easily above its head and throws you against a wall. Lose 6 Endurance points. Do you:
 
-220
-Where will you search for Lord Speke?
-In the time of Alexander the Great? Earth 2700 AD at the time of the great
-interstellar colonial expansion?
 Reach for your blaster?
 Attempt a flying kick to its head?
 Turn to 159 Turn to 197
-Turn to 303 Turn to 249
+
+218
+As you take aim you are hit by the fragments of an energy grenade fired by the weapon of the second guard, who has a launcherattached to his laser-rifle. You lose 14 Endurance points. If you are still alive you manage to blast. Make an Attack Roll.
+
+If you score 6-12, turn to 232 If you score 2-5, turn to 27
+
+219
+You describe the situation to Lynx and tell her that Bloodhound had also been sent by Yelov to kill you and that he is now watching over Napoleon at the hamlet of Shevardino. Your horse has been frightened away and you set out on foot to explore the battle line nearer the redoubts. As you approach, bugles sound behind you and a great charge of French infantry is launched with Marshal Ney at their head. The Frenchmen, singing the Marseillaise, come on shoulder to shoulder, mag- nificent in their blue and white uniforms. You are swept up in the charge and carried forward, unable to do anything against the hundreds of men, exhilarated in the heat of battle. On the redoubt ahead of you, the Russian commander, Prince Bagration, rides out in front of his line of green-jacketed men and salutes the French columns, crying in French, 'Bravo, messieurs, c'est superbe!' As you approach Bagration's men they unleash a hail of musket fire and you take this opportunity to throw yourself to the ground as if dead, and let the charge pass over you.
+Afterwards, battered and muddied, you pick yourselves up. You have found no trace of the Renegade Lord and Lynx suggests you return to Napoleon's Command Post at Shevardino in case Bloodhound needs help. You agree and after a short time lost in the fog of battle, you approach the Emperor and his staff. Bloodhound rides to greet you and you tell him what has passed between you and Lynx. Turn to 183.
+
+220
+Where will you search for Lord Speke?
+In the time of Alexander the Great? Earth 2700 AD at the time of the great interstellar colonial expansion?
 
 The planet Kelados in 2710 AD, where Q found a Lord of Time tampering with the past?
 The planet Dyskra, home of the Repnids, in 1985 AD?
+Turn to 303 Turn to 249
 Turn to 138 Turn to 373
-hangs in space, drifting. Small puffs of flame at one side of its hull show you that the pilot is using the weak retro rockets in an attempt to angle his ship towards that of the Keladi envoy. It will be a few minutes, you estimate, before he is able to target his lasers. Do you:
 
 221
-You draw and blast with the speed of a cobra. Make an Attack
-Roll.
+You draw and blast with the speed of a cobra. Make an Attack Roll.
 If you score 7-12, turn to 70
 If you score 2-6, turn to 152
 
 222
 Acting with the instincts of a trained combateer, you throw yourself through the air, roll, and come up in a shooting position on one knee, both hands steadying your blaster. A translucent beam of ruby light connects the tip of the laser rifle to the wall of the bay, behind your shoulder, severing a camera from its gymbals, and the Eiger Vault energy weapon siren begins to wail. You open fire. Make an Attack Roll.
+
 If you score 6-12, turn to 105 If you score 2-5, turn to 238
 
 223
 You use your power of Psychic Awareness to enter the communal mind of the Creche. Their alien thought patterns are disturbing but your initial impression is one of group harmony. They think a message back to you which seems devoid of emotion: We note your thought probe. Under TIME regulations you arc beyond the parameters of permitted activity. We must inform the other Lords, those who are not we, myself. Their mandibles click and via your Universal Translator you understand that they are informing the other Lords that you have tried to read their minds. Lord Pilota smothers a smile, but the waters of Kirik's tank boil as his pincers thresh angrily. Silvermane shakes his head in seeming disappointment whilst Speke shouts angrily, 'How dare you? You are risking an interstellar incident.' Turn to 194.
 
 224
-Twin pulses from your lasers light up the back of the Phocian's ship. You have hit part of the main drive reactor and the Corsair
+Twin pulses from your lasers light up the back of the Phocian's ship. You have hit part of the main drive reactor and the Corsair hangs in space, drifting. Small puffs of flame at one side of its hull show you that the pilot is using the weak retro rockets in an attempt to angle his ship towards that of the Keladi envoy. It will be a few minutes, you estimate, before he is able to target his lasers. Do you:
+
 Match velocity with the stricken hulk and board her?
 Finish her off with your ship's pulse lasers?
+Turn to 263 Turn to 276
 
 225
-Turn to 263 Turn to 276
 You try to barge one of the mongols out of the way, but fail to knock the stocky man over. He dives at you and the other guard strikes you across the back of the head with his sabre hilt. By the timeyou recover you have been bound hand and foot and they are examining your blaster and helmet. Powerless without the helmet, you are aghast to hear, as they carry you to the palace, that they regard you as a witch spirit of the Everlasting Blue Sky and will sew up your mouth and nostrils before killing you, lest your spirit escape to haunt them. You struggle but cannot get free. You have failed and the Space Federation will never be.
 
 226
