@@ -218,30 +218,34 @@ If you wish to call up Yelov's file, note the number 15 on your Agent Profile. W
 Your opponent's reactions are even faster than yours. He catches your leg in his hand and then, with amazing strength, begins to crush it slowly. Pain overcomes you and you pass out, never to come round. You have failed, Falcon.
 19
 You bank and dive as twin laser pulses from the Phocian flash past your ship into the blackness of space. Then the Phocian increases speed. A third, larger ship appears on the Scanner, beyond an Asteroid Belt, and the Corsair changes course to intercept. You match course and increase speed as a second message reaches you, this time from the larger ship. 'This is the Clanship Keladan HI; we are on a priority diplomatic mission. Do not attack, repeat, do not attack. Change course. We are Keladi; do not attack.' You realise that this is the convoy ship carrying Korakiik, and that they will soon be within the attack range of the Phocian Corsair. Do you:
-20
-You arrive back at Falcon's Wing;and the red light of the brain scanner comes on. As you wait for the green, a security guard approaches, wearing a full-face helmet and power-armour, which is not standard issue. He carries a laser-rifle. 'Excuse me sir,' his voice hisses through the air-escape ducts of his armour. Turning to meet him, do you:
+
 Open fire on the Phocian Corsair with your ship's pulse lasers?
 Wait to see what happens?
 Turn to 141 Turn to 104
-Bloodhound shouts: 'No, Falcon, Thinkstrike!' Too late, you realise you have made a mistake, for the Creche, although reduced in number to five, are masters of mind control. They take you over, and you draw your blaster and kill Bloodhound before he realises what is happening. Staring in horror at what you have done, you feel your hand turning the blaster towards your own head. The last thing you see before you kill yourself is Agidy Yelov stepping from behind the Time Machine of the Creche. Only Lynx is left to defeat him and the Renegade Lord. You have failed.
-22
-You leave the Hall of Honours en route for the Eiger Vault and your Time Machine, and approach the hovrail, calling a car to the nearest embarkation point using CAIN and the Service Computer.
-Stepping from the TIME building pedway you emerge into the cityscape, to be dwarfed by the tiered office blocks surrounded by housing for the workers and the Prodmarkets which supply them. Jetcopters hum overhead like streams of flies, each one, darting or circling, its pilot intent on reaching particular destin- ations. The lower level streets and pedways are thick with people; those streets which curve up to the higher levels and along the buttresses of the larger buildings bear a steady flow of skimmers, runners sparking as they contact the electrified streetmetal. Some way from the embarkation point you realise that you are being followed. You step from the pedway onto the deserted bay of the Intelfax building. The anonymous figure of an office worker in a one-piece suit steps off the pedway behind
+
+20
+You arrive back at Falcon's Wing;and the red light of the brain scanner comes on. As you wait for the green, a security guard approaches, wearing a full-face helmet and power-armour, which is not standard issue. He carries a laser-rifle. 'Excuse me sir,' his voice hisses through the air-escape ducts of his armour. Turning to meet him, do you:
+
 Wait for him to come closer?
 Use your power of Psychic Awareness
 to find out his intentions?
-21
 Turn to 154 Turn to 125
 
- you Do you:
+21
+Bloodhound shouts: 'No, Falcon, Thinkstrike!' Too late, you realise you have made a mistake, for the Creche, although reduced in number to five, are masters of mind control. They take you over, and you draw your blaster and kill Bloodhound before he realises what is happening. Staring in horror at what you have done, you feel your hand turning the blaster towards your own head. The last thing you see before you kill yourself is Agidy Yelov stepping from behind the Time Machine of the Creche. Only Lynx is left to defeat him and the Renegade Lord. You have failed.
+
+22
+You leave the Hall of Honours en route for the Eiger Vault and your Time Machine, and approach the hovrail, calling a car to the nearest embarkation point using CAIN and the Service Computer.
+Stepping from the TIME building pedway you emerge into the cityscape, to be dwarfed by the tiered office blocks surrounded by housing for the workers and the Prodmarkets which supply them. Jetcopters hum overhead like streams of flies, each one, darting or circling, its pilot intent on reaching particular destin- ations. The lower level streets and pedways are thick with people; those streets which curve up to the higher levels and along the buttresses of the larger buildings bear a steady flow of skimmers, runners sparking as they contact the electrified streetmetal. Some way from the embarkation point you realise that you are being followed. You step from the pedway onto the deserted bay of the Intelfax building. The anonymous figure of an office worker in a one-piece suit steps off the pedway behind you. Do you:
 Use your Power of Will to control your
 follower?
 Duckinto a doorway and wait to
 confront him at close quarters? Slip through the Intelfax warehouse
 and lose your pursuer in the lowlife area, Old Geneva?
-23
 Turn to 44 Turn to 81
 Turn to 10
+
+23
 The din of the battle is like a maelstrom around you. Swept on towards Alexander and Speke, you concentrate your mind. You hurl a blast of mental energy at Lord Speke remembering, too late, that his mental defences against Thinkstrike are almost Invincible. Speke is unaffected. You lose confidence in your
 Thinkstrike ability, subtract one from your Thinkstrike Modifier. Do you:
 Use your blaster to kill Lord Speke? Use your Power of Will to control Lord
