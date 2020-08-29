@@ -328,13 +328,11 @@ ACCESS DENIED
 Knowing that your Epsilon Security Code should be high enough to gain access, you request the level of Security Code necessary. CAIN responds with the information that this report has been reclassified: Access Code Theta. Theta is the level of Security Clearance held by Section Chiefs, and Special Agents cannot cause information to be classified at this level. The Service Computer intones softly: 'You have arrived at the Hall of Honours. Your Graduation is about to commence.' Turn to 110.
 
 37
-The Emperor, bewildered by the mental attacks of the Creche, falls easily under your control. You force him to give the order
+The Emperor, bewildered by the mental attacks of the Creche, falls easily under your control. You force him to give the order which recalls the Imperial Guard and the attack does not take place. Deprived of reinforcements, Marshal Ney does not
+fling his men into another attack and both sides,exhausted, are reduced to the occasional cannonade.The Frenchhave won, but it is not a decisive victory.Thirty thousand Frenchmen are dead or wounded;the Russians have lost tenthous and more.
+The battlefield is strewn with the dead and dying and they are piled in mounds around the redoubts. You have made sure that history is not changed and you decide to return to Falcon's Wing and follow the Creche to the planet Hel, Turn to 161.
 
-which recalls the Imperial Guard and the attack does not take place. Deprive of reinforcements, Marshal Ney does not
-flinghismenintoanotherattackandbothsides,exhausted, arereducedtotheoccasionalcannonade.TheFrenchhavewon,
-butitisnotadecisivevictory.ThirtythousandFrenchmen aredeadorwounded;theRussianshavelosttenthousandmore.
-Thebattlefieldisstrewnwiththedeadanddyingandtheyarepiled in mounds around the redoubts. You have made sure that history is not changed and you decide to return to Falcon's Wing
-and followthe Creche to the planet Hel, Turn to 161. 38
+38
 You draw the sabre which is part of your uniform and parry Bloodhound's thrust. You have trained a little with the sword and are able to frustrate most of Bloodhound's attacks as he forces you steadily backwards. Make an Evasion Roll.
 If you score 7-12, turn to 74 If you score 2-6, turn to 61
 
