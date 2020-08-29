@@ -250,21 +250,23 @@ The din of the battle is like a maelstrom around you. Swept on towards Alexander
 Thinkstrike ability, subtract one from your Thinkstrike Modifier. Do you:
 Use your blaster to kill Lord Speke? Use your Power of Will to control Lord
 Speke?
-24 [score a K]
+Turn to 41 Turn to 32
+
+24
+[score a K]
 Clone's mind is a maze of violent and selfish impulses, easily controlled. You make him call off his gang and in amazement they goggle as you force Clone to let you climb up behind him. 'But Machine is dead,' cries one of the women.
 Before they can protest further Clone whisks you away to the edge of Old Geneva and you relinquish control of his mind as you step onto the pedway once more.'I'llget you for this, mutie mind-scrambler, they'll never follow me now, I'll remember you...' He is still raving as you near the hovrail embarkation point. Turn to 169.
+
 25
 You concentrate your will in a great effort to overcome Lynx, knowing that she has trained for these forms of mental combat and that she will put up a hard struggle. Make a Power of Will Roll.
 If you score 7-12, turn to 135 If you score 2-6, turn to 184
-Turn to 41 Turn to 32
 
 26
-You concentrate on an infantry man who has just reloaded his
+You concentrate on an infantry man who has just reloaded his musket and is passing nearby, and try to control him. Make a Power of Will Roll.
+If you score 5-12, turn to 35 If you score 2-4, turn to 411
+
 30
 You dismount and walk towards the new mental presence, looking carefully about you. Suddenly a drummer boy who had been wandering forlornly up the hillside turns to you and speaks. To your surprise it is a woman's voice - that of Lynx, a Special Agent of TIME, like Bloodhound and yourself. The disguise is perfect - her boyish features are smeared with mud from the battlefield. 'Falcon, Bloodhound, I have.a Termination Order for you both from our leader, Agidy Yelov.' With that, she unleashes a Hornet, a miniature guided missile, like an arrow with wings, which jets towards you. Do you:
-musket and is passing nearby, PowerofWillRoll.
-If you score 5-12, turn to 35 If you score 2-4, turn to 411
-and try to control him. Make a
 Try to Thinkstrike them both?
 Use your skill at unarmed combat?
 29
