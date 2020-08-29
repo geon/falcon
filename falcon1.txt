@@ -826,7 +826,9 @@ the hills for Lord Speke's machine. Turn to 403.
 131
 You concentrate your mind on whoever is inside the ambulance, knowing that the Renegade Lord has a powerful will. As soon as you attack, the battle starts to go against you. The power of the will which counter-attacks is awesome and you can do nothing as you lose control of your mind. You can only watch, as an outsider, as your hand pulls the blaster from your jacket. Sweating with effort you vainly try to resist as, shaking wildly, your arm takes aim at Bloodhound. He sees you and draws his own blaster. You are about to shoot him against your will when a blast of white-hot plasma rips into your shoulder. Lose 10 Endurance points. At least no blood flows - the plasma from the blaster seals the wound like boiling tar. The shock to your system allows you to try and reassert your own will. Make a Chance Roll.
 If you score 1-3, turn to 413 If you score 4-6, turn to 234
-132 [score an M]
+
+132
+[score an M]
 The members of Napoleon's staff clear a way and one of the Chasseurs rides by your side as you approach the Emperor. Napoleon's Chief of Staff, Marshal Berthier, spurs his horse forward and takes the despatch from you. He reads it quickly and passes it to the Emperor who is now in front of you. Napoleon reads it and sighs, saying, 'I've no men to spare for your headstrong Marshal Ney.' He waves you aside and you are thankful to leave the group that surrounds him to go over to Bloodhound. Turn to 82.
 
 133
