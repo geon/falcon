@@ -736,7 +736,17 @@ As the fading chimes of CAIN echo in your ears darkness engulfs you. You find yo
 
 115
 They shake their heads and, making signs to ward off evil spirits, stare out into the darkness. Do you:
-drags you into Falcon's Wing and ties you up. Examining CAIN's records, it soon becomes obvious to him that you are on a vitally important mission and that his mission to kill you must be abandoned. He unties you, but your wounds are so bad you must subtract one from your Evasion Modifier. Bloodhound says, 'I'm sorry. Falcon, someone has used me, someone who wants the timelines to be changed.'
+
+Try to Thinkstrike them? Use your blaster to fry them?
+Turn to 369 Turn to 387
+
+
+116
+A brilliant white bolt of burning plasma takes your would-be assassin in the chest, knocking him backwards and taking his life as it melts through his armour. You kneel by him as a security droid arrives. Seeing signs of life in his eyes, though he is beyond help, you ask who sent him to kill you. 'One of the Lords ...' His words are choked off by a rattling cough as the blood from his lungs begins to spill from his mouth and death takes him. You may take his Psionic Damper Circlet, if you wish. Add it to your Agent Profile.
+The security droid comes towards you, its stun-lance aimed, and you hand over your identification and report what happened. A message appears in red on the screen set in the droid's chest. 'ID - Passed. Your story coincides with videographic evidence. A report will be filed. Please continue your business,' and it begins to drag the body of your assailant out of the bay. Turn to 336.
+
+117
+Bloodhound's mental defences are enough to shrug off your Thinkstrike. While you pause to collect your thoughts after your effort, he blasts you once again. You double up as the plasma bolt hits your side -lose 13 Endurance points. If you are still alive, you find yourself too stunned to do anything. Bloodhound walks over to your stricken body and levels his weapon for the final blast. 'Wait, Bloodhound! Kill me and the population of all earth and the colonies may perish. I am helpless, but look at CAIN's memory banks before you void me.' He hesitates , then drags you into Falcon's Wing and ties you up. Examining CAIN's records, it soon becomes obvious to him that you are on a vitally important mission and that his mission to kill you must be abandoned. He unties you, but your wounds are so bad you must subtract one from your Evasion Modifier. Bloodhound says, 'I'm sorry. Falcon, someone has used me, someone who wants the timelines to be changed.'
 'Who gave the order to kill me?' you ask.
 'Our Section Chief, Agidy Yelov,' he replies. 'He told me you had killed Lord Kirik.'
 'But Kirik has only been dead a matter of minutes,' you tell him.
@@ -747,62 +757,47 @@ Your blast of mental energy has overcome Lynx's defences and she slumps to the g
 
 119
 As you turn the corner into the corridor leading to the bay which houses Falcon's Wing, you see two security guards approaching. They are wearing power-armour and full-face helmets which are not standard issue. One of them raises his laser-rifle, aiming at you. Make an Evasion Roll.
+
 If you score 6-12, turn to 98 If you score 2-5, turn to 78
-Try to Thinkstrike them? Use your blaster to fry them?
-
-116
-Turn to 369 Turn to 387
-A brilliant white bolt of burning plasma takes your would-be assassin in the chest, knocking him backwards and taking his life as it melts through his armour. You kneel by him as a security droid arrives. Seeing signs of life in his eyes, though he is beyond help, you ask who sent him to kill you. 'One of the Lords ...' His words are choked off by a rattling cough as the blood from his lungs begins to spill from his mouth and death takes him. You may take his Psionic Damper Circlet, if you wish. Add it to your Agent Profile.
-The security droid comes towards you, its stun-lance aimed, and you hand over your identification and report what happened. A message appears in red on the screen set in the droid's chest. 'ID - Passed. Your story coincides with videographic evidence. A report will be filed. Please continue your business,' and it begins to drag the body of your assailant out of the bay. Turn to 336.
-
-117
-Bloodhound's mental defences are enough to shrug off your Thinkstrike. While you pause to collect your thoughts after your effort, he blasts you once again. You double up as the plasma bolt hits your side -lose 13 Endurance points. If you are still alive, you find yourself too stunned to do anything. Bloodhound walks over to your stricken body and levels his weapon for the final blast. 'Wait, Bloodhound! Kill me and the population of all earth and the colonies may perish. I am helpless, but look at CAIN's memory banks before you void me.' He hesitates , then
-
 
 120
 Instead of asking you to help with the bodies of the Hivers, Yelov swings up his blaster and fires. He is very quick and his aim is true. You are hurled backwards and find yourself, badly wounded, falling through a gap in the foliage to the leaf mould which covers the ground below. Seconds later, Bloodhound falls a few yards away from you. He is unconscious. One of the trees seems to bend slightly above him. Suckers which sprout from its trunk begin to converge on him slowly. They wrap around him and he begins to dissolve. You too are caught by tentacles and you hear Yelov's laughter deadened by the foliage as you succumb to the man- eating tree. You have failed.
-Leave Falcon's Wing and try to find the Time Machine which launched the flyer?
-Get into your own flyer and race to Karakorum?
-
-123
-Turn to 92 Turn to 76
 
 121
 Who will you try to contact first:
-You spur your horse forward towards Murat and his staff when the source of the mental power comes into view. Two horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical orderly is riding the first of the horses. It is one of the first ambulances ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. You sense the strength of the mind within the strange carriage and its power seems awesome to you. As you watch, you can feel the mind reaching out to control Murat, King of Naples, Do you:
+
 Silvermane? Pilota? Speke?
 The Creche? Kirik?
 Turn to 280 Turn to 260 Turn to 241 Turn to 223 Turn to 209
-Ride towards the carriage to foil the attempt to control Murat?
-Go back for Bloodhound so that you can combine your powers?
-
-124
-Turn to 100 Turn to 93
 
 122
 [score a G]
 Once again you are at the forest's edge, overlooking the Danube and Vienna.The nearby village of Ramallolies under a pall of smoke. The mongols have finished their grisly work and a pile of corpses which lack ears lies near the edge of the village. You can see your own footsteps, muddled with hoofprints on the ground outside.
 As you reach for your Holo-detector, a black disc-like shape crosses your path of vision, streaking skyward with a sound like athunderclap.CAINchimes,'AsmallIonDrivecraft,probablya flyer, has taken off nearby.' You ask for an estimate of its destination and CAIN responds, 'I estimate China. The mongol capital,Karakorum,isinChina,Falcon.Letmeremindyouthat Ogedai Khan should be dying there even now. If he lives all Europe will be ravaged by the Golden Horde and civilisation will be set back a thousand years.' Do you:
+
+Leave Falcon's Wing and try to find the Time Machine which launched the flyer?
+Get into your own flyer and race to Karakorum?
+Turn to 92 Turn to 76
+
+123
+You spur your horse forward towards Murat and his staff when the source of the mental power comes into view. Two horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical orderly is riding the first of the horses. It is one of the first ambulances ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. You sense the strength of the mind within the strange carriage and its power seems awesome to you. As you watch, you can feel the mind reaching out to control Murat, King of Naples, Do you:
+
+Ride towards the carriage to foil the attempt to control Murat?
+Go back for Bloodhound so that you can combine your powers?
+Turn to 100 Turn to 93
+
+124
 You sense that your Thinkstrike has succeeded but still the mental power exists inside the ambulance, confirming that t h e Renegade Lord is the Creche, the six Hiver beings that form one mind. You run up to the ambulance but before you arrive its front explodes and a flyer accelerates out of it, the Hivers clinging on inside the honeycomb-like seats. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. Do you:
+
 Try to control Napoleon's mind and use him to call off the attack?
 Return to Falcon's Wing and chase the Creche to the planet Hel?
 Turn to 37 Turn to 84
 
-
 125
-To your consternation you cannot reach through to his mind, instead you feel the interference effect of a Psionic Damper helmet. This is a recent invention of the Hivers. Do you
+To your consternation you cannot reach through to his mind, instead you feel the interference effect of a Psionic Damper helmet. This is a recent invention of the Hivers. Do you:
 
-128
-you roll aside and come up ready to fire your blaster into the ambulance. The Hivers are scurrying backwards out of sight, but you send a bolt of plasma after them. One of them is too slow and it is torched to a frazzle by the white-hot beam. You are getting ready to leap into the ambulance when its front explodes and a flyer accelerates out of it, the Hivers clinging on inside the honeycomb-like seats. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. Turn to 161.
-
-129
-Your shock wave of thought topples one of the lancers from the saddle and Bloodhound and Lynx have been similarly successful with two of the other lancers. The remaining one catchesLynx in the shoulder before she can topple him with the power of her thought, but she grabs the lance and swings herself up on it, kicking the lancer in the face. He tumbles, unconscious, from the saddle but Lynx falls beside him. She is badly wounded and has to return to her Autodoc. She urges you to go on, saying: 'I'll see you at the Eiger Vault Rec Centre,'and wishes you luck before limping away. You run to catch up with the ambulance. Turn to 251.
-
-130
-You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole in the time of Alexander the Great. Your scalp tingles slightly as the Time Machine moves out of phase, and everythingaround you seems grey and insubstantial. You knowthat should you turn on the outside camera the screen would remain blank - not even blackness exists in Null-space. You cast your thought into the void and using your Psychic Awareness locate the Timehole of Alexander the Great. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take around an hour for you. You may spend this time in the
-Autodoc, if you wish and gain up to 12 Endurance points.
-Order him to stay where he is? Wait for him to join you outside
-Falcon's Wing?
+Order him to stay where he is? Wait for him to join you outside Falcon's Wing?
+Turn to 177 Turn to 46
 
 126
 You win the battle of wills but the mental strain saps you. Lose 2 Endurance points. You can control Agent Bloodhound. You take him to Falcon's Wing and instruct him to examine CAIN's records. It soon becomes obvious to him that you are on a vitally important mission and that his mission to kill you must be abandoned. You release him from your control and Bloodhound says, 'I'm sorry, Falcon, someone has used me, someone who wants the timelines to be changed.'
@@ -813,8 +808,16 @@ Bloodhound pauses then says, 'Yes, of course, Falcon, how can he know of Kirik's
 
 127
 The drunken revelry continues and you manage to cross the banqueting hall and leave through the store room without trouble. The two guards outside are being cursed for falling asleep at their post by a Noyan, their general. You stride past, looking the other way, and are soon lost in the darkness. You wade silently into the ornamental pond and, using the rope ladder, climb back into your flyer. Turn to 254.
-Turn to 177 Turn to 46
 
+128
+you roll aside and come up ready to fire your blaster into the ambulance. The Hivers are scurrying backwards out of sight, but you send a bolt of plasma after them. One of them is too slow and it is torched to a frazzle by the white-hot beam. You are getting ready to leap into the ambulance when its front explodes and a flyer accelerates out of it, the Hivers clinging on inside the honeycomb-like seats. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. Turn to 161.
+
+129
+Your shock wave of thought topples one of the lancers from the saddle and Bloodhound and Lynx have been similarly successful with two of the other lancers. The remaining one catchesLynx in the shoulder before she can topple him with the power of her thought, but she grabs the lance and swings herself up on it, kicking the lancer in the face. He tumbles, unconscious, from the saddle but Lynx falls beside him. She is badly wounded and has to return to her Autodoc. She urges you to go on, saying: 'I'll see you at the Eiger Vault Rec Centre,'and wishes you luck before limping away. You run to catch up with the ambulance. Turn to 251.
+
+130
+You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole in the time of Alexander the Great. Your scalp tingles slightly as the Time Machine moves out of phase, and everythingaround you seems grey and insubstantial. You knowthat should you turn on the outside camera the screen would remain blank - not even blackness exists in Null-space. You cast your thought into the void and using your Psychic Awareness locate the Timehole of Alexander the Great. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take around an hour for you. You may spend this time in the
+Autodoc, if you wish and gain up to 12 Endurance points.
 You rematerialise and the Holo-projector makes Falcon's Wing look like a bleak hillock. Your exterior camera shows a small range of desolate hills giving way to a dry plain crossed by a small river. You press 'hold' and the camera stops swivelling as a small city of mud-baked houses surrounded by tall, white stone walls and towers appears on the screen. It is what lies before the city which catches your eye. An e n t i r e army, perhaps forty thousand strong, is encamped before the city walls. The tattered tents are braced against the breeze and hundreds of wagons stand in a second camp further from the city, where gaggles of wagoners, camp followers and walking wounded seem to mock the orderly precision of the ranks of men, resplendent in their armour, the sun glinting from the tips of their sixteen-foot-long spears. They stand as if on parade. You ask CAIN what happened here, historically, He chimes. This city is the local capital. The people marches out to give battle to Alexander the Great and his army of Macedonians and troops from other conquered lands, two days ago, but fled when they saw Alexander and his men Alexander is returning from India to Babylon, the capital of his new empire and has decided to take this city. His men do not want to risk their lives again and he will soon head the assault in an attempt to inspire them. Realising that he is going to risk his life, his men will throw themselves onto the siege ladders, but these will be broken in their eagerness. Two men only will be with Alexander when he jumps down into the city and he will be severely wounded before the Macedonians break down the gates and rescue him ...'
 'Thank you CAIN,' you interrupt. 'What action would change the Timeline here?'
 CAIN says, The assassination of Alexander would seem the most likely option, but I cannot compute the effect this would have on the past. Alexander will die in only a few years from now at the age of-thirty-three and his empire will be divided up and fought over by his successors.' CAIN programmes the Molecular Converter to create the dress of a phalangite, a Macedonian warrior, and you step from Falcon's Wing wearing sandals, bronze greaves, a long heavy skirt of boiled leather strips, a breastplate, and a small round shield strapped to your left forearm. Your Psionic Enhancer becomes a crested helmet covering your face, with a Y-shaped slit for you to see through. Unable to wield a sixteen-foot-long 'sarissa' you make do with a short sword. Your blaster and holo-detector are concealed under your red cloak. You search
