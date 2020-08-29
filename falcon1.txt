@@ -933,18 +933,30 @@ The mongols are clever hunters, used to the night and the smellsof the wild. Bef
 
 151
 Taken by surprise they both fall, cut down by a blast of white- hot energy. You manage to keep the other guards under control and order them to lead the way through the door. Inside is a bedchamber,and sitting on a large litter, swaddled in silks and furs, is Ogedai Khan, still weak from his illness. He looks up, his narrow eyes questioning your purpose. Golden statues, chests of treasure and tapestries line the walls. Silk awnings close off the balcony at the back of the room. Do you:
+
 Order the two guards under your control to kill Ogedai?
 Order them to guard the door and kill Ogedai yourself?
+Turn to 341 Turn to 309
 
 152
-Turn to 341 Turn to 309
 Your blast misses Bloodhound and loses itself somewhere in the recesses at the back of the bay. He returns your fire as the tang of ionized air fills your nostrils. You double up as the plasma bolt hits your side - lose 13 Endurance points. If you are still alive, you find yourself too stunned to do anything. Bloodhound walks over to your stricken body and levels his weapon for the final blast. 'Wait, Bloodhound! Kill me, and the population of all Earth and the colonies may perish. I am helpless, but look at CAIN's memory banks before you void me.' He hesitates, then drags you into Falcon's Wing and ties you up. Examining CAIN's records, it soon becomes obvious to him that you are on a vitally important mission and that his mission to kill you must be abandoned. He unties you, but your wounds are so bad you must subtract one from your Evasion Modifier.
 Bloodhound says, 'I'm sorry, Falcon, someone has used me, someone who wants the timelines to be changed.'
 'Who gave the order to kill me?' you ask.
 'Our Section Chief, Agidy Yelov,' he replies. 'He told me you hail killed Lord Kirik.'
 'But Kirik has only been dead a matterof minutes,' you tell him.
 Bloodhound pauses then says, 'Yes, of course, Falcon. How can he know of Kirik's death so soon? Either he was responsible or he is in league with the traitor that did it.' Your Section Chief is working with the Renegade Lord. Turn to 255.
-have a brief second in which to save yourself. Make an Evasion Roll.
+
+153
+Do you:
+
+Ask with which of the Lords of TIME Section Chief Yelov spent his vacation
+Use your Psychic Awareness to contact one of them mentally?
+Ask if any one of them has travelled in time since the death of Agent Q?
+Smile and make a short speech of thanks?
+Turn to 179 Turn to 121 Turn to 140 Turn to 167
+
+154
+Without warning he levels his laser rifle at you as if to fire. You have a brief second in which to save yourself. Make an Evasion Roll.
 If you score 7-12, turn to 222 If you score 2-6, turn to 202
 
 155
@@ -964,17 +976,9 @@ If you score 6-12, turn to 57 If you score 2-5, turn to 27
 
 159
 He leaps at you as you grab for your blaster and trigger it just in time. A lancing white bolt of superheated plasma eats into the cydroid's chest. Sparks fly and there is the unmistakeable tang of vaporised metals. A nearby Plasma Sensor begins to flash and
-Do you:
-Ask with which of the Lords of TIME Section Chief Yelov spent his vacation
-Use your Psychic Awareness to contact one of them mentally?
-Ask if any one of them has travelled in time since the death of Agent Q?
-Smile and make a short speech of thanks?
 
-154
-Turn to 179 Turn to 121 Turn to 140 Turn to 167
 
-153
-Without warning he levels his laser rifle at you as if to fire. You
+
 
  the siren of a Citpol jetcopter wails as the cydroid buckles, short- circuiting in a sea of sparks, before falling inert. You have been fighting a machine. You examine it, but the damage is too severe for you to gain a clue as to its origins, before two Enforcers alight from their 'copter, pointing their stun-lances at you. 'Let's see your ID.' You produce your ID chip and hand it to the one who spoke, still covered by the other. He clips it into his Remote Access T erminal (RA T) on his arm and a look of disappointment crosses his features, as he realises who you are. 'What's been going on here?' he says. You report exactly what happened and he returns your chip and turns to examine the cydroid. Turn to 137.
 
