@@ -281,13 +281,28 @@ If you score 7-12, turn to 135 If you score 2-6, turn to 184
 You concentrate on an infantry man who has just reloaded his musket and is passing nearby, and try to control him. Make a Power of Will Roll.
 If you score 5-12, turn to 35 If you score 2-4, turn to 411
 
-30
-You dismount and walk towards the new mental presence, looking carefully about you. Suddenly a drummer boy who had been wandering forlornly up the hillside turns to you and speaks. To your surprise it is a woman's voice - that of Lynx, a Special Agent of TIME, like Bloodhound and yourself. The disguise is perfect - her boyish features are smeared with mud from the battlefield. 'Falcon, Bloodhound, I have a Termination Order for you both from our leader, Agidy Yelov.' With that, she unleashes a Hornet, a miniature guided missile, like an arrow with wings, which jets towards you. Do you:
+27
+A lancing white bolt of superheated plasma misses your target and smashes a hole in the end wall of the corridor. One of the guards fires his laser rifle as the other runs towards you. He wings you in the side - lose 4 Endurance points. Then, two security droids arrive and your assailants run back down the corridor, darting out of sight. You give your Security Clearance Code and identify yourself. Satisfied, the security droids chase the two would-be assassins and you return to the safety of Falcon's Wing. Turn to 336.
+
+28
+The flyer hovers above the palace roof and you jump down from it onto the wood slats, then swing over the edge of the roof and drop to the torch-lit balcony below. As you do so you are noticed by some people in the palace courtyard. There is an uproar. You see that silk curtains are spread across the entrance to the room. Parting them you enter a bedchamber. Inside, sitting on a large litter, swaddled in silks and furs, is Ogedai Khan, still weak from his illness. He looks up, his narrow eyes questioning your purpose. Golden statues, treasure chests and tapestries line the walls. The door opens and two men burst in, brandishing swords, alerted by the noise of the crowd. One is a member of the Khan's Imperial Guard, dressed immaculately in black and gold lacquered armour, the other an older man, a general or 'Noyan', wearing a simple wrap-around leather cloak lined with fur. You have no time to draw your blaster as they close to attack. Do you:
+
 Try to Thinkstrike them both?
 Use your skill at unarmed combat?
+Turn to 54 Turn to 2
 
 29
-Turn to 54 Turn to 2
+You flip the safety on your blaster and the charge light registers. You take aim. Make an Attack Roll.
+If you scored 2-5, turn to 162 If you scored 6-12, turn to 108
+
+30
+You dismount and walk towards the new mental presence, looking carefully about you. Suddenly a drummer boy who had been wandering forlornly up the hillside turns to you and speaks. To your surprise it is a woman's voice - that of Lynx, a Special Agent of TIME, like Bloodhound and yourself. The disguise is perfect - her boyish features are smeared with mud from the battlefield. 'Falcon, Bloodhound, I have a Termination Order for you both from our leader, Agidy Yelov.' With that, she unleashes a Hornet, a miniature guided missile, like an arrow with wings, which jets towards you. Do you:
+
+Try to blast the small and fast moving Hornet out of the air?
+Run behind the ambulance which is drawing near?
+Turn to 47 Turn to 80
+
+31
 You both fire and twin streaks of white-hot lightning burn the Creche to a crisp before they reach the ground. You have defeated the Renegade Lord. Turn to 188.
 
 32
@@ -299,26 +314,7 @@ As you take aim you are hit by the fragments of an energy grenade, fired by the 
 If you score 6-12, turn to 57 If you score 2-5, turn to 27
 
 34
-While you are deciding what to do, next, blackness engulfs you.
-
-27
-A lancing w h i t e bolt of superheated
-and smashes a hole in the end wall of the corridor. One of the guards fires his laser rifle as the other runs towards you. He wings you in the side - lose 4 Endurance points. Then, two security droids arrive and your assailants run back down the corridor, darting out of sight. You give your Security Clearance Code and identify yourself. Satisfied, the security droids chase the two would-be assassins and you return to the safety of Falcon's Wing. Turn to 336.
-
-28
-The flyer hovers above the palace roof and you jump down from it onto the wood slats, then swing over the edge of the roof and drop to the torch-lit balcony below. As you do so you are noticed by some people in the palace courtyard. There is an uproar. You see that silk curtains are spread across the entrance to the room. Parting them you enter a bedchamber. Inside, sitting on a large litter, swaddled in silks and furs, is Ogedai Khan, still weak from his illness. He looks up, his narrow eyes questioning your purpose. Golden statues, treasure chests and tapestries line the walls. The door opens and two men burst in, brandishing swords, alerted by the noise of the crowd. One is a member of the Khan's Imperial Guard, dressed immaculately in black and gold lacquered armour, the other an older man, a general or 'Noyan', wearing a simple wrap-around leather cloak lined with fur. You have no time to draw your blaster as they close to attack. Do you:
-You flip the safety on your blaster and the charge light registers. You take aim. Make an Attack Roll.
-If you scored 2-5, turn to 162 If you scored 6-12, turn to 108
-plasma
-misses
-your target
-Try to blast the small and fast moving Hornet out of the air?
-Run behind the ambulance which is drawing near?
-
-31
-Turn to 47 Turn to 80
-
- Someone has changed the timelines and one of your ancestors has been killed before his time. It is as if you had never existed, You have failed.
+While you are deciding what to do, next, blackness engulfs you. Someone has changed the timelines and one of your ancestors has been killed before his time. It is as if you had never existed, You have failed.
 
 35
 You bring the soldier under your control and force him to discharge his musket through a crack in the ambulance's side
