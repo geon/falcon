@@ -366,24 +366,15 @@ If you score 1-3, turn to 72 If you score 4-6, turn to 91
 43
 Rippingthe ambulance doors open reveals a bizarre sight, six creatures like giant ants, mandibles clicking in agitation are backinginto a honeycomb structure, their dull, red, compound eyes menacing. One shrivels as the white-hot plasma from your blaster hits home; they were concentrating on controlling Napoleon once more. The honeycomb is on top of a flyer, similar In design to your own and you both throw yourselves back to the ground outside to avoid the Ion Drive exhaust as the flyer explodes from the front of the ambulance. You sense that the six Hiver beings who together are Lord Creche, the Renegade Lord, are flying back to their Time Machine, with one exception. The victim of your Thinkstrike had not reached his seat in the honeycomb. Toppling backwards as the flyer took off, it was vapourised by the Ion Drive. Quickly you search the ambulance and find a small capsule. It is an Interstellar Code, a message from Agidy Yelov to the Creche suggesting that if the mission is aborted, they should effect a rendezvous on planet Hel. As quickly as you can, after checking that the Emperor's Imperial Guard are not advancing, you decide to follow the Creche. Turn to 161.
 
-
 44
-You concentrate your mind, but find no thought patterns to
-latch onto! Your pursuer is evidently either a cydroid or a robot of advanced design. Do you:
-energy weapon sensors trigger the sirens. If you can stay alive a few moments longer security droids will arrive. Make a Chance
-Roll.
-If you score 1-4, turn to 208
-II you score 5 or 6, turn to 218
+You concentrate your mind, but find no thought patterns to latch onto! Your pursuer is evidently either a cydroid or a robot of advanced design. Do you:
 
-49
-The French have begun to launch an attack on the great earthen ramparts which the Russians are defending, and along the left- hand end of the Russian line. Great columns of blue-coated soldiers toil uphill towards their green-jacketed enemies. The
-guns roar and belch smoke and the crackle of musket fire begins. Bothsides have magnificently dressed cavalry. Some of these, called Cuirassiers, after the metal breastplate they wear, are big men mounted on what are almost cart-horses. Your own
-horses, bays, are much nimbler and more fleet of foot, and resemble those nearest to you, a battalion of Polish lancers under Prince Poniatowski's command. Their lance pennants, blue and white, flutter in the wind. Bloodhound asks whether you think it would be better to split up in order to search the
-battlefield more quickly or to stay together in case of danger. Do you:
 Duck into a doorway and wait to confront him at close quarters?
 Slip through the Intelfax warehouse
 and lose your pursuer in the lowlife
 area, Old Geneva? Blast him?
+Turn to 3
+Turn to 10 Turn to 29
 
 45
 Falcon's Wing rematerialises in the Eiger Vault and you follow Bloodhound's hovrail car to TIME headquarters. You are approaching the TIME building when you are suddenly
@@ -401,10 +392,13 @@ The Hornet quickly picks up speed as it jets towards you. This a difficult test 
 If you score 8-12, turn to 65 If you score 2-7, turn to 88
 
 48
-You let loose a blast of mental energy, but to your1 consternation, feel the interference effect of a Psionic Damper circlet. These are a recent invention of the Hivers. You have no
-option but to go for your blaster. As you draw your blaster the
-Turn to 3
-Turn to 10 Turn to 29
+You let loose a blast of mental energy, but to your 1 consternation, feel the interference effect of a Psionic Damper circlet. These are a recent invention of the Hivers. You have no option but to go for your blaster. As you draw your blaster the energy weapon sensors trigger the sirens. If you can stay alive a few moments longer security droids will arrive. Make a Chance Roll.
+If you score 1-4, turn to 208
+II you score 5 or 6, turn to 218
+
+49
+The French have begun to launch an attack on the great earthen ramparts which the Russians are defending, and along the left- hand end of the Russian line. Great columns of blue-coated soldiers toil uphill towards their green-jacketed enemies. The guns roar and belch smoke and the crackle of musket fire begins. Bothsides have magnificently dressed cavalry. Some of these, called Cuirassiers, after the metal breastplate they wear, are big men mounted on what are almost cart-horses. Your own horses, bays, are much nimbler and more fleet of foot, and resemble those nearest to you, a battalion of Polish lancers under Prince Poniatowski's command. Their lance pennants, blue and white, flutter in the wind. Bloodhound asks whether you think it would be better to split up in order to search the battlefield more quickly or to stay together in case of danger. Do you:
+
 Decide to split up? Stay together?
 Turn to 408 Turn to 419
 
@@ -412,7 +406,6 @@ Turn to 408 Turn to 419
 You sense that your Thinkstrike has succeeded but still the mental power exists inside the ambulance, confirming that the Renegade Lord is the Creche, the six Hiver beings that form one mind. You have knocked out one of them, weakening their power but they Thinkstrike back at you and you are unable to
 withstand the force of the mental blast even though it must be weakened. You sink unconscious to the ground. When you awakeBloodhoundislyingnexttoyou.Youshakeyourheadsto clear the pain and look up to see that the Imperial Guard are marching to the attack. The Renegade Lord is changing history. You both begin to run up the hillside and the ambulance comes
 into view a hundred yards away from the Emperor. Turn to 344.
-
 
 51
 You realisethatcontrolling twootherswillbedifficult,butbend your thought to the task. Luckily they are drunk on Koumiss • fermented mare's milk. One of them removes a strip of raw meat from his sandal and begins to chew on it. The other laughs and says drunkenly: 'Now that you've pressed the blood out of it, can you not be bothered to dry it in the sun ?' Make a Power of Will Roll, as the smell of their unwashed bodies hits you.
