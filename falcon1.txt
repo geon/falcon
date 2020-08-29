@@ -124,6 +124,7 @@ Adyou turn to the door, Jobanque rises and says: 'Well be seeing you. Falcon.' Y
  AGENT PROFILE:
  
 THE MISSION
+1
 [score a Q]
 The door hums closed behind you as you step out of the high security wing which houses Section Chief Yelov's offices. Boarding the pedway you request the time. The Service Computer responds from a nearby speaker: 'It is three minutes, fifteen seconds to your appointment with the Lords of TIME at 10am, Falcon. If you would care to step into Lane 9, I can see that you arrive in time.' Realising that you have only a few moments to prepare, you transfer to Lane 9 and open a link to CAIN, punching in your Security Clearance Code on your Remote Access Terminal (RAT), a flexible keyboard and visual display incorporated into the left forearm of your uniform which you can use to communicate with CAIN via the building's Service Computer. The link opens. Do you:
 Ask to see Special Agent Q's Termination Report?
@@ -132,8 +133,10 @@ Ask CAIN why Section Chief Yelov gave you so little warning about your mission p
 Turn to 14
 Turn to 36
 Turn to 60
+2
 You leap across Ogedai's bed putting the older general between yourself and the Emperor's guard. Make an Attack Roll as they rush at you, swords drawn.
 If you score 8-12, turn to 113 If you score 2-6, turn to 356 If you score 7, roll again.
+3
 Your blow lands and the bear retreats into its cave, grunting with pain. You quickly board your flyer and decide to fly over the city. Turn to 63.
 
 4
@@ -141,8 +144,10 @@ Lord Speke's mind falls under your control. You hold him there as Alexander, exh
 5
 He leaps at you as you grab for your blaster and trigger it just in time. A white bolt of superheated plasma eats into his chest. To your surprise, sparks fly and there is the unmistakable tang of vaporised metals. A nearby Plasma Sensor begins to flash and the siren of a Citpol jetcopter wails as the 'cydroid' buckles, short-circuiting in a sea of sparks, before falling inert. You have been fighting a machine. You examine it, but the damage is too severe for you to gain a clue as to its origins, before two Enforcers alight from their 'copter, pointing their stun-lances at you. 'Let's see your ID'. You produce your ID chip and hand it to the one who spoke, still covered by the other. He clips it into the Remote Access Terminal (RAT) on his arm and a look of disappointment crosses his features as he realises who you are. 'What's been going on here?' he says. You report exactly what
 happened and he returns your chip and turns to examine the cydroid. Turn to 137.
+6
 Knowing that Lynx is trained in the use of powers of the mind, you make a special effort to try to overcome her mental defences. Make a Thinkstrike Roll:
 If you score 7-12, turn to 118 If you score 2-6, turn to 85
+7
 The ambulance trundles on towards Napoleon and you sense that the Renegade Lord is reaching out to control the Emperor's mind. You can no longer see Bloodhound and decide to attack when Napoleon begins to order the Imperial Guard to advance. As you do so, the Renegade Lord becomes aware of you and a wave of mental energy flows into you - your brain goes haywire. You seem to feel hot, cold, rain and fire all at once. It is as if you can see all colours at the same time and myriad voices speak every word in every language you have ever studied. Your brain overheats, literally burning itself out like a faulty electric motor. You are a zombie, incapable of thought, gurgling like a baby. You have failed.
 8
 Your mind is gripped like a vice and there is nothing you can do as your hand is forced inside your jacket. Sweating with effort, you try to stop yourself aiming your blaster at Bloodhound. Your arm quivers as you line him up in your sights. Bloodhound realises what is happening and reaches for his own blaster. He is too late. The lightning bolt of plasma hurls him into the wheel of the ambulance and his corpse slumps, a grotesque travesty of a human being. Your eyes are riveted on the muzzle of your death-dealing blaster as, inch by inch, you are forced to point it at yourself. Your hand is still shaking but your finger closes on the trigger and the left half of your face and head is wiped away. You have failed.
