@@ -548,16 +548,28 @@ Napoleon's will is too strong for you and you realise you cannot control him. In
 
 80
 You drop into the long grass beside the ambulance and the Hornet drops down towards you, shattering as it hits the side of the ambulance, which you placed between it and yourself. Unfortunately, it does not explode and damage the ambulance, perhaps because its microcomputer registers the fact that it has not found its target. Bloodhound moves in to attack Lynx hand- to-hand, as she closes in on you and at the same moment you sense that the Renegade Lord is reaching out to control the Emperor's mind, realising that using your mental powers will give your position away, will you:
+
 Run to help Bloodhound against Lynx, who is a master at unarmed combat?
 Use Power of Will on the Renegade Lord?
 Jump into the ambulance?
-
-81
-You flatten yourself in a doorway of the Intelfax warehouse, listening to the measured tread of your pursuer. He appears before the doorway and swivels his head in your direction, a
 Turn to 102 Turn to 131
 Turn to 362
 
-forgettable but immaculate face, not a hair out of place. Do you
+81
+You flatten yourself in a doorway of the Intelfax warehouse, listening to the measured tread of your pursuer. He appears before the doorway and swivels his head in your direction, a forgettable but immaculate face, not a hair out of place. Do you:
+
+Thinkstrike your pursuer? Punch to disable him?
+Turn to 217 Turn to 64
+
+82
+For three hours you circle the hill near Shevardino on which Napoleon's Command Post is set up, but there is no sign of the Renegade Lord. At one time, Napoleon is forced to receive the attentions of an Army surgeon and you overhear a rumour that he may have had a minor stroke. He recovers, however, and you continue your vigil. Bloodhound looks at you and motions you to concentrate - soon you can feel a presence approaching, a very strong mental presence. Your heads turn as one towards a strange contraption coming nearer Napoleon and his escort. Two horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical orderly is riding the first of the horses. It is one of the first ambulances ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. The strength of the mental presence within the ambulance leads you to believe that the Renegade Lord must be inside, and you prepare to attack together. Turn to 53.
+
+83
+The Creche tumble, stunned, onto the tree carpet and you move forward to make sure of your victory. Suddenly, Agidy Yelov, wearing a Psionic Damper Circlet on his head, that gives protection from mental attacks, appears from behind the Creche's Time Machine and a bolt of white lightning leaps from his blaster, burning the Hivers to a crisp. You hesitate in surprise as he turns to you, his blaster pointing at the ground. 'Well done Falcon, Bloodhound. Of course you know that I had set up a trap for the Renegade Lord, but I really must congratulate you for a truly outstanding performance against the Creche.' Bloodhound looks at you to see what you will do. Will you:
+
+Blast Yelov?
+Await Yelov's orders?
+Turn to 259 Turn to 120
 
 84
 for ten minutes you race through the confusion of the battlefield towards your Time Machines as the Imperial Guard approach the Russians. It is too late to call off the attack now. MarshalNey has flung his men at the Russians, confident of success now that he has reinforcements. Unfortunately, your ancestor, the young hussar, is killed leading the charge and all goes black. He will never have the son who would have carried on the bloodline which leads to you. It is as if you had never existed. You have failed.
@@ -571,29 +583,19 @@ Before you can pull your arm down from your head to your blaster. Bloodhound's f
 
 87
 [score a C]
-Pilota responds, her voice high-pitched in the thin air, 'I noticed yesterday that someone has spent much time researching the history of Earth around the Timehole of 1241 AD. A very great deal of time, according to the Central Library Log. I suggest you make it your first mission to investigate that Timehole, just in case someone is doing something they shouldn't be. I know that
-there isn't much to go on here; call it a hunch if you like, but I would appreciate it if you would move quickly and check that all is well.'
+Pilota responds, her voice high-pitched in the thin air, 'I noticed yesterday that someone has spent much time researching the history of Earth around the Timehole of 1241 AD. A very great deal of time, according to the Central Library Log. I suggest you make it your first mission to investigate that Timehole, just in case someone is doing something they shouldn't be. I know that there isn't much to go on here; call it a hunch if you like, but I would appreciate it if you would move quickly and check that all is well.'
 You decide to keep your real mission secret and return to Earth for further information. Saluting Pilota and taking your leave, you are back at the console of your Time Machine within thirty minutes. CAIN confirms that what Pilota says about the library is true and that Pilota herself is not the one who has researched this part of Earth history.
-If you have seen a man in golden armour called Iskander, turn to 114. If you have seen a Phocian pirate, turn to 34. If you have
-Thinkstrike your pursuer? Punch to disable him?
 
-82
-Turn to 217 Turn to 64
-For three hours you circle the hill near Shevardino on which Napoleon's Command Post is set up, but there is no sign of the Renegade Lord. At one time, Napoleon is forced to receive the attentions of an Army surgeon and you overhear a rumour that he may have had a minor stroke. He recovers, however, and you continue your vigil. Bloodhound looks at you and motions you to concentrate - soon you can feel a presence approaching, a very strong mental presence. Your heads turn as one towards a strange contraption coming nearer Napoleon and his escort. Two horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical orderly is riding the first of the horses. It is one of the first ambulances
-ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. The strength of the mental presence within the ambulance leads you to believe that the Renegade Lord must be inside, and you prepare to attack together. Turn to 53.
+If you have seen a man in golden armour called Iskander, turn to 114. If you have seen a Phocian pirate, turn to 34.
 
-83
-The Creche tumble, stunned, onto the tree carpet and you move forward to make sure of your victory. Suddenly, Agidy Yelov, wearing a Psionic Damper Circlet on his head, that gives protection from mental attacks, appears from behind the Creche's Time Machine and a bolt of white lightning leaps from his blaster, burning the Hivers to a crisp. You hesitate in surprise as he turns to you, his blaster pointing at the ground. 'Well done Falcon, Bloodhound. Of course you know that I had set up a trap for the Renegade Lord, but I really must congratulate you for a truly outstanding performance against the Creche.' Bloodhound looks at you to see what you will do. Will you:
-Blast Yelov?
-Await Yelov's orders?
-Turn to 259 Turn to 120
+If you have seen neither of these, will you:
 
-seen neither of these, will you:
 Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados in
 3033 AD?
 Move back into the Timehole in 1241
 AD, the time of the mongols? Spend some time in your Autodoc
 before continuing?
+Turn to 22 Turn to 28 Turn to 414 Turn to 196
 
 88
 You miss the Hornet and it finds its target. To your surprise it is not filled with explosive but with a drug which sends you quickly to sleep. You wake again some minutes later to find Lynx and Bloodhound struggling on the ground, locked in combat.BloodhoundisbleedingbadlyandLynxismanoeuvring so that she can finish him off with the knife she is wielding. You
@@ -618,8 +620,6 @@ and the Mind Scanner lights up red and then green and you are drawn up into the 
 92
 You soon detect a hologram of trees at the forest's edge, further from the village. You approach it warily but are jarred backwards by an invisible force-field that glows orange as you touch it. Lose 2 Endurance points.
 You are amazed that such a field can be generated from so small an area as the inside of a Time Machine. This is beyond the technology of Earth. You cannot even approach closely enough to see through the hologram and confirm whose the Time Machine is. You have no choice but to follow the flyer to Karakorum. Turn to 76.
-Turn to 22 Turn to 28 Turn to 414 Turn to 196
-
 
 93
 You wend your way through the fog of battle but your horse catches its foot in a burrow and goes lame. You abandon it and continue on foot, but in the cannon smoke you lose your way. The sound of firing is all around you and you mistake some Russians for Frenchmen who are withdrawing for a new attack When the srnoke clears you realise you have wandered close to the Russians. Bugles sound behind you and a charge of French infantry is launched with Marshal Ney at their head. The Frenchmen, singing the Marseillaise, come on shoulder-to- shoulder, magnificent in their blue and white uniforms. You are swept up in the charge and carried forward, unable to do
