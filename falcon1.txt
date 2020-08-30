@@ -2089,47 +2089,47 @@ You press the button and, to your horror, the dial clicks forward, moving the st
 You rematerialise in the Eiger Vault and CAIN tells you that the machines of Speke, Silvermane and Pilota are also in the Vault. While you are deciding what to do next, blackness engulfs you suddenly. Someone has changed the Timelines and one of your ancestors has been killed before his time. It is as if you had never existed. You have failed.
 
 360
-You float down from the Access Hatch, lowered by invisible Tractor Beams. You can smell ozone in the air of the Spaceport. Rounding a bulkhead you come across a refuelling bay and your holo-detector indicates that the Keladi scoutship in front of you is in fact a Time Machine. Judging by its size it could only be that of Lord Kirik. As you walk through the hologram you are surprised to see water underfoot. Kirik's Machine is normally
+You float down from the Access Hatch, lowered by invisible Tractor Beams. You can smell ozone in the air of the Spaceport. Rounding a bulkhead you come across a refuelling bay and your holo-detector indicates that the Keladi scoutship in front of you is in fact a Time Machine. Judging by its size it could only be that of Lord Kirik. As you walk through the hologram you are surprised to see water underfoot. Kirik's Machine is normally water filled, a much larger model than your own. Clearly all is not well for, as you look up, you see that his Access Hatch is open and on automatic. His Mind Scan is not operating and you are drawn up into his machine. The grotesque body of Lord Kirik lies inert across his crash couch, the disc which is his Psionic Enhancer lies in a pool of water at his side. The usually bloated brain sacs are flaccid and his jointed legs curled unnaturally. Looking more closely you notice a neat circular wound in the middle of one of his brain sacs, still pouring purplish fluid. There is no sign of the weapon that was used to do this. He has been killed quite recently by someone who he had allowed into his Time Machine. There is no helping Lord Kirik. Do you:
 
-water filled, a much larger model than your own. Clearly all is not well for, as you look up, you see that his Access Hatch is open and on automatic. His Mind Scan is not operating and you are drawn up into his machine. The grotesque body of Lord Kirik lies inert across his crash couch, the disc which is his Psionic Enhancer lies in a pool of water at his side. The usually bloated brain sacs are flaccid and his jointed legs curled unnaturally. Looking more closely you notice a neat circular wound in the middle of one of his brain sacs, still pouring purplish fluid. There is no sign of the weapon that was used to do this. He has been killed quite recently by someone who he had allowed into his Time Machine. There is no helping Lord Kirik. Do you:
-accidentally throwing your weightless body into the wall of the bridge. The Phocian, who had turned to stare, is now controlled once more and he will soon be in a position to destroy the envoy's vessel again. You cannot use your mental powers while wearing the Psionic Damper, so you decide to blast him. Turn to 333.
-
-364
-Your horse shies suddenly and a cannonball whizzes past your ear. Looking back you see a French artillery man looking down in amazement at where his right leg used to be. It now lies behind him and the cannonball which removed it bounces onward, its momentum barely checked. There is nothing you can do for the man and feeling slightly sickened, you ride on as he starts to moan. The cannon roar on both sides but you are confident that the Renegade Lord is not nearby. Do you:
 Leave the scene of the crime before you can be discovered there?
 Send Kirik's machine into null-space?
+Turn to 262 Turn to 382
 
 361
-Turn to 262 Turn to 382
 As you approach the magnificent Polish lancers in their white lance caps or czapstas, blue jackets and red-striped trousers, you catch sight of the wavy dark hair and trim moustache of dashing Prince Poniatowski, who is urging his men to the attack. Then your Psychic Awareness warns you that a person with mental powers is somewhere nearby. Do you:
-Veer right to explore the wing of the battle where Prince Poniatowski is attempting to outflank the Russians?
-Drop back to where the French heavy cavalry wait for Murat, King of Naples, to unleash them against the enemy?
 
-365
-Turn to 361
-Turn to 372
 Investigate alone?
 Go back to find Bloodhound so you can
 tackle the danger together?
+Turn to 73 Turn to 404
 
 362
-Turn to 73 Turn to 404
-The horse dies and its rider is pitched headlong onto the turf. Bloodhound and Lynx Thinkstrike two more. The remaining lancer catches Lynx in the shoulder but she grabs the lance and swings herself up on it, kicking the lancer in the face. He tumbles, unconscious, from the saddle, but she falls beside him. She is badly wounded and has to return to her Autodoc. She urges you to go on saying, 'I'll see you at the Eiger Vault Rec Centre,' and wishes you luck before she limps away. You run to catch up the ambulance. Turn to 251.
-
-366
-The floor of the machine is strewn with maps, charts and texts in the language of the period. There is a beautiful wooden display cabinet full of ancient Greek weapons including a fine collection of swords which appear to be originals, showing no sign of age, as if they had been cast quite recently, but a sword and shield and some armour appear to be missing from the
 You run for the ambulance but Lynx sidesteps Bloodhound and knocks you sideways. Bloodhound recovers and you both attack Lynx as she stands ready for you, knife poised. Make an Attack Roll.
+
 If you score 7-12, turn to 339 If you score 2-6, turn to 352
 
 363
-Sweating with the effort you place the damper circlet upon your head using your last trace of free-will. The mental attack on your mind is broken and you start moving backwards,
+Sweating with the effort you place the damper circlet upon your head using your last trace of free-will. The mental attack on your mind is broken and you start moving backwards, accidentally throwing your weightless body into the wall of the bridge. The Phocian, who had turned to stare, is now controlled once more and he will soon be in a position to destroy the envoy's vessel again. You cannot use your mental powers while wearing the Psionic Damper, so you decide to blast him. Turn to 333.
 
-numbered collection, You attempt to access his computer but it flashes up
+364
+Your horse shies suddenly and a cannonball whizzes past your ear. Looking back you see a French artillery man looking down in amazement at where his right leg used to be. It now lies behind him and the cannonball which removed it bounces onward, its momentum barely checked. There is nothing you can do for the man and feeling slightly sickened, you ride on as he starts to moan. The cannon roar on both sides but you are confident that the Renegade Lord is not nearby. Do you:
+
+Veer right to explore the wing of the battle where Prince Poniatowski is attempting to outflank the Russians?
+Drop back to where the French heavy cavalry wait for Murat, King of Naples, to unleash them against the enemy?
+Turn to 361
+Turn to 372
+
+365
+The horse dies and its rider is pitched headlong onto the turf. Bloodhound and Lynx Thinkstrike two more. The remaining lancer catches Lynx in the shoulder but she grabs the lance and swings herself up on it, kicking the lancer in the face. He tumbles, unconscious, from the saddle, but she falls beside him. She is badly wounded and has to return to her Autodoc. She urges you to go on saying, 'I'll see you at the Eiger Vault Rec Centre,' and wishes you luck before she limps away. You run to catch up the ambulance. Turn to 251.
+
+366
+The floor of the machine is strewn with maps, charts and texts in the language of the period. There is a beautiful wooden display cabinet full of ancient Greek weapons including a fine collection of swords which appear to be originals, showing no sign of age, as if they had been cast quite recently, but a sword and shield and some armour appear to be missing from the numbered collection, You attempt to access his computer but it flashes up
 OMEGA CLEARANCE CODE REQUIRED. INCORRECT INPUT LOGGED
-Y ou divide to leave and follow Lord Speke to find out what he is doing here. Turn to 409.
+You divide to leave and follow Lord Speke to find out what he is doing here. Turn to 409.
 
 367
 You twist and side-kick your attacker in the throat, and he collapses, unconscious, his head striking the floor with a thump. The second guard runs at you from the door and Ogedai, recovering, shouts for help. In desperation you draw your blaster and fire at the guard before he runs you through with his sword. Make an Attack Roll.
+
 If you score 5-12, turn to 390 If you score 2-4, turn to 378
 
 368
