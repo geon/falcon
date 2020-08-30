@@ -2412,62 +2412,64 @@ If you score 6-12, turn to 11 If you score 2-4, turn to 150 If you score a 5, ro
 
 402
 [score a K]
-You press the button and the red star clicks forward onto the
-DISARMED line. You breathe a sigh of relief. Turn to 252.
+You press the button and the red star clicks forward onto the DISARMED line. You breathe a sigh of relief. Turn to 252.
 
 403
 A nearby outcrop of rock proves to be a hologram. Lord Speke or another traveller in time is here! A hundred metres away a figure, dressed similarly to yourself, is walking towards the Greek encampment. Do you:
+
 Investigate the Time Machine? Follow the figure?
+Turn to 384 Turn to 393
 
 404
-Turn to 384 Turn to 393
-As you turn towards the hill near Shevardino on which Napoleon has set up his Command Post, a group of horsemen gallops towards you. Marshal Ney, with some of his staff, is intent on forming a plan with Murat to combine the infantry and cavalry in an attack against the Russians in the redoubt who are commanded by Prince Bagration. Marshal Ney, 'bravest of the brave', has a fresh-faced look about him, curly hair and curling side whiskers. As he approaches one of his aides calls his attention to a movement of the Russians. Prince Bagration has
+As you turn towards the hill near Shevardino on which Napoleon has set up his Command Post, a group of horsemen gallops towards you. Marshal Ney, with some of his staff, is intent on forming a plan with Murat to combine the infantry and cavalry in an attack against the Russians in the redoubt who are commanded by Prince Bagration. Marshal Ney, 'bravest of the brave', has a fresh-faced look about him, curly hair and curling side whiskers. As he approaches one of his aides calls his attention to a movement of the Russians. Prince Bagration has ordered an attack. Ney reins in and curses and then sends men galloping in all directions. The speed with which he takes decisions is breath-taking. Soon he finds himself without an aide-de-camp to entrust with his next message and, seeing you in your fine uniform, he beckons you over. Do you:
 
-ordered an attack. Ney reins in and curses and then sends men galloping in all directions. The speed with which he takes decisions is breath-taking. Soon he finds himself without an aide-de-camp to entrust with his next message and, seeing you in your fine uniform, he beckons you over. Do you:
-The point where French infantry, commanded by Marshal Davout are attacking the Russian guns?
-The area where the French cavalry, under Murat, the King of Naples, are massed awaiting the decisive
-moment to charge?
-Approach the nearest troops first - the Poles and French under the command of Prince Poniatowski?
-
-409
-Turn to 386
-Turn to 372
-Turn to 361
 Ride up to him and await his commands?
 Set spur to your horse and gallop off?
+Turn to 271 Turn to 347
+
 405
 [score an M]
-Turn to 271 Turn to 347
 Almost deafened by the cries of battle you draw your sword and manage to force your way up one of the ladders, strong and big enough to be one of the first. As you reach the top a defender is waiting and he tries to spear you. Make an Evasion Roll.
+
 If you score 7-12, turn to 160 If you score 2-6, turn to 187
 
 406
 Your punch connects and your pursuer takes a backward step. Your fist throbs painfully and with a shock you realise his face is dented, not bruised. He should have been laid out by the force of your blow but you have the misfortune to be fighting a cydroid. You have time to use your blaster. Do you:
-When you emerge on the edge of the plain there is no one nearby, just a massive throng of soldiers around the encamp- ment. You head towards it, realising you must be on your guard as you could be challenged at any time. Will you:
+
 Blast to destroy?
 Trigger a short blast at its eyes?
+Turn to 108 Turn to 269
 
 407
 Where will you search for Lord Speke?
-In the time of Alexander the Great? Earth 2700 AD at the time of the great
-interstellar colonial expansion? The planet Dyskra, home of the
-Repnids, in 1985 AD?
-Turn to 108 Turn to 269
-Turn to 303 Turn to 249 Turn to 373
-You throw yourself to the ground realising, too late, that they can easily pick you off from horseback using their eight-foot- long lances. You roll sideways but one of the Lancers anticipates this and pins you to the turf, his lance entering your body at the kidney. There is nothing you can do and your life slips away from you before Lynx can come to your aid. You have failed, but at least you have led Bloodhound and Lynx to the Renegade Lord.
 
-411
-You fail to dominate the French soldier's will and he glares around the battlefield and then shakes his head. The Renegade Lord has sensed your attack on him, and the full force of that powerful mind is turned against you. You are locked in a battle of wills. It is a battle which you are bound to lose as the Renegade Lord's mind is stronger than yours. All of your being is taken up with the struggle when, abruptly, the attack ceases. You shake your head dizzily, but it is only the lull before the storm. A wave of mental energy flows into you and your brain goes haywire. You seem to feel heat, cold, rain and fire all at
+In the time of Alexander the Great?
+Earth 2700 AD at the time of the great interstellar colonial expansion?
+The planet Dyskra, home of the Repnids, in 1985 AD?
+Turn to 303 Turn to 249 Turn to 373
 
 408
 Bloodhound decides to make for the hamlet of Shevardino where Napoleon is, leaving you to explore the front line of battle. Which part of the battle will you ride towards:
+
+The point where French infantry, commanded by Marshal Davout are attacking the Russian guns?
+The area where the French cavalry, under Murat, the King of Naples, are massed awaiting the decisive moment to charge?
+Approach the nearest troops first - the Poles and French under the command of Prince Poniatowski?
+Turn to 386
+Turn to 372
+Turn to 361
+
+409
+When you emerge on the edge of the plain there is no one nearby, just a massive throng of soldiers around the encamp- ment. You head towards it, realising you must be on your guard as you could be challenged at any time. Will you:
+
 Head towards the largest tent to find Alexander?
 Go around the camp using your Psychic Awareness to find Lord Speke?
-
-410
 Turn to 321 Turn to 308
 
-once. It is as if you can see all colours at once and myriad voices speak in every language you have ever studied. Your brain overheats, literally burning itself out like a faulty electric motor You are a zombie, incapable of thought, and gurgling like a baby. You have failed.
+410
+You throw yourself to the ground realising, too late, that they can easily pick you off from horseback using their eight-foot- long lances. You roll sideways but one of the Lancers anticipates this and pins you to the turf, his lance entering your body at the kidney. There is nothing you can do and your life slips away from you before Lynx can come to your aid. You have failed, but at least you have led Bloodhound and Lynx to the Renegade Lord.
+
+411
+You fail to dominate the French soldier's will and he glares around the battlefield and then shakes his head. The Renegade Lord has sensed your attack on him, and the full force of that powerful mind is turned against you. You are locked in a battle of wills. It is a battle which you are bound to lose as the Renegade Lord's mind is stronger than yours. All of your being is taken up with the struggle when, abruptly, the attack ceases. You shake your head dizzily, but it is only the lull before the storm. A wave of mental energy flows into you and your brain goes haywire. You seem to feel heat, cold, rain and fire all at once. It is as if you can see all colours at once and myriad voices speak in every language you have ever studied. Your brain overheats, literally burning itself out like a faulty electric motor You are a zombie, incapable of thought, and gurgling like a baby. You have failed.
 
 412
 As you crouch beneath the trees, you hear snuffling like that of a dog. Cautiously, you stand up ready to make a run for it but, suddenly mongols are closing in on you from all sides. You Thinkstrike two, who collapse unconscious, but the others overwhelm you. They are able hunters, used to the dark and able to track you by smell. You struggle helplessly, but they knock the helmet from your head and carry you to the pond's edge. Laughing cruelly, they force your head beneath the water lilies until your lungs are bursting. Your whole life flashes before you in the slow seconds of your death. You have failed and the Space Federation will never be.
