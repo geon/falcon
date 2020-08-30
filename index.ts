@@ -170,12 +170,12 @@ function checkLineBreaks(pages: readonly Page[]) {
 					page.pageNumber + " Lower case first letter on line: " + line,
 				);
 			}
-			const lastChar = line[line.length - 1] as string | undefined;
-			if (lastChar !== undefined && lastChar.match(/[a-z]/)) {
-				errors.push(
-					page.pageNumber + " Lower case last letter on line: " + line,
-				);
-			}
+			// const lastChar = line[line.length - 1] as string | undefined;
+			// if (lastChar !== undefined && lastChar.match(/[a-z]/)) {
+			// 	errors.push(
+			// 		page.pageNumber + " Lower case last letter on line: " + line,
+			// 	);
+			// }
 		}
 	}
 
