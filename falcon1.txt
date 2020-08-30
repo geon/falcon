@@ -2175,11 +2175,21 @@ Turn to 303
 Falcon's Wing rematerialises at the edge of a forest near hills. It is dark outside but you can see the lights of thousands of camp fires. Switching the camera to night vision you make out an enormous army of mongols, their horses tethered near them, outside a large town. There is a river running through the town. You ask CAIN for historical data. Before CAIN responds, blackness engulfs you suddenly. Someone has changed the Timelines and one of your ancestors has been killed before his time. It is as if you had never existed. You have failed.
 
 375
-You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on Dyskra, 1985 AD. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you
-
-seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic Awareness, locate the Timehole on Dyskra. When you have translated this location into co- ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
+You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on Dyskra, 1985 AD. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic Awareness, locate the Timehole on Dyskra. When you have translated this location into co- ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
 The outside camera scans the terrain. It appears as a featureless red expanse of desert apparently devoid of life, but with the occasional unusually-shaped outcropping of rock against which dunes of reddish sand are piled. CAIN chimes in with a brief report on the world of Dyskra. The dominant life forms are the Repnids, intelligent beings, a strange fusion of lizard-like skin, tongue and body with a wolf-spider's legs, compound eyes and poisonous fangs, weighing about half a ton each. They burrow through the soft red rock, inhabiting cities and tunnels underground, heated by the winds of Dyskra, a warm world with few seas. CAIN warns that the predatory Repnids are uncivilised in this era and that he believes there is a high density of life forms nearby. You estimate that it will take five minutes to check the nearby rock outcroppings with your holo-detector to see if any of them are Speke's disguised Time Machine. Do you:
-backing into a honeycomb structure, their dull-red, compound eyes menacing. The honeycomb is on top of a flyer similar in design to your own. They were expecting you and two are holding small blasters in their mouthparts. Before you can move they blast you backwards out of the ambulance, killing you instantly. You have failed.
+
+Leave the Machine to check the rocks?
+Go to the planet Kelados in 2710 AD, where Q found a Lord of Time tampering with the past?
+Travel to Earth in 2700 AD (if you have not done so already)?
+Travel to Earth in the time of Alexander the Great (if you have not done so already)?
+Travel to Earth in the Jurassic period, the age of the dinosaurs (if you have not done so already)?
+Turn to 293
+Turn to 418 Turn to 350
+Turn to 130
+Turn to 394
+
+376
+Ripping open the ambulance doors reveals a bizarre sight - six creatures like giant ants, mandibles clicking in agitation, are backing into a honeycomb structure, their dull-red, compound eyes menacing. The honeycomb is on top of a flyer similar in design to your own. They were expecting you and two are holding small blasters in their mouthparts. Before you can move they blast you backwards out of the ambulance, killing you instantly. You have failed.
 
 377
 You realise that controlling two others will be difficult, but bend your thoughts to the task. One is lamenting the fact that he won't become the head of a touman, or ten thousand, if Ogedai lives. Make a Power of Will Roll.
@@ -2187,39 +2197,22 @@ If you score 8-12, turn to 97 If you score 2-5, turn to 115 If you score 6 or 7 
 
 378
 Your hand was shaking with fatigue and you have missed your target, blowing a hole in the wooden wall. The mongol crashes into you and buries his sword in your stomach. Death is swift. You have failed and the Space Federation will never be.
+
 379
 [score an F]
 The monstrous crocodile has nothing that you would call a mind - you locate one instinct only, to kill and eat. It lunges swiftly, rolling out of the swamp to clamp its jaws around you. Make an Evasion Roll.
+
 If you score 7-12, turn to 313 If you score 2-6, turn to 345
 
 380
-You are forced backwards against the bulkhead behind you as your blaster discharges a bolt of superheated plasma. The Phocian appears to fuse into his free-fall couch, his body distorting horribly; the forward scanner screen is covered with a red film. You quickly leave the scene and return to your ship. You can only hope that his descendants were not to be shapers of history and that changes in the Timelines will be small. You have, however, saved Korakiik, the Keladi envoy and thwarted the Renegade Lord. You turn your ship back to the Starport. As
-Leave the Machine to check the rocks? Go to the planet Kelados in 2710 AD,
-where Q found a Lord of Time
-tampering with the past?
-Travel to Earth in 2700 AD (if you have
-not done so already)?
-Travel to Earth in the time of Alexander
-the Great (if you have not done so
-already)?
-Travel to Earth in the Jurassic period,
-the age of the dinosaurs (if you have
-Turn to 293
-Turn to 418 Turn to 350
-Turn to 130
-Turn to 394
-not done so already)?
-.
+You are forced backwards against the bulkhead behind you as your blaster discharges a bolt of superheated plasma. The Phocian appears to fuse into his free-fall couch, his body distorting horribly; the forward scanner screen is covered with a red film. You quickly leave the scene and return to your ship. You can only hope that his descendants were not to be shapers of history and that changes in the Timelines will be small. You have, however, saved Korakiik, the Keladi envoy and thwarted the Renegade Lord. You turn your ship back to the Starport. As you do so you notice, on the rear scanner, an asteroid mining ship appear from behind the Asteroid Belt and your Psychic Awareness registers the presence of a being with great power of the mind, probably the Renegade Lord. You catch a thought: GoUen Hordes and then, self destruct. To your surprise, the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? You land safely at the Starport a little while later. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. Do you have a nuclear bomb?
 
-376
-Ripping open the ambulance doors reveals a bizarre sight - six creatures like giant ants, mandibles clicking in agitation, are
-
-you do so you notice, on the rear scanner, an asteroid mining ship appear from behind the Asteroid Belt and your Psychic Awareness registers the presence of a being with great power of the mind, probably the Renegade Lord. You catch a thought: GoUen Hordes and then, self destruct. To your surprise, the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? You land safely at the Starport a little while later. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. Do you have a nuclear bomb? If you do, turn to 415. If you do not, turn to 306.
+If you do, turn to 415. If you do not, turn to 306.
 
 381
-You walk along the edge of the forest towards the village; curls of smoke wind up from the holes in the roofs of the cottages and huts. As you approach it, your holo-detector picks up a hologram - a Time Machine has been disguised as trees. Your Psychic Awareness catches a thought as if you have discovered somebody doing something they shouldn't. Abort reconnaissance you sense next. There is a click and a hiss as of a hatch opening and closing and a group of nearby trees wink out abruptly. A metre-long metal canister rolls down from the bank on which the Time Machine had stood. You run towards it and recognise it as a nuclear bomb. The digits on the timer are ticking past, like an old-fashioned 20th century fruit machine. The symbols an foreign but you guess that all of the red stars will be in line within about thirty seconds. The nuclear device appears to be of standard design and is capable of destroying Vienna and most life-forms within twenty miles of this spot. This would change history beyond recognition. As you watch, another of the red stars clicks into place on the DETONATE line. The dials click forward one space at a time and when the middle star has clicked forward three times the three stars will be lined up on the DETONATE line and the bomb will explode. Each of the three dials has three buttons above it with which you can manually move the dials 1, 2 or 3 positions onward but you don't know which button is which. You press the buttons above the two dials whose stars are on the DETONATE line, but they are locked. You will have to move the star on the middle dial to thi DISARM position without pressing a button that will make it
-stop on the DETONATE line. Which button do you press:
- The top button? The centre button? The bottom button?
+You walk along the edge of the forest towards the village; curls of smoke wind up from the holes in the roofs of the cottages and huts. As you approach it, your holo-detector picks up a hologram - a Time Machine has been disguised as trees. Your Psychic Awareness catches a thought as if you have discovered somebody doing something they shouldn't. Abort reconnaissance you sense next. There is a click and a hiss as of a hatch opening and closing and a group of nearby trees wink out abruptly. A metre-long metal canister rolls down from the bank on which the Time Machine had stood. You run towards it and recognise it as a nuclear bomb. The digits on the timer are ticking past, like an old-fashioned 20th century fruit machine. The symbols an foreign but you guess that all of the red stars will be in line within about thirty seconds. The nuclear device appears to be of standard design and is capable of destroying Vienna and most life-forms within twenty miles of this spot. This would change history beyond recognition. As you watch, another of the red stars clicks into place on the DETONATE line. The dials click forward one space at a time and when the middle star has clicked forward three times the three stars will be lined up on the DETONATE line and the bomb will explode. Each of the three dials has three buttons above it with which you can manually move the dials 1, 2 or 3 positions onward but you don't know which button is which. You press the buttons above the two dials whose stars are on the DETONATE line, but they are locked. You will have to move the star on the middle dial to thi DISARM position without pressing a button that will make it stop on the DETONATE line. Which button do you press:
+
+The top button? The centre button? The bottom button?
 Turn to 358 Turn to 342 Turn to 327
 
 382
