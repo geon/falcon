@@ -1316,10 +1316,10 @@ Using your power of Psychic Awareness you explore the mind of Lord Speke. He is 
 
 Give a speech of thanks to bring the ceremony to a close?
 Continue to probe the mind of another Lord? If you wish to probe
-Silvermane
-The Creche
-Kirik
-Pilota
+Silvermane,
+The Creche,
+Kirik,
+or Pilota
 Turn to 167
 Turn to 280 Turn to 223 Turn to 209 Turn to 319
 
@@ -1343,8 +1343,7 @@ When you are ready you may either ask CAIN the current whereabouts of the Lords 
 244
 Your voice sounds flat and mechanical, unlike anything they have ever heard, as it comes via your Translator. Shocked, they exchange glances. You have the chance to take them by surprise. Do you:
 
-Use your blaster on both of them? Force your controlled guards to attack
-them?
+Use your blaster on both of them? Force your controlled guards to attack them?
 Turn to 287 Turn to 298
 
 245
@@ -1355,8 +1354,7 @@ If you score 8-12, turn to 148 If you score 2-6, turn to 166 If you score 7, rol
 246
 You shoulder charge one of the astonished mongols and sprint away from the city, before the others can act. Your pursuers halt to examine in disbelief the hole you blasted. You hope your actions have not seriously changed the Timelines. Arriving back at the cave mouth you see a large bear poking at the flyer. If you blast it you will damage the flyer. Do you:
 
-Try to Thinkstrike the bear? Move in to attack the bear using
-unarmed combat?
+Try to Thinkstrike the bear? Move in to attack the bear using unarmed combat?
 Turn to 216 Turn to 112
 
 247
@@ -1376,7 +1374,7 @@ If you score 6-12, turn to 250 If you score 2-5, turn to 353
 250
 You jump aside just in time and the packer swings away once more. You are not disturbed again while checking the hangar, but find no trace of a Time Machine or Lord Speke. You return to Falcon's Wing, take off the boiler suit and feed it back into the Converter. Where will you search for Lord Speke next?
 
-In the time of Alexander the Great (if you have not done so already),?
+In the time of Alexander the Great (if you have not done so already)?
 The planet Kelados in 2710 AD, where Q found a Lord of Time tampering with the past (if you have not done so already)?
 The planet Dsykra, home of the Repnids, in 1985 AD (if you have not done so already)?
 Turn to 303
@@ -1385,19 +1383,17 @@ Turn to 373
 
 251
 A soldier is stumbling towards the ambulance asking for a surgeon and one of Napoleon's Chasseurs has turned to see what is happening. The wounded soldier begins to clamber up to the doors at the back of the carriage. The eyes of the Chasseur, watching you, seem to glaze over and he turns away, as if unconcerned. The ambulance turns down the hill towards a hollow in the hillside and you run towards it. As the wounded soldier reaches for the handle he falls back, screaming, and lies limp on the turf. Do you:
+
 Use your Power of Will on whoever is inside?
 Thinkstrike whoever is inside?
-
-Use your Power of Will to control the
-driver and try to cause the ambulance to tip over?
+Use your Power of Will to control the driver and try to cause the ambulance to tip over?
 Turn to 330 Turn to 229
 Turn to 176
 
 252
 You are wiping the sweat from your brow when, suddenly, with bloodcurdling cries, a mass of horsemen burst from the trees behind you. They are armed with shortbows, hooked lances and curved swords. Their weathered yellow faces with oriental eyes and black moustaches are creased with the joy of slaughter. Many have conical helmets, spiked with a plume of horsehair at their centre. They wear painted strips of oxhide, laced together for armour over leather jackets and breeches. There seem to be hundreds of them boiling from the cover of the trees, too many for you to use your mental powers. Will you:
 
-Run for the shelter of the village? Run the longer distance back to
-Falcon's Wing?
+Run for the shelter of the village? Run the longer distance back to Falcon's Wing?
 Use your blaster on them?
 Turn to 353 Turn to 368
 Turn to 343
@@ -1419,9 +1415,7 @@ You tell Bloodhound that the Phocian pirate guarding the nearest Corsair ship is
 
 If you wish to examine Yelov's file on CAIN's records, when you return to Falcon's Wing, turn to 15. You may look at Yelov's file whenever you are in your machine, but don't forget to remember the paragraph you are at before going to 15, as no further options are given there. When you are ready, do you:
 
-Return to Falcon's Wing and follow
-Bloodhound in order to confront
-Agidy Yelov? Turn to 45
+Return to Falcon's Wing and follow Bloodhound in order to confront Agidy Yelov? Turn to 45
 Investigate the second Corsair ship? Turn to 71
 
 256
@@ -1460,16 +1454,15 @@ Before returning to Falcon's Wing you look around the rest of the refuelling bay
 
 Attempt to use your Power of Will to control Bloodhound?
 Try to Thinkstrike him?
-Surrender and ask him to check CAIN's
-records before he kills you? Draw your blaster and fire?
+Surrender and ask him to check CAIN's records before he kills you? Draw your blaster and fire?
 Turn to 198 Turn to 211
 Turn to 236 Turn to 221
 
 263
 Youmanage to dock with the stricken hulk and, unstrapping yourself from the free-fall harness, propel your weightless body through the air-lock. Using your blaster, you break through the airlock of the other ship. The metal melts and cracks as the plasma hits it and you thrust yourself quickly up the stairwell into the bridge. As your head clears the stairwell rim, the Phocian is about to fire his ship's lasers at the Keladi envoy vessel. You have only moments before the envoy is destroyed. Do you:
+
 Thinkstrike the Phocian?
-Use your Power of Will to control the
-Phocian?
+Use your Power of Will to control the Phocian?
 Use your blaster?
 Turn to 312 Turn to 325
 Turn to 333
@@ -1505,8 +1498,7 @@ At this range you cannot miss and your blast overloads the cydroid's infra-red s
 Your attempt fails. They look at each other and both cry, 'An evil spirit!' You have a chance to react before they cry for help Do you:
 
 Thinkstrike the guards?
-Return to your flyer and use it to hover
-above the palace?
+Return to your flyer and use it to hover above the palace?
 Turn to 10 Turn to 63
 
 271
@@ -1526,8 +1518,7 @@ Turn to 284 Turn to 334
 Your phalanx hurls itself as one against the city gates, the men shouting in a frenzy, 'Iskander, Iskander!' The gates buckle under their ferocious assault and you are carried forward by the press of men into the city. The fighting is fierce and the screams of the dying are terrifying as the Greeks force their way towards the spot where Alexander jumped down from the wall. Turn to 66.
 
 274
-You find yourself unable to make your steed obey you and are left staring sheepishly down the muzzle of the hussar's pistol, as the hammer clicks shut and the round ball explodes into your forehead. You fall senseless to the ground, never to move again,
-you have failed.
+You find yourself unable to make your steed obey you and are left staring sheepishly down the muzzle of the hussar's pistol, as the hammer clicks shut and the round ball explodes into your forehead. You fall senseless to the ground, never to move again. You have failed.
 
 275
 You control the leader's mind and he calls his men back just before they strike you with swords and lances. They look at him in surprise as he orders them to return to loot the village, but they are well disciplined and obey. He rides with them and you, still carrying the nuclear bomb, manage to regain the safety of Falcon'sWing. Turn to 229.
@@ -1546,8 +1537,7 @@ At the top of the stairs is a landing leading to a door with gold panels. A blac
 
 Speak, saying 'I am a demon from the ice-wastes'?
 Use your blaster on them?
-Force your controlled guards to attack
-them?
+Force your controlled guards to attack them?
 Turn to 244 Turn to 165
 Turn to 228
 
@@ -1565,8 +1555,7 @@ Turn to 174
 Using your power of Psychic Awareness, you reach out telepathically to the mind of Silvermane. His current train of thought is one of curiosity about you, but this changes to surprise as he realises that you are probing his mind. He thinks a message to you, the tone of which is condescending but tolerant: You are exceeding your authority - 1 don't mind but others would and you realise he is thinking of Kirik. I suggest you cease this probing of my mind immediately. You decide to break off mind contact. Do you:
 
 Go on to contact Kirik?
-Give a short speech of thanks to
-conclude the ceremony?
+Give a short speech of thanks to conclude the ceremony?
 Turn to 209 Turn to 167
 
 281
@@ -1602,16 +1591,14 @@ If you score 6-12, turn to 151 If you score 2-5, turn to 165
 You place the circlet on your head, under your bearskin, and are ableto withstand the mental might of the Renegade Lord. In the meantime, Lynx has attacked Bloodhound and wounded him. Do you:
 
 Go to help Bloodhound?
-Rip open the doors and jump inside the
-ambulance?
+Rip open the doors and jump inside the ambulance?
 Turn to 417 Turn to 376
 
 289
 The hussar loses his aim and has to reset the charge in his pistol. This does not take long, however, and you have only galloped a few paces when you are almost jolted from the saddle when the pistol ball buries itself in your left arm. Lose 6 Endurance points. Ney orders three of his officers to arrest you and they charge after you. You urge your mount on through the smoke of the French cannon. One of the officers, a young hussar, whose grey and red pelisse streams out behind him in the wind, has a good mount and is gaining on you. You ride down into a small dip, jumping a brook out of sight of the rest of the army and he follows. Do you:
 
 Thinkstrike the hussar?
-Reign in and blast him when he is near
-enough so you cannot miss?
+Reign in and blast him when he is near enough so you cannot miss?
 Turn to 227 Turn to 195
 
 290
@@ -1835,13 +1822,12 @@ Wait and leave Alexander to his fate?
 Turn to 405 Turn to 200
 
 322
-Lynx's mental defences are too strong and she has
-the time since flinging herself behind the dead horse well. You notice the muzzle of the Master resting on the ground, under the horse's broken neck, just as a white bolt of plasma erupt* from it. You are hurled backwards through the air, dead before you hit the ground. Lynx has fulfilled her mission and you have failed.
+Lynx's mental defences are too strong and she has the time since flinging herself behind the dead horse well. You notice the muzzle of the Master resting on the ground, under the horse's broken neck, just as a white bolt of plasma erupt* from it. You are hurled backwards through the air, dead before you hit the ground. Lynx has fulfilled her mission and you have failed.
 
 323
 An arrow catches you in the small of the back and you stagger. Lose 6 Endurance points. They will be upon you at any moment. What will you do:
-The dials look like this:
- Use your blaster on them?
+
+Use your blaster on them?
 Thinkstrike the nearest mongol?
 Use your Power of Will on the one you
 think is their leader?
@@ -1860,6 +1846,7 @@ If you score 5-12, turn to 290 If you score 2-4, turn to 345
 
 327
 You press the button and the red star clicks forward one line.
+The dials look like this:
 Which button do you press next:
 The top button? The centre button? The bottom button?
 Turn to 402 to 358 Turn to 342
@@ -1911,10 +1898,8 @@ Turn to 391 Turn to 87
 336
 The scanner light above your head is now green and you are drawn up by invisible Tractor Beams into the relative safety of Falcon's Wing. Sitting in the crash couch you consider what to do next. You have no information as to the whereabouts of Creche 82282 but some about the other Lords. What will you do:
 
-Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados, 3033 AD? Ask CAIN where Silvermane is? Quickly contact Lord Pilota by
-holophone?
-Or if you are wounded and would
-rather spend two hours in your Autodoc now then carry on later
+Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados, 3033 AD? Ask CAIN where Silvermane is? Quickly contact Lord Pilota by holophone?
+Or if you are wounded and would rather spend two hours in your Autodoc now then carry on later.
 Turn to 357 Turn to 284 Turn to 320
 Turn to 331
 Turn to 196
@@ -1992,8 +1977,7 @@ Turn to 285 Turn to 195
 Ripping the ambulance doors open reveals a bizarre sight - six creatures like giant ants, mandibles clicking in agitation, are backing into a honeycomb structure, their dull, red, compound eyes menacing. One shrivels as the white-hot plasma from your blaster hits home. The honeycomb is on top of a flyer, similar in design to your own and you both throw yourselves to the ground outside to avoid the Ion Drive exhaust as the flyer explodes from the front of the ambulance. You sense that the six Hiver beings who together are Lord Creche, the Renegade Lord, are flying back to their Time Machine, with one exception. The victim of your Thinkstrike had not reached his seat in the honeycomb. Toppling backward as the flyer took off, it was vapourised by the Ion Drive. Quickly you search the ambulance and find a small capsule. It is in Interstellar Code - a message from Agidy Yelov to the Creche suggesting that if the mission is aborted, they should effect a rendezvous on planet Hel. As quickly as you can, after checking that the Emperor's Imperial Guard are not advancing, you decide to follow the Creche. Turn to 161.
 
 349
-You float down out of Falcon's Wing and walk quickly to the adjacent bays. You pass the bay used for the Creche machine first - it is empty. Then you see the powerful, squat form of Lord Silvermane striding towards his machine just as that of Lord Speke winks out of its bay, back into the past. Catching up with Lord Silvermane you ask him where he intends to go. He replies, brusquely, 'I'm on important official business, you need not concern yourself with it. Speke has just left, however, and you may well be able to guess where he has gone, if you examine his file. Goodbye Falcon,' and he hurries towards his Time
-Machine. Do you:
+You float down out of Falcon's Wing and walk quickly to the adjacent bays. You pass the bay used for the Creche machine first - it is empty. Then you see the powerful, squat form of Lord Silvermane striding towards his machine just as that of Lord Speke winks out of its bay, back into the past. Catching up with Lord Silvermane you ask him where he intends to go. He replies, brusquely, 'I'm on important official business, you need not concern yourself with it. Speke has just left, however, and you may well be able to guess where he has gone, if you examine his file. Goodbye Falcon,' and he hurries towards his Time Machine. Do you:
 
 Stop Lord Silvermane and insist he tells you where he is going?
 Return to your Time Machine and try to go after one of the other Lords?
@@ -2062,8 +2046,7 @@ Turn to 262 Turn to 382
 As you approach the magnificent Polish lancers in their white lance caps or czapstas, blue jackets and red-striped trousers, you catch sight of the wavy dark hair and trim moustache of dashing Prince Poniatowski, who is urging his men to the attack. Then your Psychic Awareness warns you that a person with mental powers is somewhere nearby. Do you:
 
 Investigate alone?
-Go back to find Bloodhound so you can
-tackle the danger together?
+Go back to find Bloodhound so you can tackle the danger together?
 Turn to 73 Turn to 404
 
 362
@@ -2123,13 +2106,9 @@ Turn to 123 Turn to 404
 You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on Dyskra, 1985 AD. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic Awareness, locate the Timehole on Dyskra. When you have translated this location into co- ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
 The outside camera scans the terrain. It appears as a featureless red expanse of desert apparently devoid of life, but with the occasional unusually-shaped outcropping of rock against which dunes of reddish sand are piled. CAIN chimes in with a brief report on the world of Dyskra. The dominant life forms are the Repnids, intelligent beings, a strange fusion of lizard-like skin, tongue and body with a wolf-spider's legs, compound eyes and poisonous fangs, weighing about half a ton each. They burrow through the soft red rock, inhabiting cities and tunnels' underground, heated by the winds of Dyskra, a warm world with few seas. CAIN warns that the predatory Repnids are uncivilised in this era and that he believes there is a high density of life forms nearby. You estimate that it will take five minutes to check the nearby rock outcroppings with your holo-detector to see if any of them are Speke's disguised Time Machine. Do you:
 
-Leave the Machine to check the rocks? Go to the planet Kelados in 2710 AD,
-where Q found a Lord of Time
-tampering with the past?
-Travel to Earth in 2700 AD (if you have
-not done so already)?
-Travel to Earth in the time of Alexander
-the Great (if you have not done so already)?
+Leave the Machine to check the rocks? Go to the planet Kelados in 2710 AD, where Q found a Lord of Time tampering with the past?
+Travel to Earth in 2700 AD (if you have not done so already)?
+Travel to Earth in the time of Alexander the Great (if you have not done so already)?
 Turn to 293
 Turn to 418 Turn to 249
 Turn to 303
@@ -2482,8 +2461,7 @@ Turn to 82 Turn to 206
 
 420
 As soon as you arrive back at the Eiger Vault you hand Yelov over to the head of Security and your mission is completed. You return to TIME Headquarters to be debriefed by your new Section Chief, Jobanque. If you did not send Lord Kirik's Machine into null-space, he sends a team to recover it before it can be discovered in 2710 by the Keladi. On your way to your quarters you are told that Agent Lynx has returned safely to the Eiger Vault. CAIN informs you that there are slight changes to the Timelines as a result of your actions in the past, but that these are too minor to concern TIME.
-Two days later you stand once more in the Hall of Honours with Bloodhound and Lynx. Lords Silvermane and Pilota sit at the horseshoe table. Lord Speke is not present, having admitted to Jobanque as a result of the interest in his activities your mission has aroused that he has been breaking the First Law of TIME and living as an ancient Greek for sport. Jobanque tells of your heroic valour and the skill with which you guarded history. He has gathered all of the evidence and tells the Lords what has been happening. 'The Hivers had intended to gain power over the Space Federation. They set out to change the past in Kelados but when this was prevented they went back to change the past in two places on Earth, in the hope that at least one would be successful. Straight after your graduation ceremony they examined the chance of using the mongol Golden Horde to set back civilisation on Earth, before travelling to Kelados in 2710 where they hoped to ensure the outbreak of war between Earth and Kelados. Thwarted by you they then travelled to Karakorum in 1241 AD and kept Ogedai Khan alive, using drugs and the Khan's shamans, whom they controlled, mentally. When you killed Ogedai Khan they tried to change history at the battle of Borodino in 1812 and were then pursued to planet Hel where they, or it, died. The Hiver membership of the Federation has been cancelled, of course. We have used the . Mind Probe on Agidy Yelov: he is the traitor working with the Creche who had promised him great power under their rule. As a Siriun, he would have had an excellent chance of surviving a change in Earth's history and the Hivers were to make him Emperor of Earth. He killed Lord Kirik himself, when Kirik began to come close to finding out what was happening. Indeed, Yelov would not have sent Falcon on this mission at all, if I had
-not received Agent Q's final transmission while Yelov was away, and insisted that he act without delay! Yelov tricked both Bloodhound and Lynx into believing you, Falcon, were the traitor for a while - his deviousness is such that he even tried to convince you that he was loyal to the Federation right at the last moment by turning on the Creche!'
+Two days later you stand once more in the Hall of Honours with Bloodhound and Lynx. Lords Silvermane and Pilota sit at the horseshoe table. Lord Speke is not present, having admitted to Jobanque as a result of the interest in his activities your mission has aroused that he has been breaking the First Law of TIME and living as an ancient Greek for sport. Jobanque tells of your heroic valour and the skill with which you guarded history. He has gathered all of the evidence and tells the Lords what has been happening. 'The Hivers had intended to gain power over the Space Federation. They set out to change the past in Kelados but when this was prevented they went back to change the past in two places on Earth, in the hope that at least one would be successful. Straight after your graduation ceremony they examined the chance of using the mongol Golden Horde to set back civilisation on Earth, before travelling to Kelados in 2710 where they hoped to ensure the outbreak of war between Earth and Kelados. Thwarted by you they then travelled to Karakorum in 1241 AD and kept Ogedai Khan alive, using drugs and the Khan's shamans, whom they controlled, mentally. When you killed Ogedai Khan they tried to change history at the battle of Borodino in 1812 and were then pursued to planet Hel where they, or it, died. The Hiver membership of the Federation has been cancelled, of course. We have used the . Mind Probe on Agidy Yelov: he is the traitor working with the Creche who had promised him great power under their rule. As a Siriun, he would have had an excellent chance of surviving a change in Earth's history and the Hivers were to make him Emperor of Earth. He killed Lord Kirik himself, when Kirik began to come close to finding out what was happening. Indeed, Yelov would not have sent Falcon on this mission at all, if I had not received Agent Q's final transmission while Yelov was away, and insisted that he act without delay! Yelov tricked both Bloodhound and Lynx into believing you, Falcon, were the traitor for a while - his deviousness is such that he even tried to convince you that he was loyal to the Federation right at the last moment by turning on the Creche!'
 Silvermane shakes his head and says, 'How is it that Yelov ever came to be head of the Special Agents?'
 Jobanque shrugs and says, 'He is a deadly combateer and a clever trickster. Only a very evil man could have escaped detection ...'
 'And only an agent of Falcon's talents could have defeated both him and the Renegade Lord,' says Pilota and she asks you to step up to her for the presentation of the Golden Wings, the highest honour the Space Federation can give.
