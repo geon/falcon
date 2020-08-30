@@ -2134,10 +2134,12 @@ If you score 5-12, turn to 390 If you score 2-4, turn to 378
 
 368
 You sprint as fast as you can towards the group of trees which are in fact Falcon's Wing. A group of horsemen, seeing you, wheel their mounts and charge after you. They fire their bows from horseback. You try to zig-zag as you run, to spoil their aim. Make an Evasion Roll.
+
 If you score 7-12, turn to 370 If you score 2-6, turn to 323
 
 369
 Knowing this will be difficult, you try to blast them both with mental energy, one after the other. Make a Thinkstrike Roll.
+
 If you score 7-12, turn to 205 If you score 2-5, turn to 68
 If you score 6, roll again.
 
@@ -2149,15 +2151,15 @@ Powerless to resist, you come under the sway of the alien mind. You find yoursel
 
 372
 As you ride along the battle line, the tide of battle seems to be ebbing and flowing. The first attack of the French columns, under Marshals Ney and Davout have been repulsed, but they are preparing to attack again. Behind Ney's position Murat's cavalry are drawn up. You soon catch sight of Murat, the King of Naples himself, the most extravagantly dressed man on the battlefield, great cockades of white feathers adorning his busby. He looks every inch a cavalry general, dashing and stylish with long hair and a sleek look, but he is a veteran of many campaigns. He and his staff are before a thousand French heavy cavalry, the Cuirassiers with their steel breastplates and crested helmets each with its scarlet plume. Before you come close to him your Psychic Awareness alerts you to a very powerful mental presence nearby. Do you:
+
 Continue and find out who it is coming from?
 Go to find Bloodhound?
+Turn to 123 Turn to 404
 
 373
 You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on Dyskra, 1985 AD. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic Awareness, locate the Timehole on Dyskra. When you have translated this location into co- ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
-The outside camera scans the terrain. It appears as a featureless
-Turn to 123 Turn to 404
+The outside camera scans the terrain. It appears as a featureless red expanse of desert apparently devoid of life, but with the occasional unusually-shaped outcropping of rock against which dunes of reddish sand are piled. CAIN chimes in with a brief report on the world of Dyskra. The dominant life forms are the Repnids, intelligent beings, a strange fusion of lizard-like skin, tongue and body with a wolf-spider's legs, compound eyes and poisonous fangs, weighing about half a ton each. They burrow through the soft red rock, inhabiting cities and tunnels' underground, heated by the winds of Dyskra, a warm world with few seas. CAIN warns that the predatory Repnids are uncivilised in this era and that he believes there is a high density of life forms nearby. You estimate that it will take five minutes to check the nearby rock outcroppings with your holo-detector to see if any of them are Speke's disguised Time Machine. Do you:
 
- red expanse of desert apparently devoid of life, but with the occasional unusually-shaped outcropping of rock against which dunes of reddish sand are piled. CAIN chimes in with a brief report on the world of Dyskra. The dominant life forms are the Repnids, intelligent beings, a strange fusion of lizard-like skin, tongue and body with a wolf-spider's legs, compound eyes and poisonous fangs, weighing about half a ton each. They burrow through the soft red rock, inhabiting cities and tunnels' underground, heated by the winds of Dyskra, a warm world with few seas. CAIN warns that the predatory Repnids are uncivilised in this era and that he believes there is a high density of life forms nearby. You estimate that it will take five minutes to check the nearby rock outcroppings with your holo-detector to see if any of them are Speke's disguised Time Machine. Do you:
 Leave the Machine to check the rocks? Go to the planet Kelados in 2710 AD,
 where Q found a Lord of Time
 tampering with the past?
@@ -2165,11 +2167,11 @@ Travel to Earth in 2700 AD (if you have
 not done so already)?
 Travel to Earth in the time of Alexander
 the Great (if you have not done so already)?
-
-374
 Turn to 293
 Turn to 418 Turn to 249
 Turn to 303
+
+374
 Falcon's Wing rematerialises at the edge of a forest near hills. It is dark outside but you can see the lights of thousands of camp fires. Switching the camera to night vision you make out an enormous army of mongols, their horses tethered near them, outside a large town. There is a river running through the town. You ask CAIN for historical data. Before CAIN responds, blackness engulfs you suddenly. Someone has changed the Timelines and one of your ancestors has been killed before his time. It is as if you had never existed. You have failed.
 
 375
