@@ -2291,32 +2291,34 @@ Turn to 220 Turn to 284
 Turn to 414 Turn to 196
 
 392
-Timehole on Earth in the Jurassic age. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic Awareness, locate the Timehole on Earth. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
-You activate the camera which shows that you have landed in a tropical rain forest, full of giant ferns and primitive fir trees, weighed down with cones. Falcon's Wing settles gently into soft ooze and the holo-projector casts the image of a clump of ferns around the Time Machine. A great swampy lake stretches into the distance ahead. You cannot see any visual evidence of Speke but if his machine is disguised like yours, you realise that the only way of finding it, if it is here, is to take the holo-detector outside. Do you:
 Somehow you have only managed to hit the Phocian in the shoulder. His shoulder disappears in a hiss of reddish vapour and his arm rotates gently away from his body surrounded by a cloud of small red globules. Such is the power, however, of the alien mind which controls him that he still fires his ship's lasers, piercing the hull of the envoy ship. There is a brilliant white explosion which fills the scanner screen and then you are suddenly engulfed in blackness. Then you find yourself in a smoke-filled shelter, a fugitive from an alien race on your own world. The past has been changed and your memories with it. You leap out of the shelter to hurl a grenade at a strange alien craft on the street above you... As Falcon, Agent of TIME, you have failed.
 
 393
 You follow the figure and as you come nearer you see that his gait is similar to Speke's, but you are not yet close enough to use your power of Psychic Awareness to test this out. Walking briskly, he enters the camp, stopping to talk to one of the soldiers. If it is Speke, he must be fluent in ancient Greek. You soon lose sight of him in the press. The entire camp is readying for battle. The horses are being picketed in corrals and siege ladders are being brought on carts. Some of the soldiers are polishing their armour. Do you:
-Leave the Machine to search for Speke? Go to the planet Kelados in 2710 AD
-where Q found a Lord of Time tampering with the past (if you have not done so already)?
+
+Head towards the largest tent to find Alexander?
+Go around the camp using your Psychic Awareness to find Speke?
+Turn to 321 Turn to 308
+
+394
+You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on Earth in the Jurassic age. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic Awareness, locate the Timehole on Earth. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
+You activate the camera which shows that you have landed in a tropical rain forest, full of giant ferns and primitive fir trees, weighed down with cones. Falcon's Wing settles gently into soft ooze and the holo-projector casts the image of a clump of ferns around the Time Machine. A great swampy lake stretches into the distance ahead. You cannot see any visual evidence of Speke but if his machine is disguised like yours, you realise that the only way of finding it, if it is here, is to take the holo-detector outside. Do you:
+
+Leave the Machine to search for Speke? Go to the planet Kelados in 2710 AD where Q found a Lord of Time tampering with the past (if you have not done so already)?
 Travel to Earth in 2700 AD (if you have not done so already)?
 Travel to Earth in the time of Alexander the Great (if you have not done so already)?
 Travel to the alien world of the Repnids, Dyskra, in 1985 AD (if you have not done so already)?
-395 File
-SUBJECT: Kirik
-POSITION: Lord of TIME
-SPECIES: Keladi SPAWNED:Kelados,2956
-LIVES: Kelados Complex, Biscay, Earth
 Turn to 235
 Turn to 418 Turn to 409
 Turn to 130
 Turn to 375
-Head towards the largest tent to find Alexander?
-Go around the camp using your Psychic Awareness to find Speke?
 
-394
-Turn to 321 Turn to 308
-You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the
+395
+File
+SUBJECT: Kirik
+POSITION: Lord of TIME
+SPECIES: Keladi SPAWNED:Kelados,2956
+LIVES: Kelados Complex, Biscay, Earth
 
 Personality
 Keladi with mental powers are extremely rare. Kirik is looked upon as a mutant because of his powers and is considered 'outside caste', or classless. The metropolitan libraries all carry the rows of books needed to explain the complicated social etiquette of the Keladi. The Keladr see members of all other species, including Earthers, as below or 'outside' caste. The effect that rejection by his own class has had on Kirik is unknown. It is thought that he greatly enjoys his position is a Lord of TIME and hence as a Keladi envoy, as this gives him some standing in his home world. As with all Keladi, he has a voracious appetite and a fiery temper and retains their obsession with etiquette and politeness.
@@ -2324,73 +2326,88 @@ Homeworld
 Kelados. Dominant race: Keladi. Population: 4.357 billion. Habitat: temperate seas. The surface of Kelados is 95% water and intelligent life abounds within the warm seas. Kelados is rich in a great variety of marine organisms.
 Diplomatic History
 In 2664 a diplomatic mission from Earth gave the Keladi all the information they needed to become a space-faring race. Since that time there have been no wars amongst the Keladi. In 2710, however, a series of frontier incidents sparked off by Earther pirate ships almost resulted in war, largely due to the fact that the Keladi could not understand that the actions of a few criminals, the pirates, did not involve the rest of their 'clan' - Earth. The envoy, Korakiik, averted war through his realisation that the pirates were 'outside caste', not true representatives of Earth. Lork Kirik, too, understands this difference.
-one of two men largely responsible for the invention of the Time Machine. Like many brilliant men, he is eccentric, will not suffer fools gladly and is prone to break off a conversation suddenly, lost in thought. He is a brave man and, with Irving Klimt, undertook the first ever voyage into the past, starting from 2974. They undertook several journeys together, but Klimt never returned from an investigation of classical Greece in the time of Philip of Macedon. Lord Speke has always maintained that he was killed in a drunken brawl, by a soldier, though Klimt had always been careful not to change the past by becoming involved. With the setting up of TIME Speke was the obvious choice for appointment as the Earther Lord and he has enjoyed his position ever since. He is also well known for pioneering work on the mental attack of Thinkstrike, with which he is adept. He is also Professor of Earth Archaeology at the Academy where his specialist subject is Alexander the Great.
+
+
+396
+File
+
+SUBJECT: Speke
+POSITION: Lord of TIME
+SPECIES: Earther
+BORN: Pacificon, Earth 2887 AD
+LIVES: Alpolis
+
+Personality
+A brilliant scientist, Speke, partly due to his mental powers, was one of two men largely responsible for the invention of the Time Machine. Like many brilliant men, he is eccentric, will not suffer fools gladly and is prone to break off a conversation suddenly, lost in thought. He is a brave man and, with Irving Klimt, undertook the first ever voyage into the past, starting from 2974. They undertook several journeys together, but Klimt never returned from an investigation of classical Greece in the time of Philip of Macedon. Lord Speke has always maintained that he was killed in a drunken brawl, by a soldier, though Klimt had always been careful not to change the past by becoming involved. With the setting up of TIME Speke was the obvious choice for appointment as the Earther Lord and he has enjoyed his position ever since. He is also well known for pioneering work on the mental attack of Thinkstrike, with which he is adept. He is also Professor of Earth Archaeology at the Academy where his specialist subject is Alexander the Great.
 Homeworld
 Earth. Population: 43.997 billion.
 Diplomatic History
 Earth, as head of the Federation, has not faced a serious threat since the Hive-war in 2934. At this time the Hivers were completely defeated in space, though few landings on their homeworld, the Hive, were successful. There has been peace on Earth for three centuries.
-SUBJECT:
-POSITION: Lord of TIME
-BORN: LIVES:
-Lastlanding, 2975 AD
-Spiro's Ringworld, Earth Orbit.
-Personality
-SPECIES: BORN: LIVES:
-S p e k e
-396 File
-SUBJECT: Pilota POSITION: Lord of TIME SPECIES: Earther
-E a r t h e r
-Pacificon, Earth 2887 AD
-A l p o l i s
-Personality
-A brilliant scientist, Speke, partly due to his mental powers, was
-Set apart by her mental powers, Pilota accepted her position as a Lord of TIME only when a gift of a solar-sail racer was offered if she agreed. She is highly intelligent, but seems not to take her responsible position as a Lord very seriously. She still seldom misses a race and is highly successful in the sport of solar-sailing
-397 File
 
-which takes the courage to make a close approach to the sun and the fine judgement not to go too close. Before joining TIME, Pilota had been on the official list of space smugglers and was found not guilty of tax evasion after an investigation by the Lastlanding authorities. She prefers low-gravity environments similar to those on Lastlanding.
+397
+File
+
+SUBJECT: Pilota
+POSITION: Lord of TIME
+SPECIES: Earther
+BORN: Lastlanding, 2975 AD
+LIVES: Spiro's Ringworld, Earth Orbit.
+
+Personality
+Set apart by her mental powers, Pilota accepted her position as a Lord of TIME only when a gift of a solar-sail racer was offered if she agreed. She is highly intelligent, but seems not to take her responsible position as a Lord very seriously. She still seldom misses a race and is highly successful in the sport of solar-sailing which takes the courage to make a close approach to the sun and the fine judgement not to go too close. Before joining TIME, Pilota had been on the official list of space smugglers and was found not guilty of tax evasion after an investigation by the Lastlanding authorities. She prefers low-gravity environments similar to those on Lastlanding.
 Homeworld
 Lastlanding. Found accidentally in 2571 when the colony ship, Utopia, crash landed on a hospitable, but low-gravity planet. It was the first outer colony. It now has a population of 0.808 billion and still attracts immigrants from Earth. It is a world of golden opportunities and great space, where it is still possible to buy unused land. Each citizen can vote on all issues via holophone in the comfort of their own home. The police force are not kept busy, but Lastlanding has become a bolt hole for those on the run, throughout the Federation.
 Diplomatic History
 Lastlanding was a founder member of the Space Federation and increases in importance. As it does so, however, its dependence on Earth dwindles. They now control their own policy towards other worlds.
-398 File
-SUBJECT:
+
+398
+File
+
+SUBJECT: Creche 82282
 POSITION: Lord of TIME
 SPECIES: Hiver
 HATCHED: The Hive, date unknown
-Psionic Enhancer. They are thought to have developed mental powers beyond that of any other race.
+LIVES: Hive Arkship, Sahara, Earth
+
+Personality
+Lord Creche 82282 is a group awareness, composed of six Hivers, These beings pool their minds in order to become a living computer. They have no personality as an Earther would describe it, but in common with all Hivers, would sacrifice themselves for the sake of the Hive, without hesitation. They are properly described as 'it', thinking and acting as one. Response to any question takes a few seconds as each inputs data before there is any reaction. The Hivers pioneered the Federation's studies of powers of the mind, inventing the Psionic Enhancer. They are thought to have developed mental powers beyond that of any other race.
+
 Homeworld
 The Hive. A dry, hot world, its surface dotted with cities resembling gigantic termite nests. Population (estimated): greater than 200 billion. Hiver factory workers are extremely hard working. The first to acquire weapons on their world, they eradicated all other intelligent species.
+
 Diplomatic History
 The Hivers were intent on conquering other worlds at the same time that Earth was building the Space Federation. They were heavily defeated in the Space War of 2934 and joined the Space Federation in the following year. They have cooperated since that date and have traded the life-prolonging drugs which give Earthers a lifespan of 250 years in return for metals.
-LIVES:
-Hive Arkship, Sahara, Earth
+
+399
+File
+
+SUBJECT: Silvermane
+POSITION: Lord of TIME
+SPECIES: Rigellian
+BORN: Rigel Prime, 2700 AD
+LIVES: Centridome, Asteroid Belt, Sol System
+
 Personality
 Aged, even for a Rigellian, Silvermane is the survivor of a long struggle for power on the world of Rigel Prime. Still fit and strong, he is a shrewd opponent and a pleasant comrade. He upholds the Rigellian code of honour and is proud both of himself and of his race, seeing his role as a Lord of TIME as being to further the causes of Rigel Prime. He has a liking for spartan discomfort which is often thought bizarre by Earthers.
+
 Homeworld
 Rigel Prime is a large, high-gravity world covered by farmland ranges. The population is 30.131 billion. Silvermane's tribe is in power but occasional differences are settled through ritual combat, no longer to the death, between chosen tribal champions. The Rigellians' culture is based upon the code of the warrior and physical strength is still prized.
-Creche 82282
-Lord Creche 82282 is a group awareness, composed of six Hivers, These beings pool their minds in order to become a living computer. They have no personality as an Earther would describe it, but in common with all Hivers, would sacrifice themselves for the sake of the Hive, without hesitation. They are properly described as 'it', thinking and acting as one. Response to any question takes a few seconds as each inputs data before there is any reaction. The Hivers pioneered the Federation's studies of powers of the mind, inventing the
-SUBJECT: Silvermane POSITION: Lord of TIME SPECIES: Rigellian
-BORN: LIVES:
-Rigel Prime, 2700 AD
-Centridome, Asteroid Belt, Sol System
-Personality
-399 File
 
 Diplomatic History
 The Rigellians developed space travel in the 1890s and first contacted Earther spaceships in 2152. There was a long history of minor frontier wars as both Rigel and Earth staked claim to various barren planets useful only for the easily mined asteroids which surrounded them. These were eventually settled after the Battle of The Flying Coffins, notable because less than 10% of the personnel involved survived it. Rigel joined the Federation soon afterwards. The Rigellians assisted the Earthers in the great Hive war and without their help the war might have been lost.
 
 400
 Once safely away from the Time Machine you cut in the Ion Drive and accelerate gradually to Mach 6 with a loud bang as you break the sound barrier. The journey takes just overhalf an hour and you hurtle towards the night sky ahead of you and catch it up. The night is cloudy and dark by the time you have located the city. It is lit by torches and appears to be a strange mixture of golden-roofed palaces, wooden dwellings and mag- nificent tents, called yurts. You land the flyer at the mouth of a cave near the city, don the disguise of a Mongol warrior (prepared in the Molecular Converter), and take the flyer's Homing Beacon with you. As you slip into the city there are sounds of revelry everywhere. You overhear the whispered conversation between the city gate guards. Through your Translator you make out that the celebrations are due to the miraculous recovery of Ogedai Khan, who had been given up for dead.
-Suddenly your Psychic Awareness alerts you. The black disc- like flyer, which you saw earlier, hisses overhead, invisible in the dark night. The Time Lord is returning to Vienna and the Time Machine. In the city, there is a sudden clashing of cymbals and a row of torches is brought out onto a balcony high up on the largest palace. A figure appears, flanked by guards, and you hear the cry, 'Ogedai, Ogedai Khan!', go up from the huge crowd gathered before the palace. If you do not kill Ogedai, Europe will be ravaged by the mongols and civilisation as you know it will never have been. As you draw nearer to the palace you see two guards outside its gate. At close quarters you see that they are short and well-built. Dark, slanted eyes stare out from flat, yellow faces, marked by high cheekbones and small noses with
-flaring nostrils. The greasy black plaits of one of them are crawling with lice. From their smell you guess they do not wash. Do you:
+Suddenly your Psychic Awareness alerts you. The black disc- like flyer, which you saw earlier, hisses overhead, invisible in the dark night. The Time Lord is returning to Vienna and the Time Machine. In the city, there is a sudden clashing of cymbals and a row of torches is brought out onto a balcony high up on the largest palace. A figure appears, flanked by guards, and you hear the cry, 'Ogedai, Ogedai Khan!', go up from the huge crowd gathered before the palace. If you do not kill Ogedai, Europe will be ravaged by the mongols and civilisation as you know it will never have been. As you draw nearer to the palace you see two guards outside its gate. At close quarters you see that they are short and well-built. Dark, slanted eyes stare out from flat, yellow faces, marked by high cheekbones and small noses with flaring nostrils. The greasy black plaits of one of them are crawling with lice. From their smell you guess they do not wash. Do you:
+
 Return to your flyer and set it to hover over the city?
 Walk up to the two guards and use Power of Will on them?
 Attempt to Thinkstrike both guards in quick succession?
+Turn to 63 Turn to 51 Turn to 40
 
 401
-Turn to 63 Turn to 51 Turn to 40
 You run back towards the flyer, hoping to avoid the groups of mongols scouring the gardens. Make an Evasion Roll.
+
 If you score 6-12, turn to 11 If you score 2-4, turn to 150 If you score a 5, roll again.
 
 402
