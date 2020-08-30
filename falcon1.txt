@@ -1410,50 +1410,52 @@ Your external camera pivots, showing a large Starport loading hangar which appea
 Make an Evasion Roll.
 If you score 6-12, turn to 250 If you score 2-5, turn to 353
 
-
- 250
+250
 You jump aside just in time and the packer swings away once more. You are not disturbed again while checking the hangar, but find no trace of a Time Machine or Lord Speke. You return to Falcon's Wing, take off the boiler suit and feed it back into the Converter. Where will you search for Lord Speke next?
+
 In the time of Alexander the Great (if you have not done so already),?
 The planet Kelados in 2710 AD, where Q found a Lord of Time tampering with the past (if you have not done so already)?
 The planet Dsykra, home of the Repnids, in 1985 AD (if you have not done so already)?
-
-251
 Turn to 303
 Turn to 418
 Turn to 373
+
+251
 A soldier is stumbling towards the ambulance asking for a surgeon and one of Napoleon's Chasseurs has turned to see what is happening. The wounded soldier begins to clamber up to the doors at the back of the carriage. The eyes of the Chasseur, watching you, seem to glaze over and he turns away, as if unconcerned. The ambulance turns down the hill towards a hollow in the hillside and you run towards it. As the wounded soldier reaches for the handle he falls back, screaming, and lies limp on the turf. Do you:
 Use your Power of Will on whoever is inside?
 Thinkstrike whoever is inside?
+
 Use your Power of Will to control the
 driver and try to cause the ambulance to tip over?
-
-252
 Turn to 330 Turn to 229
 Turn to 176
+
+252
 You are wiping the sweat from your brow when, suddenly, with bloodcurdling cries, a mass of horsemen burst from the trees behind you. They are armed with shortbows, hooked lances and curved swords. Their weathered yellow faces with oriental eyes and black moustaches are creased with the joy of slaughter. Many have conical helmets, spiked with a plume of horsehair at their centre. They wear painted strips of oxhide, laced together for armour over leather jackets and breeches. There seem to be hundreds of them boiling from the cover of the trees, too many for you to use your mental powers. Will you:
-Eiger Vault and reported you dead. When Bloodhound arrived, Yelov was deep in thought, studying a map of Borodino, a battle that took place on Earth in the year 1812 AD. As the doors slid open to allow Bloodhound in, Yelov had covered the map over, hut not before the agent had caught sight of it. He entrusted Bloodhound with a message capsule, instructing him to open it in the hovrail on his way back to the Eiger Vault and then asked him how it was, if he had killed you, that Falcon had been reported as being alive in Earth's past at the time of the Golden Horde. Bloodhound feigned innocence and threw the message capsule away, after checking it, and finding that it was a bomb designed to kill him. He travelled straight to the time of the Golden Horde in the hope of meeting you and suggests you both travel to Earth, 1812 AD, where there is a Timehole situated conveniently close to Borodino, making it easy for the Renegade Lord to change the past. Do you:
+
 Run for the shelter of the village? Run the longer distance back to
 Falcon's Wing?
 Use your blaster on them?
-
-253
 Turn to 353 Turn to 368
 Turn to 343
+
+253
 You bank and dive as twin laser pulses from the Phocian flash past your ship into the blackness of space. Then the Phocian increases speed. A third, larger ship appears on the Scanner beyond an Asteroid Belt, and the Corsair "changes course to intercept. You match course and increase speed as a second message reaches you, this time from the larger ship. This is the Clanship Keladan III; we are on a priority diplomatic mission. Do not attack. Repeat, do not attack. Change course. We are Keladi, do not attack.' You realise that this is the envoy ship carrying Korakiik, and that they will soon be within the attack range of the Phocian Corsair. You try desperately to target your lasers for another shot. Make an Attack Roll.
 If you score 8-12, turn to 224 If you score 2-7, turn to 178
 
 254
-You hurtle away from Karakorum and soon see a greyness on the horizon ahead of you. When the flyer slows down near Vienna you are in daylight once more, but the sun is low in the sky.TheflyerdescendsgentlyintoFalcon'sWingandthelaunch doors open automatically and the crash couch swivels and slides down into position before the instrument console. CAIN greets you with the information that the flyer you sensed leaving Karakorum as you arrived there returned to the Time Machine that you located near to your own. This machine then winked out, but another has recently arrived. Next CAIN flashes up .1 camera shot of the ground outside Falcon's Wing and you see Special Agent Bloodhound, focussing his holo-detector. You descend to the frost-rimed ground, greeting him. Bloodhound's news is that Yelov summoned him after he had returned to the
+You hurtle away from Karakorum and soon see a greyness on the horizon ahead of you. When the flyer slows down near Vienna you are in daylight once more, but the sun is low in the sky.TheflyerdescendsgentlyintoFalcon'sWingandthelaunch doors open automatically and the crash couch swivels and slides down into position before the instrument console. CAIN greets you with the information that the flyer you sensed leaving Karakorum as you arrived there returned to the Time Machine that you located near to your own. This machine then winked out, but another has recently arrived. Next CAIN flashes up .1 camera shot of the ground outside Falcon's Wing and you see Special Agent Bloodhound, focussing his holo-detector. You descend to the frost-rimed ground, greeting him. Bloodhound's news is that Yelov summoned him after he had returned to the Eiger Vault and reported you dead. When Bloodhound arrived, Yelov was deep in thought, studying a map of Borodino, a battle that took place on Earth in the year 1812 AD. As the doors slid open to allow Bloodhound in, Yelov had covered the map over, hut not before the agent had caught sight of it. He entrusted Bloodhound with a message capsule, instructing him to open it in the hovrail on his way back to the Eiger Vault and then asked him how it was, if he had killed you, that Falcon had been reported as being alive in Earth's past at the time of the Golden Horde. Bloodhound feigned innocence and threw the message capsule away, after checking it, and finding that it was a bomb designed to kill him. He travelled straight to the time of the Golden Horde in the hope of meeting you and suggests you both travel to Earth, 1812 AD, where there is a Timehole situated conveniently close to Borodino, making it easy for the Renegade Lord to change the past. Do you:
+
 Do as he suggests and go forward to Borodino?
 Counter his suggestion and persuade him to come back to Earth in 3033 AD with you to confront Yelov?
-
-255
 Turn to 416
 Turn to 261
-You tell Bloodhound that the Phocian pirate guarding the nearest Corsair ship is under mind control. Bloodhound sug- gests that you look into this while he returns to Earth in 3033 AD, and reports to Yelov that he has successfully killed you, so that you can operate without fear of further trouble from your comrades. When he has done that, he will explore the Timelines and help you with your mission. You thank him. 'Good luck and look after yourself, my friend,' he calls, and with that he returns to his machine, Hunter, which winks out suddenly. You look towards the sleek Phocian ships and see the pirate enter one and seal the hatch. As you watch, the Corsair's Fusion Drive fires up and the ship hurtles out of the Starport, breaking the noise and launch regulations as it does so. If you wish to examine Yelov's file on CAIN's records, when you return to Falcon's Wing, turn to 15. You may look at Yelov's file whenever you are in your machine, but don't forget to
-remember the paragraph you are at before going to 15, as no
 
- further options are given there. When you are ready, do you:
+255
+You tell Bloodhound that the Phocian pirate guarding the nearest Corsair ship is under mind control. Bloodhound sug- gests that you look into this while he returns to Earth in 3033 AD, and reports to Yelov that he has successfully killed you, so that you can operate without fear of further trouble from your comrades. When he has done that, he will explore the Timelines and help you with your mission. You thank him. 'Good luck and look after yourself, my friend,' he calls, and with that he returns to his machine, Hunter, which winks out suddenly. You look towards the sleek Phocian ships and see the pirate enter one and seal the hatch. As you watch, the Corsair's Fusion Drive fires up and the ship hurtles out of the Starport, breaking the noise and launch regulations as it does so.
+
+If you wish to examine Yelov's file on CAIN's records, when you return to Falcon's Wing, turn to 15. You may look at Yelov's file whenever you are in your machine, but don't forget to remember the paragraph you are at before going to 15, as no further options are given there. When you are ready, do you:
+
 Return to Falcon's Wing and follow
 Bloodhound in order to confront
 Agidy Yelov? Turn to 45
