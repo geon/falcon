@@ -190,11 +190,11 @@ To your certain knowledge, there has not been an officially recognised Autodoc m
 
 15
 File
-SUBJECT: Yelov, Agidy
-POSITION: Head of Special Agent Section, TIME
-SPECIES: Siriun
-BORN: Sirius Secundus, 2940 AD
-LIVES: TIME Headquarters, Alpolis, Earth
+SUBJECT:	Yelov, Agidy
+POSITION:	Head of Special Agent Section, TIME
+SPECIES:	Siriun
+BORN:	Sirius Secundus, 2940 AD
+LIVES:	TIME Headquarters, Alpolis, Earth
 
 Personality
 Efficient, calm, and a good leader. Yelov is sparing with words but what he says usually counts. He has had a glittering career in the Siriun Navy as a test pilot for Time Travel and now within the Temporal Investigative and Monitoring Executive. He is ambitious and dedicated to his work. His close friends all belong to the small community of Siriuns living on Earth. He is much respected, if not well liked and his standing within TIME is high. He is extremely deadly, proficient in most forms of combat and was personally responsible for the training of Special Agent Lynx in this area.
@@ -667,7 +667,7 @@ AH you approach the carriage the mind inside senses you and you are locked in a 
 101
 The readout changes:
 Agent Yelov was at the residence of TIMELORD«»««
-TIMELORD IDENTITY SECURITY CLASSIFICA TION OMEGA
+TIMELORD IDENTITY SECURITY CLASSIFICATION OMEGA
 NO FURTHER INFORMATION AVAILABLE
 END OF EXCHANGE
 Before you can ask for more information the Service Computer intones softly, 'You have arrived at the Hall of Honours, your graduation is about to commence.' Turn to 110.
@@ -1138,8 +1138,15 @@ If you score 5-12, turn to 296 If you score 2-4, turn to 175
 190
 Twin laser pulses from the Phocian ship strike your bows. The ship shudders and there is a thunderous report as the lights fail.
 The computer flashes up a damage report:
-LIFE SUPPORT: BRIDGE ONLY MAIN DRIVE: 10% EFFICIENCY ENERGY: LOW
-ATTACK LASERS: INTACT CABIN PRESSURE: NORMAL SCANNERS: FUNCTIONAL LASCOM SYSTEM: RECEPTION ONLY
+
+LIFE SUPPORT:	BRIDGE ONLY
+MAIN DRIVE:	10% EFFICIENCY
+ENERGY:	LOW
+ATTACK LASERS:	INTACT
+CABIN PRESSURE:	NORMAL
+SCANNERS:	FUNCTIONAL
+LASCOM SYSTEM:	RECEPTION ONLY
+
 The Scanner shows a second ship approaching from behind an asteroid belt and the Phocian changes course to intercept it. The large ship flashes a Lascom message: This is the Clanship Keladan III; we are on a priority diplomatic mission. Do not attack. Repeat, do not attack. Change course. We are Keladi, do not attack.' You realise that whoever is controlling the Phocian pilot, almost certainly the Renegade Lord, is trying to kill the Keladi envoy so that Kelados and Earth will be plunged into war. You have energy enough for one attack only and in a desperate attempt to save the envoy's life you try to target and fire your lasers. Make an Attack Roll.
 If you score 8-12, turn to 213 If you score 2-7, turn to 242
 
@@ -1410,13 +1417,12 @@ Turn to 319
 242
 The computer flashes up a revised Damage Report:
 
-LIFE SUPPORT
-MAIN DRIVE
-A TT ACK LASERS
-CABIN PRESSURE
-SCANNERS
-LASCOM SYSTEM -INOPERATIVE
--INOPERATIVE -INOPERATIVE -INOPERA TIVE -DROPPING -INOPERA TIVE
+LIFE SUPPORT	-INOPERATIVE
+MAIN DRIVE	-INOPERATIVE
+ATTACK LASERS	-INOPERATIVE
+CABIN PRESSURE	-DROPPING
+SCANNERS	-INOPERATIVE
+LASCOM SYSTEM	-INOPERATIVE
 
 The ship has taken too much damage and is breaking up. Your body explodes as the air is sucked out into space. You have failed.
 
@@ -1745,17 +1751,14 @@ You leave the Eiger Vault and board the hovrail, en route for the Galactic Trade
 295
 'Where are the Lords of TIME at this moment?' you ask CAIN. Your computer chooses a visual display for this information from the files of the Service Computer.
 
-NAME Pilota
-Silvermane Kirik
-Creche 82282 Speke
-LOCATION Freefall Recreation
-Centre
-Spiro's Ringworld
-Eiger Vault
-Timehole Trip
-Destination: Kelados 3033 AD EPSILON SECURITY CODE INSUFFICIENT
-EPSILON SECURITY CODE INSUFFICIENT
 TIME NOW 12.41
+
+NAME	LOCATION
+Pilota	Freefall Recreation Centre Spiro's Ringworld
+Silvermane	Eiger Vault
+Kirik	Timehole Trip Destination: Kelados 3033 AD
+Creche 82282	EPSILON SECURITY CODE INSUFFICIENT
+Speke	EPSILON SECURITY CODE INSUFFICIENT
 
 CAIN says, 'It is unusual that access to this kind of information should be denied to your level of security clearance. I have taken the precaution of linking with the service computer and I can tell you that Lord Kirik entered the Eiger Vault and left in his Time Machine. Lord Silvermane has just arrived here - at 12.40 - as have two others with Omega security clearance - at 12.33 and 12.37. Only Lords have this code. The conclusion must be obvious, even to a human, Falcon.' You decide to act on CAIN's information after telling him to shut up, and hurry out to meet the recent arrivals. Turn to 349.
 
@@ -1834,34 +1837,21 @@ Turn to 388
 307
 As a matter of course, all time trips into and out of the Eiger Vault Timehole are logged by the Monitoring Section. You ask CAIN to provide you with the log of movements since the death of Agent Q, typing your Security Clearance Code at the terminal in front of you. The screen flashes up the follow information.
 
-CURRENT EARTH DATE 15/10/33 15/10/33
-15/10/33 15/10/33 15/10/33 16/10/33
-16/10/33 16/10/33 16/10/33
-TIME
-04.15 08.04
-09.22 09.45 12.13 01.10
-06.01 08.20 12.03
-NAME
-Q
-EPSILON SECURITY CODE
-INSUFFICIENT Q
-Kirik
-Kirik
-Pilota
-DESTINA TION
-Kelados 2710 AD
-Kelados 3033 AD
-Eiger Vault Kelados 2710 AD
-Eiger Vault
-Eiger Vault 3117 AD
-[ABORTED] EPSILON SECURITY CODE
-INSUFFICIENT
-EPSILON SECURITY CODE
-INSUFFICIENT
-Kirik
-TIME NOW: 12.40 DATE NOW: 16/10/33
+CURRENT EARTH DATE 	TIME	NAME	DESTINATION
+15/10/33	04.15	Q	Kelados 2710 AD
+15/10/33	08.04	EPSILON SECURITY CODE INSUFFICIENT
+15/10/33	09.22	Q	Kelados 3033 AD
+15/10/33	09.45	Kirik	Eiger Vault Kelados 2710 AD
+15/10/33	12.13	Kirik	Eiger Vault
+16/10/33	01.10	Pilota	Eiger Vault 3117 AD [ABORTED]
+16/10/33	06.01	EPSILON SECURITY CODE INSUFFICIENT
+16/10/33	08.20	EPSILON SECURITY CODE INSUFFICIENT
+16/10/33	12.03	Kirik	Kelados 3033 AD
 
-It is evident that the Eiger V ault Timehole has been busy but for some reason the information has largely been classified at Theta or Omega, the only Security Clearance Codes higher than yours, held by Section Chiefs and Lords. You decide to ask CAIN for the current whereabouts of the five Lords. Turn to 295.
+TIME NOW:	12.40
+DATE NOW:	16/10/33
+
+It is evident that the Eiger Vault Timehole has been busy but for some reason the information has largely been classified at Theta or Omega, the only Security Clearance Codes higher than yours, held by Section Chiefs and Lords. You decide to ask CAIN for the current whereabouts of the five Lords. Turn to 295.
 
 308
 As unobtrusively as you can you wander through the camp, casting around with your Psychic Awareness. You pick up a variety of the soldiers' thoughts; some are full of fear at the thought of assaulting the city, others are casting their minds back to their homes in Macedon, more are simply bored, a few look forward to pillage and plunder. Suddenly the mood changes. Alexander has had a priest take the omens and they are not good, but Alexander decides to attack in any case. Anxiety spreads and most are unwilling to attack. The king orders his men to prepare to storm the city and the army organises as if by magic. Siege ladders are brought forward on carts. There is still no sign of Speke and you are curtly ordered to join a phalanx of men near the city gates. Hoping not to be noticed you take your place in one of the columns. Sensing that his men, war weary and far from home, are reluctant to storm another city after the bad omens, Alexander exhorts them to attack. They hesitate and he grabs a ladder and thrusts it against the wall. He scales it quickly, followed by his shieldbearer and a member of his bodyguard, and is soon atop the wall. Seeing this, the Macedonians bring up the ladders and crying, 'Iskander, Iskander!' for that is how they say his name, they rush up the ladders, which break in their eagerness. Alexander, an obvious target, is pelted with missiles and jumps down inside the city, almost alone. Turn to 273.
@@ -2435,10 +2425,10 @@ Turn to 375
 
 395
 File
-SUBJECT: Kirik
-POSITION: Lord of TIME
-SPECIES: Keladi SPAWNED:Kelados,2956
-LIVES: Kelados Complex, Biscay, Earth
+SUBJECT:	Kirik
+POSITION:	Lord of TIME
+SPECIES:	Keladi SPAWNED:Kelados,2956
+LIVES:	Kelados Complex, Biscay, Earth
 
 Personality
 Keladi with mental powers are extremely rare. Kirik is looked upon as a mutant because of his powers and is considered 'outside caste', or classless. The metropolitan libraries all carry the rows of books needed to explain the complicated social etiquette of the Keladi. The Keladr see members of all other species, including Earthers, as below or 'outside' caste. The effect that rejection by his own class has had on Kirik is unknown. It is thought that he greatly enjoys his position is a Lord of TIME and hence as a Keladi envoy, as this gives him some standing in his home world. As with all Keladi, he has a voracious appetite and a fiery temper and retains their obsession with etiquette and politeness.
@@ -2451,11 +2441,11 @@ In 2664 a diplomatic mission from Earth gave the Keladi all the information they
 396
 File
 
-SUBJECT: Speke
-POSITION: Lord of TIME
-SPECIES: Earther
-BORN: Pacificon, Earth 2887 AD
-LIVES: Alpolis
+SUBJECT:	Speke
+POSITION:	Lord of TIME
+SPECIES:	Earther
+BORN:	Pacificon, Earth 2887 AD
+LIVES:	Alpolis
 
 Personality
 A brilliant scientist, Speke, partly due to his mental powers, was one of two men largely responsible for the invention of the Time Machine. Like many brilliant men, he is eccentric, will not suffer fools gladly and is prone to break off a conversation suddenly, lost in thought. He is a brave man and, with Irving Klimt, undertook the first ever voyage into the past, starting from 2974. They undertook several journeys together, but Klimt never returned from an investigation of classical Greece in the time of Philip of Macedon. Lord Speke has always maintained that he was killed in a drunken brawl, by a soldier, though Klimt had always been careful not to change the past by becoming involved. With the setting up of TIME Speke was the obvious choice for appointment as the Earther Lord and he has enjoyed his position ever since. He is also well known for pioneering work on the mental attack of Thinkstrike, with which he is adept. He is also Professor of Earth Archaeology at the Academy where his specialist subject is Alexander the Great.
@@ -2467,11 +2457,11 @@ Earth, as head of the Federation, has not faced a serious threat since the Hive-
 397
 File
 
-SUBJECT: Pilota
-POSITION: Lord of TIME
-SPECIES: Earther
-BORN: Lastlanding, 2975 AD
-LIVES: Spiro's Ringworld, Earth Orbit.
+SUBJECT:	Pilota
+POSITION:	Lord of TIME
+SPECIES:	Earther
+BORN:	Lastlanding, 2975 AD
+LIVES:	Spiro's Ringworld, Earth Orbit.
 
 Personality
 Set apart by her mental powers, Pilota accepted her position as a Lord of TIME only when a gift of a solar-sail racer was offered if she agreed. She is highly intelligent, but seems not to take her responsible position as a Lord very seriously. She still seldom misses a race and is highly successful in the sport of solar-sailing which takes the courage to make a close approach to the sun and the fine judgement not to go too close. Before joining TIME, Pilota had been on the official list of space smugglers and was found not guilty of tax evasion after an investigation by the Lastlanding authorities. She prefers low-gravity environments similar to those on Lastlanding.
@@ -2483,11 +2473,11 @@ Lastlanding was a founder member of the Space Federation and increases in import
 398
 File
 
-SUBJECT: Creche 82282
-POSITION: Lord of TIME
-SPECIES: Hiver
-HATCHED: The Hive, date unknown
-LIVES: Hive Arkship, Sahara, Earth
+SUBJECT:	Creche 82282
+POSITION:	Lord of TIME
+SPECIES:	Hiver
+HATCHED:	The Hive, date unknown
+LIVES:	Hive Arkship, Sahara, Earth
 
 Personality
 Lord Creche 82282 is a group awareness, composed of six Hivers, These beings pool their minds in order to become a living computer. They have no personality as an Earther would describe it, but in common with all Hivers, would sacrifice themselves for the sake of the Hive, without hesitation. They are properly described as 'it', thinking and acting as one. Response to any question takes a few seconds as each inputs data before there is any reaction. The Hivers pioneered the Federation's studies of powers of the mind, inventing the Psionic Enhancer. They are thought to have developed mental powers beyond that of any other race.
@@ -2501,11 +2491,11 @@ The Hivers were intent on conquering other worlds at the same time that Earth wa
 399
 File
 
-SUBJECT: Silvermane
-POSITION: Lord of TIME
-SPECIES: Rigellian
-BORN: Rigel Prime, 2700 AD
-LIVES: Centridome, Asteroid Belt, Sol System
+SUBJECT:	Silvermane
+POSITION:	Lord of TIME
+SPECIES:	Rigellian
+BORN:	Rigel Prime, 2700 AD
+LIVES:	Centridome, Asteroid Belt, Sol System
 
 Personality
 Aged, even for a Rigellian, Silvermane is the survivor of a long struggle for power on the world of Rigel Prime. Still fit and strong, he is a shrewd opponent and a pleasant comrade. He upholds the Rigellian code of honour and is proud both of himself and of his race, seeing his role as a Lord of TIME as being to further the causes of Rigel Prime. He has a liking for spartan discomfort which is often thought bizarre by Earthers.
