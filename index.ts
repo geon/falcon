@@ -66,12 +66,14 @@ function checkPageNumbers(pages: readonly Page[]) {
 function checkLineBreaks(pages: readonly Page[]) {
 	for (const page of pages) {
 		for (const line of page.lines) {
-			if (line[0].match(/[a-z]/)) {
+			const firstChar = line[0] as string | undefined;
+			if (firstChar !== undefined && firstChar.match(/[a-z]/)) {
 				throw new Error(
 					"Lower case first letter on line, on page " + page.pageNumber,
 				);
 			}
-			if (line[line.length-1].match(/[a-z]/)) {
+			const lastChar = line[line.length - 1] as string | undefined;
+			if (lastChar !== undefined && lastChar.match(/[a-z]/)) {
 				throw new Error(
 					"Lower case lst letter on line, on page " + page.pageNumber,
 				);
