@@ -1540,7 +1540,30 @@ At this range you cannot miss and your blast overloads the cydroid's infra-red s
 
 270
 Your attempt fails. They look at each other and both cry, 'An evil spirit!' You have a chance to react before they cry for help Do you:
-left staring sheepishly down the muzzle of the hussar's pistol, as the hammer clicks shut and the round ball explodes into your forehead. You fall senseless to the ground, never to move again,
+
+Thinkstrike the guards?
+Return to your flyer and use it to hover
+above the palace?
+Turn to 10 Turn to 63
+
+271
+As you ride up to him, Marshal Ney is scribbling hastily on a piece of paper, using the shoulder of one of his staff to rest on He shakes sand from a silver pot onto the despatch to dry the ink and, rolling it up, hands it to you. To the Emperor - I need reinforcements,' he says. As you take the despatch he asks you which general you are assigned to. Do you say:
+
+Davout, mon general? Ledru, les Cuirassiers?
+Turn to 109 Turn to 332
+
+272
+Before Speke enters his machine he turns to you and says, 'Falcon,ifIwereyouIwouldinvestigateKirikandSilvermanc It could be the Creche, but I think the Hivers have learnt their lesson. The Creche have no individuality, they do only what the Hive tells them.' With that he enters his machine and you enter Falcon's Wing. Do you:
+
+Travel to find Kirik on Kelados in 3033AD?
+Return to the Eiger Vault?
+Turn to 284 Turn to 334
+
+273
+Your phalanx hurls itself as one against the city gates, the men shouting in a frenzy, 'Iskander, Iskander!' The gates buckle under their ferocious assault and you are carried forward by the press of men into the city. The fighting is fierce and the screams of the dying are terrifying as the Greeks force their way towards the spot where Alexander jumped down from the wall. Turn to 66.
+
+274
+You find yourself unable to make your steed obey you and are left staring sheepishly down the muzzle of the hussar's pistol, as the hammer clicks shut and the round ball explodes into your forehead. You fall senseless to the ground, never to move again,
 you have failed.
 
 275
@@ -1548,45 +1571,43 @@ You control the leader's mind and he calls his men back just before they strike 
 
 276
 I he stricken hulk is a sitting duck, your computer is able to target your lasers automatically and you open fire. Twin laser pulses cut through space from your ship to the Phocian's. You can see parts breaking away from the hull in the dazzling red light of your lasers. Suddenly, the scanner screen lights up fiercely; you have scored a direct hit on his Power Plant and the Phocian has been vapourised with his ship. You can only hope that his descendants were not to be shapers of history and that changes in the Timelines will be small. You have, however, saved Korakiik, the Keladi envoy, and thwarted the Renegade Lord.
-You turn your ship back to the Starport. As you do so you notice on the rear scanner an asteroid mining ship appear from behind the Asteroid Belt, and your Psychic Awareness registers the presence of a being with great powers of the mind, probably the Renegade Lord. You catch a thought: Golden Horde and then,self destruct. To your surprise the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? You manage to land the Corsair back at the Starport without too much trouble. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship, just before it blew up. Whoever it was used their Time Machine to wink out to safety. Do you have a Thermo-nuclear device? If you do, turn to 415. If you do not, turn to 306.
-Thinkstrike the guards?
-Return to your flyer and use it to hover
-above the palace?
+You turn your ship back to the Starport. As you do so you notice on the rear scanner an asteroid mining ship appear from behind the Asteroid Belt, and your Psychic Awareness registers the presence of a being with great powers of the mind, probably the Renegade Lord. You catch a thought: Golden Horde and then,self destruct. To your surprise the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? You manage to land the Corsair back at the Starport without too much trouble. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship, just before it blew up. Whoever it was used their Time Machine to wink out to safety.
 
-271
-As you ride up to him, Marshal Ney is scribbling hastily on a piece of paper, using the shoulder of one of his staff to rest on He shakes sand from a silver pot onto the despatch to dry the ink and, rolling it up, hands it to you. To the Emperor - I need reinforcements,' he says. As you take the despatch he asks you which general you are assigned to. Do you say:
-Davout, mon general? Ledru, les Cuirassiers?
-Turn to 109 Turn to 332
-Travel to find Kirik on Kelados in 3033AD?
-Return to the Eiger Vault?
+Do you have a Thermo-nuclear device? If you do, turn to 415. If you do not, turn to 306.
 
-273
-Turn to 284 Turn to 334
-
-272
-Before Speke enters his machine he turns to you and says, 'Falcon,ifIwereyouIwouldinvestigateKirikandSilvermanc It could be the Creche, but I think the Hivers have learnt their lesson. The Creche have no individuality, they do only what the Hive tells them.' With that he enters his machine and you enter Falcon's Wing. Do you:
-Your phalanx hurls itself as one against the city gates, the men shouting in a frenzy, 'Iskander, Iskander!' The gates buckle under their ferocious assault and you are carried forward by the press of men into the city. The fighting is fierce and the screams of the dying are terrifying as the Greeks force their way towards the spot where Alexander jumped down from the wall. Turn to 66.
-
-274
-You find yourself unable to make your steed obey you and are
-Turn to 10 Turn to 63
-
- 277
+277
 The assassin walks calmly towards you, his voice hissing through the air escape ducts in his armour, 'What a pity, Falcon you seem to have dropped your blaster.' You are in too much pain to concentrate your mental powers, and you realise as he places his laser-rifle in front of your face that he is going to finish the job. This is the first time I've completed a commission given to me by a Lord of TIME,' he hisses. As hegloats a security droid appears, hovering soundlessly behind him, and discharge, its stun-lance. The assassin is bathed in blue light and jerks back suddenly as the circuits in his Power Armour begin to short out Unable to control the armour, which is too heavy to be moved without the assistance of its power pack, he falls on the floor. body arched like a crab, as the armour begins to steam. Sparks fly, and the power pack explodes, ripping his body apart. You may never find out who sent him to kill you. The security droid checks your ID and you drag yourself to Falcon's Wing before it can summon a Medtech. Turn to 336.
 
 278
 At the top of the stairs is a landing leading to a door with gold panels. A blackened staff with a tuft of horsehair hanging down from its top has been driven into the floor before it. A member of the Imperial Guard, dressed immaculately in gold and black lacquered armour is talking to an older man he refers to as 'Noyan' or general, who wears the long wraparound cloak of leather lined with fur called a del, that the mongols wear when not at war or if they cannot afford armour. Your guards repeat their words, but the general insists that he must hear what you have to say to the Khan of Khans. You know your voice will sound like a robot voice if you speak through the Translator. What will you do?
+
 Speak, saying 'I am a demon from the ice-wastes'?
 Use your blaster on them?
 Force your controlled guards to attack
 them?
-
-279
-You rematerialise in the Eiger Vault. All is as you left it. CAIN informs you that the machines of Lords Silvermane and Pilota are in their bays. Lord Pilota is still on Spiro's Ringworld and
 Turn to 244 Turn to 165
 Turn to 228
 
-Lord Silvermane is in a meeting at the Galactic Trade Centre Will you:
+279
+You rematerialise in the Eiger Vault. All is as you left it. CAIN informs you that the machines of Lords Silvermane and Pilota are in their bays. Lord Pilota is still on Spiro's Ringworld and Lord Silvermane is in a meeting at the Galactic Trade Centre Will you:
+
+Travel to TIME headquarters to confront Agidy Yelov?
+Try to track down Lord Speke?
+Go back to the time of the mongols,
+Earth 1241 AD?
+Turn to 261 Turn to 407
+Turn to 174
+
+280
+Using your power of Psychic Awareness, you reach out telepathically to the mind of Silvermane. His current train of thought is one of curiosity about you, but this changes to surprise as he realises that you are probing his mind. He thinks a message to you, the tone of which is condescending but tolerant: You are exceeding your authority - 1 don't mind but others would and you realise he is thinking of Kirik. I suggest you cease this probing of my mind immediately. You decide to break off mind contact. Do you:
+
+Go on to contact Kirik?
+Give a short speech of thanks to
+conclude the ceremony?
+Turn to 209 Turn to 167
+
+281
+You emerge from the greyness of null-space into a huge spaceport on an artificial island, built so that the Keladi could trade with other spacefaring races without forcing them to adapt to an undersea environment. The huge, vaulted Starport stretches for miles on each side; you can count more than forty different types of spacefaring vessels. The holo-generator throws the image of a large aluglass container around Falcon's Wing and the camera shows that nobody has noticed its sudden appearance. You ask CAIN for historical details of Kelados in 2710 AD. It chimes, 'At this moment in time the Keladi are on the brink of war with the Earth Federation. Reason: border incidents misinterpreted by Keladi as being a way of testing their defence systems. The Keladi, at this time, do not realise that many humans break the Earth Federation's laws and suppose that if one human kills a Keladi, his "clan", or all Earthers, approve his action. Phocian pirates are being en- couraged to use Keladi Starports as bases from which to prey on Earth Federation shipping.'
 What could be done to change the Timeline here?' you interrupt.
 CAIN waits for some seconds before replying: 'I can see one methodof changing the Timeline which would be both easy to do and disastrous in effect. The Keladi envoy, Korakiik, a telepath, regarded as insane and "clanless" by the Keladi, but the only one who, through his psionic power, understands the EarthFederation and humans is shortly due to leave Kelados orbit to meet an Earth envoy. Historically, he was responsible for preventing a war which would probably destroy both civilisations.To prevent this meeting would change the timeline to a greater degree than I can compute.' You find yourself thanking CAIN as you pull on the uniform of a Phocian pirate which CAIN has already instructed the Molecular convertor to prepare. Your Psionic Enhancer helmet now resembles the helmet of a Phocian laser-turret operator, disguising your features. Taking your holo-detector, you set out in search of Lord Kirik. Turn to 360.
 
@@ -1597,82 +1618,70 @@ There is nothing you can do as the Renegade Lord's mind bends its full power aga
 Your attempt to control his will fails and you are cut down by sword and lance. They leave you to die in a pool of blood, disappointed that you didn't offer better sport. As Falcon, you have failed.
 
 284
-You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on present day Kelados (3033 AD). Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know
-Travel to TIME headquarters to confront Agidy Yelov?
-Try to track down Lord Speke?
-Go back to the time of the mongols,
-Earth 1241 AD?
+You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on present day Kelados (3033 AD). Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and,using your Psychic Awareness, locate the Timehole of present day Kelados. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
+The feeling of disorientation when you rematerialise persists longer than is usual. Flipping the switch for the outside camera you are dismayed to see nothing in the floodlight but green fog The machine rocks gently as if the stabilising legs were malfunctioning. With a start you remember that the surface of Kelados is one great ocean. Your altimeter tells you that the machine is floating to the surface, the hull can easily withstand the pressure of water at your depth of fifty metres. CAIN sends a TIME recognition signal to a nearby research station.
 
-280
-Using
-telepathically to the mind of Silvermane. His current train of thought is one of curiosity about you, but this changes to surprise as he realises that you are probing his mind. He thinks a message to you, the tone of which is condescending but tolerant: You are exceeding your authority - 1 don't mind but others would and you realise he is thinking of Kirik. I suggest you cease this probing of my mind immediately. You decide to break off mind contact. Do you:
-your power of
-Psychic
-A wareness,
-you reach out
-Go on to contact Kirik?
-Give a short speech of thanks to
-conclude the ceremony?
-Turn to 209 Turn to 167
-
-281
-You emerge from the greyness of null-space into a huge spaceport on an artificial island, built so that the Keladi could trade with other spacefaring races without forcing them to adapt to an undersea environment. The huge, vaulted Starport stretches for miles on each side; you can count more than forty different types of spacefaring vessels. The holo-generator throws the image of a large aluglass container around Falcon's Wing and the camera shows that nobody has noticed its sudden appearance. You ask CAIN for historical details of Kelados in 2710 AD. It chimes, 'At this moment in time the Keladi are on the brink of war with the Earth Federation. Reason: border incidents misinterpreted by Keladi as being a way of testing their defence systems. The Keladi, at this time, do not realise that many humans break the Earth Federation's laws and suppose that if one human kills a Keladi, his "clan", or all Earthers, approve his action. Phocian pirates are being en- couraged to use Keladi Starports as bases from which to prey on Earth Federation shipping.'
-Turn to 261 Turn to 407
-Turn to 174
-
-that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast yourthoughtsintothevoidand,usingyourPsychicAwareness, locate the Timehole of present day Kelados. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
-The feeling of disorientation when you rematerialise persists longer than is usual. Flipping the switch for the outside camera you are dismayed to see nothing in the floodlight but green fog The machine rocks gently as if the stabilising legs were malfunctioning. With a start you remember that the surface of Kelados is one great ocean. Your altimeter tells you that the machine is floating to the surface, the hull can easily withstand the pressure of water at your depth of fifty metres. CAIN sends a TIME recognition signal to a nearby research station. If you have seen a nuclear bomb, a man in golden armour named Iskander, or visited Spiro's Ringworld, turn to 300. If you have encountered none of these, turn to 264.
+If you have seen a nuclear bomb, a man in golden armour named Iskander, or visited Spiro's Ringworld, turn to 300. If you have encountered none of these, turn to 264.
 
 285
 Your Thinkstrike works. The hussar clutches his forehead and then tumbles gracefully from the saddle into the brook with a splash. As he lies there, spluttering, you seem to see an uncanny resemblance to the portraits of your early ancestors. An uneasy feeling comes over you as you spur your horse on, out of the hollow. Looking back you see the hussar emptying water out of his shako. Picking your way through the fog of battle you f i n a l l y come across Bloodhound again, who is pretending to fix the girth of his horse. Breathlessly, you tell him that you have detected the presence of a being with mental powers, probably the Renegade Lord. He suggests that you remain near Napoleon together and wait to see what happens. Turn to 82.
 
 286
 As she peeps out above the soiled saddle of the dead horse you concentrate your will in an effort to overcome strong-minded Agent Lynx, but she is still recovering from the near miss of your blaster's plasma and is taken somewhat by surprise. Make a Power of Will Roll.
+
 If you score 6-12, turn to 135 If you score 2-4, turn to 322 If you score a 5, roll again.
 
 287
-Frawing and firing your blaster is difficult while holding two men under the control of your mind. Lose2 Endurancepoints for the effort, but make an Attack Roll.
+Frawing and firing your blaster is difficult while holding two men under the control of your mind. Lose 2 Endurancepoints for the effort, but make an Attack Roll.
 If you score 6-12, turn to 151 If you score 2-5, turn to 165
 
 288
 You place the circlet on your head, under your bearskin, and are ableto withstand the mental might of the Renegade Lord. In the meantime, Lynx has attacked Bloodhound and wounded him. Do you:
+
 Go to help Bloodhound?
 Rip open the doors and jump inside the
 ambulance?
+Turn to 417 Turn to 376
 
 289
 The hussar loses his aim and has to reset the charge in his pistol. This does not take long, however, and you have only galloped a few paces when you are almost jolted from the saddle when the pistol ball buries itself in your left arm. Lose 6 Endurance points. Ney orders three of his officers to arrest you and they charge after you. You urge your mount on through the smoke of the French cannon. One of the officers, a young hussar, whose grey and red pelisse streams out behind him in the wind, has a good mount and is gaining on you. You ride down into a small dip, jumping a brook out of sight of the rest of the army and he follows. Do you:
+
 Thinkstrike the hussar?
 Reign in and blast him when he is near
 enough so you cannot miss?
+Turn to 227 Turn to 195
 
 290
-Turn to 227 Turn to 195
-The superheated plasma from your blaster catches the monstrous crocodile in its opened jaws. It screams in pain and, threshing madly, retreats into the swamp. You float up into
-Turn to 417 Turn to 376
+The superheated plasma from your blaster catches the monstrous crocodile in its opened jaws. It screams in pain and, threshing madly, retreats into the swamp. You float up into Falcon's Wing, intent on leaving this time as fast as you can. Will you:
 
-Falcon's Wing, intent on leaving this time as fast as you can. Will you:
-as several pairs of fangs inject their deadly venom and the deadly air of Dyskra contaminates your lungs. You have failed.
+Travel to Earth in 2700 AD (if you have not done so already)?
+Travel to Earth in the time of Alexander the Great (if you have not done so already)?
+Travel to the alien world of the Repnids, Dyskra, 1985 AD (if you have not done so already)?
+The planet Kelados in 2710 AD, where Q found a Lord of TIME tampering with the past?
+Turn to 409
+Turn to 303
+Turn to 375
+Turn to 418
+
+291
+The nearest mongol slides from his horse, but the others are upon you before you can do anything. A viciously hooked lance embeds itself in your chest and you cannot dodge their swords. They make your death as slow as possible, but you are already losing blood fast from several wounds. You are thankful when death takes you, but, as Falcon, you have failed.
+
+292
+Bloodhound, controlled by the Renegade Lord, cannot defend himself with a mental barrier and he slumps to the ground. You kneel down and revive him quickly. He is holding his head in pain, but thanks you for releasing him from the control of the Renegade Lord. Do you:
+
+Try to control a nearby soldier and force him to shoot his gun into the ambulance?
+Run to the ambulance and blast after ripping the doors open?
+Turn to 26 Turn to 43
+
+293
+You don your environmental suit as CAIN informs you that the atmosphere contains a great deal of methane gas and will not sustain human life. You descend to the floor of Dyskra. As you approach the nearest of the dark red outcroppings, the ground suddenly gives way beneath you. Repnids have tunnelled to within an inch of the surface and you fall into a boiling mass of hundreds of Repnid bodies in the cavern below. The end is swift, as several pairs of fangs inject their deadly venom and the deadly air of Dyskra contaminates your lungs. You have failed.
 
 294
 You leave the Eiger Vault and board the hovrail, en route for the Galactic Trade Centre. As you approach its gates you are suddenly engulfed in blackness. Then you find yourself in a smoke-filled shelter, a fugitive from an alien race on your own world. The past has been changed and your memories with it. You leap out of the shelter to hurl a grenade at a strange alien aircraft on the street above you ... As Falcon, Agent of TIME, you have failed.
 
 295
 'Where are the Lords of TIME at this moment?' you ask CAIN. Your computer chooses a visual display for this information from the files of the Service Computer.
-Travel to Earth in 2700 AD (if you have not done so already)?
-Travel to Earth in the time of Alexander the Great (if you have not done so already)?
-Travel to the alien world of the Repnids, Dyskra, 1985 AD (if you have not done so already)?
-The planet Kelados in 2710 AD, where Q found a Lord of TIME tampering with the past?
 
-291
-Turn to 409
-Turn to 303
-Turn to 375
-Turn to 418
-The nearest mongol slides from his horse, but the others are upon you before you can do anything. A viciously hooked lance embeds itself in your chest and you cannot dodge their swords. They make your death as slow as possible, but you are already losing blood fast from several wounds. You are thankful when death takes you, but, as Falcon, you have failed.
-
-292
-Bloodhound, controlled by the Renegade Lord, cannot defend himself with a mental barrier and he slumps to the ground. You kneel down and revive him quickly. He is holding his head in pain, but thanks you for releasing him from the control of the Renegade Lord. Do you:
 NAME Pilota
 Silvermane Kirik
 Creche 82282 Speke
@@ -1684,45 +1693,41 @@ Timehole Trip
 Destination: Kelados 3033 AD EPSILON SECURITY CODE INSUFFICIENT
 EPSILON SECURITY CODE INSUFFICIENT
 TIME NOW 12.41
-Try to control a nearby soldier and force him to shoot his gun into the ambulance?
-Run to the ambulance and blast after ripping the doors open?
 
-293
-Turn to 26 Turn to 43
 CAIN says, 'It is unusual that access to this kind of information should be denied to your level of security clearance. I have taken the precaution of linking with the service computer and I can tell you that Lord Kirik entered the Eiger Vault and left in his Time Machine. Lord Silvermane has just arrived here - at 12.40 - as have two others with Omega security clearance - at 12.33 and 12.37. Only Lords have this code. The conclusion must be obvious, even to a human, Falcon.' You decide to act on CAIN's information after telling him to shut up, and hurry out to meet the recent arrivals. Turn to 349.
 
 296
-You score a hit and three of the mongols are swept off the roof to the muddy street below, screaming as they fall. The flyer
-You don your environmental suit as CAIN informs you that the atmosphere contains a great deal of methane gas and will not sustain human life. You descend to the floor of Dyskra. As you approach the nearest of the dark red outcroppings, the ground suddenly gives way beneath you. Repnids have tunnelled to within an inch of the surface and you fall into a boiling mass of hundreds of Repnid bodies in the cavern below. The end is swift,
-
-arrives, hovering next to you and you climb aboard. The cockpit canopy clicks into place, deflecting mongol arrows as it does so and you accelerate away into the night sky, engaging the Ion Drive. Turn to 254.
+You score a hit and three of the mongols are swept off the roof to the muddy street below, screaming as they fall. The flyer arrives, hovering next to you and you climb aboard. The cockpit canopy clicks into place, deflecting mongol arrows as it does so and you accelerate away into the night sky, engaging the Ion Drive. Turn to 254.
 
 297
 You approach the Time Machine cautiously, but before you are close enough to see through the hologram which surrounds it a shock jars you. Lose 5 Endurance points. You have brushed against a force field which protects the machine. Since you cannot penetrate this shield you decide to search the battlefield for the Renegade Lord. Turn to 49.
 
 298
 Taken by surprise, the general and the Imperial Guardsman are swiftly cut down. You manage to keep your guards under control and order them to lead the way through the door. Inside is a bedchamber, and sitting on a large litter, swaddled in silks and furs, is Ogedai Khan, still weak from his illness. He looks up, his narrow eyes questioning your purpose. Golden statues, chests of treasure and tapestries line the walls. Silken awnings close off the balcony at the back of the room. Do you:
-crrrrck'ick by a non-clan member...' Apparently there is no universal equivalent for Kelcrrrrck'ick. Puzzling as to what you may have interrupted, your attention is suddenly drawn to the screen as the camera tilts down towards the surface, picking up some movement. Through the reflected glare of the Keladi sun you see what looks like a hundred-metre long sea monster with six luminous eyes about to engulf you.
+
+Order the two guards under your control to kill Ogedai?
+Order them to guard the door and kill Ogedai yourself?
+Turn to 341 Turn to 309
+
+299
+Fear and desperation spur you to superhuman efforts as you concentrate your mind and Thinkstrike the Renegade Lord, but you are fighting against a strong mental barrier. Make an Attack Roll.
+
+If you score 9-12, turn to 50 If you score 2-8, turn to 9
+
+300
+Falcon's Wing reaches the surface and bobs gently. Your external camera revolves slowly until a floating platform comes into sight. Two hideous apparitions of jointed legs and bloated brain sacs slither over its edge and are lost to the deep. Your exterior microphone amplifies a strange clicking which your Translator reads as, '... unforgivable interruption of Kelcrrrrck'ick by a non-clan member...' Apparently there is no universal equivalent for Kelcrrrrck'ick. Puzzling as to what you may have interrupted, your attention is suddenly drawn to the screen as the camera tilts down towards the surface, picking up some movement. Through the reflected glare of the Keladi sun you see what looks like a hundred-metre long sea monster with six luminous eyes about to engulf you.
 Falcon's Wing lurches violently as it erupts from the water and you realise it is a Keladi spaceboat with its floodlights on, a rakish space ship shaped like a manta ray. CAIN chimes, They are requesting holophone contact,' and you open a channel. You strain back in your crash couch as Falcon's Wing fills suddenly with water and a cruel looking Keladi appears before your eyes, claws waving. Remembering it is only a holo-projection you relax and identify yourself as a member of TIME, codename Falcon. The Keladi replies, 'It is well I arrived quickly. I am Rrillk, Argon of the TIME research station, here in the Biruk shallows. Had not I, a member of the bond-clan of TIME, arrived first, you might have been treated with hostility, even attacked.' You ask where Lord Kirik is, and Rrillk informs you that he has just used his Time Machine to go back to the Timehole in Kelados' past, 2710 AD. You decide to follow him immediately, and thanking Rrillk for his help, disengage the holophone connection and ask CAIN to engage the Variac Drive. Turn to 281.
 
 301
 Using your power of Psychic Awareness you explore the mind of Lord Speke. He is currently trying to visualise you dressed in the garb of an ancient Greek. Upon realising that you are probing his mind he suffers a flash of guilt and anxiety, but then, strangely, calms his thoughts and sends a message: I put itdown to youthful exuberance, but you should not be behaving in this way. You decide to break thought contact. Speke looks at you disapprovingly. Will you:
-Order the two guards under your control to kill Ogedai?
-Order them to guard the door and kill Ogedai yourself?
 
-299
-Turn to 341 Turn to 309
-Fear and desperation spur you to superhuman efforts as you concentrate your mind and Thinkstrike the Renegade Lord, but you are fighting against a strong mental barrier. Make an Attack Roll.
-If you score 9-12, turn to 50 If you score 2-8, turn to 9
-
-300
-Falcon's Wing reaches the surface and bobs gently. Your external camera revolves slowly until a floating platform comes into sight. Two hideous apparitions of jointed legs and bloated brain sacs slither over its edge and are lost to the deep. Your exterior microphone amplifies a strange clicking which your Translator reads as, '... unforgivable interruption of Kel-
 Give a speech of thanks to bring the ceremony to a close?
-Continue to probe the mind of another Lord? If you wish to probe Silvermane,
-The Creche, Kirik
+Continue to probe the mind of another Lord? If you wish to probe
+Silvermane,
+The Creche,
+Kirik
 Turn to 167
 Turn to 280 Turn to 223 Turn to 209
-
 
 302
 Your blaster spouts white-hot bolts of plasma, cutting a swathe through the horsemen. Ten or more perish and the squealing of their horses rings in your ears. Seeing what they take to be evil monk, they turn tail and flee. They are followed by the rest of the horsemen in the village as the word of your evil magic is shouted one to another.
