@@ -196,13 +196,13 @@ SPECIES:	Siriun
 BORN:	Sirius Secundus, 2940 AD
 LIVES:	TIME Headquarters, Alpolis, Earth
 
-Personality
+# Personality
 Efficient, calm, and a good leader. Yelov is sparing with words but what he says usually counts. He has had a glittering career in the Siriun Navy as a test pilot for Time Travel and now within the Temporal Investigative and Monitoring Executive. He is ambitious and dedicated to his work. His close friends all belong to the small community of Siriuns living on Earth. He is much respected, if not well liked and his standing within TIME is high. He is extremely deadly, proficient in most forms of combat and was personally responsible for the training of Special Agent Lynx in this area.
 
-Homeworld
+# Homeworld
 Sirius Secundus. Population: 12.576 billion. Sirius Secundus is an Earth type, but cool world, rich in minerals and with a strong economy. As the sun, Sirius, gradually wanes the Siriuns are beginning to emigrate in increasing numbers from their dying world.
 
-Diplomatic History
+# Diplomatic History
 The Siriuns are fiercely independent members of the Space Federation, which they joined in order to gain the secrets of space travel. Trade between Sirius and other worlds is now flourishing.
 
 End of File
@@ -2430,11 +2430,13 @@ POSITION:	Lord of TIME
 SPECIES:	Keladi SPAWNED:Kelados,2956
 LIVES:	Kelados Complex, Biscay, Earth
 
-Personality
+# Personality
 Keladi with mental powers are extremely rare. Kirik is looked upon as a mutant because of his powers and is considered 'outside caste', or classless. The metropolitan libraries all carry the rows of books needed to explain the complicated social etiquette of the Keladi. The Keladr see members of all other species, including Earthers, as below or 'outside' caste. The effect that rejection by his own class has had on Kirik is unknown. It is thought that he greatly enjoys his position is a Lord of TIME and hence as a Keladi envoy, as this gives him some standing in his home world. As with all Keladi, he has a voracious appetite and a fiery temper and retains their obsession with etiquette and politeness.
-Homeworld
+
+# Homeworld
 Kelados. Dominant race: Keladi. Population: 4.357 billion. Habitat: temperate seas. The surface of Kelados is 95% water and intelligent life abounds within the warm seas. Kelados is rich in a great variety of marine organisms.
-Diplomatic History
+
+# Diplomatic History
 In 2664 a diplomatic mission from Earth gave the Keladi all the information they needed to become a space-faring race. Since that time there have been no wars amongst the Keladi. In 2710, however, a series of frontier incidents sparked off by Earther pirate ships almost resulted in war, largely due to the fact that the Keladi could not understand that the actions of a few criminals, the pirates, did not involve the rest of their 'clan' - Earth. The envoy, Korakiik, averted war through his realisation that the pirates were 'outside caste', not true representatives of Earth. Lork Kirik, too, understands this difference.
 
 
@@ -2447,11 +2449,13 @@ SPECIES:	Earther
 BORN:	Pacificon, Earth 2887 AD
 LIVES:	Alpolis
 
-Personality
+# Personality
 A brilliant scientist, Speke, partly due to his mental powers, was one of two men largely responsible for the invention of the Time Machine. Like many brilliant men, he is eccentric, will not suffer fools gladly and is prone to break off a conversation suddenly, lost in thought. He is a brave man and, with Irving Klimt, undertook the first ever voyage into the past, starting from 2974. They undertook several journeys together, but Klimt never returned from an investigation of classical Greece in the time of Philip of Macedon. Lord Speke has always maintained that he was killed in a drunken brawl, by a soldier, though Klimt had always been careful not to change the past by becoming involved. With the setting up of TIME Speke was the obvious choice for appointment as the Earther Lord and he has enjoyed his position ever since. He is also well known for pioneering work on the mental attack of Thinkstrike, with which he is adept. He is also Professor of Earth Archaeology at the Academy where his specialist subject is Alexander the Great.
-Homeworld
+
+# Homeworld
 Earth. Population: 43.997 billion.
-Diplomatic History
+
+# Diplomatic History
 Earth, as head of the Federation, has not faced a serious threat since the Hive-war in 2934. At this time the Hivers were completely defeated in space, though few landings on their homeworld, the Hive, were successful. There has been peace on Earth for three centuries.
 
 397
@@ -2463,11 +2467,13 @@ SPECIES:	Earther
 BORN:	Lastlanding, 2975 AD
 LIVES:	Spiro's Ringworld, Earth Orbit.
 
-Personality
+# Personality
 Set apart by her mental powers, Pilota accepted her position as a Lord of TIME only when a gift of a solar-sail racer was offered if she agreed. She is highly intelligent, but seems not to take her responsible position as a Lord very seriously. She still seldom misses a race and is highly successful in the sport of solar-sailing which takes the courage to make a close approach to the sun and the fine judgement not to go too close. Before joining TIME, Pilota had been on the official list of space smugglers and was found not guilty of tax evasion after an investigation by the Lastlanding authorities. She prefers low-gravity environments similar to those on Lastlanding.
-Homeworld
+
+# Homeworld
 Lastlanding. Found accidentally in 2571 when the colony ship, Utopia, crash landed on a hospitable, but low-gravity planet. It was the first outer colony. It now has a population of 0.808 billion and still attracts immigrants from Earth. It is a world of golden opportunities and great space, where it is still possible to buy unused land. Each citizen can vote on all issues via holophone in the comfort of their own home. The police force are not kept busy, but Lastlanding has become a bolt hole for those on the run, throughout the Federation.
-Diplomatic History
+
+# Diplomatic History
 Lastlanding was a founder member of the Space Federation and increases in importance. As it does so, however, its dependence on Earth dwindles. They now control their own policy towards other worlds.
 
 398
@@ -2479,13 +2485,13 @@ SPECIES:	Hiver
 HATCHED:	The Hive, date unknown
 LIVES:	Hive Arkship, Sahara, Earth
 
-Personality
+# Personality
 Lord Creche 82282 is a group awareness, composed of six Hivers, These beings pool their minds in order to become a living computer. They have no personality as an Earther would describe it, but in common with all Hivers, would sacrifice themselves for the sake of the Hive, without hesitation. They are properly described as 'it', thinking and acting as one. Response to any question takes a few seconds as each inputs data before there is any reaction. The Hivers pioneered the Federation's studies of powers of the mind, inventing the Psionic Enhancer. They are thought to have developed mental powers beyond that of any other race.
 
-Homeworld
+# Homeworld
 The Hive. A dry, hot world, its surface dotted with cities resembling gigantic termite nests. Population (estimated): greater than 200 billion. Hiver factory workers are extremely hard working. The first to acquire weapons on their world, they eradicated all other intelligent species.
 
-Diplomatic History
+# Diplomatic History
 The Hivers were intent on conquering other worlds at the same time that Earth was building the Space Federation. They were heavily defeated in the Space War of 2934 and joined the Space Federation in the following year. They have cooperated since that date and have traded the life-prolonging drugs which give Earthers a lifespan of 250 years in return for metals.
 
 399
@@ -2497,13 +2503,13 @@ SPECIES:	Rigellian
 BORN:	Rigel Prime, 2700 AD
 LIVES:	Centridome, Asteroid Belt, Sol System
 
-Personality
+# Personality
 Aged, even for a Rigellian, Silvermane is the survivor of a long struggle for power on the world of Rigel Prime. Still fit and strong, he is a shrewd opponent and a pleasant comrade. He upholds the Rigellian code of honour and is proud both of himself and of his race, seeing his role as a Lord of TIME as being to further the causes of Rigel Prime. He has a liking for spartan discomfort which is often thought bizarre by Earthers.
 
-Homeworld
+# Homeworld
 Rigel Prime is a large, high-gravity world covered by farmland ranges. The population is 30.131 billion. Silvermane's tribe is in power but occasional differences are settled through ritual combat, no longer to the death, between chosen tribal champions. The Rigellians' culture is based upon the code of the warrior and physical strength is still prized.
 
-Diplomatic History
+# Diplomatic History
 The Rigellians developed space travel in the 1890s and first contacted Earther spaceships in 2152. There was a long history of minor frontier wars as both Rigel and Earth staked claim to various barren planets useful only for the easily mined asteroids which surrounded them. These were eventually settled after the Battle of The Flying Coffins, notable because less than 10% of the personnel involved survived it. Rigel joined the Federation soon afterwards. The Rigellians assisted the Earthers in the great Hive war and without their help the war might have been lost.
 
 400
