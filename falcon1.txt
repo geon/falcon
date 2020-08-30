@@ -320,7 +320,7 @@ You bring the soldier under your control and force him to discharge his musket t
 
 36
 You give your Epsilon Security Code and the micro-display on your wrist lights up,
-SECURITYCLEARANCECODEINSUFFICIENT
+SECURITY CLEARANCE CODE INSUFFICIENT
 ACCESS DENIED
 Knowing that your Epsilon Security Code should be high enough to gain access, you request the level of Security Code necessary. CAIN responds with the information that this report has been reclassified: Access Code Theta. Theta is the level of Security Clearance held by Section Chiefs, and Special Agents cannot cause information to be classified at this level. The Service Computer intones softly: 'You have arrived at the Hall of Honours. Your Graduation is about to commence.' Turn to 110.
 
