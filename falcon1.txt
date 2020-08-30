@@ -159,13 +159,10 @@ The ambulance trundles on towards Napoleon and you sense that the Renegade Lord 
 Your mind is gripped like a vice and there is nothing you can do as your hand is forced inside your jacket. Sweating with effort, you try to stop yourself aiming your blaster at Bloodhound. Your arm quivers as you line him up in your sights. Bloodhound realises what is happening and reaches for his own blaster. He is too late. The lightning bolt of plasma hurls him into the wheel of the ambulance and his corpse slumps, a grotesque travesty of a human being. Your eyes are riveted on the muzzle of your death-dealing blaster as, inch by inch, you are forced to point it at yourself. Your hand is still shaking but your finger closes on the trigger and the left half of your face and head is wiped away. You have failed.
 
 9
-Your attack fails and is returned by a mental blast far more powerful than your own. You sink to the ground feeling as if your brain is boiling. Your brain is about to burn out like a faulty electric motor when the Renegade Lord's attention is shifted to
-
-Bloodhound who is making an attack of his own, saving your life as he does so. You fall unconscious and your powers of Think- strike will never again be what they were. Subtract one from your ThinkstrikeModifier. When you awake, Bloodhound is coming round, lying next to you. You shake your heads to clear the pain and look up to see that the Imperial Guard are marching to the attack. The Renegade Lord is changing history. You both begin to run up the hillside and the ambulance comes into view a hundred yards away from the Emperor. Turn to 344.
+Your attack fails and is returned by a mental blast far more powerful than your own. You sink to the ground feeling as if your brain is boiling. Your brain is about to burn out like a faulty electric motor when the Renegade Lord's attention is shifted to Bloodhound who is making an attack of his own, saving your life as he does so. You fall unconscious and your powers of Think- strike will never again be what they were. Subtract one from your ThinkstrikeModifier. When you awake, Bloodhound is coming round, lying next to you. You shake your heads to clear the pain and look up to see that the Imperial Guard are marching to the attack. The Renegade Lord is changing history. You both begin to run up the hillside and the ambulance comes into view a hundred yards away from the Emperor. Turn to 344.
 
 10
-You step from the pedway at an interchange but dart into a | construction tunnel leading down to Old Geneva on the lower levels. As you emerge into the low-life area of the city the stench of sewers bathes you. The dark, squat buildings are made of old- fashioned concrete, a few even are of bricks, which you have only seen before in architectural museums. The Enforcers of Citpol seldom penetrate to these depths, preferring to leave the lowlifers to their own devices. There are no pedways or Plasma Sensors down here, just graffiti and cracked tarmac. You plunge into a blank-eyed crowd of leisure zombies, milling around the sim-combat booths, unnoticed, and unfollowed. You search for
-a different way back to the upper levels. Turn to 146.
+You step from the pedway at an interchange but dart into a | construction tunnel leading down to Old Geneva on the lower levels. As you emerge into the low-life area of the city the stench of sewers bathes you. The dark, squat buildings are made of old- fashioned concrete, a few even are of bricks, which you have only seen before in architectural museums. The Enforcers of Citpol seldom penetrate to these depths, preferring to leave the lowlifers to their own devices. There are no pedways or Plasma Sensors down here, just graffiti and cracked tarmac. You plunge into a blank-eyed crowd of leisure zombies, milling around the sim-combat booths, unnoticed, and unfollowed. You search for a different way back to the upper levels. Turn to 146.
 
 11
 You splash your way into the pond and grab for the rope ladder which is hanging from your flyer. Shouts ring out behind you and an arrow hits you in the bottom as you climb. You pull it out but are losing blood. Lose 4 Endurance points. Panting, you kneel in the cockpit and fire up the flyer's Drive and the ladder slowly retracts. The flyer rocks unsteadily as if the stabilisers were malfunctioning. Looking down, you see the dark eyes, wide with fright, of a mongol guard swinging from the ladder, a torch burning in his hand. You dip the flyer down across the pool, plunging him into the water and the flyer bucks skyward as he falls from the ladder. Realising that all of the guards on the ground are now alerted you decide to risk hovering above the palace roof, hoping to find the balcony on which Ogedai appeared earlier. Turn to 28.
@@ -181,8 +178,7 @@ You cannot control Speke, his mind is too strong, but he has realised you are he
 You give your Epsilon Security Code and the micro-display on your wrist lights up. The report on Q's death seems surprisingly brief:
 
 Termination Report:
-Cause of Death: Mission Brief at time
-of Death:
+Cause of Death: Mission Brief at time of Death:
 Last Known Action:
 TIME Special Agent Q Born: 1/9/2890 AD - Last- landing (Outer Colonies) Killed on Active Service Autodoc Malfunction
 Monitor disturbance in Kelados Timeline 2047 AD Transmission to Sector Chief Yelov, Security Code Epsilon,interrupted Subject: Kelados Timeline disturbance.
@@ -212,9 +208,9 @@ End of File
 16
 [score a K]
 The flyer hovers above the darkest part of the palace gardens and you release the rope ladder from its edge. You climb down cautiously, unable to see the ground; it is black as pitch. You step down off the ladder and catch your breath as you find yourself waist deep in freezing water. You have climbed down into the ornamental pond. You stand still, waiting to see if you've been heard, then wade out trying not to splash and walk stealthily between cherry trees towards the torch-lights of the palace. Pausing to take stock of your surroundings you notice two guards at the rear of the palace, guarding a small wooden door. Nearby is a low wooden building with several horses tethered to posts outside it. Do you:
+
 Thinkstrike the two guards?
-Try to control them both, using your
-Power of Will?
+Try to control them both, using your Power of Will?
 Pull out your blaster and fry them?
 
 17
@@ -222,8 +218,8 @@ Turn to 369 Turn to 377
 Turn to 387
 You instruct CAIN to examine the Eiger Service Computer and type your Epsilon Security Clearance Code at the terminal, before asking for information relating to a cydroid, serial number SAT17YV. Moments later, CAIN responds. 'SAT Section Security Cydroid 17YV, built 3027, assigned to Section
 
-C h i e f A g i d y Y e l o v . R e p o r t e d m i s s i n g 3031, p r i o r t o d i s - continuation of this model due to faults in Central Processing unit. Armed: Particle Disrupter, Sensors: Infra-red, ultra-violet andradar.Appearance:man-like.Intelligenceunit:Fordec5000. Power Plant -'
-'Reported missing 7 You interrupt the list of specifications.
+Chief Agidy Yelov . Reported missing 3031, prior to discontinuation of this model due to faults in Central Processing unit. Armed: Particle Disrupter, Sensors: Infra-red, ultra-violet andradar.Appearance:man-like.Intelligenceunit:Fordec5000. Power Plant '
+'Reported missing' You interrupt the list of specifications.
 'Yes, Falcon. SAT Section Chief Agidy Yelov reported that it tried to kill him before escaping into Old Geneva. No witnesses. Some damage to Yelov's office, certainly caused by a Particle Disrupter. No further information.'
 If you wish to call up Yelov's file, note the number 15 on your Agent Profile. Whenever you are in your Time Machine and wish to access Yelov's file from CAIN, turn to paragraph 15 after noting the paragraph you are already at, as no options will begiven at the end of it. When you are ready, turn to 243.
 
@@ -241,8 +237,7 @@ Turn to 141 Turn to 104
 You arrive back at Falcon's Wing;and the red light of the brain scanner comes on. As you wait for the green, a security guard approaches, wearing a full-face helmet and power-armour, which is not standard issue. He carries a laser-rifle. 'Excuse me sir,' his voice hisses through the air-escape ducts of his armour. Turning to meet him, do you:
 
 Wait for him to come closer?
-Use your power of Psychic Awareness
-to find out his intentions?
+Use your power of Psychic Awareness to find out his intentions?
 Turn to 154 Turn to 125
 
 21
@@ -251,17 +246,15 @@ Bloodhound shouts: 'No, Falcon, Thinkstrike!' Too late, you realise you have mad
 22
 You leave the Hall of Honours en route for the Eiger Vault and your Time Machine, and approach the hovrail, calling a car to the nearest embarkation point using CAIN and the Service Computer.
 Stepping from the TIME building pedway you emerge into the cityscape, to be dwarfed by the tiered office blocks surrounded by housing for the workers and the Prodmarkets which supply them. Jetcopters hum overhead like streams of flies, each one, darting or circling, its pilot intent on reaching particular destin- ations. The lower level streets and pedways are thick with people; those streets which curve up to the higher levels and along the buttresses of the larger buildings bear a steady flow of skimmers, runners sparking as they contact the electrified streetmetal. Some way from the embarkation point you realise that you are being followed. You step from the pedway onto the deserted bay of the Intelfax building. The anonymous figure of an office worker in a one-piece suit steps off the pedway behind you. Do you:
-Use your Power of Will to control your
-follower?
-Duckinto a doorway and wait to
-confront him at close quarters? Slip through the Intelfax warehouse
-and lose your pursuer in the lowlife area, Old Geneva?
+
+Use your Power of Will to control your follower?
+Duckinto a doorway and wait to confront him at close quarters? Slip through the Intelfax warehouse and lose your pursuer in the lowlife area, Old Geneva?
 Turn to 44 Turn to 81
 Turn to 10
 
 23
-The din of the battle is like a maelstrom around you. Swept on towards Alexander and Speke, you concentrate your mind. You hurl a blast of mental energy at Lord Speke remembering, too late, that his mental defences against Thinkstrike are almost Invincible. Speke is unaffected. You lose confidence in your
-Thinkstrike ability, subtract one from your Thinkstrike Modifier. Do you:
+The din of the battle is like a maelstrom around you. Swept on towards Alexander and Speke, you concentrate your mind. You hurl a blast of mental energy at Lord Speke remembering, too late, that his mental defences against Thinkstrike are almost Invincible. Speke is unaffected. You lose confidence in your Thinkstrike ability, subtract one from your Thinkstrike Modifier. Do you:
+
 Use your blaster to kill Lord Speke? Use your Power of Will to control Lord
 Speke?
 Turn to 41 Turn to 32
@@ -315,9 +308,7 @@ If you score 6-12, turn to 57 If you score 2-5, turn to 27
 While you are deciding what to do, next, blackness engulfs you. Someone has changed the timelines and one of your ancestors has been killed before his time. It is as if you had never existed, You have failed.
 
 35
-You bring the soldier under your control and force him to discharge his musket through a crack in the ambulance's side
-pplanking. Bloodhound suddenly tenses and, drawing his
-blaster, takes aim at you. You are about to dive onto the ground when the musket goes off and Bloodhound regains control of himself. You run up to the ambulance, but before you arrive the hunt explodes and a flyer accelerates out of it. Six giant ants, their red eyes glaring at you balefully, are clinging onto the honeycomb-like seats. One of them appears to have been killed bya musket ball. You realise it is the Hivers, Creche 82282. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. You have succeeded in preserving the past and decide to follow the Creche to Hel. Turn to 161.
+You bring the soldier under your control and force him to discharge his musket through a crack in the ambulance's side pplanking. Bloodhound suddenly tenses and, drawing his blaster, takes aim at you. You are about to dive onto the ground when the musket goes off and Bloodhound regains control of himself. You run up to the ambulance, but before you arrive the hunt explodes and a flyer accelerates out of it. Six giant ants, their red eyes glaring at you balefully, are clinging onto the honeycomb-like seats. One of them appears to have been killed bya musket ball. You realise it is the Hivers, Creche 82282. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. You have succeeded in preserving the past and decide to follow the Creche to Hel. Turn to 161.
 
 36
 You give your Epsilon Security Code and the micro-display on your wrist lights up,
@@ -326,8 +317,7 @@ ACCESS DENIED
 Knowing that your Epsilon Security Code should be high enough to gain access, you request the level of Security Code necessary. CAIN responds with the information that this report has been reclassified: Access Code Theta. Theta is the level of Security Clearance held by Section Chiefs, and Special Agents cannot cause information to be classified at this level. The Service Computer intones softly: 'You have arrived at the Hall of Honours. Your Graduation is about to commence.' Turn to 110.
 
 37
-The Emperor, bewildered by the mental attacks of the Creche, falls easily under your control. You force him to give the order which recalls the Imperial Guard and the attack does not take place. Deprived of reinforcements, Marshal Ney does not
-fling his men into another attack and both sides,exhausted, are reduced to the occasional cannonade.The Frenchhave won, but it is not a decisive victory.Thirty thousand Frenchmen are dead or wounded;the Russians have lost tenthous and more.
+The Emperor, bewildered by the mental attacks of the Creche, falls easily under your control. You force him to give the order which recalls the Imperial Guard and the attack does not take place. Deprived of reinforcements, Marshal Ney does not fling his men into another attack and both sides,exhausted, are reduced to the occasional cannonade.The Frenchhave won, but it is not a decisive victory.Thirty thousand Frenchmen are dead or wounded;the Russians have lost tenthous and more.
 The battlefield is strewn with the dead and dying and they are piled in mounds around the redoubts. You have made sure that history is not changed and you decide to return to Falcon's Wing and follow the Creche to the planet Hel, Turn to 161.
 
 38
@@ -341,14 +331,12 @@ from the battlefield. Like Bloodhound was, she may well be trying to kill you. D
 Thinkstrike her back?
 Use your Power of Will on her?
 Use your blaster to kill her?
-Explain to her that she must not attack
-you?
+Explain to her that she must not attack you?
 Turn to 6 Turn to 25 Turn to 59
 Turn to 96
 
 40
-The guards are already drunk on Koumiss, fermented mare's milk, and slump to the floor. You slip into the courtyard beyond the gate and approach the palace itself but are faced with another group of guards, resplendent in red and white lacquered armour, who have seen their comrades fall. Seeing you appear suddenly through the gate they cry out and others come running towards you from a nearby barracks, some
-drawing swords, others readying their bows. Do you:
+The guards are already drunk on Koumiss, fermented mare's milk, and slump to the floor. You slip into the courtyard beyond the gate and approach the palace itself but are faced with another group of guards, resplendent in red and white lacquered armour, who have seen their comrades fall. Seeing you appear suddenly through the gate they cry out and others come running towards you from a nearby barracks, some drawing swords, others readying their bows. Do you:
 
 Pull out your blaster and use it on them?
 Run back out of the city, hoping to lose them?
@@ -368,20 +356,16 @@ Rippingthe ambulance doors open reveals a bizarre sight, six creatures like gian
 You concentrate your mind, but find no thought patterns to latch onto! Your pursuer is evidently either a cydroid or a robot of advanced design. Do you:
 
 Duck into a doorway and wait to confront him at close quarters?
-Slip through the Intelfax warehouse
-and lose your pursuer in the lowlife
-area, Old Geneva? Blast him?
+Slip through the Intelfax warehouse and lose your pursuer in the lowlife area, Old Geneva? Blast him?
 Turn to 3
 Turn to 10 Turn to 29
 
 45
-Falcon's Wing rematerialises in the Eiger Vault and you follow Bloodhound's hovrail car to TIME headquarters. You are approaching the TIME building when you are suddenly
-engulfed in blackness. Then you find yourself in a smoke-filled shelter, a fugitive from an alien race on your own world. The past has been changed and your memories with it. You leap out
-of the shelter to hurl a grenade at a strange alien aircraft on the street above you... As Falcon, Agent of TIME, you have failed.
+Falcon's Wing rematerialises in the Eiger Vault and you follow Bloodhound's hovrail car to TIME headquarters. You are approaching the TIME building when you are suddenly engulfed in blackness. Then you find yourself in a smoke-filled shelter, a fugitive from an alien race on your own world. The past has been changed and your memories with it. You leap out of the shelter to hurl a grenade at a strange alien aircraft on the street above you... As Falcon, Agent of TIME, you have failed.
 
 46
-Without warning he levels his laser rifle at you as if to fire. You have a brief second in which to save yourself. Make an Evasion
-Roll.
+Without warning he levels his laser rifle at you as if to fire. You have a brief second in which to save yourself. Make an Evasion Roll.
+
 If you score 7-12, turn to 192
 If you score 2-6, turn to 180
 
@@ -401,9 +385,7 @@ Decide to split up? Stay together?
 Turn to 408 Turn to 419
 
 50
-You sense that your Thinkstrike has succeeded but still the mental power exists inside the ambulance, confirming that the Renegade Lord is the Creche, the six Hiver beings that form one mind. You have knocked out one of them, weakening their power but they Thinkstrike back at you and you are unable to
-withstand the force of the mental blast even though it must be weakened. You sink unconscious to the ground. When you awakeBloodhoundislyingnexttoyou.Youshakeyourheadsto clear the pain and look up to see that the Imperial Guard are marching to the attack. The Renegade Lord is changing history. You both begin to run up the hillside and the ambulance comes
-into view a hundred yards away from the Emperor. Turn to 344.
+You sense that your Thinkstrike has succeeded but still the mental power exists inside the ambulance, confirming that the Renegade Lord is the Creche, the six Hiver beings that form one mind. You have knocked out one of them, weakening their power but they Thinkstrike back at you and you are unable to withstand the force of the mental blast even though it must be weakened. You sink unconscious to the ground. When you awakeBloodhoundislyingnexttoyou.Youshakeyourheadsto clear the pain and look up to see that the Imperial Guard are marching to the attack. The Renegade Lord is changing history. You both begin to run up the hillside and the ambulance comes into view a hundred yards away from the Emperor. Turn to 344.
 
 51
 You realisethatcontrolling twootherswillbedifficult,butbend your thought to the task. Luckily they are drunk on Koumiss • fermented mare's milk. One of them removes a strip of raw meat from his sandal and begins to chew on it. The other laughs and says drunkenly: 'Now that you've pressed the blood out of it, can you not be bothered to dry it in the sun ?' Make a Power of Will Roll, as the smell of their unwashed bodies hits you.
@@ -442,8 +424,9 @@ Turn to 32 Turn to 41 Turn to 23
 
 59
 [score a D]
-Lynx is well-trained in combat, but you pull out your blaster in a singleblurofmovement,knowingthatshewillattack
-your mind again if, in your haste, you miss. Make an Attack Roll. If you score 7-12, turn to 168
+Lynx is well-trained in combat, but you pull out your blaster in a single blur of movement, knowing that she will attack your mind again if, in your haste, you miss. Make an Attack Roll.
+
+If you score 7-12, turn to 168
 If you score 2-6, turn to 184
 
 60
@@ -463,8 +446,7 @@ You wake up dazed, in a detention cubicle at TIME head quarters. Your arms and l
 63
 You cruise about the city, unseen in the darkness. Torches light some of the streets and there are fires at some of the crossroads around which people are dancing. Will you:
 
-Hover above the pagoda-like roof of
-the palace, which is well lit, and climb down to the balcony where Ogedai showed himself to the crowd?
+Hover above the pagoda-like roof of the palace, which is well lit, and climb down to the balcony where Ogedai showed himself to the crowd?
 Hover above the gardens behind the palace, which are large and unlit and climb down the flyer's rope ladder?
 Turn to 28
 Turn to 16
@@ -501,26 +483,23 @@ If you score 5 or 6, turn to 158
 70
 Your blast catches Bloodhound in the shoulder as he ducks, and spins him backwards towards the gas-tank that is in fact his Time Machine. He staggers inside the hologram and you hear the sound of the hatch opening. Do you:
 
-Rise up through the hatch, blasting? Use your Power of Will to try to control
-him?
+Rise up through the hatch, blasting? Use your Power of Will to try to control him?
 Turn to 75 Turn to 95
 
 71
 You approach the second Phocian Corsair ship and notice a guard on watch. Your Psychic Awareness tells you nothing, but he is not alert. You decide to Thinkstrike him and the power of your mental attack makes the tired guard unconscious. You board the sleek, arrow-shaped ship, passing through the small hold and up the stairwell to the bridge and sleeping quarters. These small ships were built for a one- or two- man operation Their design is archaic to your eyes, but the ship computer assists you to pilot the vessel. The scanners show the other Phocian ship climbing into orbit, soon to leave the atmosphere Wasting no time, you secure yourself in the oddly-shaped, free fall couch, and gun the Phocian pirate ship into the sky, on the trail of her sister ship. As you clear the atmosphere, locked on to the other Phocian's course, its pilot hails you on the ship-to-ship Lascom. Your ship computer picks up the coded bursts of low intensity laser light and converts them to speech. 'Why are you following me?' Do you:
 
 Ignore the laser communication?
-Tell the Phocian that he is under mind
-control?
-Open fire on the Phocian with the
-ship's Pulse Lasers?
+Tell the Phocian that he is under mind control?
+Open fire on the Phocian with the ship's Pulse Lasers?
 Turn to 136 Turn to 155 Turn to 172
 
 72
 'A mental, a mutie mental,' shouts one of the gang, starting a hysterical screaming. Some drag Clone's hovbike to safety whilst others turn tail and scud into the maze of alleys criss- crossing the old city. Thankful that they are terrified of psionics, you find your way out of Old Geneva as quickly as possible and make your way to the hovrail embarkation point. Turn to 169.
 
 73
-While you dismount and look around, trying to locate the source of the mental powers which you sense, an infantry battalion passes you, marching to the attack. You are within a hundred yards of Marshal Poniatowski and his staff when the battalion's drummer boy, in the rear rank, stops drumming and turns towards you. You look at him suspiciously as he frowns in your direction. Before you can look into his mind you realise that he is attacking you with a blast of mental power, a Thinkstrike! You
-were half ready for this and you put up a mental barrier. Make an Evasion Roll.
+While you dismount and look around, trying to locate the source of the mental powers which you sense, an infantry battalion passes you, marching to the attack. You are within a hundred yards of Marshal Poniatowski and his staff when the battalion's drummer boy, in the rear rank, stops drumming and turns towards you. You look at him suspiciously as he frowns in your direction. Before you can look into his mind you realise that he is attacking you with a blast of mental power, a Thinkstrike! You were half ready for this and you put up a mental barrier. Make an Evasion Roll.
+
 If you score 4-12, turn to 39 If you score 2-3, turn to 62
 
 74
@@ -570,7 +549,7 @@ Await Yelov's orders?
 Turn to 259 Turn to 120
 
 84
-for ten minutes you race through the confusion of the battlefield towards your Time Machines as the Imperial Guard approach the Russians. It is too late to call off the attack now. MarshalNey has flung his men at the Russians, confident of success now that he has reinforcements. Unfortunately, your ancestor, the young hussar, is killed leading the charge and all goes black. He will never have the son who would have carried on the bloodline which leads to you. It is as if you had never existed. You have failed.
+For ten minutes you race through the confusion of the battlefield towards your Time Machines as the Imperial Guard approach the Russians. It is too late to call off the attack now. MarshalNey has flung his men at the Russians, confident of success now that he has reinforcements. Unfortunately, your ancestor, the young hussar, is killed leading the charge and all goes black. He will never have the son who would have carried on the bloodline which leads to you. It is as if you had never existed. You have failed.
 
 85
 Your Thinkstrike fails and you try to tell her that for the sake of the Space Federation she must listen to what you have to say.
@@ -588,11 +567,9 @@ If you have seen a man in golden armour called Iskander, turn to 114. If you hav
 
 If you have seen neither of these, will you:
 
-Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados in
-3033 AD?
-Move back into the Timehole in 1241
-AD, the time of the mongols? Spend some time in your Autodoc
-before continuing?
+Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados in 3033 AD?
+Move back into the Timehole in 1241 AD, the time of the mongols?
+Spend some time in your Autodoc before continuing?
 Turn to 22 Turn to 28 Turn to 414 Turn to 196
 
 88
@@ -602,8 +579,7 @@ You miss the Hornet and it finds its target. To your surprise it is not filled w
 You were not fast enough. Two blasts of plasma at short range vapourise most of your body. You have confronted the Renegade Lord but failed at the last moment.
 
 90
-They hold their heads in pain, but the Imperial guard recovers and attacks you ferociously. You manage to keep out of his way for a time, dodging and weaving, but cannot find a way past the swirling of his sword and soon others pour into the room from the banqueting hall below and you are taken. The fate of the Khan's assassin is not a pleasant one. They discuss your
-punishment which will be to have molten silver poured into your eyes and ears, before you are boiled alive, a death reserved for their respected enemies. You have failed and the Space Federation will never be.
+They hold their heads in pain, but the Imperial guard recovers and attacks you ferociously. You manage to keep out of his way for a time, dodging and weaving, but cannot find a way past the swirling of his sword and soon others pour into the room from the banqueting hall below and you are taken. The fate of the Khan's assassin is not a pleasant one. They discuss your punishment which will be to have molten silver poured into your eyes and ears, before you are boiled alive, a death reserved for their respected enemies. You have failed and the Space Federation will never be.
 
 91
 Despite the fall of Clone, they come on, howling for revenge and you are faced with a solid wall of spiked steel. You are dashed backwards into Machine's bike and before you can pull yourself up, one of them turns off his hover rotor, allowing his bike to settle heavily on your legs. Several others dismount, laughing cruelly. You stare at the spiked metal-capped boots which soon start to kick you senseless. Grabbing your helmet, they leave you for dead. Lose 16 Endurance points. If you are still alive, you cannotuse your mental powers until you have taken a new helmet from the equipment locker of your Time Machine.
@@ -614,10 +590,8 @@ You soon detect a hologram of trees at the forest's edge, further from the villa
 You are amazed that such a field can be generated from so small an area as the inside of a Time Machine. This is beyond the technology of Earth. You cannot even approach closely enough to see through the hologram and confirm whose the Time Machine is. You have no choice but to follow the flyer to Karakorum. Turn to 76.
 
 93
-You wend your way through the fog of battle but your horse catches its foot in a burrow and goes lame. You abandon it and continue on foot, but in the cannon smoke you lose your way. The sound of firing is all around you and you mistake some Russians for Frenchmen who are withdrawing for a new attack When the srnoke clears you realise you have wandered close to the Russians. Bugles sound behind you and a charge of French infantry is launched with Marshal Ney at their head. The Frenchmen, singing the Marseillaise, come on shoulder-to- shoulder, magnificent in their blue and white uniforms. You are swept up in the charge and carried forward, unable to do anything against the hundreds of men, exhilarated in the heat of battle. On the redoubt ahead of you, the Russian commander,
-Prince Bagration, rides out in front of his line of green jacketed men and salutes the French columns, crying in French, 'Bravo, messieurs, c'est superbe!' As you approach Bagration's men they unleash a hail of musket fire and you take this opportunity to throw yourself to the ground as if dead, and let the charge pass over you.
-Afterwards, battered and muddied, you pick yourself up. You have found no trace of the Renegade Lord and you decide to return to Napoleon's Command Post at Shevardino in case Bloodhound needs help. You are approaching the Command Post when Bloodhound rides to greet you. You tell him of your experiences and decide to look for Murat, the King of Naples, when you both feel a presence approaching, a very strong mental presence. Your heads turn as one towards a strange contraption coming nearer Napoleon and his escort. Two
-horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical orderly is riding the first of the horses. It is one of the first ambulances ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. The strength of the mental presence within the ambulance leads you to believe that the Renegade Lord must be inside, and you prepare to attack together. Turn to 53.
+You wend your way through the fog of battle but your horse catches its foot in a burrow and goes lame. You abandon it and continue on foot, but in the cannon smoke you lose your way. The sound of firing is all around you and you mistake some Russians for Frenchmen who are withdrawing for a new attack When the srnoke clears you realise you have wandered close to the Russians. Bugles sound behind you and a charge of French infantry is launched with Marshal Ney at their head. The Frenchmen, singing the Marseillaise, come on shoulder-to- shoulder, magnificent in their blue and white uniforms. You are swept up in the charge and carried forward, unable to do anything against the hundreds of men, exhilarated in the heat of battle. On the redoubt ahead of you, the Russian commander, Prince Bagration, rides out in front of his line of green jacketed men and salutes the French columns, crying in French, 'Bravo, messieurs, c'est superbe!' As you approach Bagration's men they unleash a hail of musket fire and you take this opportunity to throw yourself to the ground as if dead, and let the charge pass over you.
+Afterwards, battered and muddied, you pick yourself up. You have found no trace of the Renegade Lord and you decide to return to Napoleon's Command Post at Shevardino in case Bloodhound needs help. You are approaching the Command Post when Bloodhound rides to greet you. You tell him of your experiences and decide to look for Murat, the King of Naples, when you both feel a presence approaching, a very strong mental presence. Your heads turn as one towards a strange contraption coming nearer Napoleon and his escort. Two horses, one behind the other, are harnessed to a wooden, covered wagon with two small holes high up on either side for windows and doors which open at the back. A medical orderly is riding the first of the horses. It is one of the first ambulances ever made of the pattern designed by Baron Larrey, a French Army Surgeon, in 1805. The strength of the mental presence within the ambulance leads you to believe that the Renegade Lord must be inside, and you prepare to attack together. Turn to 53.
 
 94
 You cut him down and leap over the wall, closely followed by other Macedonians and Persians, one of whom shouts, 'Bravely done, Man.' Your shield stops two arrows, but others behind you are not so lucky. Archers in the towers of the wall are finding their mark. Turn to 66.
@@ -632,8 +606,7 @@ As soon as you open your mouth to shout against the din of battle she hurls a th
 If you score 6-12, turn to 184 If you score 2-5, turn to 240
 
 97
-With a great effort you manage to dominate their wills, holding them under control. You walk up to them and order them to take you to Ogedai Khan and to pretend you are a messenger. They walk through the door with a rolling, bandy-legged gait and you follow entering a store room lined with barrels of Koumiss, fermented mare's milk. A row of carcasses hangs on hooks above a smoking fire. In the corner lies the huddled form of an unconscious mongol, obviously drunk. The two guards lead you out of a door opposite into a banqueting hall whose walls are lined with gold, the plunder of half the world. It is full
-of mongols, eating and drinking. To your surprise there are no tables, but a great fire has been lit in the centre of the hall. Musicians are playing fast rhythmic music and some of the mongols strut around the fire, showing off the splendour of their leather coats, decorated and lined with fur. Others are still gorging themselves, tearing chunks of meat from whole carcasses with their hunting knives. As the music quickens, some begin to whirl and leap around the fire, dancing wildly. Your guards lead you up a wooden stairway just to the left of the storeroom door. Turn to 278.
+With a great effort you manage to dominate their wills, holding them under control. You walk up to them and order them to take you to Ogedai Khan and to pretend you are a messenger. They walk through the door with a rolling, bandy-legged gait and you follow entering a store room lined with barrels of Koumiss, fermented mare's milk. A row of carcasses hangs on hooks above a smoking fire. In the corner lies the huddled form of an unconscious mongol, obviously drunk. The two guards lead you out of a door opposite into a banqueting hall whose walls are lined with gold, the plunder of half the world. It is full of mongols, eating and drinking. To your surprise there are no tables, but a great fire has been lit in the centre of the hall. Musicians are playing fast rhythmic music and some of the mongols strut around the fire, showing off the splendour of their leather coats, decorated and lined with fur. Others are still gorging themselves, tearing chunks of meat from whole carcasses with their hunting knives. As the music quickens, some begin to whirl and leap around the fire, dancing wildly. Your guards lead you up a wooden stairway just to the left of the storeroom door. Turn to 278.
 
 98
 You roll to one side as a translucent beam of ruby light connects the tip of the laser-rifle to the end of the corridor. Still rolling do you:
@@ -665,14 +638,12 @@ Before you can ask for more information the Service Computer intones softly, 'Yo
 Lynx has drawn a knife on Bloodhound and though he is very strong, he is no match for her and is already bleeding badly. They are locked together and you cannot use your blaster. Do you:
 
 Thinkstrike Lynx?
-Join in the combat with a karate kick
-against Lynx?
+Join in the combat with a karate kick against Lynx?
 Turn to 164 Turn to 186
 
 103
-They both slump to the floor, stunned, and you move quickly to
+They both slump to the floor, stunned, and you move quickly to Ogedai's bedside. Knowing what must be done and hoping to make his death look natural you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours but he is too weak to resist. Ogedai's face turns purple as he dies. Suddenly, the door swings open and several members of the Imperial Guard rush in and charge at you. You try to dive through the awning to the balcony. Make an Evasion Roll.
 
-Ogedai's bedside. Knowing what must be done and hoping to make his death look natural you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours but he is too weak to resist. Ogedai's face turns purple as he dies. Suddenly, the door swings open and several members of the Imperial Guard rush in and charge at you. You try to dive through the awning to the balcony. Make an Evasion Roll.
 If you score 6-12, turn to 143 If you score 2-5, turn to 201
 
 104
@@ -808,18 +779,16 @@ Bloodhound pauses then says, 'Yes, of course, Falcon, how can he know of Kirik's
 The drunken revelry continues and you manage to cross the banqueting hall and leave through the store room without trouble. The two guards outside are being cursed for falling asleep at their post by a Noyan, their general. You stride past, looking the other way, and are soon lost in the darkness. You wade silently into the ornamental pond and, using the rope ladder, climb back into your flyer. Turn to 254.
 
 128
-you roll aside and come up ready to fire your blaster into the ambulance. The Hivers are scurrying backwards out of sight, but you send a bolt of plasma after them. One of them is too slow and it is torched to a frazzle by the white-hot beam. You are getting ready to leap into the ambulance when its front explodes and a flyer accelerates out of it, the Hivers clinging on inside the honeycomb-like seats. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. Turn to 161.
+You roll aside and come up ready to fire your blaster into the ambulance. The Hivers are scurrying backwards out of sight, but you send a bolt of plasma after them. One of them is too slow and it is torched to a frazzle by the white-hot beam. You are getting ready to leap into the ambulance when its front explodes and a flyer accelerates out of it, the Hivers clinging on inside the honeycomb-like seats. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. Turn to 161.
 
 129
 Your shock wave of thought topples one of the lancers from the saddle and Bloodhound and Lynx have been similarly successful with two of the other lancers. The remaining one catchesLynx in the shoulder before she can topple him with the power of her thought, but she grabs the lance and swings herself up on it, kicking the lancer in the face. He tumbles, unconscious, from the saddle but Lynx falls beside him. She is badly wounded and has to return to her Autodoc. She urges you to go on, saying: 'I'll see you at the Eiger Vault Rec Centre,'and wishes you luck before limping away. You run to catch up with the ambulance. Turn to 251.
 
 130
-You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole in the time of Alexander the Great. Your scalp tingles slightly as the Time Machine moves out of phase, and everythingaround you seems grey and insubstantial. You knowthat should you turn on the outside camera the screen would remain blank - not even blackness exists in Null-space. You cast your thought into the void and using your Psychic Awareness locate the Timehole of Alexander the Great. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take around an hour for you. You may spend this time in the
-Autodoc, if you wish and gain up to 12 Endurance points.
+You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole in the time of Alexander the Great. Your scalp tingles slightly as the Time Machine moves out of phase, and everythingaround you seems grey and insubstantial. You knowthat should you turn on the outside camera the screen would remain blank - not even blackness exists in Null-space. You cast your thought into the void and using your Psychic Awareness locate the Timehole of Alexander the Great. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take around an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
 You rematerialise and the Holo-projector makes Falcon's Wing look like a bleak hillock. Your exterior camera shows a small range of desolate hills giving way to a dry plain crossed by a small river. You press 'hold' and the camera stops swivelling as a small city of mud-baked houses surrounded by tall, white stone walls and towers appears on the screen. It is what lies before the city which catches your eye. An e n t i r e army, perhaps forty thousand strong, is encamped before the city walls. The tattered tents are braced against the breeze and hundreds of wagons stand in a second camp further from the city, where gaggles of wagoners, camp followers and walking wounded seem to mock the orderly precision of the ranks of men, resplendent in their armour, the sun glinting from the tips of their sixteen-foot-long spears. They stand as if on parade. You ask CAIN what happened here, historically, He chimes. This city is the local capital. The people marches out to give battle to Alexander the Great and his army of Macedonians and troops from other conquered lands, two days ago, but fled when they saw Alexander and his men Alexander is returning from India to Babylon, the capital of his new empire and has decided to take this city. His men do not want to risk their lives again and he will soon head the assault in an attempt to inspire them. Realising that he is going to risk his life, his men will throw themselves onto the siege ladders, but these will be broken in their eagerness. Two men only will be with Alexander when he jumps down into the city and he will be severely wounded before the Macedonians break down the gates and rescue him ...'
 'Thank you CAIN,' you interrupt. 'What action would change the Timeline here?'
-CAIN says, The assassination of Alexander would seem the most likely option, but I cannot compute the effect this would have on the past. Alexander will die in only a few years from now at the age of-thirty-three and his empire will be divided up and fought over by his successors.' CAIN programmes the Molecular Converter to create the dress of a phalangite, a Macedonian warrior, and you step from Falcon's Wing wearing sandals, bronze greaves, a long heavy skirt of boiled leather strips, a breastplate, and a small round shield strapped to your left forearm. Your Psionic Enhancer becomes a crested helmet covering your face, with a Y-shaped slit for you to see through. Unable to wield a sixteen-foot-long 'sarissa' you make do with a short sword. Your blaster and holo-detector are concealed under your red cloak. You search
-the hills for Lord Speke's machine. Turn to 403.
+CAIN says, The assassination of Alexander would seem the most likely option, but I cannot compute the effect this would have on the past. Alexander will die in only a few years from now at the age of-thirty-three and his empire will be divided up and fought over by his successors.' CAIN programmes the Molecular Converter to create the dress of a phalangite, a Macedonian warrior, and you step from Falcon's Wing wearing sandals, bronze greaves, a long heavy skirt of boiled leather strips, a breastplate, and a small round shield strapped to your left forearm. Your Psionic Enhancer becomes a crested helmet covering your face, with a Y-shaped slit for you to see through. Unable to wield a sixteen-foot-long 'sarissa' you make do with a short sword. Your blaster and holo-detector are concealed under your red cloak. You search the hills for Lord Speke's machine. Turn to 403.
 
 131
 You concentrate your mind on whoever is inside the ambulance, knowing that the Renegade Lord has a powerful will. As soon as you attack, the battle starts to go against you. The power of the will which counter-attacks is awesome and you can do nothing as you lose control of your mind. You can only watch, as an outsider, as your hand pulls the blaster from your jacket. Sweating with effort you vainly try to resist as, shaking wildly, your arm takes aim at Bloodhound. He sees you and draws his own blaster. You are about to shoot him against your will when a blast of white-hot plasma rips into your shoulder. Lose 10 Endurance points. At least no blood flows - the plasma from the blaster seals the wound like boiling tar. The shock to your system allows you to try and reassert your own will. Make a Chance Roll.
@@ -848,9 +817,7 @@ Wait to see what happens?
 
 137
 Turn to 141 Turn to 104
-'Looks like you've done some expensive damage here,' says one of the Enforcers. 'I think well have to take you in.'He points his stun-lance at you. 'Just what you'd expect from a SAT. They
-
- give them all these wonderful toys and helmets that let them look into honest men's minds and what do they do, pop off their blasters,like they've just escaped from the incubator.' The first motions you into the jetcopter with his lance.
+'Looks like you've done some expensive damage here,' says one of the Enforcers. 'I think well have to take you in.'He points his stun-lance at you. 'Just what you'd expect from a SAT. They give them all these wonderful toys and helmets that let them look into honest men's minds and what do they do, pop off their blasters,like they've just escaped from the incubator.' The first motions you into the jetcopter with his lance.
 'Hold on,' says the other, 'this tin-can carries a Particle Disruptor.'After further examination he consults his RAT.
 This is an ex-SAT security droid, a banned model, apparently ihey were unpredictable. Funny that, you being a SAT agent, wouldn't you say? Anyway just our luck, you've won yourself 50 creds bounty for eliminating this junk here!' The other Enforcer spits in disgust and'they turn on their heels and climb In, bathing you with the 'copter's hot exhaust as they take off. You continue on your way to the hovrail. Turn to 169.
 
@@ -1295,8 +1262,7 @@ Turn to 220 Turn to 284
 230
 Lord Silvermane seems a little alarmed but he says, 'I am on important diplomatic business which cannot wait. Besides, it is not for me to cause an incident by compromising one of my fellow Lords. I will, however, give a report to Agidy Yelov and 1 will be available to meet you at 12.00 tomorrow.' With that he turns on his heel and strides bullishly towards the exit of the Eiger Vault. Do you:
 
-Return to Falcon's Wing? Turn to 119 Follow Silvermane to find out where
-he is going? Turn to 142
+Return to Falcon's Wing? Turn to 119 Follow Silvermane to find out where he is going? Turn to 142
 
 231
 You manage to turn the stricken ship back towards the Starport. As you do so you notice on the rear scanner an asteroid mining ship appear from behind the Asteroid Belt, and your Psychic Awareness registers the presence of a being with great powers of the mind, probably the Renegade Lord. You catch a thought, Golden Horde and then, self destruct. To your surprise the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? It takes all of your skill to land the under-powered Corsair ship which groans and shudders during re-entry but, thankfully, gains the safety of the Starport, after a very hard landing. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emisson from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. Do you have a nuclear bomb? If you do, turn to 415. If you do not, turn to 306.
@@ -1336,8 +1302,7 @@ A nearby outcrop of rock proves to be a hologram. Lord Speke or another travelle
 'Falcon, you have caught me in the act,' he says despondently. He says he will give himself up and he explains that for some time he has been breaking the First Law of TIME and living as an ancient Greek. He has always been careful not to upset the Timelines seriously, but he knows he has been acting wrongly. His collection of ancient Greek weapons is authentic and he has even buried ancient artifacts in places where he could 'discover' them as archaeological finds in the 31st century. You look into his mind, with his consent, and see that it is all true - Speke is not the Renegade Lord. Tears run down his face as he realises his hobby is over. 'At least,' he says, 'I can say I saw the man whose people thought he was a god.' He asks you how you discovered him and you tell him about your mission. He is shocked by the news of a traitor Lord but offers a few words of advice. 'It is not likely to be either Pilota, or myself - we are both Earther stock and interference with Earth's past might mean that we had never existed!' You thank Speke, but feel obliged to order him to return to 3033 AD and give himself up. Downcast, he assents. You leave and return to Falcon's Wing to continue with your mission. Have you spoken with Special Agent Bloodhound since your mission began? If you have, turn to 338. If you have not, turn to 52.
 
 238
-He ducks and the white-hot bolt of plasma scores a furrow in the shoulder of his Power Armour without penetrating. He fires another cutting streak from his laser rifle but his aim is slightly off, and he only catches you in the leg, though this almost parts company with your body - lose 8 Endurance points. You collapse to
-the floor. If you are still alive, turn to 277.
+He ducks and the white-hot bolt of plasma scores a furrow in the shoulder of his Power Armour without penetrating. He fires another cutting streak from his laser rifle but his aim is slightly off, and he only catches you in the leg, though this almost parts company with your body - lose 8 Endurance points. You collapse to the floor. If you are still alive, turn to 277.
 
 239
 Your aim is off and although the general is thrown backwards by a bolt of lightning from your blaster the Emperor's guard survives and gives the alarm before charging at you. You have time to use your blaster once more before you are impaled upon his curved sword. Make an Attack Roll.
