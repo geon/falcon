@@ -1824,10 +1824,12 @@ You press the button and the red star clicks forward onto the DISARMED line. You
 
 315
 Knowing the Renegade Lord commands a strong mental barrier, you concentrate your minds together as you rip open the doors to the ambulance. Make an Attack Roll and add two points to the dice for Bloodhound's attack.
+
 If you score 9-12, turn to 328 If you score 2-8, turn to 193
 
 316
 You jump aside just in time and the packer swings away once more. You are not disturbed again while checking the hangar, but find no trace of a Time Machine or Lord Speke. You return to Falcon's Wing, take off the boiler suit and feed it back into the Converter. Where will you search for Lord Speke next?
+
 In the time of Alexander the Great (if you have not done so already)?
 The planet Kelados in 2710 AD, where Q found a Lord of TIME tampering with the past (if you have not done so already)?
 The planet Dyskra, home of the Repnids, in 1985 AD (if you have not done so already)?
@@ -1837,9 +1839,9 @@ Turn to 418
 Turn to 375
 Turn to 394
 
-
 317
 Thementaleffortmakesyoulose4Endurancepoints.Ifyouarestill alive, you fail to keep them under control. One draws his sword and runs at you, his face a mask of rage, whilst the other rushes to the door and gives the alarm. You release Ogedai, who gasps for air, and turn to meet your attacker. There is no time to draw your blaster, and you must use unarmed combat. Make an Attack Roll.
+
 If you score 7-12, turn to 367 If you score 2-6, turn to 356
 
 318
@@ -1847,24 +1849,27 @@ The bear, used to the wild, has naturally quick reactions and it pulls back. You
 
 319
 You contact the mind of Pilota, using your power of Psychic Awareness. She is faraway, dwelling on her chances in the next solar yacht race. When she realises what you are up to her reaction is one of pleased surprise. She thinks a message to you: I like a lot of warp, why don't you try the same thing on the others? She is amused at the possibility but thinks a warning to you that they are, a bunch of empty cargo pods. Evidently she is impressed with your audacity. Will you:
-I cave your Time Machine and follow
-Lord Silvermane? Turn to 142
+
+Give a speech of thanks to end the ceremony?
+Probe the mind of another Lord? You may try
+Silvermane,
+the Creche,
+or Kirik
+Turn to 167 Turn to 280
+Turn to 223 Turn to 209
+
+320
+CAIN links to the Eiger Vault Service Computer and reports that Lord Silvermane is leaving the Vault and heading for the hovrail embarkation point. Will you:
+
+Use your Time Machine and follow Lord Silvermane? Turn to 142
 If you prefer not to follow him, return to 336 and choose again.
 
 321
 You pick your way through the mass of soldiery towards the large white tent, and are tall enough to crane your neck and see the figure of Alexander, resplendent in golden armour with a battered helmet which sports a white crest. He is a short man, but very athletic, his curly reddish-blond hair framing a deter- mined face with piercing blue eyes. Nearby, a white-robed priest is fiddling with the entrails of a sheep. He looks towards Alexander whom he calls King Iskander and strongly advises him not to attack the town, saying that the omens are bad. The soldiersmutter, but Alexander replies, 'My business is to conquercities. I do not have time to study the entrails of sheep. Leave me alone to finish my business.' Turning to his advisers he gives the word to prepare to storm the city. The army organises as if by magic, and siege ladders are brought forward on carts. There is still no sign of Speke and you are curtly ordered to join a phalanx of men near the city gates. Hoping not to be noticed, you take your place in one of the columns. Sensing that his men, war weary and far from home, are reluctant to storm another city after the bad omens, Alexander exhorts ihem to attack. They hesitate and he grabs a ladder and thrusts it against the wall. He scales it quickly, followed by his shieldbearer and a member of his bodyguard, and is soon atop the wall. Seeing this, the Macedonians bring up ladders and crying, 'Iskander, Iskander!' they rush up the ladders, breaking them in their eagerness. Alexander, an obvious target, is pelted with missiles and jumps down inside the city, almost alone. Do you:
-Give a speech of thanks to end the ceremony?
-Probe the mind of another Lord? You may try Silvermane,
-the Creche, or Kirik
 
-320
-CAIN links to the Eiger Vault Service Computer and reports that Lord Silvermane is leaving the Vault and heading for the hovrail embarkation point. Will you:
-Turn to 167 Turn to 280
-Turn to 223 Turn to 209
 Run up one of the few surviving ladders in case you can prevent him being assassinated?
 Wait and leave Alexander to his fate?
 Turn to 405 Turn to 200
-
 
 322
 Lynx's mental defences are too strong and she has
