@@ -1740,39 +1740,29 @@ You ask CAIN what happened here, historically. He chimes, This city is the local
 'Thank you CAIN,' you interrupt. 'What action would change the Timeline here?'
 CAIN says: The assassination of Alexander would seem the most likely option, but I cannot compute the effect this would have on the past. Alexander will die in only a few years from now at the age of thirty-three and his empire will be divided up and fought over by his successors.' CAIN programmes the Molecular Converter to create the dress of a phalangite, a Macedonian warrior, and you step from Falcon's Wing wearing sandals, bronze greaves, a long heavy skirt of boiled leather strips, a breastplate, a small round shield strapped to your left forearm and your Psionic Enhancer becomes a crested helmet covering your face with a Y-shaped slit for you to see through. Unable to wield a sixteen-foot-long 'sarissa' you make do with a shortsword. Your blaster and holo-detector are concealed under your red cloak. You search the hills for Lord Speke's machine. Turn to 237.
 
- The ambulance rattles up the hill towards the Emperor and his staff, the horses straining and you all run to intercept it. As you approach it, four Polish lancers, attached to Napoleon's escort, wheel their horses towards you. They look magnificent in their maroon and navy uniforms but their eyes are oddly glazed as if entranced. Their hostile intentions are all too clear, however, as they lower their long lances and charge at you, red and white lance pennons fluttering in the breeze. You haven't much time. Do you:
+304
+The ambulance rattles up the hill towards the Emperor and his staff, the horses straining and you all run to intercept it. As you approach it, four Polish lancers, attached to Napoleon's escort, wheel their horses towards you. They look magnificent in their maroon and navy uniforms but their eyes are oddly glazed as if entranced. Their hostile intentions are all too clear, however, as they lower their long lances and charge at you, red and white lance pennons fluttering in the breeze. You haven't much time. Do you:
+
 Throw yourself to the ground so that the horses pass over you knowing that they will try to avoid trampling you?
 Thinkstrike one of the Lancers?
 Pull out your blaster and shoot one of
 their horses?
+Turn to 410 Turn to 129
+Turn to 389
 
 305
 You are too slow. The Emperor's guard lunges swiftly as your finger closes on the trigger. His sword buries itself in your heart a moment before the white-hot plasma of your Waster causes his own body to explode. You die together and the Space Federation will never be. You have failed.
 
 306
 You ask CAIN for information on the Golden Horde. The computer responds: 'The Golden Horde was a name given to mongol tribesmen of the 12th and 13th century on Earth.' Looking at your Timehole map you can see that there is a Timehole on Earth in that period. Do you:
+
 Travel back to 1241 AD, to the time of the Golden Horde?
 Try to track down Lord Speke? Return to the Eiger Vault?
+Turn to 163 Turn to 407 Turn to 388
 
 307
-Turn to 163 Turn to 407 Turn to 388
-As a matter of course, all time trips into and out of the Eiger Vault Timehole are logged by the Monitoring Section. You ask CAIN to provide you with the log of movements since the death of Agent Q, typing your Security Clearance Code at the
-Turn to 410 Turn to 129
-Turn to 389
+As a matter of course, all time trips into and out of the Eiger Vault Timehole are logged by the Monitoring Section. You ask CAIN to provide you with the log of movements since the death of Agent Q, typing your Security Clearance Code at the terminal in front of you. The screen flashes up the follow information.
 
-terminal in front of you. The screen flashes up the follow information.
-place in one of the columns. Sensing that his men, war weary and far from home, are reluctant to storm another city after the bad omens, Alexander exhorts them to attack. They hesitate and he grabs a ladder and thrusts it against the wall. He scales it quickly, followed by his shieldbearer and a member of his bodyguard, and is soon atop the wall. Seeing this, the Macedonians bring up the ladders and crying, 'Iskander, Iskander!' for that is how they say his name, they rush up the ladders, which break in their eagerness. Alexander, an obvious target, is pelted with missiles and jumps down inside the city, almost alone. Turn to 273.
-309
-[score a T]
-Knowing what must be done and hoping to make his death seem natural, you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours, but he is too weak to resist. The guards' wills seem to grow stronger, battling with yours, at the sight of you murdering their Khan. You must make another Power of Will Roll to see if you can maintain your control.
-If you score 7-12, turn to 329 - If you score 2-6, turn to 317
-
-310
-You concentrate on the mongol wearing the most armour. Make a Power of Will Roll.
-If you score 6-12, turn to 275 If you score 2-5, turn to 283
-
-311
-The white lightning of your blaster throws them backwards in a cloud of blood-red vapour, but the Khan's guard screams loudly as he dies. You move swiftly through the doorway. Inside is a bedchamber and, sitting on a large litter, swaddled in silks and furs, is Ogedai Khan still weak from his illness. He looks up, his narrow eyes questioning your purpose. Golden statues, chests of treasure and tapestries line the walls. Silk awnings close off the balcony at the back of the room. Knowing what must be done and hoping to make his death look natural, you place a silken cushion over Ogedai's face and press down. His hands
 CURRENT EARTH DATE 15/10/33 15/10/33
 15/10/33 15/10/33 15/10/33 16/10/33
 16/10/33 16/10/33 16/10/33
@@ -1787,6 +1777,9 @@ INSUFFICIENT Q
 Kirik
 Kirik
 Pilota
+DESTINA TION
+Kelados 2710 AD
+Kelados 3033 AD
 Eiger Vault Kelados 2710 AD
 Eiger Vault
 Eiger Vault 3117 AD
@@ -1796,15 +1789,26 @@ EPSILON SECURITY CODE
 INSUFFICIENT
 Kirik
 TIME NOW: 12.40 DATE NOW: 16/10/33
+
 It is evident that the Eiger V ault Timehole has been busy but for some reason the information has largely been classified at Theta or Omega, the only Security Clearance Codes higher than yours, held by Section Chiefs and Lords. You decide to ask CAIN for the current whereabouts of the five Lords. Turn to 295.
 
 308
-As unobtrusively as you can you wander through the camp, casting around with your Psychic Awareness. You pick up a variety of the soldiers' thoughts; some are full of fear at the thought of assaulting the city, others are casting their minds back to their homes in Macedon, more are simply bored, a few look forward to pillage and plunder. Suddenly the mood changes. Alexander has had a priest take the omens and they are not good, but Alexander decides to attack in any case. Anxiety spreads and most are unwilling to attack. The king orders his men to prepare to storm the city and the army organises as if by magic. Siege ladders are brought forward on carts. There is still no sign of Speke and you are curtly ordered to join a phalanx of men near the city gates. Hoping not to be noticed you take your
-DESTINA TION
-Kelados 2710 AD
-Kelados 3033 AD
+As unobtrusively as you can you wander through the camp, casting around with your Psychic Awareness. You pick up a variety of the soldiers' thoughts; some are full of fear at the thought of assaulting the city, others are casting their minds back to their homes in Macedon, more are simply bored, a few look forward to pillage and plunder. Suddenly the mood changes. Alexander has had a priest take the omens and they are not good, but Alexander decides to attack in any case. Anxiety spreads and most are unwilling to attack. The king orders his men to prepare to storm the city and the army organises as if by magic. Siege ladders are brought forward on carts. There is still no sign of Speke and you are curtly ordered to join a phalanx of men near the city gates. Hoping not to be noticed you take your place in one of the columns. Sensing that his men, war weary and far from home, are reluctant to storm another city after the bad omens, Alexander exhorts them to attack. They hesitate and he grabs a ladder and thrusts it against the wall. He scales it quickly, followed by his shieldbearer and a member of his bodyguard, and is soon atop the wall. Seeing this, the Macedonians bring up the ladders and crying, 'Iskander, Iskander!' for that is how they say his name, they rush up the ladders, which break in their eagerness. Alexander, an obvious target, is pelted with missiles and jumps down inside the city, almost alone. Turn to 273.
 
-scrabble feebly at yours, but he is too weak to resist. His face turns blue as he dies. You leave the room, hoping to slip back out to the flyer without being seen. Make a Chance Roll.
+309
+[score a T]
+Knowing what must be done and hoping to make his death seem natural, you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours, but he is too weak to resist. The guards' wills seem to grow stronger, battling with yours, at the sight of you murdering their Khan. You must make another Power of Will Roll to see if you can maintain your control.
+
+If you score 7-12, turn to 329 - If you score 2-6, turn to 317
+
+310
+You concentrate on the mongol wearing the most armour. Make a Power of Will Roll.
+
+If you score 6-12, turn to 275 If you score 2-5, turn to 283
+
+311
+The white lightning of your blaster throws them backwards in a cloud of blood-red vapour, but the Khan's guard screams loudly as he dies. You move swiftly through the doorway. Inside is a bedchamber and, sitting on a large litter, swaddled in silks and furs, is Ogedai Khan still weak from his illness. He looks up, his narrow eyes questioning your purpose. Golden statues, chests of treasure and tapestries line the walls. Silk awnings close off the balcony at the back of the room. Knowing what must be done and hoping to make his death look natural, you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours, but he is too weak to resist. His face turns blue as he dies. You leave the room, hoping to slip back out to the flyer without being seen. Make a Chance Roll.
+
 If you score 1-3, turn to 170 If you score 4-6, turn to 127
 
 312
