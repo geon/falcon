@@ -2223,72 +2223,74 @@ Realising that time travel would be invented too early if Kirik's machine was di
 You grab him by one of his huge, blue-skinned arms and insist that he tell you where he is going. He calmly insists that you remove your arm and makes to enter his machine Do you:
 
  Apologise and return to your machine? Use your Power of Will to control him? Try to restrain him physically?
-Tell him about your mission and appeal
-for his help?
-
-384
-You walk through the hologram and see a model B Time Machine, that of one of the human or humanoid Lords of TIME. From the markings you guess it to be that of Lord Speke and, surprisingly, you see that the Access Hatch has been left on automatic, an extraordinarily careless mistake. Will you:
-Enter Lord Speke's machine? Turn to 366 Follow Lord Speke to the Greek
-encampment?
-Turn to 393
-Try to control Napoleon's mind and use him to call off the attack of the Imperial Guard?
-Return to Falcon's Wing and chase the Creche to the planet Hel?
-
-386
-Turn to 37 Turn to 84
-
-385
-You bring the soldier under your control and force him to discharge his musket through a crack in the ambulance's side planking. Bloodhound suddenly tenses, controlled by the Renegade Lord and, drawing his blaster, takes aim at you. You are about to dive onto the ground when the musket goes off and Bloodhound regains control of himself. You run up to the ambulance, but before you arrive the front explodes and a flyer accelerates out of it. Six beings like giant ants, their red, compound eyes glaring at you balefully, are clinging on inside the honeycomb-like seats. One of them appears to have been killed by a musket ball. You realise it is the Hivers, Lord Creche 82282. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. Do you:
-As you approach the line of battle, beneath the Russian
+Tell him about your mission and appeal for his help?
 Turn to 119 Turn to 245 Turn to 266
 Turn to 230
 
-redoubts Davout's blue-jacketed infantry are being repulsed for the first time, withdrawing to regroup. As they do so, a furious cannonade opens up from the Russian guns, some of which are firing in your direction. Make a Chance Roll.
+384
+You walk through the hologram and see a model B Time Machine, that of one of the human or humanoid Lords of TIME. From the markings you guess it to be that of Lord Speke and, surprisingly, you see that the Access Hatch has been left on automatic, an extraordinarily careless mistake. Will you:
+
+Enter Lord Speke's machine? Turn to 366
+Follow Lord Speke to the Greek encampment? Turn to 393
+
+385
+You bring the soldier under your control and force him to discharge his musket through a crack in the ambulance's side planking. Bloodhound suddenly tenses, controlled by the Renegade Lord and, drawing his blaster, takes aim at you. You are about to dive onto the ground when the musket goes off and Bloodhound regains control of himself. You run up to the ambulance, but before you arrive the front explodes and a flyer accelerates out of it. Six beings like giant ants, their red, compound eyes glaring at you balefully, are clinging on inside the honeycomb-like seats. One of them appears to have been killed by a musket ball. You realise it is the Hivers, Lord Creche 82282. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. Do you:
+
+Try to control Napoleon's mind and use him to call off the attack of the Imperial Guard?
+Return to Falcon's Wing and chase the Creche to the planet Hel?
+Turn to 37 Turn to 84
+
+386
+As you approach the line of battle, beneath the Russian redoubts Davout's blue-jacketed infantry are being repulsed for the first time, withdrawing to regroup. As they do so, a furious cannonade opens up from the Russian guns, some of which are firing in your direction. Make a Chance Roll.
+
 If you score 1-4, turn to 364 If you score 5-6, turn to 351
 
 387
 You aim carefully from the shadows and both are felled by the bolt of superheated plasma which seems to leap from your hand One is thrown backwards through the door with a crash and the other screams horribly. A stream of twenty or more guards come running from the building outside which the horses are tethered. Whispering together, they look out into the shadows fearfully. Strengthening their resolve, they fan out towards you in four groups, drawing their swords. You cannot use your blaster in the darkness, for you cannot see where they are. Do you:
 
+Run back to your flyer?
+Hide in a stand of cherry trees?
+Turn to 401 Turn to 412
+
+388
+You rematerialise in the Eiger Vault. All is as you left it. CAIN informs you that the machines of Lords Silvermane and Pilota are in their bays. Lord Pilota is still on Spiro's Ringworld and Lord Silvermane is in a meeting at the Galactic Trade Centre. Will you:
+
+Travel to TIME headquarters to confront Agidy Yelov?
+Try to track down Lord Speke?
+Go back to the time of the mongols, Earth 1241 AD?
+Try to arrange a meeting with Lord Pilota, using the holophone?
+Turn to 261 Turn to 407
+Turn to 163 Turn to 56
+
+389
+The lancers bear down on you swiftly, but the horse is an easy target. Make an Attack Roll.
+
+If you score 5-12, turn to 365 If you score 2-4, turn to 346
+
 390
 Your aim is accurate and the mongol's head disappears from his shoulders. The headless corpse takes a few more stumbling steps, the sword waving wildly, before it collapses. Acting quickly, you slit Ogedai's throat with the corpse's sword as the door swings open and several members of the Imperial Guard charge at you. You try to dive through the awning to the balcony. Make an Evasion Roll.
+
 If you score 6-12, turn to 189 If you score 2-5, turn to 201
 
 391
 You tell Pilota of your mission and she says, her voice high- pitched in the thin air, 'And I am the prime suspect? I suppose you realise that if a Lastlander such as I interfered with Earth's past I might very well cease to exist. We are Earther colonials after all.'
-You reply calmly, 'No, you are not my prime suspect/ your voice similarly distorted.
+You reply calmly, 'No, you are not my prime suspect', your voice similarly distorted.
 It is difficult to tell under these conditions, but Pilota's dilated pupils suggest she may be using a mild relaxant drug. She continues, however, 'I noticed yesterday that somebody with a high Security Clearance has spent much time researching the history of Earth around the Timehole of 1241 AD. A very great deal of time, according to the Central Library tog.'
 Remo, Pilota's assistant intervenes, saying,'Lord Pilota has been under stress, the failed attempt to travel in the future...' He indicates that the audience is at an end. You thank Pilota for her help and return to the shuttle. Within thirty minutes you are back in front of the console of your Time Machine.
+
 If you have seen a man in golden armour called Iskander, turn to 114.
-If you have seen a Phocian pirate, turn to 34. If you have seen neither of these, do you:
-Run back to your flyer?
-Hide in a stand of cherry trees?
+If you have seen a Phocian pirate, turn to 34.
 
-388
-Turn to 401 Turn to 412
-You rematerialise in the Eiger Vault. All is as you left it. CAIN informs you that the machines of Lords Silvermane and Pilota are in their bays. Lord Pilota is still on Spiro's Ringworld and Lord Silvermane is in a meeting at the Galactic Trade Centre. Will you:
-Travel to TIME headquarters to confront Agidy Yelov?
-Try to track down Lord Speke?
-Go back to the time of the mongols,
-Earth 1241 AD?
-Try to arrange a meeting with Lord
-Pilota, using the holophone?
+If you have seen neither of these, do you:
 
-389
-Turn to 261 Turn to 407
-Turn to 163 Turn to 56
-The lancers bear down on you swiftly, but the horse is an easy target. Make an Attack Roll.
-If you score 5-12, turn to 365 If you score 2-4, turn to 346
-
-Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados in
-3033 AD?
-Move back into the Timehole that
-exists in 1241 AD, the time of the
-mongols?
+Try to follow Lord Speke into the past?
+Follow Lord Kirik to Kelados in 3033 AD?
+Move back into the Timehole that exists in 1241 AD, the time of the mongols?
 Spend some time in your Autodoc?
-
-392
 Turn to 220 Turn to 284
 Turn to 414 Turn to 196
+
+392
 Timehole on Earth in the Jurassic age. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic Awareness, locate the Timehole on Earth. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
 You activate the camera which shows that you have landed in a tropical rain forest, full of giant ferns and primitive fir trees, weighed down with cones. Falcon's Wing settles gently into soft ooze and the holo-projector casts the image of a clump of ferns around the Time Machine. A great swampy lake stretches into the distance ahead. You cannot see any visual evidence of Speke but if his machine is disguised like yours, you realise that the only way of finding it, if it is here, is to take the holo-detector outside. Do you:
 Somehow you have only managed to hit the Phocian in the shoulder. His shoulder disappears in a hiss of reddish vapour and his arm rotates gently away from his body surrounded by a cloud of small red globules. Such is the power, however, of the alien mind which controls him that he still fires his ship's lasers, piercing the hull of the envoy ship. There is a brilliant white explosion which fills the scanner screen and then you are suddenly engulfed in blackness. Then you find yourself in a smoke-filled shelter, a fugitive from an alien race on your own world. The past has been changed and your memories with it. You leap out of the shelter to hurl a grenade at a strange alien craft on the street above you... As Falcon, Agent of TIME, you have failed.
