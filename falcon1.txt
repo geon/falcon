@@ -1899,14 +1899,10 @@ If you score 5-12, turn to 290 If you score 2-4, turn to 345
 You press the button and the red star clicks forward one line.
 Which button do you press next:
 The top button? The centre button? The bottom button?
-
-328
-Ripping the ambulance doors open reveals a bizarre sight, six creatures like giant ants, mandibles clicking in agitation, are backing into a honeycomb structure, their dull, red, compound eyes menacing. One collapses as the combined force of your Thinkstrike hits home. The honeycomb is on top of a flyer, similar in design to your own and you both throw yourselves back to the ground outside to avoid the Ion Drive exhaust as the flyer explodes from the front of the ambulance. You sense that the six Hiver beings who together are Lord Creche, the Renegade Lord, are flying back to their Time Machine, with one exception. The victim of your Thinkstrike had not reached his
-seat in the honeycomb. Toppling backward as the flyer took off, it was vapourised by the Ion Drive. Quickly you search the ambulance and find a small capsule. It is in Interstellar Code - a message from Agidy Yelov to the Creche suggesting that if the
-Turn
 Turn to 402 to 358 Turn to 342
 
-mission is aborted, they should effect a rendezvous on planet Hel. As quickly as you can, after checking that the Emperor's Imperial Guard are not advancing, you return to your Time Machine. Turn to 161.
+328
+Ripping the ambulance doors open reveals a bizarre sight, six creatures like giant ants, mandibles clicking in agitation, are backing into a honeycomb structure, their dull, red, compound eyes menacing. One collapses as the combined force of your Thinkstrike hits home. The honeycomb is on top of a flyer, similar in design to your own and you both throw yourselves back to the ground outside to avoid the Ion Drive exhaust as the flyer explodes from the front of the ambulance. You sense that the six Hiver beings who together are Lord Creche, the Renegade Lord, are flying back to their Time Machine, with one exception. The victim of your Thinkstrike had not reached his seat in the honeycomb. Toppling backward as the flyer took off, it was vapourised by the Ion Drive. Quickly you search the ambulance and find a small capsule. It is in Interstellar Code - a message from Agidy Yelov to the Creche suggesting that if the mission is aborted, they should effect a rendezvous on planet Hel. As quickly as you can, after checking that the Emperor's Imperial Guard are not advancing, you return to your Time Machine. Turn to 161.
 
 329
 The mental effort has made you lose 3 Endurance points, but you manage to keep them under control. You continue until you arc sure Ogedai is dead, and then you order the mongol guards to lead you back through the banqueting hall to the palace gate. In the hall the dancing goes on and you slip unnoticed out into the night. Outside the city gates you tell them to kneel and then knock them out with a couple of deft blows to the neck; before returning to your flyer, amazed at your good fortune at killing the Khan of the mongol horde and living to tell the tale. Turn to 254.
@@ -1915,90 +1911,107 @@ The mental effort has made you lose 3 Endurance points, but you manage to keep t
 Ripping the ambulance doors open reveals a bizarre sight - six creatures like giant ants, mandibles clicking in agitation, are backing into a honeycomb structure, their dull, red, compound eyes menacing. The honeycomb is on top of a flyer, similar in design to your own. The six beings, together known as Lord Creche 82282, the Renegade Lord, are unaffected by the combined Power of Will attack. Bloodhound suddenly grabs you and throws you out of the ambulance, leaping down after you and picking up a fallen musket. He is being controlled by the Creche! He aims a savage swipe with his musket. Turn to 38.
 
 331
-You call up the Free Fall Recreation Centre at Spiro's Ringworld, a massive wheel-like world-in-miniature, orbiting earth. Their holo-coordinator seems to appear in your Time Machine. She is a striking girl, her skin tinted blue with orange flashes. She puts you through to Lord Pilota's personal assistant. He is a bony, hollow-cheeked man, showing signs of the Medawar Syn- drome, the onset of rapid ageing. You identify yourself and ask for Her Lordship and the hologram winks out momentarily When the holo-picture of the assistant reappears, he says, 'Lord Pilota is temporarily indisposed. Under no circumstances may she be contacted at the moment. If you would care to visit Spiro's Ringworld, however, she will be pleased to grant you immediate audience, as she. believes she has some information which may interest you, as an Agent of the TIME Police.' With that, he
-breaks contact and the blue-skinned coordinator informs you that the line has been closed to all callers and asks, 'What is that weird space ship you're in?' CAIN informs you that by requisitioning a shuttle from the Eiger Base you could dock at Spiro's Ringworld in eighteen minutes. Ignoring the holo- coordinator, do you:
+You call up the Free Fall Recreation Centre at Spiro's Ringworld, a massive wheel-like world-in-miniature, orbiting earth. Their holo-coordinator seems to appear in your Time Machine. She is a striking girl, her skin tinted blue with orange flashes. She puts you through to Lord Pilota's personal assistant. He is a bony, hollow-cheeked man, showing signs of the Medawar Syn- drome, the onset of rapid ageing. You identify yourself and ask for Her Lordship and the hologram winks out momentarily When the holo-picture of the assistant reappears, he says, 'Lord Pilota is temporarily indisposed. Under no circumstances may she be contacted at the moment. If you would care to visit Spiro's Ringworld, however, she will be pleased to grant you immediate audience, as she. believes she has some information which may interest you, as an Agent of the TIME Police.' With that, he breaks contact and the blue-skinned coordinator informs you that the line has been closed to all callers and asks, 'What is that weird space ship you're in?' CAIN informs you that by requisitioning a shuttle from the Eiger Base you could dock at Spiro's Ringworld in eighteen minutes. Ignoring the holo- coordinator, do you:
+
 Set off for Spiro's Ringworld? Choose another course?
+Turn to 335 Return to 336 and choose again.
 
 332
-Turn to 335 Return to 336 and choose again.
 As soon as you have said it you sense that you made a mistake. Marshal Ney looks at you, piercingly, and says, The Cuirassiers are commanded by Murat, Ledru commands infantry. What is this? - arrest this spy!' A young hussar officer who has been assigned to Ney's staff takes out a pistol and orders you to dismount. Thinking quickly, you decide there is no time to lose and, ducking, you drive your horse into his before galloping away. Make an Evasion Roll.
+
 If you score 6-12, turn to 289 If you score 2-4, turn to 274 If you score a 5, roll again.
 
 333
 It is difficult to take aim in free fall, but your target has his back to you and is not moving. Make an Attack Roll.
+
 If you score 5-12, turn to 380 If you score 2-4, turn to 392
 
 334
 You rematerialise at the Eiger Vault. All is as you left it. CAIN informs you that the machines of Speke, Silvermane and Pilota are in their bays. Speke is on his way to TIME headquarters, presumably to give himself up. Pilota is still on Spiro's Ringworld and Silvermane is at the Galactic Trade Centre. Do you:
+
 Use your holophone to arrange a meeting with Lord Pilota?
 Go to the Galactic Trade Centre to find Lord Silvermane?
 Follow Lord Kirik to Kelados, 3033 AD?
 Turn to 56
 Turn to 294 Turn to 284
 
- I
-
 335
 Through CAIN you order that a shuttle be prepared for your trip to Spiro's Ringworld and waste no time. You run from the doors of the Vault across the launch bay to the small, dart- shaped shuttle with its huge, ungainly drive vents, each as large as the cabin. The navigational computer is already set as you strap into the Acceleration Web behind the pilot. With a flash of light the Ion Drive fires and you are accelerated sickeningly quickly. This is a Navy pilot - she has never flown civilian craft. Minutes later the Docking Computer locks onto the Ringworld, a glittering disc twenty miles across, turning silently in space and the deceleration is equally unpleasant. As you step out into the air-lock, the pilot turns and smiles, 'You stood that well - you must be fit.' You ask her to stand by for your return journey and enter the Ringworld.
 Lord Pilota's assistant meets you as you emerge from the air- lock and, helping you into a jet pack, points up into the empty centre of the so-called Ringworld. You are standing on the inside rim of the disc which is rotating quickly enough to produce a gravity not far below that of Earth's. Looking up, you see the tops of the buildings, twenty miles away on the opposite side of the Rim. The assistant explains that Lord Pilota is in the gravity free zone, or free fall area, in the centre of the disc, half way to the other rim. You blast off with him confidently enough, and head for the centre of the rimworld. As you approach you see Lord Pilota, spinning slowly, head over heels, apparently at ease without the hydraulic exoskeleton she uses in Earth gravity. With a shock you realise that you cannot adapt easily to free fall and accidentally cannon into her, sending you both towards the other rim. She steadies you easily and with two deft jet-pack blasts returns you to a stationary position in free fall. She speaks, her voice high-pitched in the thin air. 'Falcon, you've come all this way to see me. Why? What is so important?' Will you:
+
 Accuse her of trying to change the past?
 Tell her that a Lord of TIME has been interfering with the Timelines and ask for help?
 Ask if she has information for you?
 Turn to 340
 Turn to 391 Turn to 87
 
-
 336
 The scanner light above your head is now green and you are drawn up by invisible Tractor Beams into the relative safety of Falcon's Wing. Sitting in the crash couch you consider what to do next. You have no information as to the whereabouts of Creche 82282 but some about the other Lords. What will you do:
 
-340
-She laughs, 'That's ridiculous, are you insane? I asked you here to tell you that someone had been using the Central Library to investigate Earth history in 1241 AD, the time of the mongol hordes. Think again, Falcon. If Earth's past were changed, we Lastlanderswould never have existed, or had you forgotten that we are Earther colonials? I don't know how you ever managed to pass the tests of the Academy. Escort Falcon back to the shuttle please, Remo.' Her assistant switches on his jet-pack and crashes into you while Pilota moves to the other rim. Two red dots appear ahead of you, growing in size until you recognise their securityuniforms,'The guards obey Remo's instructions to return you to your shuttle or terminate you if you resist, and you decide to obey since you are at a severe disadvantage in free fall. Minutes later you are in the shuttle en route for the Eiger Vault once more and soon back in your Time Machine. If you have seen a man in golden armour called Iskander, turn to 114. If you have seen a Phocian pirate, turn to 34. If you have seen neither of these, do you:
 Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados, 3033 AD? Ask CAIN where Silvermane is? Quickly contact Lord Pilota by
 holophone?
 Or if you are wounded and would
 rather spend two hours in your Autodoc now then carry on later
-
-337
 Turn to 357 Turn to 284 Turn to 320
 Turn to 331
 Turn to 196
+
+337
 You concentrate on an infantry man who has just reloaded his musket and is passing nearby, and try to control him. Make a Power of Will Roll.
+
 If you score 5-12, turn to 385 If you score 2-4, turn to 411
 
 338
 Inside Falcon's Wing you sit in the crash couch and instruct CAIN to engage the Variac Drive. Do you:
-Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados in
-3033 AD?
-Move back into the Timehole that exists
-in 1241 AD, the time of the mongols? Spend some time in your Autodoc?
 
-341
-Turn to 220
-Turn to 284
-Turn to 414 Turn to 196
 Go back to Earth in the time of the mongol hordes?
 Return to the Eiger Vault?
+Turn to 374 Turn to 359
 
 339
-Turn to 374 Turn to 359
-You order the guards to slit Ogedai's throat. He is too weak to resist but, faced with the prospect of murdering their Khan, their wills revolt against yours and your control is thrown off. One of the guards draws his sword and runs at you, his face a mask of rage, whilst the other rushes to the door and gives the alarm. You turn to meet your attacker. There is no time to draw your blaster, and you must use unarmed combat. Make an Attack Roll.
-If you score 7-12, turn to 367 If you score 2-6, turn to 356
-
-342
-You press the button and the red star clicks forward onto the line before the DETONATE line. The dials look like this:
 You kick with the speed of a blackbelt and even Lynx is taken by surprise. She sprawls unconscious on the floor. Bloodhound suggests you run to the ambulance and attack, and you agree. As you approach, you feel the will within becoming aware of you. Do you shout to Bloodhound:
 Thinkstrike now!? Power of Will, now!? Blast to kill!?
 Turn to 315 Turn to 330 Turn to 348
 
- Which button do you press next:
+340
+She laughs, 'That's ridiculous, are you insane? I asked you here to tell you that someone had been using the Central Library to investigate Earth history in 1241 AD, the time of the mongol hordes. Think again, Falcon. If Earth's past were changed, we Lastlanderswould never have existed, or had you forgotten that we are Earther colonials? I don't know how you ever managed to pass the tests of the Academy. Escort Falcon back to the shuttle please, Remo.' Her assistant switches on his jet-pack and crashes into you while Pilota moves to the other rim. Two red dots appear ahead of you, growing in size until you recognise their securityuniforms,'The guards obey Remo's instructions to return you to your shuttle or terminate you if you resist, and you decide to obey since you are at a severe disadvantage in free fall. Minutes later you are in the shuttle en route for the Eiger Vault once more and soon back in your Time Machine.
+
+If you have seen a man in golden armour called Iskander, turn to 114. If you have seen a Phocian pirate, turn to 34.
+
+If you have seen neither of these, do you:
+
+Try to follow Lord Speke into the past? Follow Lord Kirik to Kelados in 3033 AD?
+Move back into the Timehole that exists in 1241 AD, the time of the mongols?
+Spend some time in your Autodoc?
+Turn to 220
+Turn to 284
+Turn to 414 Turn to 196
+
+341
+You order the guards to slit Ogedai's throat. He is too weak to resist but, faced with the prospect of murdering their Khan, their wills revolt against yours and your control is thrown off. One of the guards draws his sword and runs at you, his face a mask of rage, whilst the other rushes to the door and gives the alarm. You turn to meet your attacker. There is no time to draw your blaster, and you must use unarmed combat. Make an Attack Roll.
+
+If you score 7-12, turn to 367 If you score 2-6, turn to 356
+
+342
+You press the button and the red star clicks forward onto the line before the DETONATE line. The dials look like this:
+Which button do you press next:
 The top button? The centre button? The bottom button?
+Turn to 314 Turn to 402 Turn to 358
 
 343
 Your blaster spouts white-hot bolts of plasma, cutting a swathe through the horsemen. Ten or more perish and the squealing of their horses rings in your ears. Seeing what they take to be evil magic, they turn tail and flee, leaving the village alone. Still carrying the nuclear bomb, you go back to Falcon's Wing, hoping your actions have not seriously changed the Timelines. You ask CAIN to what extent you have changed the past and, to your relief, it responds, There is no significant change, Falcon. My files do carry a tale, however, about a sorcerer who saved the village of Ramallo from the mongol horde, for a brief time.
 Congratulations, Falcon, you are the sorcerer of Ramallo.' CAIN then adds, 'You are lucky to be alive.' You tell CAIN to shut up. Turn to 229.
 
 344
-You haven't long in which to stop the attack. The finest troops alive at this time. Napoleon's Imperial Guard, fresh and eager,
+You haven't long in which to stop the attack. The finest troops alive at this time. Napoleon's Imperial Guard, fresh and eager, will decisively change the course of the battle. The earlier French attacks by Marshals Ney and Davout had been repulsed and the valiant Russian Commander, Prince Bagration, had counter-attacked, but been unsuccessful. His troops were flung back and he himself has been mortally wounded. If the Imperial Guard attack the Russians will be routed and Murat's cavalry will cut them down in their thousands. The Russians will have lost this war and Europe will be plunged into wars against Napoleon for decades. The guards will meet the Russian line in minutes. Do you:
+
+Run towards the ambulance and Thinkstrike the Renegade Lord?
+Use your Power of Will to try to force a soldier to fire at the ambulance?
+Try to control Napoleon so that he calls off the attack?
+Run towards the ambulance and blast at the back doors?
+Turn to 354 Turn to 337 Turn to 212 Turn to 324
+
+345
 You throw yourself into the mud and fire your blaster at the giant crocodile which is lunging at you. In your haste you hit only its leg and the monster's jaws have closed around you before the sensation of pain reaches its sluggish brain. Powerless to resist, you are pulled below the surface of the swamp, threshing madly. Your ribs crack and you are soon too weak to struggle, drowned in the primeval swamp. You have failed.
 
 346
@@ -2006,37 +2019,27 @@ You lose your grip on the blaster in your haste and before you can recover a lan
 
 347
 As you gallop away. Marshal Ney orders you to stop and then, realising you are ignoring him, orders three of the young officers on his staff to arrest you. They charge after you and you urge your mount on through the smoke of the French cannon.
-Turn to 314 Turn to 402 Turn to 358
-will decisively change the course of the battle. The earlier French attacks by Marshals Ney and Davout had been repulsed and the valiant Russian Commander, Prince Bagration, had counter-attacked, but been unsuccessful. His troops were flung back and he himself has been mortally wounded. If the Imperial Guard attack the Russians will be routed and Murat's cavalry will cut them down in their thousands. The Russians will have lost this war and Europe will be plunged into wars against Napoleon for decades. The guards will meet the Russian line in minutes. Do you:
-Run towards the ambulance and Thinkstrike the Renegade Lord?
-Use your Power of Will to try to force a soldier to fire at the ambulance?
-Try to control Napoleon so that he calls off the attack?
-Run towards the ambulance and blast at the back doors?
-
-345
-Turn to 354 Turn to 337 Turn to 212 Turn to 324
-
 One of the officers, a young hussar, whose grey and red pelisse streams out behind him in the wind, has a good mount and is gaining on you. You ride down into a small dip, jumping a brook out of sight of the rest of the army and he follows. Do you:
-Stop Lord Silvermane and insist he tells you where he is going?
-Return to your Time Machine and try to go after one of the other Lords?
 
-350
-Turn to 383 Turn to 20
 Thinkstrike the hussar?
-Rein in and blast him when he is close
-enough so that you cannot miss him?
+Rein in and blast him when he is close enough so that you cannot miss him?
+Turn to 285 Turn to 195
 
 348
-Turn to 285 Turn to 195
-You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on Earth, 2700 AD. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic A wareness, locate the Timehole of Earth 2700 AD. When you have translated this location into co- ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
-Your external camera pivots, showing a large Starport loading hangar which appears to be completely automated. An Andromeda class Star Freighter of the series commissioned in 2692 AD, to supply the outer colonies, rests nearby, its immense cargo doors open for the robot cranes and packers. A line of the robot packers is quite close to Falcon's Wing which is disguised by hologram to resemble a large cold store. CAIN tells you that you are in the Calgary Starport and the Star Freighter is the Earth Federation ship Frank Whittle, named after the inventor of the jet engine used in aeroplanes of the 20th century. It is being loaded with supplies for the new colony world of Ascension, in particular, the serum which will save almost the entire population from the deadly viral infection which broke out about ten days ago and is ravaging the colony. You can see no sign of Speke or his machine but it could easily be beyond the Freighter. You decide to check the hangar with your holo- detector and CAIN prepares the uniform of a maintenance technician of 2700 AD in the Molecular Converter. You put on the boiler suit with its markings proclaiming you a grade 3 Robotech, attached to Calgary Starport. You are walking towards the Freighter, when with a hiss and a screech the boom of a packing robot descends upon you as if you were a piece of
 Ripping the ambulance doors open reveals a bizarre sight - six creatures like giant ants, mandibles clicking in agitation, are backing into a honeycomb structure, their dull, red, compound eyes menacing. One shrivels as the white-hot plasma from your blaster hits home. The honeycomb is on top of a flyer, similar in design to your own and you both throw yourselves to the ground outside to avoid the Ion Drive exhaust as the flyer explodes from the front of the ambulance. You sense that the six Hiver beings who together are Lord Creche, the Renegade Lord, are flying back to their Time Machine, with one exception. The victim of your Thinkstrike had not reached his seat in the honeycomb. Toppling backward as the flyer took off, it was vapourised by the Ion Drive. Quickly you search the ambulance and find a small capsule. It is in Interstellar Code - a message from Agidy Yelov to the Creche suggesting that if the mission is aborted, they should effect a rendezvous on planet Hel. As quickly as you can, after checking that the Emperor's Imperial Guard are not advancing, you decide to follow the Creche. Turn to 161.
 
 349
 You float down out of Falcon's Wing and walk quickly to the adjacent bays. You pass the bay used for the Creche machine first - it is empty. Then you see the powerful, squat form of Lord Silvermane striding towards his machine just as that of Lord Speke winks out of its bay, back into the past. Catching up with Lord Silvermane you ask him where he intends to go. He replies, brusquely, 'I'm on important official business, you need not concern yourself with it. Speke has just left, however, and you may well be able to guess where he has gone, if you examine his file. Goodbye Falcon,' and he hurries towards his Time
 Machine. Do you:
 
-cargo. Its huge grab opens - evidently it intends to pack you! Make an Evasion Roll.
+Stop Lord Silvermane and insist he tells you where he is going?
+Return to your Time Machine and try to go after one of the other Lords?
+Turn to 383 Turn to 20
+
+350
+You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on Earth, 2700 AD. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic A wareness, locate the Timehole of Earth 2700 AD. When you have translated this location into co- ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
+Your external camera pivots, showing a large Starport loading hangar which appears to be completely automated. An Andromeda class Star Freighter of the series commissioned in 2692 AD, to supply the outer colonies, rests nearby, its immense cargo doors open for the robot cranes and packers. A line of the robot packers is quite close to Falcon's Wing which is disguised by hologram to resemble a large cold store. CAIN tells you that you are in the Calgary Starport and the Star Freighter is the Earth Federation ship Frank Whittle, named after the inventor of the jet engine used in aeroplanes of the 20th century. It is being loaded with supplies for the new colony world of Ascension, in particular, the serum which will save almost the entire population from the deadly viral infection which broke out about ten days ago and is ravaging the colony. You can see no sign of Speke or his machine but it could easily be beyond the Freighter. You decide to check the hangar with your holo- detector and CAIN prepares the uniform of a maintenance technician of 2700 AD in the Molecular Converter. You put on the boiler suit with its markings proclaiming you a grade 3 Robotech, attached to Calgary Starport. You are walking towards the Freighter, when with a hiss and a screech the boom of a packing robot descends upon you as if you were a piece of cargo. Its huge grab opens - evidently it intends to pack you! Make an Evasion Roll.
+
 If you score 6-12, turn to 316 If you score 2-5, turn to 353
 
 351
