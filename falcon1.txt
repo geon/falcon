@@ -1520,6 +1520,13 @@ You are towed slowly to the floating platform where you leave Falcon's Wing and 
 265
 You manage to close your mind to the Renegade Lord and tell Bloodhound what has happened. You prepare to rip open the doors of the ambulance. Do you shout to Bloodhound:
 
+Thinkstrike now!? Power of Will now!? Blast to kill!?
+Turn to 315 Turn to 330 Turn to 348
+
+266
+You try to trip the powerful Lord to the ground. Make Attack Roll.
+If you score 2-10, turn to 214 If you score 11-12, turn to 181
+
 267
 You are acting against the First Law of TIME, but as you step towards the village well, resplendent in your silver uniform with your helmet's reflecting plate pulled down like a mirror in front of your face, the slaughter stops, quite suddenly. They whisper in awe. You point at one of the mongols and Thinkstrike him. He slumps to the ground. Next, you use the mechanical sounding voice box of your Translator to order the mongols to leave the village. Their leader kneels before you and offers homage and the rest follow suit. 'We obey, O spirit of the Everlasting Blue Sky,' he says, and they mount up and ride quickly away. The villagers gaze at you in fear and astonish- ment. Wasting no time, you gather up the clothes and the nuclear bomb and return to the safety of Falcon's Wing, hoping your actions have not seriously damaged the Timelines. You ask C A I N to what extent you have changed the past, and, to your relief, he responds, 'There is no significant change, Falcon. My files do carry a tale, however, about a sorceror who saved the village of Ramallo from the mongol Horde, for a little while. Congratulations, Falcon, you are the sorceror of Ramallo.' Turn to 229.
 
@@ -1530,13 +1537,6 @@ If you score 6-12, turn to 118 If you score 2-5, turn to 322
 269
 [score a C]
 At this range you cannot miss and your blast overloads the cydroid's infra-red sensory circuits, leaving it temporarily inert. You step behind it and find the removable disc below which lies the de-activation switch. When you have thrown the switch you examine the cydroid carefully. It appears to be a very advanced model, equipped with a Particle Disrupter. Of particular interest is the serial number above the de-activation switch, SAT 17YV. Record this serial number on your Agent Profile sheet. Leaving the cydroid, you move on to the hovrail embarkation point. Turn to 169.
-Thinkstrike now!? Power of Will now!? Blast to kill!?
-Turn to 315 Turn to 330 Turn to 348
-
-266
-You try to trip the powerful Lord to the ground. Make Attack Roll.
-If you score 2-10, turn to 214 If you score 11-12, turn to 181
-
 
 270
 Your attempt fails. They look at each other and both cry, 'An evil spirit!' You have a chance to react before they cry for help Do you:
