@@ -1465,12 +1465,12 @@ Investigate the second Corsair ship? Turn to 71
 You believe you have been overlooked as the slaughter and pillage subsides, until you hear them deciding to cut the ears from each of the dead and throw them into sacks. You decide to slink out of the village while the mongols are intent on their grisly ear count. Turn to 229.
 
 257
-With a great effort you manage to dominate their wills, holding them under control. You walk up to them and order them to Like you to Ogedai Khan and to pretend you are a messenger. They walk across the Palace courtyard with a rolling, bandy- legged gait and you follow. At the palace door, two more guards stare at you impassively. One of the guards, controlled by you, speaks listlessly at your command. 'We bring a messenger whose message is for the ears of Ogedai Khan and no other.' The door-guards step aside and usher you in. The doors open into a banqueting hall, the walls of which are lined with gold, the plunder of half the world. It is full of mongols, eating and drinking.To your surprise there are no tables, but a great fire has been lit in the centre of the hall. Musicians are playing fast, rhythmic music and some of the mongols strut around the fire, showing off the splendour of their leather coats, decorated and lined with fur. Others are still gorging themselves, tearing chunks of meat from whole carcasses with their hunting knives. As the music quickens some begin to whirl and leap around the fire, dancing wildly. Y our guards lead you up a wooden stairway just to the left of a store-room door. Turn to 278.
+With a great effort you manage to dominate their wills, holding them under control. You walk up to them and order them to Like you to Ogedai Khan and to pretend you are a messenger. They walk across the Palace courtyard with a rolling, bandy-legged gait and you follow. At the palace door, two more guards stare at you impassively. One of the guards, controlled by you, speaks listlessly at your command. 'We bring a messenger whose message is for the ears of Ogedai Khan and no other.' The door-guards step aside and usher you in. The doors open into a banqueting hall, the walls of which are lined with gold, the plunder of half the world. It is full of mongols, eating and drinking.To your surprise there are no tables, but a great fire has been lit in the centre of the hall. Musicians are playing fast, rhythmic music and some of the mongols strut around the fire, showing off the splendour of their leather coats, decorated and lined with fur. Others are still gorging themselves, tearing chunks of meat from whole carcasses with their hunting knives. As the music quickens some begin to whirl and leap around the fire, dancing wildly. Your guards lead you up a wooden stairway just to the left of a store-room door. Turn to 278.
 
 258
 You manage to wrest control of the ambulance driver's mind from the Renegade Lord and he sets the carriage in motion. One of the wheels strikes a boulder and the ambulance tips over onto i t s side, and almost rolls down the hillside. The doors at the back open and you see six creatures, like giant ants. Their mandibles click in agitation and their dull, red, compound eyes stare at you.
-
 They are the six Hiver beings who together are Lord Creche the Renegade Lord. Two are carrying small blasters in the mouthparts and you throw yourself aside in case they blast you. Make an Evasion Roll.
+
 If you score 6-12, turn to 128 If you score 2-5, turn to 89
 
 259
@@ -1478,19 +1478,16 @@ With the lightning reactions and skill of a trained combateer you draw your blas
 
 260
 You contact the mind of Pilota, using your power of Psychic Awareness. She is far away, dwelling on her chances in the next solar yacht race. When she realises what you are up to her reaction is one of pleased surprise. She thinks a message to you: I like a lot of warp, why don't you try the same thing on the others? She is amused at the possibility but thinks a warning to you that they are: a bunch of empty cargo pods. Evidently she is impressed with your audacity. Will you:
-The Creche, or Kirik
-Turn to 223 Turn to 209
-Give a speech of thanks to end the ceremony? .
-Probe the mind of another Lord? You may try Silvermane,
+
+Give a speech of thanks to end the ceremony?
+Probe the mind of another Lord? You may try
+Silvermane,
 Speke,
+The Creche,
+or Kirik
 Turn to 167 Turn to 280
 Turn to 301
-Attempt to use your Power of Will to control Bloodhound?
-Try to Thinkstrike him?
-Surrender and ask him to check CAIN's
-records before he kills you? Draw your blaster and fire?
-Turn to 198 Turn to 211
-Turn to 236 Turn to 221
+Turn to 223 Turn to 209
 
 261
 You catch the hovrail to the TIME building. After about an hour, blackness engulfs you suddenly, just as the car is sliding to a halt. Someone has changed the Timelines and one of your ancestors has been killed before his time. It is as if you had never existed. You have failed.
@@ -1498,7 +1495,14 @@ You catch the hovrail to the TIME building. After about an hour, blackness engul
 262
 Before returning to Falcon's Wing you look around the rest of the refuelling bay. Two Phocian Corsair ships, sleek attack craft, have completed refuelling. A Phocian guard stands by the personnel ramp of the nearest ship, a squat humanoid with a brilliantly coloured head, like a macaw without a beak. To your surprise, your Psychic Awareness tells you that his mind is being dominated by another. Since Korakiik is the only known psionically aware Keladi at this time and he is in space orbit, a non-Keladi must be controlling him, possibly Kirik's killer and maybe the Renegade Lord. Before you can investigate, your holo-detector begins to bleep continuously. A Time Machine has materialised behind you. Spinning round, you see a figure seeming to appear from the side of a gas tank that did not exist a few moments earlier. He looks like a Phocian pirate, but on seeing you he tips back his helmet to reveal the face of TIME Special Agent Bloodhound. Like you, he has a model A3 Time Machine, now disguised as the gas tank. His thoughts brush yours and he speaks before you can greet him, his blue eyes hard, 'I'm sorry, Falcon, I have a Termination Order for you.' You realise he has been ordered to kill you, just as he draws his blaster with the lightning reactions of an elite combateer. You dive to the floor, but are wounded slightly as the lancing white bolt of plasma sears your neck. Lose 4 Endurance points. Will you:
 
- 263
+Attempt to use your Power of Will to control Bloodhound?
+Try to Thinkstrike him?
+Surrender and ask him to check CAIN's
+records before he kills you? Draw your blaster and fire?
+Turn to 198 Turn to 211
+Turn to 236 Turn to 221
+
+263
 Youmanage to dock with the stricken hulk and, unstrapping yourself from the free-fall harness, propel your weightless body through the air-lock. Using your blaster, you break through the airlock of the other ship. The metal melts and cracks as the plasma hits it and you thrust yourself quickly up the stairwell into the bridge. As your head clears the stairwell rim, the Phocian is about to fire his ship's lasers at the Keladi envoy vessel. You have only moments before the envoy is destroyed. Do you:
 Thinkstrike the Phocian?
 Use your Power of Will to control the
