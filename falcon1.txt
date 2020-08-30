@@ -182,7 +182,8 @@ Cause of Death: Mission Brief at time of Death:
 Last Known Action:
 TIME Special Agent Q Born: 1/9/2890 AD - Last- landing (Outer Colonies) Killed on Active Service Autodoc Malfunction
 Monitor disturbance in Kelados Timeline 2047 AD Transmission to Sector Chief Yelov, Security Code Epsilon,interrupted Subject: Kelados Timeline disturbance.
-End of Report Message Ends
+End of Report
+Message Ends
 
 To your certain knowledge, there has not been an officially recognised Autodoc malfunction in seventeen years. As you approach the Hall of Honours you realise there is still time to call up Agent Q's last, interrupted, report. You re-open your link with CAIN. Turn to 36.
 
@@ -212,13 +213,11 @@ The flyer hovers above the darkest part of the palace gardens and you release th
 Thinkstrike the two guards?
 Try to control them both, using your Power of Will?
 Pull out your blaster and fry them?
-
-17
 Turn to 369 Turn to 377
 Turn to 387
-You instruct CAIN to examine the Eiger Service Computer and type your Epsilon Security Clearance Code at the terminal, before asking for information relating to a cydroid, serial number SAT17YV. Moments later, CAIN responds. 'SAT Section Security Cydroid 17YV, built 3027, assigned to Section
 
-Chief Agidy Yelov . Reported missing 3031, prior to discontinuation of this model due to faults in Central Processing unit. Armed: Particle Disrupter, Sensors: Infra-red, ultra-violet andradar.Appearance:man-like.Intelligenceunit:Fordec5000. Power Plant '
+17
+You instruct CAIN to examine the Eiger Service Computer and type your Epsilon Security Clearance Code at the terminal, before asking for information relating to a cydroid, serial number SAT17YV. Moments later, CAIN responds. 'SAT Section Security Cydroid 17YV, built 3027, assigned to Section Chief Agidy Yelov. Reported missing 3031, prior to discontinuation of this model due to faults in Central Processing unit. Armed: Particle Disrupter, Sensors: Infra-red, ultra-violet and radar. Appearance: man-like.Intelligenceunit: Fordec 5000. Power Plant -'
 'Reported missing' You interrupt the list of specifications.
 'Yes, Falcon. SAT Section Chief Agidy Yelov reported that it tried to kill him before escaping into Old Geneva. No witnesses. Some damage to Yelov's office, certainly caused by a Particle Disrupter. No further information.'
 If you wish to call up Yelov's file, note the number 15 on your Agent Profile. Whenever you are in your Time Machine and wish to access Yelov's file from CAIN, turn to paragraph 15 after noting the paragraph you are already at, as no options will begiven at the end of it. When you are ready, turn to 243.
@@ -255,8 +254,7 @@ Turn to 10
 23
 The din of the battle is like a maelstrom around you. Swept on towards Alexander and Speke, you concentrate your mind. You hurl a blast of mental energy at Lord Speke remembering, too late, that his mental defences against Thinkstrike are almost Invincible. Speke is unaffected. You lose confidence in your Thinkstrike ability, subtract one from your Thinkstrike Modifier. Do you:
 
-Use your blaster to kill Lord Speke? Use your Power of Will to control Lord
-Speke?
+Use your blaster to kill Lord Speke? Use your Power of Will to control Lord Speke?
 Turn to 41 Turn to 32
 
 24
@@ -325,8 +323,7 @@ You draw the sabre which is part of your uniform and parry Bloodhound's thrust. 
 If you score 7-12, turn to 74 If you score 2-6, turn to 61
 
 39
-Your mental barrier throws off the mind attack of the drummer boy, and you recognise Lynx, another Special Agent of TIME. The disguise is perfect, her boyish features smeared with mud
-from the battlefield. Like Bloodhound was, she may well be trying to kill you. Do you:
+Your mental barrier throws off the mind attack of the drummer boy, and you recognise Lynx, another Special Agent of TIME. The disguise is perfect, her boyish features smeared with mud from the battlefield. Like Bloodhound was, she may well be trying to kill you. Do you:
 
 Thinkstrike her back?
 Use your Power of Will on her?
@@ -679,8 +676,7 @@ Ney nods and, wheeling his horse, canters back towards the battle lines with his
 110
 The silver doors hiss apart, affording you your first view of the Hall of Honours, which boasts a marble floor and colonnades. In the centre is a large oaken table, in the shape of a horseshoe, the only wood in the TIME building, around which sit the five Lords of TIME. Your Universal Translator synthesises an unusual waterygurgling into words of welcome that sound in your ear:
 Welcome, Agent Falcon, never has a candidate graduated from the Academy with so high a score.' Your self-control allows you to smother any outward betrayal of surprise at the sight of the being which greets you. Submerged in a huge tank, along with some small aquatic mammals, is what looks like a giant lobster with bloated bluish brain-sacs floating under its spiked carapace. It waves a fearsome purplish pincer and clicks and gurgles: 'I am Time Lord Kirik of the Keladi.'
-You bow respectfully and turn to look at the other Lords. You recognise Lord Speke, a dapper little Earther in a Navy 'dress uniform'. On his left sits a squat, humanoid figure, with blue •kin and a mane of bristling white hairs - Lord Silvermane of Rigel Prime. On the other side of the table sits Lord Pilota, a seven-foot tall Lastlander woman with the fragile build and sharp-boned features of all those who live on that low gravity world. She is supported in her chair by a hydraulic exoskeleton which gives her the appearance of a robot, but it is the fifth Lord of TIME sitting on her right who looks the strangest of them all. A network of silica, like an oversized honeycomb, rests on the floor. Inside each of the six cells of the honeycomb is what looks like a giant ant, swathed in silk, like a cocoon. Their front parts protrude from the silk, plainly showing dull-red, compound eyes and wicked looking mandibles which are in constant motion. Collectively, they are called The Creche 82282 and they are six
-parts of a communal mind, in constant mind-link with each other. They are Hivers, a separate part of the Hive.
+You bow respectfully and turn to look at the other Lords. You recognise Lord Speke, a dapper little Earther in a Navy 'dress uniform'. On his left sits a squat, humanoid figure, with blue •kin and a mane of bristling white hairs - Lord Silvermane of Rigel Prime. On the other side of the table sits Lord Pilota, a seven-foot tall Lastlander woman with the fragile build and sharp-boned features of all those who live on that low gravity world. She is supported in her chair by a hydraulic exoskeleton which gives her the appearance of a robot, but it is the fifth Lord of TIME sitting on her right who looks the strangest of them all. A network of silica, like an oversized honeycomb, rests on the floor. Inside each of the six cells of the honeycomb is what looks like a giant ant, swathed in silk, like a cocoon. Their front parts protrude from the silk, plainly showing dull-red, compound eyes and wicked looking mandibles which are in constant motion. Collectively, they are called The Creche 82282 and they are six parts of a communal mind, in constant mind-link with each other. They are Hivers, a separate part of the Hive.
 The ceremony is brief; you swear an oath of allegiance to TIME and are duly commissioned as a Special Agent. Pilota rises and steps forward, uncomfortable in the relatively high gravity of earth, and pins your wings to your chest. Your Universal Translator renders a mixed babel of applause. The ceremony is drawing to a close and you still have little information on the Lords of TIME. You know that this will be your last chance to meet them together in the same room for some time, perhaps for ever. If you know why Section Chief Yelov did not contact you until the last minute about your mission, turn to 153. If you do not, will you:
 
 Use your Psychic Awareness to contact one of them mentally?
@@ -823,25 +819,21 @@ This is an ex-SAT security droid, a banned model, apparently ihey were unpredict
 
 138
 You float down from the Access Hatch, lowered by invisible Tractor Beams. You can smell ozone in the air of the Spaceport. Rounding a bulkhead you come across a refuelling bay and your holo-detector indicates that the Keladi scoutship in front of you is in fact a Time Machine. Judging by its size it could only be that of Lord Kirik. There is no trace of Lord Speke's machine. As you walk through the hologram you are surprised to see water underfoot. Kirik's machine is normally water-filled, a much larger model than your own. Clearly all is not well for, as you look up, you see that his Access Hatch is open and on automatic, for his Mind Scan is not operating and you are drawn up into his machine. The grotesque body of Lord Kirik lies inert across his crash couch, the disc which is his Psionic Enhancer lies in a pool of water at his side. The usually bloated brain-sacs are flaccid and his jointed legs curled unnaturally. Looking more closely you notice a neat circular wound in the middle of one of his brain sacs, still pouring purplish fluid. There is no sign of the weapon that was used to do this. He has been killed quite recently by someone whom he had allowed into his Time Machine. There is no helping Lord Kirik. Do you:
-Leave the scene of the crime before you
-can be discovered there? Turn to 262
+Leave the scene of the crime before you can be discovered there? Turn to 262
 Send Kirik's Machine into null-space? Turn to 382
-
 
 139
 The plasma from your blaster claims the lives of several of the guards and their clamour increases, believing you to be a spirit. Some overcome their fear, however, determined to protect their Khan, and you are peppered with arrows, some from an unseen vantage point above. Your heart is pierced and you die. You have failed and the Space Federation will never be.
 
 140
-You ask the Lords of Time whether any of them have travelled in time since the death of Agent Q and the response is immediate. You step back in surprise as Kirik's pincers thresh the waters of his tank. He is plainly outraged. The Creche scuttle into and out of their cocoons but your translator cannot
-guide you as to what this may mean. Pilota volunteers 'Yes I
-have...' with a nonchalant air but is interrupted by Speke's raised voice:
+You ask the Lords of Time whether any of them have travelled in time since the death of Agent Q and the response is immediate. You step back in surprise as Kirik's pincers thresh the waters of his tank. He is plainly outraged. The Creche scuttle into and out of their cocoons but your translator cannot guide you as to what this may mean. Pilota volunteers 'Yes I have...' with a nonchalant air but is interrupted by Speke's raised voice:
 'Really! I feel it is hardly your business as to enquire into our daily affairs.'
-Silvermane adds, not unpleasantly, There is nothing wrong with curiosity, it will bean asset, but perhaps you should focus it
-elsewhere.' Turn to 194.
+Silvermane adds, not unpleasantly, 'There is nothing wrong with curiosity, it will bean asset, but perhaps you should focus it elsewhere.' Turn to 194.
 
 141
-Realising that whoever is controlling the Phocian pilot, almost certainly the Renegade Lord, is trying to kill the Keladi envoy, so that Kelados and Earth will be plunged into war, you target and fire the ship's bow lasers. The Phocian has started an attack pattern, weaving in space and you must pilot the craft manually trying to outguess his every move. Make an Attack Roll to lock
-on successfully with your lasers. If you score 7-12, turn to 224
+Realising that whoever is controlling the Phocian pilot, almost certainly the Renegade Lord, is trying to kill the Keladi envoy, so that Kelados and Earth will be plunged into war, you target and fire the ship's bow lasers. The Phocian has started an attack pattern, weaving in space and you must pilot the craft manually trying to outguess his every move. Make an Attack Roll to lock on successfully with your lasers.
+
+If you score 7-12, turn to 224
 If you score 2-6, turn to 178
 
 142
@@ -871,14 +863,9 @@ Then a woman's voice: 'I need that pacy helmet, Clone, get it for me?' The whine
 'Get the Exec, Machine,' says Clone, their leader. A man wearing a tattered hydraulic suit, covered in spikes, races his bike at you. You dodge and he piles into the barricade, impaling himself on a snapped driveshaft. Clone signals and they all start towards you. Do you:
 
 Open fire with your blaster? Thinkstrike Clone?
-Use your Power of Will to control
-Clone?
+Use your Power of Will to control Clone?
 Turn to 55 Turn to 42
 Turn to 24
-
-
-
-
 
 147
 You follow several Macedonians up the ladder. They manage to clear a way and you reach the top of the wall as the screams of the dying begin. Below you a few Greeks and Persians are forcing their way through the townspeople towards Alexander, dealing death with the skilled precision of battle-hardened veterans. Before you can jump down an archer in one of the towers lets loose an arrow. Your Psychic Awareness warns you Make an Evasion Roll.
@@ -918,6 +905,7 @@ Ask with which of the Lords of TIME Section Chief Yelov spent his vacation
 Use your Psychic Awareness to contact one of them mentally?
 Ask if any one of them has travelled in time since the death of Agent Q?
 Smile and make a short speech of thanks?
+
 Turn to 179 Turn to 121 Turn to 140 Turn to 167
 
 154
@@ -1058,8 +1046,7 @@ If you score 7-12, turn to 339 If you score 2-5, turn to 352 If you score 6, rol
 187
 You try to twist aside from the wicked thrust but are caught under the arm. Flailing wildly you fall backwards off the ladder to the ground below. Lose 14 Endurance points. If you are still alive you bind your wound with a piece of your cloak, to staunch the blood. Do you:
 
-Wait outside the city leaving Alexander
-to his fate? Turn to 200
+Wait outside the city leaving Alexander to his fate? Turn to 200
 Try again to scale the wall? Turn to 147
 
 188
@@ -1695,8 +1682,7 @@ The ambulance rattles up the hill towards the Emperor and his staff, the horses 
 
 Throw yourself to the ground so that the horses pass over you knowing that they will try to avoid trampling you?
 Thinkstrike one of the Lancers?
-Pull out your blaster and shoot one of
-their horses?
+Pull out your blaster and shoot one of their horses?
 Turn to 410 Turn to 129
 Turn to 389
 

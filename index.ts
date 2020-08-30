@@ -70,13 +70,13 @@ function checkLineBreaks(pages: readonly Page[]) {
 			const firstChar = line[0] as string | undefined;
 			if (firstChar !== undefined && firstChar.match(/[a-z]/)) {
 				errors.push(
-					"Lower case first letter on line, on page " + page.pageNumber,
+					page.pageNumber + " Lower case first letter on line: " + line,
 				);
 			}
 			const lastChar = line[line.length - 1] as string | undefined;
 			if (lastChar !== undefined && lastChar.match(/[a-z]/)) {
 				errors.push(
-					"Lower case last letter on line, on page " + page.pageNumber,
+					page.pageNumber + " Lower case last letter on line: " + line,
 				);
 			}
 		}
