@@ -37,15 +37,112 @@ function* getPages(lines: Generator<string>) {
 	yield page;
 }
 
-function parsePage(rawLines: readonly string[]) {
-	const lines = [...rawLines];
-	const pageNumber = parseInt(lines.shift() || "");
-	return { pageNumber, lines };
-}
-
-interface Page {
+interface PageBase {
 	pageNumber: number;
 	lines: readonly string[];
+}
+interface FailPage extends PageBase {
+	readonly type: "FailPage";
+}
+interface SingleLinkPage extends PageBase {
+	readonly type: "SingleLinkPage";
+	readonly link: number;
+}
+interface MultipleLinksPage extends PageBase {
+	readonly type: "MultipleLinksPage";
+	readonly links: readonly {
+		readonly choice: string;
+		readonly link: number;
+	}[];
+}
+
+type Page = FailPage | SingleLinkPage | MultipleLinksPage;
+
+function isDefined<T>(x: T | undefined | null): x is T {
+	return !!x;
+}
+
+interface MultipleChoiceTurnInstuctionLine {
+	readonly index: number;
+	readonly line: string;
+	readonly number: number;
+}
+
+function parsePage(rawLines: readonly string[]): Page {
+	const lines = [...rawLines];
+	const pageNumber = parseInt(lines.shift() || "");
+
+	if (lines[lines.length - 1].match(/You have failed/i)) {
+		return { pageNumber, lines, type: "FailPage" };
+	}
+
+	const multipleChoiceTurnInstuctions = lines
+		.map((line, index): MultipleChoiceTurnInstuctionLine | null => {
+			const match = line.match(/^Turn to ([\d]+)$/);
+			return (
+				match && {
+					index,
+					line,
+					number: parseInt(match[1]),
+				}
+			);
+		})
+		.filter(isDefined);
+
+	if (multipleChoiceTurnInstuctions.length) {
+		// Group the choices into groups. There may be more than one group.
+		let lastIndex = -2;
+		const groups = multipleChoiceTurnInstuctions.reduce<
+			MultipleChoiceTurnInstuctionLine[][]
+		>((soFar, current) => {
+			if (current.index !== lastIndex + 1) {
+				soFar.push([]);
+			}
+			lastIndex = current.index;
+
+			const lastGroup = soFar[soFar.length - 1];
+			lastGroup.push(current);
+
+			return soFar;
+		}, []);
+
+		const choiceGroups = groups.map((group) => {
+			return group.map((choice) => ({
+				choice: lines[choice.index - group.length],
+				link: choice.number,
+			}));
+		});
+
+		// Erase the choices from the regular lines.
+		for (const group of groups) {
+			const backwardsGroup = [...group].reverse();
+			for (const choice of backwardsGroup) {
+				lines.splice(choice.index);
+			}
+			for (const choice of backwardsGroup) {
+				lines.splice(choice.index - group.length);
+			}
+		}
+
+		return {
+			pageNumber,
+			lines,
+			type: "MultipleLinksPage",
+			links: choiceGroups.reduce(
+				(soFar, current) => [...soFar, ...current],
+				[],
+			),
+		};
+	}
+
+	return {
+		pageNumber,
+		lines,
+		type: "SingleLinkPage",
+		link: 0,
+	};
+
+	// throw new Error("Failed to parse page " + pageNumber);
 }
 
 function checkPageNumbers(pages: readonly Page[]) {
@@ -92,7 +189,8 @@ const lines = getLines(fileContent.toString("utf8"));
 const linesAfterIntro = skipIntro(lines);
 const pages = [...getPages(linesAfterIntro)].map(parsePage);
 
+console.log(pages);
+
 checkPageNumbers(pages);
 checkLineBreaks(pages);
 
-console.log(pages);
