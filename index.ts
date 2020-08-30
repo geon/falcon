@@ -64,21 +64,26 @@ function checkPageNumbers(pages: readonly Page[]) {
 }
 
 function checkLineBreaks(pages: readonly Page[]) {
+	const errors = [];
 	for (const page of pages) {
 		for (const line of page.lines) {
 			const firstChar = line[0] as string | undefined;
 			if (firstChar !== undefined && firstChar.match(/[a-z]/)) {
-				throw new Error(
+				errors.push(
 					"Lower case first letter on line, on page " + page.pageNumber,
 				);
 			}
 			const lastChar = line[line.length - 1] as string | undefined;
 			if (lastChar !== undefined && lastChar.match(/[a-z]/)) {
-				throw new Error(
+				errors.push(
 					"Lower case last letter on line, on page " + page.pageNumber,
 				);
 			}
 		}
+	}
+
+	if (errors.length) {
+		throw new Error(errors.join("\n"));
 	}
 }
 
