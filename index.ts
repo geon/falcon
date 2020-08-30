@@ -39,7 +39,7 @@ function* getPages(lines: Generator<string>) {
 
 interface PageBase {
 	pageNumber: number;
-	lines: readonly string[];
+	content: readonly string[];
 }
 interface FailPage extends PageBase {
 	readonly type: "FailPage";
@@ -72,8 +72,13 @@ function parsePage(rawLines: readonly string[]): Page {
 	const lines = [...rawLines];
 	const pageNumber = parseInt(lines.shift() || "");
 
+
+
+
+	
+
 	if (lines[lines.length - 1].match(/You have failed/i)) {
-		return { pageNumber, lines, type: "FailPage" };
+		return { pageNumber, content: lines, type: "FailPage" };
 	}
 
 	const multipleChoiceTurnInstuctions = lines
@@ -126,7 +131,7 @@ function parsePage(rawLines: readonly string[]): Page {
 
 		return {
 			pageNumber,
-			lines,
+			content: lines,
 			type: "MultipleLinksPage",
 			links: choiceGroups.reduce(
 				(soFar, current) => [...soFar, ...current],
@@ -137,7 +142,7 @@ function parsePage(rawLines: readonly string[]): Page {
 
 	return {
 		pageNumber,
-		lines,
+		content: lines,
 		type: "SingleLinkPage",
 		link: 0,
 	};
@@ -163,7 +168,7 @@ function checkPageNumbers(pages: readonly Page[]) {
 function checkLineBreaks(pages: readonly Page[]) {
 	const errors = [];
 	for (const page of pages) {
-		for (const line of page.lines) {
+		for (const line of page.content) {
 			const firstChar = line[0] as string | undefined;
 			if (firstChar !== undefined && firstChar.match(/[a-z]/)) {
 				errors.push(
