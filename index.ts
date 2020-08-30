@@ -75,7 +75,7 @@ function checkLineBreaks(pages: readonly Page[]) {
 			const lastChar = line[line.length - 1] as string | undefined;
 			if (lastChar !== undefined && lastChar.match(/[a-z]/)) {
 				throw new Error(
-					"Lower case lst letter on line, on page " + page.pageNumber,
+					"Lower case last letter on line, on page " + page.pageNumber,
 				);
 			}
 		}
