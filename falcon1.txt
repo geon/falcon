@@ -451,12 +451,13 @@ If you score 2-6, turn to 184
 You give your Epsilon Security Code and the micro-display on your wrist lights up.
 Section Chief Yelov unavailable at time of transmission. (Vacation.) Section Chief Jobanque (Head of TIM, Temporal Irregularity Monitoring), received last trans- mission of Agent Q, and passed to Section Chief Yelov on his return to active duty thirty-seven minutes before your meeting with Yelov.
 Will you:
+
 Ask CAIN where Agidy Yelov spent his vacation?
 Ask to see the last file which Special Agent Q transmitted to Agidy Yelov?
-
-61
 Turn to 101
 Turn to 36
+
+61
 Bloodhound is strong. The heavy butt of the musket narrowly misses your head, but smashes your collarbone and dislocates your shoulder. Lose 8 Endurance points. If you are still alive, your shoulder pops painfully back into its rightful place, you grab the musket and struggle with Bloodhound, rolling down the hillside together trying to wrench the musket from each other's grasp, Bloodhound tries to strangle and kick you and you are bruised and exhausted by the time you break the Renegade Lord's control of his will.Bloodhound stops fighting and you both look up to see that the Imperial Guard are marching to the attack. The Renegade Lord is changing history. You begin to run up the hillside and the ambulance comes into view a hundred yard away from the Emperor. Turn to 344.
 
 62
@@ -866,12 +867,13 @@ Your will has overcome Lynx's and she is under your control. Y ou open your mind
 
 136
 You don't reply to the message and, seconds later, the Phocian increases speed. A third, larger ship appears on the Scanner beyond an Asteroid Belt, and the Corsair changes course to Intercept. You match course and increase speed as a second message reaches you, this time from the larger ship. This is the Clanship Keladan III; we are on a priority diplomatic mission. Do not attack. Repeat, do not attack. Change course. We are Keladi, do not attack.' You realise that this is the envoy ship carrying Korakiik, and that they will soon be within the attack range of the Phocian Corsair. Do you:
+
 Open fire on the Phocian Corsair with your ship's pulse lasers?
 Wait to see what happens?
-
-137
 Turn to 141
 Turn to 104
+
+137
 'Looks like you've done some expensive damage here,' says one of the Enforcers. 'I think well have to take you in.'He points his stun-lance at you. 'Just what you'd expect from a SAT. They give them all these wonderful toys and helmets that let them look into honest men's minds and what do they do, pop off their blasters,like they've just escaped from the incubator.' The first motions you into the jetcopter with his lance.
 'Hold on,' says the other, 'this tin-can carries a Particle Disruptor.'After further examination he consults his RAT.
 This is an ex-SAT security droid, a banned model, apparently ihey were unpredictable. Funny that, you being a SAT agent, wouldn't you say? Anyway just our luck, you've won yourself 50 creds bounty for eliminating this junk here!' The other Enforcer spits in disgust and'they turn on their heels and climb In, bathing you with the 'copter's hot exhaust as they take off. You continue on your way to the hovrail. Turn to 169.
@@ -904,12 +906,13 @@ If you score 5-12, turn to 157 If you score 2-4, turn to 175
 
 144
 The driver wavers but the Renegade Lord feels your attack and tries to control your will. The power of the will which attacks is awesome and you can do nothing as you lose control of your mind. You can only watch, as an outsider, as your hand pulls the blaster from your jacket. Sweating with effort you vainly try to resist as, shaking wildly, your arm takes aim at Bloodhound. He sees you and draws his own blaster. You are about to shoot him against your will when a blast of white-hot plasma rips into your shoulder. Lose 10 Endurance points. If you are still alive, at least no blood flows - the plasma from the blaster seals the wound like boiling tar. The shock to your system allows you to regain control of your mind. Fighting the pain you must decide what to do next. Do you:
+
 Thinkstrike whoever is inside the ambulance?
 Try to use your Power of Will on whoever is inside the ambulance?
-
-145
 Turn to 299
 Turn to 330
+
+145
 Picking your way through the fog of the battle you finally come across Bloodhound again, who is pretending to adjust the girth of his horse. Breathlessly, you tell him that you have detected the presence of a being with mental powers, probably the Renegade Lord. He suggests that you remain near Napoleon together and wait to see what happens. Do you:
 
 Agree to wait and throw the despatch into the mud?
