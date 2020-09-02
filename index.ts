@@ -37,9 +37,20 @@ function* getPages(lines: Generator<string>) {
 	yield page;
 }
 
+interface ChoicesSection {
+	type: "choices";
+	options: { choice: string; link: number }[];
+}
+
+type Section =
+	| { type: "text"; line: string }
+	| { type: "header"; line: string }
+	| { type: "table"; data: string[][] }
+	| ChoicesSection;
+
 interface PageBase {
 	pageNumber: number;
-	content: readonly string[];
+	sections: readonly Section[];
 }
 interface FailPage extends PageBase {
 	readonly type: "FailPage";
@@ -58,96 +69,110 @@ interface MultipleLinksPage extends PageBase {
 
 type Page = FailPage | SingleLinkPage | MultipleLinksPage;
 
-function isDefined<T>(x: T | undefined | null): x is T {
-	return !!x;
+// function isDefined<T>(x: T | undefined | null): x is T {
+// 	return !!x;
+// }
+
+function parseTurnInstructions(sections: Section[]): Section[] {
+	const optionGroups: {
+		lastSectionIndex: number;
+		options: number[];
+	}[] = [];
+	let options: number[] = [];
+	let lastSectionIndex = -2;
+	for (let i = 0; i < sections.length; ++i) {
+		const section = sections[i];
+
+		const match =
+			section.type === "text" && section.line.match(/^Turn to ([\d]+)$/);
+
+		if (!match) {
+			continue;
+		}
+
+		// Look for continous sections of only turn instructions.
+		if (i !== lastSectionIndex + 1 && options.length) {
+			optionGroups.push({ lastSectionIndex, options });
+			options = [];
+			continue;
+		}
+
+		options.push(parseInt(match[1]));
+		lastSectionIndex = i;
+	}
+	if (options.length) {
+		optionGroups.push({ lastSectionIndex, options });
+	}
+
+	// Insert the option groups in the untouched sections.
+	const result = [...sections];
+	for (const group of optionGroups) {
+		const firstSectionIndex =
+			group.lastSectionIndex - group.options.length * 2 + 1;
+		const options = group.options.map((option, i) => {
+			const matchingTextSection = sections[firstSectionIndex + i];
+			if (matchingTextSection.type !== "text") {
+				throw new Error("No matching text for turn instruction.");
+			}
+			return {
+				choice: matchingTextSection.line,
+				link: option,
+			};
+		});
+
+		result.splice(firstSectionIndex, group.options.length * 2, {
+			type: "choices",
+			options,
+		});
+	}
+
+	return result;
 }
 
-interface MultipleChoiceTurnInstuctionLine {
-	readonly index: number;
-	readonly line: string;
-	readonly number: number;
+function parseHeaders(sections: Section[]): Section[] {
+	return sections.map((section) => {
+		if (section.type === "text" && section.line.substring(0, 2) === "# ") {
+			return { type: "header", line: section.line.substring(2) };
+		}
+
+		return section;
+	});
 }
 
 function parsePage(rawLines: readonly string[]): Page {
 	const lines = [...rawLines];
 	const pageNumber = parseInt(lines.shift() || "");
 
+	const content = parseTurnInstructions(
+		parseHeaders(rawLines.map((line) => ({ type: "text", line }))),
+	)
+		// Remove empty lines.
+		.filter((x) => x.type !== "text" || x.line.length);
 
-
-
-	
-
-	if (lines[lines.length - 1].match(/You have failed/i)) {
-		return { pageNumber, content: lines, type: "FailPage" };
-	}
-
-	const multipleChoiceTurnInstuctions = lines
-		.map((line, index): MultipleChoiceTurnInstuctionLine | null => {
-			const match = line.match(/^Turn to ([\d]+)$/);
-			return (
-				match && {
-					index,
-					line,
-					number: parseInt(match[1]),
-				}
-			);
-		})
-		.filter(isDefined);
-
-	if (multipleChoiceTurnInstuctions.length) {
-		// Group the choices into groups. There may be more than one group.
-		let lastIndex = -2;
-		const groups = multipleChoiceTurnInstuctions.reduce<
-			MultipleChoiceTurnInstuctionLine[][]
-		>((soFar, current) => {
-			if (current.index !== lastIndex + 1) {
-				soFar.push([]);
-			}
-			lastIndex = current.index;
-
-			const lastGroup = soFar[soFar.length - 1];
-			lastGroup.push(current);
-
-			return soFar;
-		}, []);
-
-		const choiceGroups = groups.map((group) => {
-			return group.map((choice) => ({
-				choice: lines[choice.index - group.length],
-				link: choice.number,
-			}));
-		});
-
-		// Erase the choices from the regular lines.
-		for (const group of groups) {
-			const backwardsGroup = [...group].reverse();
-			for (const choice of backwardsGroup) {
-				lines.splice(choice.index);
-			}
-			for (const choice of backwardsGroup) {
-				lines.splice(choice.index - group.length);
-			}
-		}
-
+	if (content.some((section) => section.type === "choices")) {
 		return {
 			pageNumber,
-			content: lines,
+			sections: content,
 			type: "MultipleLinksPage",
-			links: choiceGroups.reduce(
-				(soFar, current) => [...soFar, ...current],
-				[],
-			),
+			links: [],
 		};
+	}
+
+	const lastSection = content[content.length - 1];
+
+	if (
+		lastSection.type === "text" &&
+		lastSection.line.match(/You have failed/i)
+	) {
+		return { pageNumber, sections: content, type: "FailPage" };
 	}
 
 	return {
 		pageNumber,
-		content: lines,
+		sections: content,
 		type: "SingleLinkPage",
 		link: 0,
 	};
-
-	// throw new Error("Failed to parse page " + pageNumber);
 }
 
 function checkPageNumbers(pages: readonly Page[]) {
@@ -168,19 +193,17 @@ function checkPageNumbers(pages: readonly Page[]) {
 function checkLineBreaks(pages: readonly Page[]) {
 	const errors = [];
 	for (const page of pages) {
-		for (const line of page.content) {
-			const firstChar = line[0] as string | undefined;
+		for (const section of page.sections) {
+			if (section.type !== "text") {
+				continue;
+			}
+
+			const firstChar = section.line[0] as string | undefined;
 			if (firstChar !== undefined && firstChar.match(/[a-z]/)) {
 				errors.push(
-					page.pageNumber + " Lower case first letter on line: " + line,
+					page.pageNumber + " Lower case first letter on line: " + section.line,
 				);
 			}
-			// const lastChar = line[line.length - 1] as string | undefined;
-			// if (lastChar !== undefined && lastChar.match(/[a-z]/)) {
-			// 	errors.push(
-			// 		page.pageNumber + " Lower case last letter on line: " + line,
-			// 	);
-			// }
 		}
 	}
 
@@ -194,8 +217,7 @@ const lines = getLines(fileContent.toString("utf8"));
 const linesAfterIntro = skipIntro(lines);
 const pages = [...getPages(linesAfterIntro)].map(parsePage);
 
-console.log(pages);
+console.log(JSON.stringify(pages, null, "\t"));
 
 checkPageNumbers(pages);
 checkLineBreaks(pages);
-
