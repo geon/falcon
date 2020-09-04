@@ -1131,7 +1131,7 @@ You ask the Lords of Time with which one of them Yelov spent his vacation. You s
 Turn to 194.
 
 180
-Toolate! A translucent beam of ruby light connects the tip of the laser rifle to your hip, shearing through skin and bone like a hot knife through fungspread. Lose 10 Endurancepoints. If you are still alive, as you fall to the ground you manage to ready your blaster.The Eiger Vault energy weapon detector sirens begin to wail. Overcoming the pain you fire your blaster. Make AttackRoll.
+Toolate! A translucent beam of ruby light connects the tip of the laser rifle to your hip, shearing through skin and bone like a hot knife through fungspread. Lose 10 Endurancepoints. If you are still alive, as you fall to the ground you manage to ready your blaster.The Eiger Vault energy weapon detector sirens begin to wail. Overcoming the pain you fire your blaster. Make Attack Roll.
 If you score 8-12, turn to 116
 If you score 2-7, turn to 238
 
