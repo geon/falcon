@@ -401,7 +401,7 @@ If you score 2-7, turn to 88
 48
 You let loose a blast of mental energy, but to your 1 consternation, feel the interference effect of a Psionic Damper circlet. These are a recent invention of the Hivers. You have no option but to go for your blaster. As you draw your blaster the energy weapon sensors trigger the sirens. If you can stay alive a few moments longer security droids will arrive. Make a Chance Roll.
 If you score 1-4, turn to 208
-II you score 5 or 6, turn to 218
+If you score 5 or 6, turn to 218
 
 49
 The French have begun to launch an attack on the great earthen ramparts which the Russians are defending, and along the left- hand end of the Russian line. Great columns of blue-coated soldiers toil uphill towards their green-jacketed enemies. The guns roar and belch smoke and the crackle of musket fire begins. Bothsides have magnificently dressed cavalry. Some of these, called Cuirassiers, after the metal breastplate they wear, are big men mounted on what are almost cart-horses. Your own horses, bays, are much nimbler and more fleet of foot, and resemble those nearest to you, a battalion of Polish lancers under Prince Poniatowski's command. Their lance pennants, blue and white, flutter in the wind. Bloodhound asks whether you think it would be better to split up in order to search the battlefield more quickly or to stay together in case of danger. Do you:
@@ -1090,7 +1090,7 @@ You step into the small hovrail car, secure the bubble hatch and type in your de
 
 170
 As you step over the prone bodies of the general and the guard, a group of Imperial Guards mounting the wooden stairs catch sight of you. You slam the door and run across Ogedai's room towards the balcony. The door swings open and several members of the Imperial Guard charge at you. You try to dive through the awning to the balcony. Make an Evasion Roll.
-If you score 6-12, turn to 189 II you score 2-5, turn to 201
+If you score 6-12, turn to 189 If you score 2-5, turn to 201
 
 171
 You are not quick enough. An arrow takes you in the back. You throw up your arms and collapse in a heap. You have failed and the Space Federation will never be.
