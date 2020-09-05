@@ -94,7 +94,6 @@ function parseTurnInstructions(sections: Section[]): Section[] {
 		if (i !== lastSectionIndex + 1 && options.length) {
 			optionGroups.push({ lastSectionIndex, options });
 			options = [];
-			continue;
 		}
 
 		options.push(parseInt(match[1]));
