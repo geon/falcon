@@ -1090,7 +1090,8 @@ You step into the small hovrail car, secure the bubble hatch and type in your de
 
 170
 As you step over the prone bodies of the general and the guard, a group of Imperial Guards mounting the wooden stairs catch sight of you. You slam the door and run across Ogedai's room towards the balcony. The door swings open and several members of the Imperial Guard charge at you. You try to dive through the awning to the balcony. Make an Evasion Roll.
-If you score 6-12, turn to 189 If you score 2-5, turn to 201
+If you score 6-12, turn to 189
+If you score 2-5, turn to 201
 
 171
 You are not quick enough. An arrow takes you in the back. You throw up your arms and collapse in a heap. You have failed and the Space Federation will never be.
