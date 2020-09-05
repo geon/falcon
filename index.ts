@@ -143,10 +143,11 @@ function parsePage(rawLines: readonly string[]): Page {
 	const pageNumber = parseInt(lines.shift() || "");
 
 	const content = parseTurnInstructions(
-		parseHeaders(rawLines.map((line) => ({ type: "text", line }))),
-	)
-		// Remove empty lines.
-		.filter((x) => x.type !== "text" || x.line.length);
+		parseHeaders(rawLines
+			// Remove empty lines.
+			.filter((x) => x.length)
+			.map((line) => ({ type: "text", line }))),
+	);
 
 	if (content.some((section) => section.type === "choices")) {
 		return {
