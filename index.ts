@@ -65,6 +65,16 @@ interface TextSection {
 	line: string;
 }
 
+interface HeaderSection {
+	type: "header";
+	line: string;
+}
+
+interface TableSection {
+	type: "table";
+	data: string[][];
+}
+
 interface DiceRollSection {
 	type: "diceRoll";
 	subtype: DiceRollSubtype;
@@ -78,8 +88,8 @@ interface ChoicesSection {
 
 type Section =
 	| TextSection
-	| { type: "header"; line: string }
-	| { type: "table"; data: string[][] }
+	| HeaderSection
+	| TableSection
 	| DiceRollSection
 	| ChoicesSection;
 
