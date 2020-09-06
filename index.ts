@@ -65,6 +65,21 @@ interface TextSection {
 	line: string;
 }
 
+const scoreLetters = [
+	"B" as const,
+	"C" as const,
+	"D" as const,
+	"G" as const,
+	"K" as const,
+	"T" as const,
+	"Q" as const,
+];
+type ScoreLetter = typeof scoreLetters[0];
+interface ScoreSection {
+	type: "score";
+	letter: ScoreLetter;
+}
+
 interface HeaderSection {
 	type: "header";
 	line: string;
@@ -88,6 +103,7 @@ interface ChoicesSection {
 
 type Section =
 	| TextSection
+	| ScoreSection
 	| HeaderSection
 	| TableSection
 	| DiceRollSection
@@ -171,6 +187,21 @@ function parseTurnInstructions(sections: Section[]): Section[] {
 	}
 
 	return result;
+}
+
+function parseScores(sections: Section[]): Section[] {
+	const regExpString = "\\[score a ([" + scoreLetters.join("") + "])\\]";
+	const regExp = new RegExp(regExpString);
+	return sections.map((section) => {
+		if (section.type === "text") {
+			const match = section.line.match(regExp);
+			if (match) {
+				return { type: "score", letter: match[1] as ScoreLetter };
+			}
+		}
+
+		return section;
+	});
 }
 
 function parseHeaders(sections: Section[]): Section[] {
@@ -265,10 +296,12 @@ function parsePage(rawLines: readonly string[]): Page {
 	const content = parseDiceRollInstructions(
 		parseTurnInstructions(
 			parseHeaders(
-				rawLines
-					// Remove empty lines.
-					.filter((x) => x.length)
-					.map((line) => ({ type: "text", line })),
+				parseScores(
+					rawLines
+						// Remove empty lines.
+						.filter((x) => x.length)
+						.map((line) => ({ type: "text", line })),
+				),
 			),
 		),
 	);
