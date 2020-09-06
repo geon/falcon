@@ -37,15 +37,50 @@ function* getPages(lines: Generator<string>) {
 	yield page;
 }
 
+const diceRollSubtypes = [
+	"Thinkstrike" as const,
+	"Power of Will" as const,
+	"Attack" as const,
+	"Evasion" as const,
+	"Chance" as const,
+];
+
+type DiceRollSubtype = typeof diceRollSubtypes[0];
+
+function isDiceRollSubtype(
+	potentiallySubtype: string,
+): potentiallySubtype is DiceRollSubtype {
+	return diceRollSubtypes.includes(potentiallySubtype as DiceRollSubtype);
+}
+
+function makeDiceRollSubtype(potentiallySubtype: string): DiceRollSubtype {
+	if (!isDiceRollSubtype(potentiallySubtype)) {
+		throw new Error("Not a DiceRollSubtype: " + potentiallySubtype);
+	}
+	return potentiallySubtype as DiceRollSubtype;
+}
+
+interface TextSection {
+	type: "text";
+	line: string;
+}
+
+interface DiceRollSection {
+	type: "diceRoll";
+	subtype: DiceRollSubtype;
+	outcomes: { scores: number[]; link: number | undefined }[];
+}
+
 interface ChoicesSection {
 	type: "choices";
 	options: { choice: string; link: number }[];
 }
 
 type Section =
-	| { type: "text"; line: string }
+	| TextSection
 	| { type: "header"; line: string }
 	| { type: "table"; data: string[][] }
+	| DiceRollSection
 	| ChoicesSection;
 
 interface PageBase {
@@ -69,9 +104,9 @@ interface MultipleLinksPage extends PageBase {
 
 type Page = FailPage | SingleLinkPage | MultipleLinksPage;
 
-// function isDefined<T>(x: T | undefined | null): x is T {
-// 	return !!x;
-// }
+function isTruthy<T>(x: T | undefined | null): x is T {
+	return !!x;
+}
 
 function parseTurnInstructions(sections: Section[]): Section[] {
 	const optionGroups: {
@@ -138,15 +173,94 @@ function parseHeaders(sections: Section[]): Section[] {
 	});
 }
 
+function parseDiceRollInstructions(sections: Section[]): Section[] {
+	const match = sections
+		.map(
+			(section) =>
+				section.type === "text" &&
+				section.line.match(
+					/Make an? ((Evasion)|(Attack)|(Chance)|(Thinkstrike)|(Power of Will)) Roll/,
+				),
+		)
+		.find((x) => !!x);
+
+	if (!match) {
+		return sections;
+	}
+
+	const subtype = makeDiceRollSubtype(match[1]);
+
+	const outcomes = sections
+		.map((section, sectionIndex):
+			| {
+					sectionIndex: number;
+					scores: number[];
+					link: number | undefined;
+			  }
+			| undefined => {
+			if (section.type !== "text") {
+				return undefined;
+			}
+
+			const match = section.line.match(
+				/^If you scored? (a )?(([\d]+)|(([\d]+)(-|( or ))([\d]+))), ((turn to ([\d]+))|(roll again\.))$/,
+			);
+			if (!match) {
+				return undefined;
+			}
+
+			let scores: number[] = [];
+			if (match[5] && match[8]) {
+				const from = parseInt(match[5]);
+				const to = parseInt(match[8]);
+				scores = Array(to - from + 1)
+					.fill(0)
+					.map((_, i) => from + i);
+			} else if (match[3]) {
+				scores = [parseInt(match[3])];
+			}
+
+			if (!scores.length) {
+				throw new Error("No scores found: " + section.line);
+			}
+
+			const link = match[11] ? parseInt(match[11]) : undefined;
+
+			return { sectionIndex, scores, link };
+		})
+		.filter(isTruthy);
+
+	if (!outcomes.length) {
+		console.log(sections);
+		throw new Error("Found no roll instructions. ");
+	}
+	// TODO: Verify that the scores section indices are consecutive.
+
+	// Insert the dice rolls in the untouched sections.
+	const result = [...sections];
+	const firstSectionIndex = outcomes[0].sectionIndex;
+	result.splice(firstSectionIndex, outcomes.length, {
+		type: "diceRoll",
+		subtype,
+		outcomes,
+	});
+
+	return result;
+}
+
 function parsePage(rawLines: readonly string[]): Page {
 	const lines = [...rawLines];
 	const pageNumber = parseInt(lines.shift() || "");
 
-	const content = parseTurnInstructions(
-		parseHeaders(rawLines
-			// Remove empty lines.
-			.filter((x) => x.length)
-			.map((line) => ({ type: "text", line }))),
+	const content = parseDiceRollInstructions(
+		parseTurnInstructions(
+			parseHeaders(
+				rawLines
+					// Remove empty lines.
+					.filter((x) => x.length)
+					.map((line) => ({ type: "text", line })),
+			),
+		),
 	);
 
 	if (content.some((section) => section.type === "choices")) {
