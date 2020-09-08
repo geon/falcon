@@ -341,16 +341,13 @@ function parsePage(rawLines: readonly string[]): Page {
 		parseTurnInstructions(
 			parseTables(
 				parseHeaders(
-					parseScores(
-						rawLines
-							// Remove empty lines.
-							.filter((x) => x.length)
-							.map((line) => ({ type: "text", line })),
-					),
+					parseScores(rawLines.map((line) => ({ type: "text", line }))),
 				),
 			),
 		),
-	);
+	)
+		// Remove empty lines.
+		.filter((x) => x.type !== "text" || x.line.length);
 
 	if (content.some((section) => section.type === "choices")) {
 		return {
