@@ -87,7 +87,7 @@ interface HeaderSection {
 
 interface TableSection {
 	type: "table";
-	data: string[][];
+	rows: string[][];
 }
 
 interface DiceRollSection {
@@ -214,6 +214,50 @@ function parseHeaders(sections: Section[]): Section[] {
 	});
 }
 
+function parseTables(sections: Section[]): Section[] {
+	const tables: {
+		lastSectionIndex: number;
+		rows: string[][];
+	}[] = [];
+	let rows: string[][] = [];
+	let lastSectionIndex = -2;
+	for (let i = 0; i < sections.length; ++i) {
+		const section = sections[i];
+		if (section.type !== "text") {
+			continue;
+		}
+
+		const fields = section.line.split("\t");
+		if (fields.length <= 1) {
+			continue;
+		}
+
+		// Look for continous sections of only table rows.
+		if (i !== lastSectionIndex + 1 && rows.length) {
+			tables.push({ lastSectionIndex, rows });
+			rows = [];
+		}
+
+		rows.push(fields);
+		lastSectionIndex = i;
+	}
+	if (rows.length) {
+		tables.push({ lastSectionIndex, rows });
+	}
+
+	// Insert the tables in the untouched sections.
+	const result = [...sections];
+	for (const table of tables) {
+		const firstSectionIndex = table.lastSectionIndex - table.rows.length + 1;
+		result.splice(firstSectionIndex, table.rows.length, {
+			type: "table",
+			rows,
+		});
+	}
+
+	return result;
+}
+
 function parseDiceRollInstructions(sections: Section[]): Section[] {
 	const match = sections
 		.map(
@@ -295,12 +339,14 @@ function parsePage(rawLines: readonly string[]): Page {
 
 	const content = parseDiceRollInstructions(
 		parseTurnInstructions(
-			parseHeaders(
-				parseScores(
-					rawLines
-						// Remove empty lines.
-						.filter((x) => x.length)
-						.map((line) => ({ type: "text", line })),
+			parseTables(
+				parseHeaders(
+					parseScores(
+						rawLines
+							// Remove empty lines.
+							.filter((x) => x.length)
+							.map((line) => ({ type: "text", line })),
+					),
 				),
 			),
 		),
