@@ -166,7 +166,8 @@ function parseTurnInstructions(sections: Section[]): Section[] {
 
 	// Insert the option groups in the untouched sections.
 	const result = [...sections];
-	for (const group of optionGroups) {
+	// Do it in reverse to avoid messing up the unspliced part if the array while splicing it.
+	for (const group of optionGroups.reverse()) {
 		const firstSectionIndex =
 			group.lastSectionIndex - group.options.length * 2 + 1;
 		const options = group.options.map((option, i) => {
@@ -247,11 +248,12 @@ function parseTables(sections: Section[]): Section[] {
 
 	// Insert the tables in the untouched sections.
 	const result = [...sections];
-	for (const table of tables) {
+	// Do it in reverse to avoid messing up the unspliced part if the array while splicing it.
+	for (const table of tables.reverse()) {
 		const firstSectionIndex = table.lastSectionIndex - table.rows.length + 1;
 		result.splice(firstSectionIndex, table.rows.length, {
 			type: "table",
-			rows,
+			rows: table.rows,
 		});
 	}
 
