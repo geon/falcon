@@ -182,11 +182,11 @@ You cannot control Speke, his mind is too strong, but he has realised you are he
 14
 You give your Epsilon Security Code and the micro-display on your wrist lights up. The report on Q's death seems surprisingly brief:
 
-Termination Report:
-Cause of Death: Mission Brief at time of Death:
-Last Known Action:
-TIME Special Agent Q Born: 1/9/2890 AD - Last- landing (Outer Colonies) Killed on Active Service Autodoc Malfunction
-Monitor disturbance in Kelados Timeline 2047 AD Transmission to Sector Chief Yelov, Security Code Epsilon,interrupted Subject: Kelados Timeline disturbance.
+Termination Report:	TIME Special Agent Q Born: 1/9/2890 AD - Last landing (Outer Colonies) - Killed on Active Service
+Cause of Death:	Autodoc Malfunction
+Mission Brief at time of Death:	Monitor disturbance in Kelados Timeline 2047 AD
+Last Known Action:	Transmission to Sector Chief Yelov, Security Code Epsilon, interrupted. Subject: Kelados Timeline disturbance.
+
 End of Report
 Message Ends
 
