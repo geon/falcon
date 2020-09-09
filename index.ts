@@ -369,11 +369,25 @@ function parsePage(rawLines: readonly string[]): Page {
 		return { pageNumber, sections: content, type: "FailPage" };
 	}
 
+	if (lastSection.type === "text") {
+		const match = lastSection.line.match(/Turn to ([\d]+)/i);
+		if (match) {
+			const link = parseInt(match[1]);
+
+			return {
+				pageNumber,
+				sections: content,
+				type: "SingleLinkPage",
+				link,
+			};
+		}
+	}
+
 	return {
 		pageNumber,
 		sections: content,
 		type: "SingleLinkPage",
-		link: 0,
+		link: 1,
 	};
 }
 
@@ -429,6 +443,11 @@ function renderPage(page: Page): string {
 		<html>
 			<body>
 				${page.sections.map(renderSection).join("\n")}
+				${
+					page.type === "SingleLinkPage"
+						? `<a href="${page.link}.html">Turn to ${page.link}</a>`
+						: ""
+				}
 			</body>
 		</html>
 	`;
