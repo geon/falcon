@@ -1,4 +1,4 @@
-import { readFileSync } from "fs";
+import { readFileSync, writeFileSync } from "fs";
 
 function* getLines(string: string) {
 	const lines = string.split("\n");
@@ -419,7 +419,100 @@ const lines = getLines(fileContent.toString("utf8"));
 const linesAfterIntro = skipIntro(lines);
 const pages = [...getPages(linesAfterIntro)].map(parsePage);
 
-console.log(JSON.stringify(pages, null, "\t"));
-
 checkPageNumbers(pages);
 checkLineBreaks(pages);
+
+// console.log(JSON.stringify(pages, null, "\t"));
+
+function renderPage(page: Page): string {
+	return `
+		<html>
+			<body>
+				${page.sections.map(renderSection).join("\n")}
+			</body>
+		</html>
+	`;
+}
+
+function renderSection(section: Section): string {
+	switch (section.type) {
+		case "table":
+			return renderTableSection(section);
+
+		case "text":
+			return renderTextSection(section);
+
+		case "score":
+			return renderScoreSection(section);
+
+		case "header":
+			return renderHeaderSection(section);
+
+		case "diceRoll":
+			return renderDiceRollSection(section);
+
+		case "choices":
+			return renderChoicesSection(section);
+
+		default:
+			const bad: never = section;
+			throw new Error("No handled: " + bad);
+	}
+}
+
+function renderTableSection(section: TableSection): string {
+	return `<table>
+		${section.rows
+			.map(
+				(row) => `<tr>${row.map((field) => `<td>${field}</td>`).join("")}</tr>`,
+			)
+			.join("\n")}
+		</table>`;
+}
+function renderTextSection(section: TextSection): string {
+	return "<p>" + section.line + "</p>";
+}
+function renderScoreSection(section: ScoreSection): string {
+	return "<p><b>[Score a " + section.letter + "]</b></p>";
+}
+function renderHeaderSection(section: HeaderSection): string {
+	return "<h2>" + section.line + "<h2>";
+}
+function renderDiceRollSection(section: DiceRollSection): string {
+	return `
+		<table>
+			${section.outcomes
+				.map(
+					(outcome) => `
+						<tr>
+							<td>${outcome.scores.join()}</td>
+							<td>${
+								outcome.link
+									? `<a href="${outcome.link}.html">Turn to ${outcome.link}</a>`
+									: "Roll Again"
+							}</td>
+						</tr>`,
+				)
+				.join("\n")}
+		</table>
+	`;
+}
+function renderChoicesSection(section: ChoicesSection): string {
+	return `
+		<table>
+			${section.options
+				.map(
+					(option) => `
+						<tr>
+							<td>${option.choice}</td>
+							<td><a href="${option.link}.html">Turn to ${option.link}</a></td>
+						</tr>`,
+				)
+				.join("\n")}
+		</table>
+	`;
+}
+
+for (const page of pages) {
+	writeFileSync("pages/" + page.pageNumber + ".html", renderPage(page));
+}
