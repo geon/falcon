@@ -495,7 +495,7 @@ function renderScoreSection(section: ScoreSection): string {
 	return "<p><b>[Score a " + section.letter + "]</b></p>";
 }
 function renderHeaderSection(section: HeaderSection): string {
-	return "<h2>" + section.line + "<h2>";
+	return "<h2>" + section.line + "</h2>";
 }
 function renderDiceRollSection(section: DiceRollSection): string {
 	return `
