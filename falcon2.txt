@@ -144,12 +144,11 @@ AGENT PROFILE:
  
 STRIKE FIGHTER & BATTLESUIT DEFENCE POINTS
  
-
+THE MISSION
 1
 [score a Q]
 The hovrail car which will take you to the Eiger Vault glides soundlessly to a halt. As you secure the bubble hatch and type in your destination you are already considering the possibilities. The steady acceleration of the car lasts for half of the journey and as you begin to slow it dawns on you that this will be a difficult mission. Yelov Was a test pilot in the pioneering days of Time Travel; not only is he more experienced than anyone else, he also possesses the cat-like reflexes of the Siriuns. His skill in the Sim-Combat booths is legendary. Behind you the lights of Alpolis stretch for further than the eye can see even though the monorail arcs a thousand feet above the ground.
 Less than an hour after leaving Jobanque's office you stand before the huge plasteel hangar doors of the Eiger Vault, set deep in the side of Mount Eiger. Your ID chip is checked and you are mind scanned before access to the vault is allowed by the service computer. As you pass the security droids, you reflect upon the folly of holding Yelov within this tight security net, instead of outside it. He is a million times more dangerous with a Time Machine at his disposal than if he were at large on Earth, 3033 AD. Y ou cross the cavern which houses the Time Machines and the Research Section of TIME. The area in which the machines are kept is partitioned at intervals and you head straight for your own bay. In the centre of the bay, which is lined on three sides with racks carrying maintenance equipment, spare parts, the Variac Drive Recharger and sundry other useful items, lies Falcon's Wing, your Time Machine. You approach the access hatch and the Mind Scanner lights up red, then green. You are drawn up into the Time Machine by invisible Tractor Beams, activated by CAIN. Soon you are standing on the glowing Access Disc and CAIN chimes 'Welcome, Falcon.' Turn to 210.
-
 
 2
 As you open your mind to the alien you find yourself having to make a great effort to remain sane and regain your human sense of perspective. The Thrix live for millenia on a cold and lifeless world, barren of architecture - they have no need of building, and of almost everything else that you associate with civil- isation. You realise that something terrible is happening on this
