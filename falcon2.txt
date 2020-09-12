@@ -172,7 +172,9 @@ topped fortress droid which suddenly towers above you. Each of its sides boasts 
 
 7
 The raildroid accelerates towards you and then swivels its weaponry in your direction. You open fire, but the bolt of superheated plasma is deflected in a flare of light by its shield. A grim ray streaks towards you. You hurl yourself aside. Make tin Evasion Roll.
-If you score 7-12, turn to 41 If you score 2-6, turn to 30
+
+If you score 7-12, turn to 41
+If you score 2-6, turn to 30
 
 8
 Y ou set off towards them, but a phalanx of hovering wardroids pours out of the tunnel where you passed the raildroid. You destroy one but the barrage of their fire turns the communi- idtions area to molten slag and you do not survive it.
@@ -201,7 +203,9 @@ Near the Black Prince?
 Near the Earl of Northampton? Near Sir Thomas Chandos?
 Turn to 350 Turn to 335 Turn to 364 Turn to 379
 You open the doors and try to throw the android outside but it is enormously heavy and powerful. It picks you up in One hand and throws you against the wall with the force of a linear accelerator. You lose 9 Endurance points. A man suffering from an illness which affects his coordination staggers out of the urinal and advises you to wait and make your call later before tripping up over the back step of the recreation centre. The android continues to use the telephone but leans out and points a stunner at you. Make an Evasion Roll!
-If you score 6-12, turn to 92 If you score 2-5, turn to 101
+
+If you score 6-12, turn to 92
+If you score 2-5, turn to 101
 
 
 11
@@ -210,15 +214,21 @@ down. Turn to 34.
 
 12
 Your sword blade whistles through air as the Black Knight reacts to your attack with superhuman speed. The visor on his great black helm clicks open. A beam of red light lances towards you and you try desperately to throw yourself aside. Make an Evasion Roll.
-If you score 6-12, turn to 74 If you score 2-5, turn to 87
+
+If you score 6-12, turn to 74
+If you score 2-5, turn to 87
 
 13
 You rip your blaster from its holster and fire in a blur of fluid movement. The sizzling streak of white hot plasma turns the gas through which it lances red, as it plays across the face of the intelligent boulder. The Thrix is undamaged after a continuous ten-second burst when a large rock near your foot flies up towards your head. You try to jump aside, sluggish in the high gravity. Make an Evasion Roll.
-If you score 7-12, turn to 62 If you score 2-6, turn to 43
+
+If you score 7-12, turn to 62
+If you score 2-6, turn to 43
 
 14
 You were not fast enough and the energy pulse picks you up a nd hurls you bodily against a rock outcropping. The plasnet of your suit repairs itself automatically, but the blast and the acid gas of Thrix's atmosphere which seeped into your suit have reducedyour Endurance by 10 points. If you are still alive, the contaminated wounds will heal poorly - subtract 1 from your maximum Endurance forever. You have a split second in which to fire before the wardroid unleashes another blast of energy. Make an Attack Roll.
-If you score 7-12, turn to 38 If you score 2-6, turn to 23
+
+If you score 7-12, turn to 38
+If you score 2-6, turn to 23
 
 15
 The Main Access portal is an oval opening, a hundred metres across and fifty tall. It seems to be composed of ten overlapping sections of metal which can slide open one at a time or all together. As you hurtle towards it a swarm of Atmospheric Interceptorsappear from the hangar opening. Their pulse lasers will soon be wreaking havoc on your ship's defences. Quickly you beam the Main Access Code at the Communication Tower above the portal and it slides open. You move from the gloomy brooding red of Mechanon's thin atmosphere to the ghostly green luminescence which lights an enormous tunnel that stretches ahead for miles. Ten Atmospheric Interceptors follow you down the tunnel, their pulse lasers winking on and off as they pour their deathly fire at your ship's defences. Turn to 109.
@@ -239,7 +249,9 @@ Turn to 117 Turn to 39
 You move deeper into the complex to radio your direction to HloodhoundandLynxbeforeswitchingonthehomingsignalin your environment suit. As you move along yet another vast
 
 tunnel the ceiling opens up and a hover platform descends towards you. You flatten yourself against the wall, but it carries only worker droids. As you watch they open a hatch in the tunnel wall and load a fifty-metre long starship Ion Drive onto the platform. The platform rises again and the ceiling is sealed once more. Lynx radios you to hold your position if at all possible. Three hovering wardroids and a raildroid appear at the far end of this tunnel and you are about to report that you must retreat when the ceiling opens once more. Bloodhound lowers a rope to you and they pull you up just as the green rays of a particle disrupter sheer into the luminous wall behind you. The raildroid aims again as you reach for the gap in the ceiling. Make an Evasion Roll as you try to scramble through to the planet surface.
-If you score 5-12, turn to 32 If you score 2-4, turn to 42
+
+If you score 5-12, turn to 32
+If you score 2-4, turn to 42
 
 20
 The raildroid passes overhead with a whoosh of displaced
@@ -254,7 +266,9 @@ The wardroid rises dramatically on its hover thrusters just as you fire. Your pl
 
 24
 Y our sword blade jars the Black Knight with a clang, and smoke and sparks fly up from its elbow joint. It staggers as if its circuits were overloading. It is certainly no man, but a droid, a mechanical man. It swivels its head towards you and the visor of Its great black helmet clicks open. You are ready when a beam of red light lances towards you from the droid's helmet and you dodge it and try to bury the tip of your sword into the gap left by the open visor. Make an Attack Roll.
-If you score 6-12, turn to 36 If you score 2-5, turn to 49
+
+If you score 6-12, turn to 36
+If you score 2-5, turn to 49
 
 25
 You concentrate your mind and try to dominate the will of this sentient rock, but its mind is so alien you don't know where to begin. The Thrix is entirely unaffected but it seems to think that you have made a gesture of friendship and it opens its mind to you. Its name translates, in a shortened form, to Carborundum. It clicks at you and your translator tells you that it is beckoning you. Suddenly it lurches and begins to roll across the rocky ground. You decide to follow warily. Turn to 53.
@@ -289,14 +303,18 @@ and try to weave through its imminent attacks?
 Turn to 115 Turn to 126
 Turn to 104
 The French knight is consumed with battle-lust and the force of your mental attack is not enough to stun him. He charges home and you have only a moment to catch the lance tip on your shield. Make an Evasion Roll.
-If you score 8-12, turn to 63 If you score 2-7, turn to 114
+
+If you score 8-12, turn to 63
+If you score 2-7, turn to 114
 
 30
 The green ray expands as it stabs towards you and you are caught. The particles of your body coat the walls of the tunnel for fifty metres around in a thin film. You have fallen victim to a high intensity particle disruptor.
 
 31
 Y our missile breaches a hole in the Main Access portal just large enough for you to fly through. You move from the gloomy, brooding red of Mechanon's thin atmosphere to the ghostly, green luminescent lights of an enormous tunnel which stretches ahead for miles. The Access portal opens suddenly and ten Atmospheric Interceptors follow you down the tunnel, their pulse lasers winking on and off as they pour their deadly fire into your ship's defences. You switch between fore and aft scanner but you have to leave your Battle, computer to target your aft lasers while you synchronise your evasion movements with its prediction of your movements. Make an Attack Roll.
-If you score 6-12, turn to 88 If you score 2-5, turn to 70
+
+If you score 6-12, turn to 88
+If you score 2-5, turn to 70
 
 
 32
@@ -311,7 +329,9 @@ With uncanny accuracy you thrust the sword through the open visor into the droid
 
 37
 The missile is still streaking towards you - you have only moments to use your fusion beams on it. Make an Attack Roll.
-If you score 7-12, turn to 16 If you score 2-6, turn to 69
+
+If you score 7-12, turn to 16
+If you score 2-6, turn to 69
 
 38
 Your aim is true and you have destroyed the wardroid's hover pads. It falls to the ground with an impact that shakes the rock like an earthquake and explodes scattering lumps of corroded metal everywhere. You have destroyed the wardroid that guards the loading bay but other robots may be on their way to intercept you. A rack of Polybdenum rods stands in the bay at the back of the cavernous armadillo-like mining droid. You seize your chance to destroy it. Turn to 141.
@@ -331,18 +351,24 @@ At this range you cannot miss the threatening mass of machinery. The beam of you
 
 40
 The beam of your particle disruptor flays Yelov's bionic arm until there is nothing left but smoke. His nerves react as though you had blown off his real arm again and he collapses to the floor. You step towards him to finish it, but the computer opens a hatchway beneath your feet and you fall through it. You blast with your jetpack but the hatchway closes, trapping you at the neck. The floor starts to buckle under the surge of the jets and you pound the floor with your power-suited fists. You tear feverishly at the warping metal as Yelov begins to recover. Make an Evasion Roll as you try to burst free from the trap.
-If you score 5-12, turn to 163 If you score 2-4, turn to 318
+
+If you score 5-12, turn to 163
+If you score 2-4, turn to 318
 4 1
 The green ray expands towards you, clipping your shoulder, a small part of which is smeared in a thin film across the wall behind you. Lose 3 Endurance points. If you are still alive, will you:
 splits your helm and his sword blade lodges fast in your brain. Y ou have failed.
 
 45
 You step through the back door of the ancient recreation centre and into the courtyard. The android is inside a red and glass booth - you recognise an ancient 'tele'phone in his hand and he has fitted an unusual device to the transmitter. Your Remote Access Terminal bleeps and CAIN sends you a message. The android is hooking into the telephone network and changing the information reaching the Communist bloc defence computer which controls nearly half of the world's nuclear missiles at this lime. While you are reading the message on your small wrist display the android has noticed you and recognises you for what you are. It is aiming a stun blaster at you. Duck! Make an Evasion Roll.
-If you score 6-12, turn to 77 If you score 2-5, turn to 66
+
+If you score 6-12, turn to 77
+If you score 2-5, turn to 66
 
 46
 You aim your blaster at the horns. Make an Attack Roll.
-If you score 4-12, turn to 65 If you score 2-3, turn to 57
+
+If you score 4-12, turn to 65
+If you score 2-3, turn to 57
 
 47
 Falcon's Wing rematerialises on Mechanon, which is a gleaming orb of polished metals. Robo-factories stretch as far as the eye can see, covering every inch of the planet's surface, almost without light in the sombre red sky. At three mile intervals around you are what must be planetary defence points: bronze domes bristling with some sort of surface-to-space artillery. Your scanners indicate that nothing lives on this dead world, not even grass, but it is alive with bizarrely-shaped droids which dart and scuttle across its face like insects. You decide to explore on foot and set out towards a building which glows a ghostly green. The bustling machines ignore you until you approach what looks like an enormous spaceship. The spacecraft suddenly disappears and you realise, horror-struck, that the droids of Mechanon have built an enormous Time Machine. You race
@@ -363,14 +389,18 @@ back to Falcon's Wing but when you re-emerge in the Eiger Vault you are already 
 
 48
 Your aim is true and you have destroyed the wardroid's hover pads. It falls to the ground with an impact that shakes the rock like an earthquake and explodes scattering lumps of corroded metal everywhere. The immobile wardroid is preparing to open up at you with its laser cannon - you have an instant in which to dodge the beam and destroy the droid before it cuts you in half Make an Evasion Roll.
-If you score 6-12, turn to 110 If you score 2-5, turn to 98
+
+If you score 6-12, turn to 110
+If you score 2-5, turn to 98
 
 49
 Your expertise with the sword is by no means as great as with your blaster and the sword rings harmlessly off the black helmet. The droid's response is far quicker than any man's as it brings the crackling mace down upon you with a crash and a squeal of tearing armour. Lose 12 Endurancepoints. You stagger but steel yourself to go on, just as the visor on the Black Knight's helm clicks open and a beam of red lights lances towards you. Turn to 74.
 
 50
 The fortress droid looms before you and your Battle Computer has locked onto it successfully. You press the fire button and a fission warhead missile streaks towards it. Make a Chance Roll.
-If you score 1-5, turn to 137 If you score 6, turn to 145
+
+If you score 1-5, turn to 137
+If you score 6, turn to 145
 
 51
 Sparks fly as the French knight parries the swipe of your sword and then hacks downward at you, before you can recover your
@@ -378,7 +408,9 @@ balanceand heft your blade, to answer him. He catches you on yourfullfacehelmet,
 
 52
 Your blow catches the metallic mask that is one side of Yelov's face and he is thrown backwards, stunned. His plasma pistol whirls through the air and lands some way behind him. You step forward, intent on using the strength of your battered suit to smash his head as Yelov staggers to his feet, when the computer activates a grab used for moving the data banks. You try to dodge its metal claws as it closes in on you. Make an Evasion Roll.
-If you score 6-12, turn to 409 If you score 2-5, turn to 174
+
+If you score 6-12, turn to 409
+If you score 2-5, turn to 174
 
 53
 The black Thrix tumbles onward through the yellow gases of its planet, glistening with condensation and reflective particles of dust. You pass the scattered remains of one of its species and you feel the hurt in the mind of the Thrix whom you are following, whose name translates as Carborundum. The grief of the loss of a two thousand-year friendship almost cripples you, but you steel yourself to hold on to your own identity, almost sobbing as you do so. The dead Thrix has been shorn in half by a terrible weapon. There are cavities within its crystal in which still smaller crystal trees grow. You communicate your surprise to Carborundum and he thinks his reaction to you. It seems that he finds your soft bendiness repulsive. 'You should see me without my suit,' you think. As you plod through the heavy gravity there is a slight movement in the heavy air and
@@ -388,7 +420,9 @@ Carborundum leads you down into a natural cavern which opens out below the gapin
 
 56
 Yelov rushes in to strike you again but you drive your powered fist towards his face. Make an Attack Roll.
-If you score 7-12, turn to 52 If you score 2-6, turn to 152
+
+If you score 7-12, turn to 52
+If you score 2-6, turn to 152
 
 57
 The excess of adrenaline pumping through your body is causing your arm to shake. You have missed and the droid has relocated you. It criss-crosses the highway with laser beams and you cannot dodge them all. You are chopped into several pieces and your mission ends here.
@@ -418,11 +452,15 @@ The pebbles beneath your feet start to shift but you keep your balanceand duck t
 
 63
 You catch the knight's lance firmly in the centre of your shield and are jolted backwards. He drops the lance and begins to draw his sword. Will you step away from his plunging horse, turn to 139? or if you would prefer to attack him with your sword, you may make an Attack Roll. In this case:
-If you score 7-12, turn to 128 If you score 2-6, turn to 51
+
+If you score 7-12, turn to 128
+If you score 2-6, turn to 51
 
 64
 As you line up on the Planetary Defence Base you try to make lure the Battle computer locks onto its target successfully. Make an Attack Roll.
-If you score 6-12, turn to 124 If you score 2-5, turn to 113
+
+If you score 6-12, turn to 124
+If you score 2-5, turn to 113
 
 65
 Your blaster melts the droid's sound sensor and it begins to move erratically, unable to locate you. After a time it simply
@@ -438,18 +476,24 @@ If you did not, turn to 80
 
 60
 As you wait the raildroid halts abruptly and then accelerates back towards you reaching about 100 mph in three seconds. It opens fire again with its high intensity particle disruptor. Make an Evasion Roll.
-If you score 7-12, turn to 41 If you score 2-6, turn to 30
+
+If you score 7-12, turn to 41
+If you score 2-6, turn to 30
 
 61
 You regain the safety of Falcon's Wing, suffering no more than the mockery of some camp followers who think that you are fleeing the battle in fear. CAIN tells you that his scanners registered the fact that the Black Knight was a droid from Mechanon, and that it must have been programmed to kill Sir Thomas Chandos who is probably your ancestor. 'Be careful, Falcon, Yelov is trying to kill you.' If you didn't know that electronic brains are not programmed to register emotion CAIN's tone would have you believe he was worried on your behalf. You can see on the console screen that the battle is continuing. The Black Prince is alive, another horse between his
 
 drifts away. You run on towards the hangar-like opening of the large fluorescent building. As you run, three flying droids Atmospheric Interceptors, with swept-back wings and pulse laser cannons swoop on you, strafing you with pulses of deadly red light. You zig zag towards an abandoned worker droid hoping to shelter beneath it. Make an Evasion Roll as the Interceptors scream overhead.
-If you score 5-12, turn to 194 If you score 2-4, turn to 175
+
+If you score 5-12, turn to 194
+If you score 2-4, turn to 175
 
 66
 You are caught by the beam from the android's stunner and stagger, fighting to regain your senses. A man almost trips as he comes out of a hut labelled 'Gentlemen' and stands, swaying, his mouth open in surprise. The droid turns his stunner on him and
 he crumples to the ground, belching. You may use the moment's respite to climb the courtyard wall and cut the cable which leads to the telephone booth, turn to 188, or if you wish to use your blaster, make an Attack Roll.
-If you score 4-12, turn to 92 If you score 2-3, turn to 101
+
+If you score 4-12, turn to 92
+If you score 2-3, turn to 101
 
 67
 You dive for the shelter of the rock outcropping but you have misjudged the strength needed to do so in the high gravity of Thrix. You smash into the ground as the missile reaches you. It carries an armour piercing warhead which drills a river of boiling copper through you as it detonates. You have failed.
@@ -490,7 +534,9 @@ Fighter is still functional. You decide to retaliate. Will you fire a missile:
 
 79
 You turn the superheated plasma beam of your blaster on the immobile wardroid, an easy target. The lancing bolt of white- hot energy hits its power plant and the flash defence on your helmet automatically cuts in and the faceplate darkens as the lurid explosion lights the yellow atmosphere, hurling debris everywhere. The second wardroid unleashes a guided missile which is homing in on the heat of your body. All you can do is dive behind a rock outcropping and hope that it doesn't carry a fissionwarhead. Make an Evasion Roll.
-If you score 5-12, turn to 58 If you score 2-4, turn to 67
+
+If you score 5-12, turn to 58
+If you score 2-4, turn to 67
 
 80
 You tell them that you have useful information to be analysed at the Eiger Vault and agree to leave Mechanon before you are all killed. They tell you that Falcon's Wing has been destroyed and you are forced to ask for passage back to the Vault. You make your way back to their machines at a run and your combined firepower is enough to dispose of the four wardroids which attack, but Bloodhound is wounded when you are 'buzzed' by three strafing Atmospheric Interceptors. Lynx is glad to allow you the use of her autodoc and you take a relaxant and recuperate. You may restore up to 12 points of lost Endurance. Turn to 102.
@@ -500,7 +546,9 @@ The missile pre-detonates before it reaches you, causing massive destruction in 
 
 82
 The knight lowers his lance, its red pennon fluttering, and his great cart horse which is weighed down with armour thunders on towards you. You try to catch the point of his lance on your shield. Make an Evasion Roll.
-If you score 7-12, turn to 63 If you score 2-6, turn to 114
+
+If you score 7-12, turn to 63
+If you score 2-6, turn to 114
 At the Planetary Defence Base?
 At the fortress droid that hovers before
 the Central Computer Complex?
@@ -508,7 +556,9 @@ the Central Computer Complex?
 77
 Turn to 64 Turn to 50
 You dodge the stun-blast and the android is fiddling with the strange device once more. Will you climb the courtyard walls and cut the cable which leads to the telephone booth, turn to 188? or if you wish to use your blaster, make an Attack Roll.
-If you score 4-12, turn to 92 If you score 2-3, turn to 101
+
+If you score 4-12, turn to 92
+If you score 2-3, turn to 101
 
 78
 The Thrix seems unperturbed by the knowledge that you tried to harm it. Apparently it can withstand the most extreme temperatures and ionic disturbances. It tells you that a mining complex has recently appeared on the planet, a complex as alien to it as you are, and it offers to lead you to it. You decide to follow warily when, out of the gloom, a red light appears ahead
@@ -518,16 +568,22 @@ can fire. The Thrix registers pleasure at your action and you continue through t
 
 83
 The skills you honed in sim-combat at the academy will be put to the test now. You have a moment to open fire before a pulse of energy from the wardroid's weapon banks flattens you. Make an Attack Roll.
-If you score 7-12, turn to 4 If you score 2-6, turn to 14
+
+If you score 7-12, turn to 4
+If you score 2-6, turn to 14
 
 84
 As the raildroid's shield flies up to defend against the energy grenade which you have thrown, you attempt to give it a steady blast of superheated plasma. Make an Attack Roll.
-If you score 6-12, turn to 136 If you score 2-5, turn to 116
+
+If you score 6-12, turn to 136
+If you score 2-5, turn to 116
 
 85
 You press the launch button and the launch doors fly apart as you are hurtled out of Falcon's Wing. Waiting until you are far enough away from Falcon's Wing to avoid causing exhaust damage, you cut in the Flyer's Ion Drive and accelerate to Mach 3. The Flyer's instruments indicate that your Ion Drive's exhaust is being tracked and the radar shows three ballistic missiles speeding towards your Time Machine. You avoid them with ease, but two of them score direct hits on Falcon's Wing and a third destroys the mining droid behind it. The Flyer has rocked by the blast. When the cloud of pulverised dust has settled nothing remains of Falcon's Wing. You are trapped time and space on the soul-less factory world of Mechanon with only two days' supply of recyclable oxygen in your Flyer.
 Your radar screen picks up another salvo of incoming missiles. You flick the joystick left and backwards but the missiles are: homing in on you. Only a sharp turn at the moment before impact will save you. Make an Evasion Roll but count your Evasion Modifier as zero.
-If you score 6-12, turn to 100 If you score 2-5, turn to 112
+
+If you score 6-12, turn to 100
+If you score 2-5, turn to 112
 
 86
 Y ou have entered the coordinates of Mechanon, but you are there already. Before you can select a new destination the atomicmine hits your Strike Fighter and you are obliterated.
@@ -537,7 +593,9 @@ You are too slow and the beam of red light catches you. The metal armour in whic
 
 88
 The Battle Computer goes to work, destroying two of the Atmospheric Interceptors and crippling a third, but one of the Interceptors fires a missile which streaks towards you. You throw the Fighter to the left at the last moment. Make an Evasion Roll.
-If you score 5-12, turn to 109 If you score 2-4, turn to 96
+
+If you score 5-12, turn to 109
+If you score 2-4, turn to 96
 
 89
 Your ECM is successful; their electronic signals are a target and you manage to cause the missiles to pre-detonate before they reach you. The Atmospheric Interceptor is still behind you. Will you:
@@ -557,15 +615,21 @@ Jobanque says, 'You, and you alone, must stop them before they take off, Falcon.
 
 92
 You whip out your blaster and fire with the consummate skill of one who has scored MAX in the sim-combat booths three times running. The telephone booth and the android erupt in a small explosion but a piece of twisted metal crashes against your helmet so hard that you fall stunned. Lose 3 Endurancepoints. If you are still alive, you regain your senses to the sound of a siren, like that of an Enforcer's jetcopter nearby, and two men in navy blue uniforms run towards you from the recreation centre. Still groggy, you can jump for the wall and try to scramble over before they catch you. Make an Evasion Roll.
-If you score 7-12, turn to 135 If you score 2-6, turn to 127
+
+If you score 7-12, turn to 135
+If you score 2-6, turn to 127
 
 93
 You jet upwards as Yelov slices the great girder through the air like the arm of a windmill. It catches your foot and tumbles you backwards but you try to train your particle disruptor on him. Make an Attack Roll.
-If you score 5-12, turn to 40 If you score 2-4, turn to 73
+
+If you score 5-12, turn to 40
+If you score 2-4, turn to 73
 
 94
 Y our blaster discharges a crackling beam of superheated plasma hut your aim is wrong and you only hit a dead horse. The knight charges home, thinking, with his restricted vision, that he had seen no more than the flash of the sun on a polished helm. You have only a moment to try and catch the point of his lance on your shield. Make an Evasion Roll.
-If you score 8-12, turn to 63 If you score 2-7, turn to 114
+
+If you score 8-12, turn to 63
+If you score 2-7, turn to 114
 
 95
 The Thrix seems to believe you. It tells you that a mining complex has recently appeared on the planet, a complex as alien to it as you are, and it offers to lead you to it. You decide to follow warily when, out of the gloom, a red light appears ahead of you. A great metal monster comes towards you out of the fog. It has four hover-thruster discs, and it is heavily armoured. It is equipped with an awesome array of weaponry - an Ion Beam discharge, mortar cluster, laser cannon mountings, high explosive machine rifles and the like. It is aiming a laser cannon at you - you have no choice but to blast it. The superheated plasma fuses its metal shell and it explodes with a roar, before it can fire. The Thrix tumbles away across the rocky ground at a speed which you cannot hope to match - evidently it has realised what you meant by 'a gesture of friendship'! Turn to 395.
@@ -606,11 +670,15 @@ Jobanque says, 'You, and you alone, must stop them before they take off, Falcon.
 Condensation trails from the Strike Fighter's wing tips as you dive at Mach 5 into the thin atmosphere of Mechanon, towards the Central Computer Complex which glows a ghostly luminescent green. As you turn on reverse thrust and decelerate towards the huge hangar opening you notice a mobile fortress droid hovering upwards ahead of you, and a Planetary Defence Base beyond a huge iron cooling tower to your left. The fortress droid is a huge disc, bristling with missile lasers and plasma cannon space artillery. The Planetary Defence Base is a cluster of several missile launchers and radar dishes. The Battle
 
 computer reports an Atmospheric Interceptor closing up behind you at Mach 5.7, as two missiles streak towards you from the Defence Base. You decide to deal with the missiles first using electronic counter measures. Make an Attack Roll.
-If you score 6-12, turn to 89 If you score 2-5, turn to 76
+
+If you score 6-12, turn to 89
+If you score 2-5, turn to 76
 
 104
 You pull the joystick back savagely and your ship surges upwards and straightens out, hugging the roof of the tunnel. The two plasma cannons open fire with a spitting roar and two balls of boiling plasma race towards you. You twist your fighter into an arcing dive, screaming downwards in an attempt to avoid the shells. Make an Evasion Roll.
-If you score 6-12, turn to 138 If you score 2-5, turn to 147
+
+If you score 6-12, turn to 138
+If you score 2-5, turn to 147
 
 105
 You re-materialise high above a green world circled with bands of white cloud. You guide your Strike Fighter towards the largest city that you can see as you skim the rolling hills and plains of Danikos. CAIN says you have been detected but your radar, although covered in moving blips, does not show any aircraft moving to intercept you. You finally set your Fighter down in a sandy square. All of the buildings that you have seen so far look like the palaces of times still to come on Earth. Each is overburdened with exquisitely complicated carvings and orna- mental turrets and domes. A small crowd gathers - the Danikoi
@@ -646,7 +714,9 @@ The G-force dampers on your Flyer work overtime as it slews drunkenly out of the
 
 113
 The Battle computer fails to lock onto its target and the fortress droid opens fire with a plasma cannon. A glowing white shell streaks towards you and you slam your Strike Fighter into another right turn, hoping to avoid it. Make an Evasion Roll.
-If you score 6-12, turn to 197 If you score 2-5, turn to 183
+
+If you score 6-12, turn to 197
+If you score 2-5, turn to 183
 
 114
 The tip of the French knight's lance catches your shield near the top, causing it to tip backwards. The lance rides up over the shield and bores into your chest, tearing through the chain mail corselet, as if it were paper. Lose 8 Endurance points as you are thrown to the ground by the momentum of his charge. You stagger to your feet, thankful that the armour CAIN prepared for you is lighter than the real thing, as the knight throws down
@@ -693,7 +763,9 @@ skirtinga huge iron cooling tower, an incredible sight meets your gaze. A spaces
 
 124
 The Battle computer locks on and you press the red button which launches a missile at the Planetary Defence Base. Seconds before your missile destroys it, the fortress droid opens fire with a plasma cannon. A glowing white shell streaks towards you and you slam your Strike Fighter into another tight turn, hoping to avoid it. Make an Evasion Roll.
-If you score 6-12, turn to 197 If you score 2-5, turn to 183
+
+If you score 6-12, turn to 197
+If you score 2-5, turn to 183
 
 125
 Your expertise with the sword is by no means as great as with your blaster and the sword rings harmlessly off the black helmet. The droid's response is far quicker than any man's as it brings the crackling mace down upon you with a crash and a squeal of tearing armour. Lose 12 Endurance points. You stagger but steel yourself to go on, just as the visor on the Black Knight's helm clicks open and a beam of red light lances towards you. Turn to 99.
@@ -709,18 +781,24 @@ The side of the refinery slopes smoothly to a polished metal droid highway below
 There is a deep rumbling sound and the droid is drawn into the tower - its roof is an Access Pad. You transmit the Main Access, Code to CAIN in Falcon's Wing. Note down the number 15 and that you have the Main Access Code. You will be told when you can turn to 15. You turn away and head towards the hangar-like entrance of the fluorescent building. The rim of the hangar boasts twenty great space-artillery pieces like outward pointing teeth in the cavernous maw of a prehistoric monster. As you approach it,
 
 thumbs on the joystick fire buttons, and open up with your fusion beams. Make an Attack Roll.
-If you score 6-12, turn to 253 If you score 2-5, turn to 243
+
+If you score 6-12, turn to 253
+If you score 2-5, turn to 243
 
 127
 You make it over the wall but as you set off down the tarmac strip towards your Strike Fighter you are blinded by the sudden flare of the searchlights of a machine called a car for a moment before your flash dampers cut in. Two more men in blue uniforms get out and one of them manages to hurl himself at you so that you lose your footing and fall to the ground. He is on top of you and you decide to use your Power of Will. Make a Power of Will Roll.
-If you score 7-12, turn to 204 If you score 2-5, turn to 158
+
+If you score 7-12, turn to 204
+If you score 2-5, turn to 158
 128 [score an I]
 He is hard pressed from all sides and the great swipe of your sword catches him in the neck, piercing and denting his armour. He falls, stricken, to the grass and breathes no more. As you pull your sword from the dented metal a strange change overcomes you. Your breathing seems to falter and you feel weak. Your memories change. Whereas once you remembered as a child being successfully cured of a disease caused by a mutant virus your memory now tells you that a different medtech used an inferior treatment to cure you. With a shock you realise you have just killed the ancestor of the man who would have invented the cure. He will never have existed. You lose 3 Endurance points and your total Endurance may now never exceed 17. You recover from the shock quickly and notice that the valiant French knights are charging time and time again, only to be repulsed by the fire of the English longbowmen. Turn to 162.
 
 129
 You roll behind the furnace.and open fire at the wardroid which threatens the Thrix. You blast just in time, hitting the power plant of the wardroid. Your faceplate reacts instantly, cutting in the flash damper, and it darkens as a bright explosion lights up
 the interior of the machinery of the refining plant. The second droid shoots across the refinery bay to bring its laser cannon to hear against you. You try to dive under the massive conveyor belt, hoping that it is dense enough to stop the laser. Make an Evasion Roll.
-If you score 6-12, turn to 168 If you score 2-5, turn to 157
+
+If you score 6-12, turn to 168
+If you score 2-5, turn to 157
 
 130
 One of the technicians floods the hangar with light and the most advanced piece of weaponry ever designed by the Space Federation is revealed in all its glory. Forty metres long, it looks like a highly advanced, oversized Atmospheric Interceptor, It has four wings which sweep back to needle points on either side of a huge ion-plasma drive tube. A drive like that must mean interstellar capability and the ship is fitted with hyper-drive. Skirrow explains, 'This is a Weeks/Senior Corporation Space Navy Strike Fighter. She has a Variac Drive fitted; this is the first time travel starship, Falcon, treat her well. A copy of CAIN's memory has been installed and linked into our most advanced Battle computer. She has Titanium hull armour.' Skirrow enters the Strike fighter and explains the controls and capabilities of the craft. She has electronic counter measures, a
@@ -744,11 +822,15 @@ Use your powers of Thinkstrike on some of the French knights?
 133
 Turn to 216 Turn to 182
 As you head towards the hangar-like opening in the building behind the dismantled Time Machine, your radar picks up ten fast-moving objects closing quickly. As you begin to decelerate before entering the building, ten Atmospheric Interceptors dive on you. They are automatic flying droids, somewhat larger than and as fast as your Flyer. You catch sight of laser cannon mountings and missile tubes. You must try to weave the Flyer into the hangar before you are hit. Make an Evasion Roll.
-If you score 6-12, turn to 148 If you score 2-5, turn to 165
+
+If you score 6-12, turn to 148
+If you score 2-5, turn to 165
 
 134
 You try to target your aft lasers with the aid of the Battle computers before the missile catches you. Make an Attack Roll.
-If you score 6-12, turn to 178 If you score 2-5, turn to 150
+
+If you score 6-12, turn to 178
+If you score 2-5, turn to 150
 
 135
 You call CAIN on your Remote Access Terminal and it sends out a homing signal to you. It is an easy matter to locate your Strike Fighter in the dark and, once comfortably inside, you engage the Ion Drive and hurtle into the night sky. Within a half hour you have left Earth's atmosphere and cut in the hyper-
@@ -760,7 +842,9 @@ It knocks the grenade aside with its shield but your blast of superheated plasma
 
 137
 Your missile streaks to its target and detonates with a roar. The fortress droid rocks and then plummets down onto the roof of a refinery in a sea of sparks. The fuel inside catches light and there is an enormous explosion and a torrent of flaming fuel flows down one of the droid highways, throwing huge dancing shadows amongst the metal monoliths of this world of factories. The Atmospheric Interceptor is closing in on your tail. You must switch to your rear view scanner and try to pick it off with your point defence lasers, a difficult task as the Interceptor goes into auto-evade, weaving and climbing erratically. Make an Attack Roll.
-If you score 7-12, turn to 159 If you score 2-6, turn to 171
+
+If you score 7-12, turn to 159
+If you score 2-6, turn to 171
 
 138
 You hurtle downwards, at a 90 degree angle to the ground, between two flaring balls of plasma. They rush past and explode, filling the tunnel behind you with burning white plasma. You straighten up and flash by over the fortress but a missile launcher has been tracking you and three sleek and deadly dart-shaped missiles fly from the launchers. Turning in unison, they streak towards you, hot on your trail, and closing fast, only metres away. Will you:
@@ -800,7 +884,9 @@ You rematerialise two hours out from the dull red planet Mechanon, you are trave
 
 145
 Your missile streaks towards its target, but the fortress droid h.is launched an anti-missile which blasts it out of the sky. The Atmospheric Interceptor is closing in on your tail as the fortress droid fires a plasma shell at you. You throw the Strike Fighter Into a sickening series of arcs and loops in a desperate attempt to evade the shells. Make an Evasion Roll.
-If you score 7-12, turn to 197 If you score 2-6, turn to 183
+
+If you score 7-12, turn to 197
+If you score 2-6, turn to 183
 
 146
 You blast just in time, hitting the power plant of the wardroid. Your faceplate reacts instantly, cutting in the flash damper, and it darkens as a bright explosion lights up the interior of the machinery of the refining plant. Carborundum is not so lucky. The armour-piercing missile shatters his rocky shell, pouring molten copper into his sound chambers which then explode. A terrible keening fills the air as the Thrix dies and the sonic vibrations crack your faceplate. The acid gas of the Thrixian atmosphere invades your suit and you die horribly as it dissolves your eyes and face. You have failed.
@@ -834,7 +920,9 @@ This act of bravery is your last and it does nothing to save the , population of
 
 152
 Yelov's bionic reactions are even faster than they were before and your heavy-powered battlesuit is comparatively slow. He blocks your blow with his bionic arm and then kicks you in the chest. His machine leg carries enough force and weight to dent your battlesuit. Subtract 2 from your Suit Armour points. The computer suddenly activates a grab used for moving the data banks and Yelov jumps back. You try to dodge as its metal claws close on you. Make an Evasion Roll.
-If you score 7-12, turn to 409 If you score 2-6, turn to 174
+
+If you score 7-12, turn to 409
+If you score 2-6, turn to 174
 
 153
 Deadshot Yelov is too quick for you. The plasma bolt from his blaster rips a neat hole in the back of your suit. You fall stunned and the yellow gas of the Thrixian atmosphere invades your lungs. The plasnet of your suit tries to repair itself automati- cally, but Yelov turns down his blaster and uses it to keep the hole open. There is nothing you can do as your lungs turn to an acidified froth. Your death is indeed lingering and painful.
@@ -889,14 +977,19 @@ from your hip and thigh. The plasnet of your suit reseals itself automatically, 
 
 158
 Your attempt to control the 20th century policeman has failed He is determined to take you to the local enforcement station All you can do now is to jab your elbow into his side and try to disable him using your skill at unarmed combat. Make an Attack Roll.
-If you score 5-12, turn to 314 If you score 2-4, turn to 169
+
+If you score 5-12, turn to 314
+If you score 2-4, turn to 169
 
 159
 The twin fission beams play across the Interceptor. Its two sides planes fly apart and the central portion flares bright red, then disappears. As you scan the ground once more you see the polished metal of the launch field glinting redly beneath and the warfleet, which has not yet been launched against Earth. You slow further and line yourself up for the hangar entrance, leading into the glowing green Central Computer Complex Turn to 257.
 
 160
 You flick on your aft view screen and desperately try to pick off the streaking missiles with the point defence lasers. Make an Attack Roll.
-If you score 8-12, turn to 205 If you score 5-7, turn to 215 If you score 2-4, turn to 230
+
+If you score 8-12, turn to 205
+If you score 5-7, turn to 215
+If you score 2-4, turn to 230
 
 161
 Your power armour battlesuit has been breached and its power plant burns out. You are locked in position like a statue. The suit is too heavy for you to move it using your own strength. Yelov walks slowly up to you grinning evilly and says, 'I said it was kill or be killed, Falcon, and I meant it. I also promised when we met on Thrix that your death would be as lingering and painful as the technology of Mechanon could devise.' Yelov is true to his word. After two years of torture you are utterly insane, no better than a slavering beast. Yelov tires of his sport one day and orders your life-support system to be turned off.
@@ -953,16 +1046,22 @@ The interceptor is nimble and it swerves just enough to cause your fission beams
 
 172
 They are very close behind you. Will the ECM make any difference you consider as you jab the button? Make an Attack Roll.
-If you score 7-12, turn to 185 If you score 2-6, turn to 298
+
+If you score 7-12, turn to 185
+If you score 2-6, turn to 298
 
 173
 All you can do as the French knight's sword hurtles down towards your helm is to throw up your shield. Make an Evasion Roll.
-If you score 6-12, turn to 187 If you score 2-5, turn to 44
+
+If you score 6-12, turn to 187
+If you score 2-5, turn to 44
 
 174
 It is more difficult to dodge in the battlesuit than without it and the grab latches onto you, the four metal plates of its claw each as large as you. It crushes you and even your armoured power suit begins to buckle. Subtract 2 from your battlesuit armour points and 4 Endurancepointsasyourribscrackinseveralplaces.Ifyourbattle- suit armour is at zero or less, turn to 161. If not, and you are still alive, luckily you have your arms free and you blast the grab with your disruptor and fall to your feet as it crumbles to dust You must try to dodge again - Yelov has wrenched a huge girder
 from the floor with his bionic arm and is swinging its end at you. Make an Evasion Roll.
-If you score 6-12, turn to 93 If you score 2-5, turn to 108
+
+If you score 6-12, turn to 93
+If you score 2-5, turn to 108
 
 175
 A pulse of laser light slices through your leg and you fall helpless to the steel floor of the droid highway. The interceptors scream skyward, looping the loop, and on their return they drop a hail of energy grenades. You are completely obliterated.
@@ -982,7 +1081,9 @@ Your lasers play havoc with the missile's guidance mechanisms and it veers into 
 
 179
 Louis de Nevers is a tall and powerful knight and he swings his sword and shouts out a great battle cry. You run forward and trade blows with him, hoping to find a way past his heavy broadsword. Make an Attack Roll.
-If you score 7-12, turn to 305 If you score 2-6, turn to 189
+
+If you score 7-12, turn to 305
+If you score 2-6, turn to 189
 Turn to 186 Turn to 198
 
  180
@@ -1009,11 +1110,15 @@ to do here in mediaeval France. Turn to 294.
 
 183
 The plasma shell explodes close enough to damage your Strike Fighter. If you are equipped with Zeiss Deflector Shields they are drained by 2 points. If you are not, your Titanium Hull Armour has taken 1 point of damage. The Atmospheric Interceptor is about to open fire on you. You pull your starship into a loop and bring it into your forward sights before firing your twin fission beams. Make an Attack Roll.
-If you score 7-12, turn to 159 If you score 2-6, turn to 171
+
+If you score 7-12, turn to 159
+If you score 2-6, turn to 171
 
 184
 The knight lowers his lance, its red pennon fluttering, and his cart horse, which is weighed down with armour, thunders on towards you. You concentrate your mind and hurl a blast of mental energy at him before the lance tip spears you. Make a Thinkstrike Roll.
-If you score 6-12, turn to 18 If you score 2-5, turn to 29
+
+If you score 6-12, turn to 18
+If you score 2-5, turn to 29
 
 
 185
@@ -1102,11 +1207,15 @@ Ask for more information?
 196
 Turn to 209 Turn to 223 Turn to 233 Turn to 261
 Your blast demolishes the wardroid's radar antenna but its cannonisnowtargetedonyou.Youcanonlyhurlyourselfaside from the impending blast. Make an Evasion Roll.
-If you score 7-12, turn to 228 If you score 2-6, turn to 217
+
+If you score 7-12, turn to 228
+If you score 2-6, turn to 217
 
 197
 You manage to swerve from the path of the plasma shell and hurtle below the fortress droid. The Atmospheric Interceptor follows you. It is about to open fire on you. You pull your starship into a loop and bring it into your forward sights before firing your twin fission beams. Make an Attack Roll.
-If you score 7-12, turn to 159 If you score 2-6, turn to 171
+
+If you score 7-12, turn to 159
+If you score 2-6, turn to 171
 198 [score an F]
 For long anxious moments you wait for the searing pain which will tell you that a laser cannon is ending your existence, but the wardroids roar overhead creating a whirlpool of dust and mist. Their infra-red sensors, which see only heat, have lost your trace. You return the temperature control of your suit to normal, but you had not calculated on the added effect of the naturally low temperature on this freezing planet. You are already suffering severe frostbite. Lose 2 Endurance points. If you are still alive, CAIN radios you to say that the timehole on Thrix is closing and you run back to Falcon's Wing. Turn to 284.
 Use your Power of Will on the Black Knight?
@@ -1117,7 +1226,9 @@ Use your blaster on the Black Knight?
 turn to 213 Turn to 226
 Turn to 235
 You have only a moment before the Black Knight's mace crushes Sir Thomas Chandos. Desperately, you focus your thought and project your will into the mind of the French knight, the Duke of Alencon. Make a Power of Will Roll.
-If you score 5-12, turn to 132 If you score 2-4, turn to 111
+
+If you score 5-12, turn to 132
+If you score 2-4, turn to 111
 
 202
 You move to a new point on the grid, but it is not far enough away from Mechanon. The atomic mine arrives at the same instant as you and hits your Strike Fighter, obliterating you.
@@ -1126,7 +1237,9 @@ You move to a new point on the grid, but it is not far enough away from Mechanon
 Under cover of your shield you draw your blaster from its place
 
 of concealment. You have time to fire once before the French knight is upon you. Make an Attack Roll.
-If you score 5-12, turn to 106 If you score 2-4, turn to 94
+
+If you score 5-12, turn to 106
+If you score 2-4, turn to 94
 
 204
 You control one of the policemen and force him to bodycheck his colleague while you make your getaway across the fields and search for your Strike Fighter. As you melt into the night you can hear the policeman saying, 'What's got into you, have you gone mad?' Turn to 135.
@@ -1228,7 +1341,9 @@ Well done. You arrive at the point on the grid which corresponds to a Timehole o
 
 227
 You bank tightly and accelerate up to Mach 5. The Strike Fighter roars into the red sky as the G-force dampers hum. The ship is throbbing with the acceleration, but your rear scanner shows that the missile is gaining. You try to pick it off with your aft point defence lasers. Make an Attack Roll.
-If you score 5-12, turn to 315 If you score 2-4, turn to 326
+
+If you score 5-12, turn to 315
+If you score 2-4, turn to 326
 
 228
 You open fire again and this time your plasma beam fuses the wardroid's gun mountings, allowing you to play your beam over it for some time. The yellow gas turns red in a great cloud around it as the metal of the droid fuses and collapses in on itself, into a molten mass. It carried a radar beacon which has now stopped functioning. You can see four more of the hovering wardroids, one at each corner of the gargantuan mining droid and you realise it will not be long before they register that the droid which attacked you is out of action. At the back of the mining droid is a loading bay stacked with thin rods of ore. You creep across the rocky terrain towards the loading bay. Turn to 252.
@@ -1248,7 +1363,9 @@ Desperately you target the lasers and let fly. You slice one in two and it falls
 Turn to 9 Turn to 47
 Turn to 320
 Before the crackling mace can land you swirl your sword and hack at the arm that wields it. Make an Attack Roll.
-If you score 7-12, turn to 24 If you score 2-6, turn to 12
+
+If you score 7-12, turn to 24
+If you score 2-6, turn to 12
 
 Armour points. If your ship's defences have fallen below zero, turn to 276. If you have survived, your ship rocks upward but the gyros right it and you flash onward past the fortress, lucky to be alive. Turn to 71.
 
@@ -1273,14 +1390,18 @@ the fields?
 
 237
 Somehow you withstand the blast of Yelov's unhinged hatred but Yelov now has a plasma pistol in his hand. The computer's tones are slightly higher pitched as it says, 'Yelov, I told you to exterminate the being. Why do you wait?' You leap over one of the computer's fifteen foot tall memory banks - the powered battlesuitwill make such a leap easily but Yelov is a crack marksman. Make an Evasion Roll.
-If you score 6-12, turn to 191 If you score 2-5, turn to 214
+
+If you score 6-12, turn to 191
+If you score 2-5, turn to 214
 Walk in past these?
 Skirt them, entering the hangar in
 shadow?
 
 235
 Before the crackling mace can land you whip your blaster from its place of concealment with the speed and skill of a crack combateer. Make an Attack Roll.
-If you score 6-12, turn to 3 If you score 2-5, turn to 417
+
+If you score 6-12, turn to 3
+If you score 2-5, turn to 417
 
 236
 The android is almost indestructible and far more powerful than you. It catches your arm and crushes it, before knocking you backwards into the wall. Lose 11 Endurance points. It comes at you again, but you have a moment in which to act. Will you:
@@ -1321,7 +1442,9 @@ You hurtle onward like a bullet. A missile base on the left wall comesinto view 
 
 247
 Asthe Count of Flanders raises his sword to strike Sir Thomas Chandos you concentrate your thoughts and hurl a blast of mental energy at the French nobleman. Make a Thinkstrike Roll.
-If you score 6-12, turn to 267 If you score 2-5, turn to 259
+
+If you score 6-12, turn to 267
+If you score 2-5, turn to 259
 Try to destroy the missiles before they can get off the ground with your fusion beams?
 Try to evade the plasma shells?
 
@@ -1350,14 +1473,18 @@ You move to the new point on the grid but are caught in the middle of an atomic 
 252
 You have been spotted. Two wardroids which were guarding the mining droid suddenly hover towards you at an altitude of
 Your thumbs depress the fusion fire buttons on the joystick. Twin blasts of energy fly from your wing tips and rake the front of the fortress. Its missile bases go up in a series of devastating explosions and you vapourise one of its plasma cannons. Smoke and flames are everywhere but one of the plasma cannons is still functional and it fires at you as you begin to pull out of your dive. You must take evasive action. Make an Evasion Roll.
-If you score 8-12, turn to 269 If you score 2-7, turn to 281
+
+If you score 8-12, turn to 269
+If you score 2-7, turn to 281
 
 254
 Your blaster plays against one of the droids and its metal armour begins to glow, but both have locked onto you with their laser cannon and you are cut into seven separate pieces. You have failed.
 
 255
 The android crashes right through the wall as if it were paper and its metal limbs hurl it across the grass faster than you can sprint.At least you are some way from the village by now and you can use your blaster without fear of its lightning-like ray being seen. Make an Attack Roll.
-If you score 6-12, turn to 265 If you score 2-5, turn to 278
+
+If you score 6-12, turn to 265
+If you score 2-5, turn to 278
 
 256
 Asyou advance down the main tunnel into the cold, green glow of the luminous panels which line the arched roof, you catch sight of an array of worker droids, which seem to be repairing somewardroids. As you watch, two of these whir into life and
@@ -1424,7 +1551,9 @@ The inhospitable world of Thrix,
 
 263
 The grenade which you have hurled lands underneath one of the wardroids but the other one locks onto you with its energy weapon banks and fires an Ion Beam at you. The grenade goes off and the wardroid lurches, one of its hover pads destroyed - it is still functional but immobilised. You dart behind a boulder as the Ion Beam seeks you out. Make an Evasion Roll.
-If you score 6-12, turn to 345 If you score 2-5, turn to 356
+
+If you score 6-12, turn to 345
+If you score 2-5, turn to 356
 
 264
 You arrive back at the point on the grid which corresponds to the timehole on Mechanon as the flare of nuclear explosion glares red on your face-up display at the other points on the grid. The blast at this point has died away but your Strike Fighter's radiation dampers are being steadily overloaded by the fallout from the atomic mine. You must leave the gridI
@@ -1458,7 +1587,9 @@ Turn to 297 Turn to 283
 267
 The Count of Flanders topples from his horse with a great crash, landing on the ground which has been churned to mud He is not dead but he has no choice but to surrender as he has lost his sword. Will you:
 The missile has sophisticated jamming systems and your counter measures have not worked. You have no choice now but to fire your twin fusion beams, before it hits you. Make an Attack Roll.
-If you score 6-12, turn to 304 If you score 2-5, turn to 293
+
+If you score 6-12, turn to 304
+If you score 2-5, turn to 293
 
 269
 You pull up and roll the Fighter through 90 degrees, lifting your I wing just over the hurtling ball of flaming plasma, then shoot onward like a bullet over the fortress. The plasma shell explodes behind you, filling the corridor with a globe of burning white destruction. Turn to 71.
@@ -1480,7 +1611,9 @@ Turn to 238.
 
 278
 With superhuman reactions the android hurdles the beam from your blaster and fires its stun-blaster at you. You throw yourself to the floor hoping to roll up and blast at it once more. Make an Evasion Roll.
-If you score 6-12, turn to 302 If you score 2-5, turn to 292
+
+If you score 6-12, turn to 302
+If you score 2-5, turn to 292
 
 279
 This time your Strike Fighter warps out into null-space outside The grid. You are free of the sophisticated trap laid for you by the wardroidsof Mechanon. When you type in the coordinates for Mechanon 1986 AD you re-emerge outside the factory planet's dull red atmosphere smoothly and normally. Numerous satellitesare in orbit below you but a moving blip on your radar screendraws your attention. CAIN puts it onto the visual scannersand you see that a large hyper-drive starship is leaving Mechanon. You ask CAIN to compute its likely destination and after a moment it chimes, 'Earth, Falcon, Earth 1986, with a probability of 93%. Proxima Centaurai, probability of 6.3%, and Ceres, probability of 0.39%. Other probabilities exist.' Will you:
@@ -1512,7 +1645,9 @@ towards you. Will you:
 
 285
 You try to line your right arm up with the hunter-seeker and turn the particle disruptor on. Make an Attack Roll.
-If you score 7-12, turn to 258 If you score 2-6, turn to 306
+
+If you score 7-12, turn to 258
+If you score 2-6, turn to 306
 
 286
 Nothing happens. CAIN tells you that the grid exists in only two dimensions, you have tried to move in a third dimension. The radiation level is critical. Which coordinates will you try next?
@@ -1551,7 +1686,9 @@ Your blaster plays against one of the droids and its metal armour begins to glow
 289
 You open fire but miss, and then dash in a zig-zag pattern towards the wardroids. The Atmospheric Interceptor opens fire with a laser strike which misses you, destroying several of the luminous green panels. It screams overhead and out of the
 tunnel, unable to turn at such speed. You fire again at one of the approaching raildroids, but the convex shield which it carries swings into position and deflects your blast in a flare of light. The second raildroid opens up with an unusual green ray. You t r y to make the cover of a part-dismantled worker droid. Make an Evasion Roll.
-If you score 7-12, turn to 311 If you score 2-6, turn to 300
+
+If you score 7-12, turn to 311
+If you score 2-6, turn to 300
 
 290
 CAIN responds, 'It is not within the capability of this Strike Fighter to destroy the planet killer. There is only one thing that can be done. You will have to break the First Law of TIME, Falcon. There is a timehole, fifty millenia ago, on Danikos. You must try and change history so that the Danikoi will never build Mechanon. Remember, Falcon, the Danikoi were far more ad- vanced than any other species in the galaxy at that time. You must try to convince them not to allow Earth to be destroyed. You set coordinates for Danikos fifty thousand years ago. Your Strike Fighter has no Autodoc but you have time to dress any wounds you have suffered while you are in the void of null- space. Restore up to 2 points of lost Endurance points and turn to 105.
@@ -1628,7 +1765,9 @@ Turn to 322 Turn to 313
 
 305
 At last you knock his sword aside and cleave the air with a mighty cut that embeds your sword in his side. He tumbles from his horse, snapping his neck as he hits the ground just as the sword of Sir Thomas Chandos whistles through the air where he would have been but for your blow. A chill feeling of fear takes you in case you have changed history but as you wait and nothing happens you guess that perhaps Chandos killed Louis de Nevers in history. Before you can breathe you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
-If you score 6-12, turn to 237 If you score 2-5, turn to 274
+
+If you score 6-12, turn to 237
+If you score 2-5, turn to 274
 308 [score an L]
 You explain your best guess as to what Yelov is up to and you do not have to wait long for CAIN to reply. 'The last disturbance registered by the monitoring beacon in the Mechanon timehole occurred after the date and time at which Mechanon historically suffered the nuclear catastrophe. The beacon should have been destroyed by now but it is still live, according to Agent Chameleon. If we assume that Yelov has saved Mechanon he must have a different reason for visiting the planet Thrix.' Where will you set coordinates for?
 Use your Power of Will on the Black Knight?
@@ -1686,7 +1825,9 @@ The lasers rake across its nose, destroying the sensitive equipment that the mis
 
 316
 You slam the Fighter into a dive but a plasma shell smashes into the hull, rocking the ship with an awful blast of exploding plasma. Lose 2 Deflector Shield points or 1 Armour point. If your ship defence score is below zero, turn to 90. If you survive, the gyros stabilise the ship and you hurtle downward as the second plasma shell passes overhead and explodes in the tunnel behind you filling it with burning white plasma. You pull up, hugging the ground. The fortress lies directly ahead and three sleek and deadly dart-shaped missiles fly from one of its bases, launch up behind, and dive in unison towards you. Instinctively you fire fission beams which lance out across the surface and into the fortress, destroying its plasma turrets. You gun the ship into a steep climb as the missiles streak in your direction, filling your forward screen. Desperately you engage the electronic counter measures. Make an Attack Roll.
-If you score 7-12, turn to 362 If you score 2-6, turn to 352
+
+If you score 7-12, turn to 362
+If you score 2-6, turn to 352
 
 317
 As you have just spent an hour of your life in null-space you may restore up to 12 points of lost Endurance points through the use of your Autodoc. You rematerialise on Mechanon at the same instant that you left Thrix in real time, but as your camera surveys the horizon there is no sign of Yelov or his newly manufactured
@@ -1721,7 +1862,9 @@ You instruct CAIN to turn on the Variac Drive to shift you into null-space and t
 
 323
 Reaching behind you, you take one of your plasma grenades and hurl it towards the racks of Polybdenum ore. Make an Attack Roll.
-If you score 6-12, turn to 303 If you score 2-5, turn to 333
+
+If you score 6-12, turn to 303
+If you score 2-5, turn to 333
 
 324
 With uncanny accuracy you thrust the sword through the open visor into the droid's computer brain. It folds up and then locks solid, its circuits dead. Looking around you realise that no-one has noticed that there is anything unusual about the droid knight and you drag it away, thankful that it is made of light alloys. As soon as you are away from the press of battle you take out your blaster and vapourise it. Make a Chance Roll.
@@ -1750,11 +1893,15 @@ You make it to the access tunnel and although this one has a rail it is not conn
 332
 Nothing happens. CAIN tells you that the grid exists in only two dimensions, you have tried to move in a third dimension. The radiation dampers overload and you suffer severe radiation poisoning. Even if you find a way out of the grid, you will die within minutes. The sophisticated trap set up by the wardroids of Mechanon has caught you in its deadly jaws.
 Your lasers miss time and again. It is difficult to target them in reverse - left is right as you look at the rear scanner. You try electronic counter measures, but nothing happens. You give up and try desperately to throw it off your tail by weaving across the red sky in sickening lurches. Make an Evasion Roll.
-If you score 6-12, turn to 337 If you score 2-5, turn to 224
+
+If you score 6-12, turn to 337
+If you score 2-5, turn to 224
 
 327
 You slam the Fighter into a dive and hurtle towards the ground. The plasma shells pass overhead and explode, with a crackling roar that sounds like thunder, filling the area behind you with burning white plasma. You pull up, hugging the ground. The fortress lies directly ahead and three sleek and deadly dart- shaped missiles fly from one of its bases, launch up behind, and dive in unison towards you. Instinctively you fire fission beams which lance out across the surface and into the fortress, destroying its plasma turrets. You gun the ship into a steep climb as the missiles streak in your direction, filling your forward screen. Desperately you engage the electronic counter measures. Make an Attack Roll.
-If you score 7-12, turn to 362 If you score 2-6, turn to 352
+
+If you score 7-12, turn to 362
+If you score 2-6, turn to 352
 Run towards the building which the droid flew into?
 Fire your blaster at the beacon?
 
@@ -1767,7 +1914,9 @@ You choose a high arcing trajectory for the throw of your grenade but one of the
 
 334
 Before the crackling mace can land you whip your blaster from its place of concealment with the speed and skill of a crack combateer. Make an Attack Roll.
-If you score 7-12, turn to 3 If you score 2-6, turn to 417
+
+If you score 7-12, turn to 3
+If you score 2-6, turn to 417
 
 335
 CAIN selects a simple coat of arms for you, a red chevron on a white background and prepares a sword, shield and armour in the molecular converter. You glide to the ground, looking for all the world like an English man-at-arms, and an atmosphere of tense expectancy hits you. As you step away from Falcon's Wing, around which the hologram of a group of trees is projected, battle is about to be joined. The Genoese cross- bowmen are charging towards the Black Prince and his knights. You clank down the slope and take up a position in the rear rank, sword at the ready. The Genoese halt suddenly and let loose a volley of crossbow bolts - the thud of one hitting your shield with great force shocks you as you realise that you could die at any moment. A few of the English fall under the hail of flying steel but the English longbowmen let loose a volley. The sky is blackened by a great mass of arrows and they fall upon the Genoese in a withering cloud. The Genoese mercenaries must
@@ -1779,7 +1928,10 @@ Stay in the forefront where the battle may be decided?
 336
 Turn to 389 Turn to 397
 The twin fission beams meet and play across the surface of the intruder detection satellite and an opaque sphere of violet light surrounds it. It is a defence shield and although you play the beams across it for as long as you can, it still holds. CAIN alerts you to three guided missiles which the satellite is causing to home in on you from the dull red surface of Mechanon. They are too close for you to use electronic counter measures so you turn away from them and try to pick them off with your aft point laser, as CAIN switches to rear scanner. Make an Attack Roll.
-If you score 2-5, turn to 400 If you score 6-8, turn to 413 If you score 9-12, turn to 388
+
+If you score 2-5, turn to 400
+If you score 6-8, turn to 413
+If you score 9-12, turn to 388
 
 337
 You lead the huge missile in a series of daring manoeuvres down towards a huge metal building with row after row of stunted black glasteel chimneys. You pull up at the last minute, but the missile responds too late. You turn to watch as it screams into a fuel refinery. The explosion flattens factories for a mile around, the shock wave throws you across the sky and a pillar of flame, smoking blackly, reaches far into the atmosphere above you. You fly back towards the gaping maw of the hangar. Turn to 351.
@@ -1810,7 +1962,9 @@ Turn to 357 Turn to 367
 You have lost the battle of minds with your arch-enemy, Agidy Yelov. As you slump helplessly, your eyes vacant like a moron, Yelov decides to have some fun for his amusement. He orders you to dance and you caper clumsily in your battlesuit, knocking into the computer's memory banks and finally falling, exhausted, to the floor. Turn to 249.
 344 [score an A]
 The twin fission beams meet at the point where the weather satellite tumbles gently through space and trigger a chain reaction which sunders the satellite, leaving nothing but the clear emptiness of space behind. The intruder detection satellite has homed in on you and it is guiding three surface-to-space missiles which streak towards you from the dull red world of Mechanon. You decide to use electronic counter measures, hoping to detonate the missiles before they meet you. This calls for precise judgement as you try to calculate their speed and course. Make an Attack Roll.
-If you score 6-12, turn to 11 If you score 2-5, turn to 365
+
+If you score 6-12, turn to 11
+If you score 2-5, turn to 365
 
 345
 You scramble behind the cover of a rock outcropping, but the powerful weaponry of the wardroids tracking you vapourises the rock and you are exposed. Will you:
@@ -1859,7 +2013,9 @@ Flyer?
 You are still not familiar with the Strike Fighter's beam laser controls and you have failed to stop the missiles. They both home in and detonate. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved you from certain destruction, but your ship has taken damage. Subtract 2 from your Zeiss Shield energy if you are equipped with energy shields, or 4 Hull Armour paints if your ship carries Titanium Hull Armour. Turn to 34.
 355 [score an M]
 Before the crackling mace can land you swirl your sword and hack at the arm that wields it. Make an Attack Roll.
-If you score 7-12, turn to 401 If you score 2-6, turn to 391
+
+If you score 7-12, turn to 401
+If you score 2-6, turn to 391
 
 356
 The Ion Beam catches you before you reach safety, ripping open your environment suit as it hurls you backwards. The plasnet in your suit repairs itself but your wound has been made worse by the corrosive gas of the Thrixian atmosphere which has seeped in and burned you. Lose JO Endurance points. The wounds will heal badly - subtract one from your maximum Endurance points forever. If you are still alive, you roll aside and prepare to blast. Will you:
@@ -1894,7 +2050,9 @@ Turn to 378 Turn to 367
 Turn to 390
 are a killer - it wants urgently to find out whether this is true. Will you:
 You make a desperate grab for the box as you fall past it. Make a Chance Roll.
-If you score 4-6, turn to 394 If you score 1-3, turn to 385
+
+If you score 4-6, turn to 394
+If you score 1-3, turn to 385
 
 359
 Your ship out-accelerates the Mechanon starship and you match speed with it a fraction before reaching hyper-space velocity. You make the fine adjustments which will point you towards Earth and set the jump for a length of 9.36754 parsecs. You go into hyper-space together and the stars form a tunnel around you. Ahead the stars which shoot towards you are neon blue, at the sides they are long streaks of white and yellow, and as you crane your head backwards you can see that you are leaving behind stars which glow redly, at a breathtaking rate. Both ships leave hyper-space near the moon. You are four thousand miles behind and below the Mechanon starship. It is not responding to your presence, your radar dampers must be effective, if the droidship is scanning. You arm your missiles, ready to attack if the starship threatens Earth, but to your surprise, it merely discharges a small re-entry capsule, from its belly. The ship turns and accelerates, once more, apparently returning to Mechanon. Will you:
@@ -1937,7 +2095,9 @@ the battle may be decided?
 Turn to 410 Turn to 389 Turn to 397
 CAIN selects a simple coat of arms for you, a red chevron on a white background, and prepares a sword, shield and armour in the molecular converter. You glide to the ground, looking for all the world like an English man-at-arms, and an atmosphere of tense expectancy hits you. As you step away from Falcon's Wing, around which the hologram of a group of trees is
 An orange flare flickers on your screen, then dies away to nothing. You have caused one of the missiles to pre-detonate before it reached you but the other two are still homing in. You switch on your aft beam lasers, hoping to slice them apart before they hit you. Make an Attack Roll.
-If you score 8-12, turn to 380 If you score 5-7, turn to 22
+
+If you score 8-12, turn to 380
+If you score 5-7, turn to 22
 If you score 2-4, turn to 354
 
 366
@@ -1958,7 +2118,9 @@ Before you can fire, one of the wardroids fires four shells from a mortar-cluste
 You draw and aim your blaster in a flash, but the superhuman reactions of the Black Knight are even faster and he ducks the sizzling beam of superheated plasma. The visor on his great black helm clicks open and a beam of red light lances towards
 
 you. You can only try desperately to throw yourself aside. Make an Evasion Roll.
-If you score 6-12, turn to 99 If you score 2-5, turn to 87
+
+If you score 6-12, turn to 99
+If you score 2-5, turn to 87
 
 370
 As you step into the recess a circular flap in the floor gives way beneath and you slide gently down an angled chute, like a large drainpipe. You begin to gain speed as you notice a bar protruding into the chute below you. Will you:
@@ -2052,25 +2214,35 @@ You play your fission beam over the generator for several seconds as you hurtle 
 
 391
 Your sword blade whistles through air as the Black Knight reacts to your attack with superhuman speed. The visor on his great black helm clicks open. A beam of red light lances towards you and you try desperately to throw yourself aside. Make an Evasion Roll.
-If you score 6-12, turn to 99 If you score 2-5, turn to 87
+
+If you score 6-12, turn to 99
+If you score 2-5, turn to 87
 
 392
 The power of Yelov's mind is almost like that of a god of myth. His insane desire to kill you lends him strength and you are losing this battle of wills. Knowing that it may be the last thing you ever do, you frantically redouble your efforts, but the experience is taking its toll. Subtract I from your Power of Will modifier as he tries to break you. Make a Power of Will Roll.
-If you score 7-12, turn to 307 If you score 2-6, turn to 343
+
+If you score 7-12, turn to 307
+If you score 2-6, turn to 343
 
 393
 As you aim your blaster the droid begins to dart from side to side, then shoots upwards through the yellow gas that swirls all around you. You try desperately to track its random evasions in your blaster's sights and squeeze the trigger. Make an Evasion Roll.
-If you score 7-12, turn to 48 If you score 2-6, turn to 407
+
+If you score 7-12, turn to 48
+If you score 2-6, turn to 407
 
 394
 You manage to catch hold of the bar and swing through a small hatch into a narrow ventilation tube. You push yourself up it for ten minutes until you come to a grille which opens out at the back of a circular area which appears to be an electronic communications networking centre. You prise off the grille and investigate. Turn to 404.
 395 [score a Y]
 You stride on through the yellow mist, slowed by the high gravity, towards the armadillo-like mining droid. Suddenly the mist churns before you and out of it bursts a large wardroid, hovering ten feet up, on four large discs - hover thrusters. Its top part is crammed with sensors and other indefinable electronic gear, protected by heavy armour. It has several weapon banks - laser cannon, mortar-tube clusters, Ion Beam energy weapons, hi-explosive machine rifles and so on. A huge swivelling gun is moving to target on you. You must blast it before it blasts you. Make an Attack Roll.
-If you score 6-12, turn to 206 If you score 2-5, turn to 196
+
+If you score 6-12, turn to 206
+If you score 2-5, turn to 196
 
 396
 With the aid of the Battle computer you bring the fusion beams to bear on the fast approaching missile. Make an Attack Roll.
-If you score 6-12, turn to 16 If you score 2-5, turn to 69
+
+If you score 6-12, turn to 16
+If you score 2-5, turn to 69
 
 397
 The din of metal striking metal rings all about you as the French knights ride amongst the English. All is confusion as the English seek to drag the French from their horses while defending, shields raised, against the blows of their swords. You move back, but the Black Prince is hard pressed and whilst you are deciding whether to aid him a French knight in a great visored helmet bears down on you with a lance. Will you:
@@ -2091,7 +2263,9 @@ the front so that you can walk round to the back unobserved?
 400
 Turn to 26
 overcome his Thinkstrike which threatens to reduce you to a grovelling animal. Make a Power of Will Roll.
-If you score 6-12, turn to 237 If you score 2-5, turn to 274
+
+If you score 6-12, turn to 237
+If you score 2-5, turn to 274
 
 404
 A small communications droid is linked to a terminal and it disengages and backs away as you approach. You blast it and move over to the terminal. A screen is covered in multi-coloured blocks which flash seemingly at random, but the communica- tions port is still open. You take your Universal Interface and plug it in. Its shape changes to fit the alien specification of the port and it is linked into the communications network in seconds. It probes the databanks, subtly changing the software until it has extracted gygabytes of data on the status of Mechanon. As the Universal Interface completes its work you pick up a radio message.
@@ -2100,7 +2274,9 @@ You are still not familiar with the Strike Fighter's beam laser controls and you
 
 401
 Your sword blade jars the Black Knight with a clang and smoke and sparks fly up from its elbow joint. It staggers as if its circuits were overloading. It is certainly no man, but a droid, a mechanical man. It swivels its head towards you and the visor of its great black helmet clicks open. You are ready when a beam of red light lances towards you from the droid's helmet and you dodge it and try to bury the tip of your sword into the gap left by the open visor. Make an Attack Roll.
-If you score 6-12, turn to 324 If you score 2-5, turn to 125
+
+If you score 6-12, turn to 324
+If you score 2-5, turn to 125
 
 402
 As your missile arrows down towards the fortress, you can see several small laser cluster banks swivelling to track it. They open fire, but the missile streaks under the red laser lances and slams into the fortress. There is an enormous explosion and the fortress erupts, sending pieces of twisted metal everywhere. The Strike Fighter is blown upward by the force of the blast, but its gyros correct its course and you rush onward through the smoke and debris like a bullet. Turn to 71.
@@ -2117,7 +2293,9 @@ Either your joke did not translate well into Thrixian or the alien has no sense 
 The force field falters and then disappears. You gun the Strike Fighter through the gap but the field is rekindled just as you are half way through. The power surge plays havoc with the Fighter's Ion Drive and CAIN tells you that he must shut down the Drive before it explodes. You have passed through into yet
 
 another tunnel at the end of which you Can see the stars of Mechanon's night sky. You are forced to crash land and the Strike Fighter skids for half a mile along the steel floor of the tunnel, throwing you about in your crash-couch harness like a bobsleigh until it comes to a rest. You check the air supply of your battlesuit and then blow the cockpit seals and jump out. There is a whirring noise in the distance and a rail above your head starts to vibrate slightly. You decide to test your jetpack and fly up to the rail. A raildroid looms rapidly larger as it speeds along towards you. You are about to fire your suit's particle disrupter when you see a living being riding on a disc attached to the droid. It slows as it approaches you and you recognise Agidy Yelov. On his own Yelov is a dangerous customer, with all his new toys to help him kill you, you sense that you will do well to survive. The thin atmosphere has been changed to suit the Siriun in this part of the complex and he has no need of a space suit. Yelov recognises you and curses. 'Kill or be killed, Falcon/ he threatens, and lets a small, white object fall from his hand as an Atmospheric Interceptor enters the tunnel in the far distance. You decide to dodge in case the Interceptor is about to fire its laser. Make an Evasion Roll.
-If you score 6-12, turn to 309 If you score 2-5, turn to 296
+
+If you score 6-12, turn to 309
+If you score 2-5, turn to 296
 
 407
 Your plasma blast ionises the gas in a long stream like a ribbon, turning it from yellow to red, but it has passed beneath the wardroid which unleashes a homing missile towards you. As you roll behind a rock you pass through the laser beam of the immobile wardroid which severs you neatly in two at the waist. The shock kills you before the homing missile smears your remains over the rocky surface of Thrix.
@@ -2132,7 +2310,9 @@ Use your Power of Will to take control of his mind?
 Appeal once more, asking if he wishes
 Turn to 121
 You manage to dodge the huge grab and, using it as cover, you fire at Yelov With your particle disrupter. He has wrenched a huge girder from the floor in his one bionic hand and arm and is swinging its end towards you. Make an Attack Roll.
-If you score 6-12, turn to 40 If you score 2-5, turn to 73
+
+If you score 6-12, turn to 40
+If you score 2-5, turn to 73
 
 410
 As you watch the French knights' charge from your position behind the Earl of Northampton, the withering volleys of the English longbowmen take their toll again and again, bringing down ranks of knights and horses as if they had ridden into a wall. Some of the valiant French knights break through and there is fierce hand-to-hand fighting around the Black Prince's position. As you watch, a huge English knight in black armour who bears no coat of arms raises his mace against one of his fellows. The great blow falls and you are engulfed in darkness. One of your ancestors has been slain - it is as if you had never existed. Now Agidy Yelov will rule the Federation.
@@ -2147,7 +2327,9 @@ Turn to 290
 
 412
 As you step through, a worker droid rushes to repair the hole you have made as air starts to whistle out into the tunnel. You have entered a colossal circular room which is crammed with computer banks. Coloured lights flash as fast as the eye can see. Yelov has, unwittingly, led you to the Central Computer. This enormous room is a single computerised brain which controls the whole of the factory planet. You marvel at its size but remembering the complexity of the task it fulfils you are not surprised it throws out enough light to illuminate a small city. Yelov is standing in front of the computer which is the brain of Mechanon, Its tones are very calm and reassuring, but it is saying, There is an organic hostile within my perimeter, Yelov. You assured me that this could never happen. Mechanon is at risk - exterminate the being at once.' Yelov spins to look at you and there is a frown of concentration on his face. He is trying to exert the power of his will over yours. His mind is strong and his will to live burns as hotly as ever. If yours does not, you will lose this battle of wills. Make a Power of Will Roll.
-If you score 7-12, turn to 403 If you score 2-6, turn to 392
+
+If you score 7-12, turn to 403
+If you score 2-6, turn to 392
 
 413
 You have stopped only one of the missiles, cutting off its drive tube, and it tumbles harmlessly past you. The other two home in and detonate. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved you from certain destruction, but your ship has taken damage. Subtract 2 from you Zeiss Shield energy if you are equipped with energy shields, or 4 Hull Armour points if your ship carries Titanium Hull Armour. Turn to 103.
@@ -2157,7 +2339,9 @@ Shutting all other thoughts out you concentrate on exerting your will to control
 
 415
 You have only a moment before the Black Knight's mace crushes Sir Thomas Chandos. Desperately, you focus your thought and project your will into the mind of the French knight, the Duke of Alencon. Make a Power of Will Roll. .
-If you score 5-12, turn to 122 If you score 2-4, turn to 111
+
+If you score 5-12, turn to 122
+If you score 2-4, turn to 111
 
 416
 It takes you some time to find the capsule as it has crashed into a deep wood. When you do, you realise that there is nothing to sabotage, the capsule was designed for a one way trip and could never return to space. Its only purpose was to deliver the android which is now lost in the Devonian night. You return to the road and walk for some miles without locating the android. Suddenly you look up to see several orange streaks in the sky. There is a flash of light and a thunderous roar as a great mushroom cloud of incandescent flame and smoke erupts into the upper atmosphere. The next explosion turns your eyes to steam and strips you to a charred skeleton. The android has swoomne.how provoked a nuclear holocaust on Earth; Yelov has
@@ -2166,7 +2350,9 @@ It takes you some time to find the capsule as it has crashed into a deep wood. W
 You draw and aim your blaster in a flash but the superhuman reactions of the Black Knight are even faster and he ducks the
 
 sizzling beam of superheated plasma. The visor on his great black helm clicks open and a beam of red light lances towards you. You can only try desperately to throw yourself aside. Make an Evasion Roll.
-If you score 6-12, turn to 74 If you score 2-5, turn to 87
+
+If you score 6-12, turn to 74
+If you score 2-5, turn to 87
 
 418
 The beam of your blaster reacts with small particles in the air which sparkle like dancing fairy lights, but the efficiency of your weapon is as good as ever. The radar beacon grinds to a halt, severely damaged. Will you:
