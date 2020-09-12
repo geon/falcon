@@ -1781,37 +1781,43 @@ Turn to 322 Turn to 313
 305
 At last you knock his sword aside and cleave the air with a mighty cut that embeds your sword in his side. He tumbles from his horse, snapping his neck as he hits the ground just as the sword of Sir Thomas Chandos whistles through the air where he would have been but for your blow. A chill feeling of fear takes you in case you have changed history but as you wait and nothing happens you guess that perhaps Chandos killed Louis de Nevers in history. Before you can breathe you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
 
-If you score 6-12, turn to 237
-If you score 2-5, turn to 274
+Use your Power of Will on the Black Knight?
+Attack the Black Knight with your sword?
+Use your blaster on the Black Knight?
+Turn to 414
+Turn to 319
+Turn to 334
+
 308 [score an L]
 You explain your best guess as to what Yelov is up to and you do not have to wait long for CAIN to reply. 'The last disturbance registered by the monitoring beacon in the Mechanon timehole occurred after the date and time at which Mechanon historically suffered the nuclear catastrophe. The beacon should have been destroyed by now but it is still live, according to Agent Chameleon. If we assume that Yelov has saved Mechanon he must have a different reason for visiting the planet Thrix.' Where will you set coordinates for?
-Use your Power of Will on the Black Knight?
-Attack the Black Knight with your
-sword?
-Use your blaster on the Black Knight?
+
+A return to the Eiger Vault, 3033 AD?
+The factory world of Mechanon?
+The inhospitable world of Thrix, 1776 AD?
+Turn to 9
+Turn to 47
+Turn to 320
 
 306
-Turn to 9 Turn to 47
-Turn to 320
 Your aim is off and the hunter-seeker flashes behind you and clamps itself onto the back of your battlesuit. Warning lights flash as the suit's sensors tell you that the hunter-seeker is an armour piercing device. A controlled explosion forces a core of molten metal through the suit and you explode inside it when it drills into your body. The last sound you hear is Yelov's vengeful howl of joy.
 
 307
 Your will to live pulls you through the terrible battle with the maniac will of Yelov. Sweating with the effort inside your battlesuit, you manage to throw off his attempt to take control of your mind but his mind is as quick as his reflexes and before you can attack him he hurls a blast of mental energy at you. Y ou use your Power of Will to overcome his Thinkstrike which threatens to reduce you to a grovelling animal. Make a Power of Will Roll.
-Fire your particle disruptor at the hunter-seeker?
-Fire a rocket at the interceptor before it returns to fire On you again?
-Wait for the hunter-seeker to draw close, then use your jetpack to rise up above it?
 
-310
-Turn to 285 Turn to 329
-Turn to 270
-Turn to 414 Turn to 319
-Turn to 334
-A return to the Eiger Vault, 3033 AD? The factory world of Mechanon?
-The inhospitable world of Thrix,
-1776 AD?
+If you score 6-12, turn to 237
+If you score 2-5, turn to 274
 
 309
 Y our powered battlesuit allows you to leap high into the air and the flash of a laser pulse beneath you tells you your guess was correct. You duck instinctively as the interceptor screams overhead and the sensors on your battlesuit tell you that the small object which Yelov let drop is homing in on you. It is a hunter-seeker mine. Will you:
+
+Fire your particle disruptor at the hunter-seeker?
+Fire a rocket at the interceptor before it returns to fire On you again?
+Wait for the hunter-seeker to draw close, then use your jetpack to rise up above it?
+Turn to 285
+Turn to 329
+Turn to 270
+
+310
 Nothing happens. CAIN advises you that you can only move to a point on the grid which corresponds to a timehole. The
 
 radiation level is critical. Which coordinates will you try next?
