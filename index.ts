@@ -338,7 +338,12 @@ function parseDiceRollInstructions(sections: Section[]): Section[] {
 
 function parsePage(rawLines: readonly string[]): Page {
 	const lines = [...rawLines];
-	const pageNumber = parseInt(lines.shift() || "");
+	const pageNumberString = lines.shift();
+	const pageNumber = parseInt(pageNumberString || "");
+
+	if (Number.isNaN(pageNumber)) {
+		throw new Error("Not a valid page number: " + pageNumberString);
+	}
 
 	const content = parseDiceRollInstructions(
 		parseTurnInstructions(
