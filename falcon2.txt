@@ -165,12 +165,28 @@ Turn to 182
 Your training has paid off. Faster even than the electronic circuitry of the wardroid, the lancing bolt of white hot energy hits its power plant and your helmet faceplate flash defence cuts in, darkening automatically as the bright explosion lights the yellow atmosphere, hurling debris everywhere. You have destroyed the wardroid that guards the loading bay but other robots may be on their way to intercept you. A rack of Polybdenum rods stands in the bay at the back of the cavernous armadillo-like mining droid. You seize your chance to destroy it. Turn to 141.
 
 5
-The edge of the refinery roof curves steeply down to the ground below, like the side of a bowl. You jump over the edge and slide down, skidding across the polished metal of another droid highway at the bottom. You run on across the featureless steel until part of the road seems to take off ahead of you. It is a flat-
+The edge of the refinery roof curves steeply down to the ground below, like the side of a bowl. You jump over the edge and slide down, skidding across the polished metal of another droid highway at the bottom. You run on across the featureless steel until part of the road seems to take off ahead of you. It is a flat-topped fortress droid which suddenly towers above you. Each of its sides boasts a formidable array of lasers and energy weapons, and hornlike sensors. Will you:
 
-topped fortress droid which suddenly towers above you. Each of its sides boasts a formidable array of lasers and energy weapons, and hornlike sensors. Will you:
+Open fire immediately?
+Drop to the floor and turn the temperature control on your suit to freezing?
+Turn to 35
+Turn to 27
+
+6
+Your camera scans the gently rolling countryside of mediaeval northern France. Falcon's Wing stands on a hill overlooking a gentle slope on which stands the English army. Descending the hills opposite is the French army which seems about five times as large. It is mid afternoon, but the vanguard of the French army are advancing to the attack, led by six thousand or so mercenary troops, crossbowmen from Genoa, followed by double that number of mounted knights in full plate armour, the flower of chivalry, their shields and banners a glorious riot of colour. Behind these, and still trooping to the battlefield, are countless peasant infantry, some armed with pikes, but many making do with scythes roped to poles. The English army numbers a little over ten thousand men, composed of knights who have dismounted and will fight on foot, brave Welsh spearmen and a large number of longbowmen.
+You decide to station yourself amongst the ranks of the English who are divided into three. Nearest to you are the reserves, and CAIN identifies the golden lions and fleur de lis of their leader, King Edward. Before these is another body of knights led by the King's young son, the Black Prince, who is surrounded by veteran knights, one of whom, Sir Thomas Chandos, bears a silver falcon on his red shield. A way to the left lies the third body of knights, lead by William de Bohun, Earl of Northampton, whose blue shield carries three red stars and six golden lions. The men of Northampton and the Black Prince are linked by a line of archers. Where will you position yourself?
+
+Near the King?
+Near the Black Prince?
+Near the Earl of Northampton?
+Near Sir Thomas Chandos?
+Turn to 350
+Turn to 335
+Turn to 364
+Turn to 379
 
 7
-The raildroid accelerates towards you and then swivels its weaponry in your direction. You open fire, but the bolt of superheated plasma is deflected in a flare of light by its shield. A grim ray streaks towards you. You hurl yourself aside. Make tin Evasion Roll.
+The raildroid accelerates towards you and then swivels its weaponry in your direction. You open fire, but the bolt of superheated plasma is deflected in a flare of light by its shield. A grim ray streaks towards you. You hurl yourself aside. Make an Evasion Roll.
 
 If you score 7-12, turn to 41
 If you score 2-6, turn to 30
@@ -181,26 +197,14 @@ Y ou set off towards them, but a phalanx of hovering wardroids pours out of the 
 9
 Since you have just spent an hour of your life in null-space you may restore up to twelve points of lost Endurance through the use of your Autodoc. As soon as you rematerialise in the Eiger Vault, CAIN memory banks are updated with any details of time-trips which may have been detected by the time beacons placed in each timehole.Someone has made another trip to the planet Thrix. Will you:
 
-Open fire immediately?
-Drop to the floor and turn the
-temperature control on your suit to freezing?
-Turn to 35
-Turn to 27
-
-6
-Your camera scans the gently rolling countryside of mediaeval northern France. Falcon's Wing stands on a hill overlooking a gentle slope on which stands the English army. Descending the hills opposite is the French army which seems about five times as large. It is mid afternoon, but the vanguard of the French army are advancing to the attack, led by six thousand or so mercenary troops, crossbowmen from Genoa, followed by double that number of mounted knights in full plate armour, the flower of chivalry, their shields and banners a glorious riot of colour. Behind these, and still trooping to the battlefield, are countless peasant infantry, some armed with pikes, but many making do with scythes roped to poles. The English army numbers a little over ten thousand men, composed of knights who have dismounted and will fight on foot, brave Welsh spearmen and a large number of longbowmen.
-You decide to station yourself amongst the ranks of the English who are divided into three. Nearest to you are the reserves, and CAIN identifies the golden lions and fleur de lis of their leader, King Edward. Before these is another body of knights led by the King's young son, the Black Prince, who is surrounded by veteran knights, one of whom, Sir Thomas Chandos, bears a silver falcon on his red shield. A way to the left lies the third body of knights, lead by William de Bohun, Earl of Northampton, whose blue shield carries three red stars and six golden lions. The men of Northampton and the Black Prince are linked by a line of archers. Where will you position yourself?
 Go there to investigate this?
-Travel to the robot planet Mechanon? Await developments in the Eiger Vault
-here on Earth in 3033 AD?
+Travel to the robot planet Mechanon?
+Await developments in the Eiger Vault here on Earth in 3033 AD?
+Turn to 320
+Turn to 47
+Turn to 142
 
 10
-Turn to 320 Turn to 47
-Turn to 142
-Near the King?
-Near the Black Prince?
-Near the Earl of Northampton? Near Sir Thomas Chandos?
-Turn to 350 Turn to 335 Turn to 364 Turn to 379
 You open the doors and try to throw the android outside but it is enormously heavy and powerful. It picks you up in One hand and throws you against the wall with the force of a linear accelerator. You lose 9 Endurance points. A man suffering from an illness which affects his coordination staggers out of the urinal and advises you to wait and make your call later before tripping up over the back step of the recreation centre. The android continues to use the telephone but leans out and points a stunner at you. Make an Evasion Roll!
 
 If you score 6-12, turn to 92
