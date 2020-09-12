@@ -2113,22 +2113,23 @@ causing them to detonate prematurely, filling your screen with smoke and flame. 
 
 363
 You contact CAIN using your battlesuit access terminal (BAT) and it is able to help you. It is fashionable at this period of the history of the Danikoi for eminent Danikoi to prophesy what will happen 500 years after they die. One such prophecy is due to be read in a month's time. CAIN is able to tell you exactly what it will say. You ask the decision makers to read the prophecy now instead of waiting the last few days. They consult a computer terminal and order the prophecy to be read. It causes a great hum of laughter but it is exactly as you predicted and they believe you are a traveller in time. The Disputer now says, 'I believe your story, but the events of fifty millenia in the future have no meaning for we who must eat, laugh and love in the short span of our own lives. Why should we care about the future?' There is a chorused hum of agreement amongst the Danikoi. Will you say:
-projected, battle is about to be joined. The Genoese cross- bowmen are charging towards the Black Prince and his knights. You clank down the slope and take up a position in the rear rank, behind the men-at-arms commanded by the Earl of Northamp- ton. Chandos has his sword at the ready. The Genoese halt suddenly and let loose a volley of crossbow bolts - the thud of one hitting your shield with great force shocks you as you realise that you could die at any moment. A few of the English fall under the hail of flying steel, but the English longbowmen let loose a volley. The sky is blackened by a great mass of arrows and they fall upon the Genoese in a withering cloud. The Genoese mercenaries must rewind their crossbows before they can fire again whereas the English archers, tall, deep-chested men, can fire an arrow with deadly precision every six or eight seconds. The Genoese veterans have never faced such a rain of death and they panic and flee within moments. The French knights are so incensed at this that they ride down their own men in their frenzied charge. All nobles, they treat the Genoese mercenary soldiers with contempt. The charging knights are about to attack your position. Will you:
-That Earth will become the head and protector of a Federation of planets, one of which is Danikos, for the time will come when you can no longer protect yourselves?
-That the future is important: 'Surely you want your children to live happy lives - what of their children, and their children's children? Surely you would not condemn an entire generation of your people to untimelydeath?'
 
-364
+That Earth will become the head and protector of a Federation of planets, one of which is Danikos, for the time will come when you can no longer protect yourselves?
+That the future is important: 'Surely you want your children to live happy lives - what of their children, and their children's children? Surely you would not condemn an entire generation of your people to untimely death?'
 Turn to 374
 Turn to 408
+
+364
+CAIN selects a simple coat of arms for you, a red chevron on a white background, and prepares a sword, shield and armour in the molecular converter. You glide to the ground, looking for all the world like an English man-at-arms, and an atmosphere of tense expectancy hits you. As you step away from Falcon's Wing, around which the hologram of a group of trees is projected, battle is about to be joined. The Genoese cross- bowmen are charging towards the Black Prince and his knights. You clank down the slope and take up a position in the rear rank, behind the men-at-arms commanded by the Earl of Northamp- ton. Chandos has his sword at the ready. The Genoese halt suddenly and let loose a volley of crossbow bolts - the thud of one hitting your shield with great force shocks you as you realise that you could die at any moment. A few of the English fall under the hail of flying steel, but the English longbowmen let loose a volley. The sky is blackened by a great mass of arrows and they fall upon the Genoese in a withering cloud. The Genoese mercenaries must rewind their crossbows before they can fire again whereas the English archers, tall, deep-chested men, can fire an arrow with deadly precision every six or eight seconds. The Genoese veterans have never faced such a rain of death and they panic and flee within moments. The French knights are so incensed at this that they ride down their own men in their frenzied charge. All nobles, they treat the Genoese mercenary soldiers with contempt. The charging knights are about to attack your position. Will you:
+
 Remain where you are?
-Move to the relative safety of the
-King's position, in reserve?
-Move towards the Black Prince where
-the battle may be decided?
+Move to the relative safety of the King's position, in reserve?
+Move towards the Black Prince where the battle may be decided?
+Turn to 410
+Turn to 389
+Turn to 397
 
 365
-Turn to 410 Turn to 389 Turn to 397
-CAIN selects a simple coat of arms for you, a red chevron on a white background, and prepares a sword, shield and armour in the molecular converter. You glide to the ground, looking for all the world like an English man-at-arms, and an atmosphere of tense expectancy hits you. As you step away from Falcon's Wing, around which the hologram of a group of trees is
 An orange flare flickers on your screen, then dies away to nothing. You have caused one of the missiles to pre-detonate before it reached you but the other two are still homing in. You switch on your aft beam lasers, hoping to slice them apart before they hit you. Make an Attack Roll.
 
 If you score 8-12, turn to 380
