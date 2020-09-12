@@ -1142,30 +1142,34 @@ You have managed to cut through the telephone wire with your
 blaster and the android can no longer use the telephone booth.
 As you look down it steps out of the booth and aims its stun- blaster at you. Will you:
 
-189
-Y our great cut misses as he ducks and drives his sword at your chest, piercing your chain mail and breastplate as the force of his charge bowls you over. Lose 9 Endurance points. As you struggle to your feet the blade of Sir Thomas Chandos saves your life, claiming that of your assailant. Suddenly, you see an English knightin black armour whose shield bears no device, but is as blackas sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot
-detect any thought at all inside the great black helm. Will you:
 Jump down on the far side of the wall and run across the fields?
 Jump down and attack the android hand-to-hand?
 Use your blaster on it?
-Turn to 255 Turn to 236
+Turn to 255
+Turn to 236
 Turn to 244
-You move to a new point on the grid, but it is not far enough away from Mechanon. The atomic mine arrives at the same instant as you and hits your Strike Fighter, obliterating you,
 
-191
-Yelov misses you with the plasma pistol, but he rushes you with a speed that shows that both of his legs are bionic. He is having himself transformed into a walking death machine. He punches you with his bionic arm which is twenty times as powerful as any man's. You hurtle backwards and smash into a computer terminal. Subtract 1 from your Suit Armour. If your armour is at zero or less, turn to 161. Otherwise, the computer screams at Yelov not to hurt it as you leap up and drive your powered fist towards
-Yelov's face. Make an Attack Roll. If you score 7-12, turn to 52
-If you score 2-6, turn to 152 192
-You hurtle onward like a bullet. After a few moments you see an enormous missile launcher ahead. Obviously the one that launched the missile as big as your Strike Fighter and it is armed and ready again. With a shuddering roar the huge missile pulls
+189
+Your great cut misses as he ducks and drives his sword at your chest, piercing your chain mail and breastplate as the force of his charge bowls you over. Lose 9 Endurance points. As you struggle to your feet the blade of Sir Thomas Chandos saves your life, claiming that of your assailant. Suddenly, you see an English knightin black armour whose shield bears no device, but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
+
 Use your Power of Will on the Black Knight?
 Attack the Black Knight with your sword?
 Use your blaster on the Black Knight?
-
-190
-Turn to 414 Turn to 319
+Turn to 414
+Turn to 319
 Turn to 334
 
-away from the launcher and accelerates towards you. You have no time to turn and it completely fills your screen. In desperation you fire your fission beam but to no avail. The missile erupts and its explosive force is doubled in this enclosed space. Your hull is breached and the tunnel collapses around you. A tangled mess of metal and rock will be your tomb for
+190
+You move to a new point on the grid, but it is not far enough away from Mechanon. The atomic mine arrives at the same instant as you and hits your Strike Fighter, obliterating you.
+
+191
+Yelov misses you with the plasma pistol, but he rushes you with a speed that shows that both of his legs are bionic. He is having himself transformed into a walking death machine. He punches you with his bionic arm which is twenty times as powerful as any man's. You hurtle backwards and smash into a computer terminal. Subtract 1 from your Suit Armour. If your armour is at zero or less, turn to 161. Otherwise, the computer screams at Yelov not to hurt it as you leap up and drive your powered fist towards Yelov's face. Make an Attack Roll.
+
+If you score 7-12, turn to 52
+If you score 2-6, turn to 152 192
+
+192
+You hurtle onward like a bullet. After a few moments you see an enormous missile launcher ahead. Obviously the one that launched the missile as big as your Strike Fighter and it is armed and ready again. With a shuddering roar the huge missile pulls away from the launcher and accelerates towards you. You have no time to turn and it completely fills your screen. In desperation you fire your fission beam but to no avail. The missile erupts and its explosive force is doubled in this enclosed space. Your hull is breached and the tunnel collapses around you. A tangled mess of metal and rock will be your tomb for
 ever. You have failed.
 
 193
