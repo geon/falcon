@@ -1331,14 +1331,14 @@ You play the beam of your particle disruptor over the generator as Yelov takes a
 222
 You are taken to the Speaking House, a building neither more nor less grandiose than any of the Others, and given the chance to speak to those who have volunteered to play a part in governing the planet. There are twenty-seven of the Danikoi who recline on plush couches that float in the air. They elect one called the Disputer to argue against you. You have no choice but to tell them you are a Time Traveller and the reasons you have journeyed to their world and time. Your own people on Earth and the Federation will be killed if they allow Mechanon to be turned into a lasting monument to their technological knowhow. They hear you out without interruption and when you have finished the Disputer says that they have no plans to build a factory planet anywhere. You reply that they will begin building on Mechanon in five thousand years. There is a general hum and one of the Danikoi asks you why their descendants should wish to do this. You reply, 'I know only that they will choose to do so. In my time, fifty millenia from now, it is history.' The hum this time is louder. The Disputer stands and
 asks you to prove that you are a Time Traveller. Will you:
+
 Call up CAIN and ask him if there is a useful prophecy you can make?
 Lead them to the Strike Fighter, show them the Variac Drive and explain the principles of time travel?
-
-223
 Turn to 363
 Turn to 21
-Falcon's Wing settles onto the rocky surface of Thrix with a crunch and a whine from its hydraulic legs. CAIN warns you that the soupy, yellow atmosphere of Thrix is highly corrosive, so you put on your environment suit. The inhabitants of this world live for many thousands of years and are composed almost entirely of glass, like silica. They are telepathic and can also move objects by thought alone. The camera shows ghostly outcroppings of jagged rock, swimming in soupy gases. Soon after you have stepped outside, the gases seem to thicken into a fog and you are forced to halt until visibility improves. Just as you catch sight of a huge machine bristling with weaponry, everything goes black. Your ancestor has been killed at the
-Battle of Crecy on Earth in 1346 AD. It is as if you had never existed. You have failed
+
+223
+Falcon's Wing settles onto the rocky surface of Thrix with a crunch and a whine from its hydraulic legs. CAIN warns you that the soupy, yellow atmosphere of Thrix is highly corrosive, so you put on your environment suit. The inhabitants of this world live for many thousands of years and are composed almost entirely of glass, like silica. They are telepathic and can also move objects by thought alone. The camera shows ghostly outcroppings of jagged rock, swimming in soupy gases. Soon after you have stepped outside, the gases seem to thicken into a fog and you are forced to halt until visibility improves. Just as you catch sight of a huge machine bristling with weaponry, everything goes black. Your ancestor has been killed at the Battle of Crecy on Earth in 1346 AD. It is as if you had never existed. You have failed
 
 224
 You are unable to shake it off. It homes in on you; its image completely fills the scanner screen as it hits you head on. There is a sickening lurch and a horrifying explosion but you cannot believe it when, a second later, you are still alive. Evidently the defences of your Weeks/Senior Strike Fighter almost defy belief. There is damage, however, you have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour. If your ship's defences are at zero or below all of the circuits overload. Turn to 282. If they are not, you accelerate away, the impact has stopped you dead. Turn to 351.
@@ -1470,17 +1470,28 @@ The battlesuit picks you up automatically. You are like a doll with a weight at 
 
 250
 In answer to your question, CAIN replies that although the planet Mechanon is rich in minerals and metals spectroscope evidence suggests that there is no Polybdenum to be found there. Will you:
-fifty feet, training their cannon on you as they come. Will you:
-Ask whether Yelov's Time Machine
-carried a full supply of Polybdenum (if you have not already done so)?
+
+Ask whether Yelov's Time Machine carried a full supply of Polybdenum (if you have not already done so)?
 Set coordinates for a trip in time to Mechanon?
-Thrix? Crecy?
+Thrix?
+Crecy?
+Turn to 275
+Turn to 233
+Turn to 223
+Turn to 209
 
 251
 You move to the new point on the grid but are caught in the middle of an atomic explosion which obliterates you. The atomic mine has arrived momentarily before you and you have entered a fireball of raw energy.
 
 252
-You have been spotted. Two wardroids which were guarding the mining droid suddenly hover towards you at an altitude of
+You have been spotted. Two wardroids which were guarding the mining droid suddenly hover towards you at an altitude of fifty feet, training their cannon on you as they come. Will you:
+
+Blast it out with them?
+Turn the heat control on your environment suit to freezing and lie low, hoping their sensors are Infra Red?
+Turn to 288
+Turn to 277
+
+253
 Your thumbs depress the fusion fire buttons on the joystick. Twin blasts of energy fly from your wing tips and rake the front of the fortress. Its missile bases go up in a series of devastating explosions and you vapourise one of its plasma cannons. Smoke and flames are everywhere but one of the plasma cannons is still functional and it fires at you as you begin to pull out of your dive. You must take evasive action. Make an Evasion Roll.
 
 If you score 8-12, turn to 269
@@ -1496,18 +1507,7 @@ If you score 6-12, turn to 265
 If you score 2-5, turn to 278
 
 256
-Asyou advance down the main tunnel into the cold, green glow of the luminous panels which line the arched roof, you catch sight of an array of worker droids, which seem to be repairing somewardroids. As you watch, two of these whir into life and
-Turn to 275 Turn to 233
-Turn to 223 Turn to 209
-Blast it out with them?
-Turn the heat control on your
-environment suit to freezing and lie low, hoping their sensors are Infra Red?
-
-253
-Turn to 288
-Turn to 277
-
- begin to skim along two large rails - high above - towards you. At the same time the whoosh of an Atmospheric Interceptor causesyou to look up. It is flying towards you from the depths of the tunnel. Will you:
+Asyou advance down the main tunnel into the cold, green glow of the luminous panels which line the arched roof, you catch sight of an array of worker droids, which seem to be repairing somewardroids. As you watch, two of these whir into life and begin to skim along two large rails - high above - towards you. At the same time the whoosh of an Atmospheric Interceptor causesyou to look up. It is flying towards you from the depths of the tunnel. Will you:
 Break left and run down the smaller access tunnel?
 Hide in a recess in the side of the tunnel?
 Open fire at long range?
@@ -1706,37 +1706,48 @@ CAIN responds, 'It is not within the capability of this Strike Fighter to destro
 Your thumb presses down on the joystick firing buttons, but you acted too soon and the twin beams disintegrate a set of sensor banks. You have no time to do anything before two plasma shells explode on your front shields with an awful crackling roar. Your ship is engulfed in a great ball of white plasma. The heat is unbearable and you look up in horror to see your front screens filling with three missiles. They slam into the ship, ripping the hull open. You are consumed in a massive explosion. You have failed.
 
 292
-The android has turned its blaster to maximum and its beam sears into you. Lose 9 Endurance points. If you are still alive, you roll out of the beam and then unleash the energy of your blaster, taking even the superhuman android by surprise. You play the beam across it until it is completely vapourised and then set off
-
- across the countryside in search of your Strike Fighter. Turn to
-135.
+The android has turned its blaster to maximum and its beam sears into you. Lose 9 Endurance points. If you are still alive, you roll out of the beam and then unleash the energy of your blaster, taking even the superhuman android by surprise. You play the beam across it until it is completely vapourised and then set off across the countryside in search of your Strike Fighter. Turn to 135.
 
 293
 Your fission beams do not find their target until it is already too late. The huge missile completely fills the scanner screen as it hits you head on. There is a sickening lurch and a horrifying explosion but you cannot believe it when, a second later, you are still alive. Evidently the defences of your Weeks/Senior Strike Fighter almost defy belief. There is damage, however. You have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour. If your ship's defences are at zero or below, all of the circuits overload, turn to 282. If they are not you accelerate away, the impact has stopped you dead, turn to 351.
 
 294
 In the safety of Falcon's Wing you reconsider the situation. The disturbances in the timelines of the two planets, Thrix and Mechanon, are clearly related. As time is pressing and Yelov has bought himself several hours by tying you up here at Crecy you decide to ask for just one more item of information. Will you ask CAIN:
+
 What forces Mechanon could provide if it was saved from destruction?
 Whether Mechanon and/or Thrix have the Polybdenum necessary for Yelov to make many time trips?
-
-295
 Turn to 239
 Turn to 248
 
+295
+Nothing happens. CAIN tells you that the grid exists in only two dimensions, you have tried to move in a third dimension. The radiation level is critical. Which co-ordinates will you try next?
+
+-2/ 4/ 1
+0/ 5/ 5
+0/-5/-5
+Turn to 349
+Turn to 321
+Turn to 273
+
 296
 You had guessed right, but moved too slowly. The interceptor's pulse laser hits you, damaging your battlesuit. Lose3 pointsofSuit Armour, but your body is not harmed. You duck instinctively as the interceptor screams overhead and the sensors on your battlesuit tell you that the small object which Yelov let drop is homing in on you. It is a hunter-seeker mine. Will you fire:
-Nothing happens. CAIN tells you that the grid exists in only two dimensions, you have tried to move in a third dimension. The radiation level is critical. Which co-ordinates will you try next?
+
 Your particle disruptor at the hunter-seeker?
 A rocket at the interceptor before it returns to fire on you again?
-Wait for the hunter-seeker to draw
--2/ 4/ 1 0/ 5/ 5 0/-5/-5
-Turn to 349 Turn to 321 Turn to 273
-Turn to 285 Turn to 329
-
-close, then use your jetpack to rise up above it?
+Wait for the hunter-seeker to draw close, then use your jetpack to rise up above it?
+Turn to 285
+Turn to 329
+Turn to 270
 
 297
-Turn to 270
+You insert the tip of your sword into the gap where the Count's helm meets his breastplate and drive it home. His windpipe is severed and he dies frothing blood inside the darkness of his helmet. One of the English knights curses you for a fool, saying that you could have held him for ransom. Suddenly, you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
+
+Use your Power of Will on the Black Knight?
+Attack the Black Knight with your sword?
+Use your blaster on the Black Knight?
+Turn to 213
+Turn to 226
+Turn to 235
 
 300
 The green ray expands as it stabs towards you and you are caught. The particles of your body coat the walls of the tunnel for fifty metres around in a thin film. You have fallen victim to a high intensity particle disruptor.
@@ -1754,14 +1765,9 @@ The faceplate of your helmet darkens automatically as the fluid reacts with the 
 
 304
 Your fusion beams set the missile off but it explodes too close to you for comfort. The forward scanner screen is filled with rolling jets of flame and the ship rocks, its gyros whining. Your ship's defences have lost another 2 points (Armour or Shields). If they are at zero or below, turn to 282. If they are not you fly on. Turn to 351.
-You insert the tip of your sword into the gap where the Count's helm meets his breastplate and drive it home. His windpipe is severed and he dies frothing blood inside the darkness of his helmet. One of the English knights curses you for a fool, saying that you could have held him for ransom. Suddenly, you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
-Use your Power of Will on the Black Knight?
-Attack the Black Knight with your sword?
-Use your blaster on the Black Knight?
+
 
 298
-Turn to 213 Turn to 226
-Turn to 235
 There wasn't enough time for your electronic counter measures to take effect and all three of the missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose3 Energy Shield points or 5 Hull Armour points. If your ship defences have fallen below zero, turn to 276. If you have survived, the ship is rocked upward with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive. Turn to 71.
 
 299
