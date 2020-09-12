@@ -172,7 +172,8 @@ function parseTurnInstructions(sections: Section[]): Section[] {
 			group.lastSectionIndex - group.options.length * 2 + 1;
 		const options = group.options.map((option, i) => {
 			const matchingTextSection = sections[firstSectionIndex + i];
-			if (matchingTextSection.type !== "text") {
+			if (!(matchingTextSection && matchingTextSection.type === "text")) {
+				console.log(sections);
 				throw new Error("No matching text for turn instruction.");
 			}
 			return {
