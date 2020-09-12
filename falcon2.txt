@@ -1040,6 +1040,7 @@ One of the policemen produces a padded stick and while you are disposing of his 
 
 
 170
+Make a Chance Roll.
 If you score 1-3, turn to 154
 If you score 4-6, turn to 182
 
@@ -1070,10 +1071,10 @@ A pulse of laser light slices through your leg and you fall helpless to the stee
 
 176
 You seize a part of the twisted rack and hurl it at Yelov, before sprinting off into the swirling mass of yellow fog. You hear Yelov ordering the wardroids to kill you; it seems he isn't going to risk staying on Thrix any longer. The wardroids roar overhead, trying to sense you. Will you:
-Make a Chance Roll.
+
 Blast at one of them?
-Turn the temperature control on your
-suit to freezing?
+Turn the temperature control on your suit to freezing?
+Turn to 186 Turn to 198
 
 177
 You move to a new point on the grid, but it is not far enough away from Mechanon. The atomic mine arrives at the same instant as you and hits your Strike Fighter, obliterating you.
@@ -1086,7 +1087,6 @@ Louis de Nevers is a tall and powerful knight and he swings his sword and shouts
 
 If you score 7-12, turn to 305
 If you score 2-6, turn to 189
-Turn to 186 Turn to 198
 
  180
 CAIN opens a holo-link to Jobanque's office. Your new section leader is in deep thought, but looks up at you as you ask your question. 'I shall wait until you have decided your first move before I deploy the SAT Squad. I may send Bloodhound and Lynx to Mechanon if we do not hear from you within four hours, but I don't believe in letting everyone loose on the Timelines at once - there's no telling what might happen if two operatives are active within the same Timehole without knowing that a colleague is busy there too.'
