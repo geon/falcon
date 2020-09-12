@@ -1128,7 +1128,10 @@ Y our ship swamps the missiles with electronic jamming signals and they all expl
 
 186
 Your first shot misses but the wardroids sense it and turn to attack you from either side. You will be lucky to survive the onslaught of their powerful weaponry. Make a Chance Roll.
-If you score 2 or 5, turn to 212 If you score 1 or 4, turn to 271 If you score 3 or 6, turn to 254
+
+If you score 2 or 5, turn to 212
+If you score 1 or 4, turn to 271
+If you score 3 or 6, turn to 254
 
 187
 Three times the French knight's sword rings loudly on your shield with bludgeoning force. You are driven to your knees under the weight of his attack, but the English knights have courageously beaten back the French and their ranks close once more. Your assailant is trapped and, realising the hopelessness of his position, he decides, instead of killing you, to surrender to you in the hope of being ransomed. You shake your head and move your aching shield arm gingerly as he is led away. An
