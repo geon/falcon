@@ -1971,19 +1971,28 @@ Falcon's Wing runs out of the Polybdenum it needs to power the Variac Drive befo
 
 340
 You come to an enormous blue wall of pulsing energy, completely blocking off the corridor - an energy zone field. Below it is a droid generator, a huge metal block draped with power cables. It is lined from left to right with a row of projectors connected to receptors around the walls and roof of the corridor by wide bands of crackling blue energy, the force field. You are approaching it rapidly, your only chance is to decelerate and destroy the generator. Will you:
-the time machine's scanners. Will you:
-Press the button which will Catapult you out of Falcon's Wing?
-Get out of the Flyer and try to destroy the radar beacon?
 
-343
-Turn to 85 Turn to 377
 Use your fission beams?
 Launch a missile, if you have any left?
+Turn to 357
+Turn to 367
 
 341
-Turn to 357 Turn to 367
+The Disputer turns from you and confers with the others. Some are saying that it will cost them nothing to make a law against the building of a factory planet. Another says that if they are not concerned with the future it doesn't matter if they do anyway This amuses them and they turn to you and say that you can have your wish. A law is typed into the computer as you watch You know that their society can only exist without enforcement and weapons because they never break their laws. You have done all you can and you decide to leave before they think to steal the secret of time travel by examining your Strike Fighter. Turn to 376.
+
+342
+Your crash-couch slides back into position and the Flyer cockpit seals. CAIN tells you that the radar beacon has detected Falcon's Wing and is relaying a message to a point beyond the range of the Time Machine's scanners. Will you:
+
+Press the button which will Catapult you out of Falcon's Wing?
+Get out of the Flyer and try to destroy the radar beacon?
+Turn to 85
+Turn to 377
+
+343
 You have lost the battle of minds with your arch-enemy, Agidy Yelov. As you slump helplessly, your eyes vacant like a moron, Yelov decides to have some fun for his amusement. He orders you to dance and you caper clumsily in your battlesuit, knocking into the computer's memory banks and finally falling, exhausted, to the floor. Turn to 249.
-344 [score an A]
+
+344
+[score an A]
 The twin fission beams meet at the point where the weather satellite tumbles gently through space and trigger a chain reaction which sunders the satellite, leaving nothing but the clear emptiness of space behind. The intruder detection satellite has homed in on you and it is guiding three surface-to-space missiles which streak towards you from the dull red world of Mechanon. You decide to use electronic counter measures, hoping to detonate the missiles before they meet you. This calls for precise judgement as you try to calculate their speed and course. Make an Attack Roll.
 
 If you score 6-12, turn to 11
@@ -1991,33 +2000,36 @@ If you score 2-5, turn to 365
 
 345
 You scramble behind the cover of a rock outcropping, but the powerful weaponry of the wardroids tracking you vapourises the rock and you are exposed. Will you:
-The Disputer turns from you and confers with the others. Some are saying that it will cost them nothing to make a law against the building of a factory planet. Another says that if they are not concerned with the future it doesn't matter if they do anyway This amuses them and they turn to you and say that you can have your wish. A law is typed into the computer as you watch You know that their society can only exist without enforce! and weapons because they never break their laws. You have done all you can and you decide to leave before they think to steal the secret of time travel by examining your Strike Fighter. Turn to 376.
 
-342
-Your crash-couch slides back into position and the Flyer cockpit seals. CAIN tells you that the radar beacon has detected Falcon's Wing and is relaying a message to a point beyond the range of
 Kneel and take careful aim at one of the wardroids?
 Shoot on the run?
+Turn to 368
+Turn to 382
+
+
 
 346
-Before the crackling mace can land you whip your blaster from its place of concealment with the speed and skill of a crack
-Turn to 368 Turn to 382
+Before the crackling mace can land you whip your blaster from its place of concealment with the speed and skill of a crack combateer. Make an Attack Roll.
 
-combateer. Make an Attack Roll. If you score 7-12, turn to 381
-If you score 2-6, turn to 369 347
+If you score 7-12, turn to 381
+If you score 2-6, turn to 369
+
+347
 As you dodge out to fire again at the raildroids as they accelerate towards you, the scream of the Atmospheric Interceptor fills the air. It has turned outside the complex and dived back in behind you. As you spin to face it a missile hits you full on the chest. The explosion shakes the whole complex, but the impact alone would have killed you. You have failed.
 
 348
 You have timed your fall perfectly. Falcon's Wing settles onto the rocky surface of Thrix with a crunch and a whine from its hydraulic legs. CAIN warns you that the soupy yellow atmosphere of Thrix is highly corrosive and you put on your environment suit. Whilst you are doing so, CAIN gives you some valuable information on the planet and its inhabitants. The flying girders which you passed in the atmosphere were a primitive form of starship powered by chemical rockets like those used on Earth in the 21st and 22nd centuries. The ships are slow but the pilot, a Thrix, has a lifespan of several millenia and being composed almost entirely of glass-like silica can exist in deep space. The rock-like Thrix are telepathic and can move objects by thought alone. They are dormant at deep space temperatures but regain the capacity for thought whenever their ship nears a sun. Less than two thousand remain on their home world - the reason for their decline is not known. Very little is known about their attitude to aliens in 3033 AD, let alone this time. They are not members of the Federation (they will not become members, that is). 'There is one other thing, Falcon - this timehole is deteriorating rapidly and will soon cease to exist. I estimate anything between one and six hours remaining before it fades away. Take care not to get trapped here!' You thank CAIN. The camera shows ghostly outcroppings of jagged rock, swimming in soupy gases. Y ou leave Falcon's W i n g
 -without preparing a disguise (CAIN does not have the relevant information stored in his memory banks in any case) and set out to explore. Before you have gone twenty metres you see a shiny
 black boulder, faceted like a diamond, but three metres tall. It is a Thrix. Will you:
+
 Ignore it and walk on?
-Run and hide in a shallow trench
-nearby?
+Run and hide in a shallow trench nearby?
 Try to communicate with it?
+Turn to 383
+Turn to 372
+Turn to 360
 
 349
-Turn to 383
-Turn to 372 Turn to 360
 Nothing happens. CAIN tells you that the grid
 in only two dimensions, you have tried to move in a third dimension. The radiation dampers overload and you suffer severe radiation poisoning. Even if you find a way out of the grid, you will die within minutes. The sophisticated trap set up by the wardroids of Mechanon has caught you in its deadly jaws.
 
