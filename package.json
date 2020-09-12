@@ -1,21 +1,24 @@
 {
-  "name": "falcon",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
-  "scripts": {
-    "start": "ts-node index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "prettier": {
+	"name": "falcon",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.ts",
+	"scripts": {
+		"start": "ts-node index.ts",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build:clean": "rm -rf dist",
+		"build": "npm run build:clean && npm run start",
+		"publish": "npm run build && ./publish.sh"
+	},
+	"author": "",
+	"license": "ISC",
+	"prettier": {
 		"useTabs": true,
 		"trailingComma": "all"
 	},
-  "dependencies": {
-    "@types/node": "^14.6.2",
-    "ts-node": "^9.0.0",
-    "typescript": "^4.0.2"
-  }
+	"dependencies": {
+		"@types/node": "^14.6.2",
+		"ts-node": "^9.0.0",
+		"typescript": "^4.0.2"
+	}
 }

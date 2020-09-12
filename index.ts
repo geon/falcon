@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync } from "fs";
 
 function* getLines(string: string) {
 	const lines = string.split("\n");
@@ -532,6 +532,11 @@ function renderChoicesSection(section: ChoicesSection): string {
 	`;
 }
 
+const outputDirName = "dist";
+mkdirSync(outputDirName);
 for (const page of pages) {
-	writeFileSync("pages/" + page.pageNumber + ".html", renderPage(page));
+	writeFileSync(
+		outputDirName + "/" + page.pageNumber + ".html",
+		renderPage(page),
+	);
 }
