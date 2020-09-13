@@ -86,7 +86,7 @@ used when strictly necessary. Fortunately, its Ion Drive is almost soundless. Yo
 ITEM 7: CAIN [Cybernetic Artificial Intelligence Nexus] CAIN is one of the most advanced computers known to man. Its data banks offer information on all subjects and historical data on all Federation and alien planets. Its memory banks are continuously updated with information concerning the Time- holes and it is able to link with the massive memory banks of the TIME Service Computer at the Eiger Vault. A Holophone,
 through which you can contact any other Holophone in the Federation, is built into CAIN and you also have access to most of the files kept by TIME. CAIN answers your spoken commands and runs the Time Machine for you. It can give information visually, via the terminal screen, or verbally, using its melodic chimes.
 ITEM 8: BLASTER [see accompanying specifications]
-This is your Standard Starship Trooper issue Plasma Pistol. It fires superheated plasma to a range of 100 metres, and the Energy Pack is sufficient for ten minutes continuous use. You have more Energy Packs in your weapons locker. Y our blaster is labelled. Tor use in exceptional circumstances only'.
+This is your Standard Starship Trooper issue Plasma Pistol. It fires superheated plasma to a range of 100 metres, and the Energy Pack is sufficient for ten minutes continuous use. You have more Energy Packs in your weapons locker. Your blaster is labelled. Tor use in exceptional circumstances only'.
  
 FL YER
 BLASTER
@@ -276,7 +276,7 @@ Your lasers have sheared the drive away from one of the missiles and it spins ha
 The wardroid rises dramatically on its hover thrusters just as you fire. Your plasma blast ionises the gas in a long stream turning it from yellow to red, but it has passed beneath the wardroidwhich sweeps the area with a laser cannon. You are caught in the beam and sliced neatly into two at the waist. The shock kills you.
 
 24
-Y our sword blade jars the Black Knight with a clang, and smoke and sparks fly up from its elbow joint. It staggers as if its circuits were overloading. It is certainly no man, but a droid, a mechanical man. It swivels its head towards you and the visor of Its great black helmet clicks open. You are ready when a beam of red light lances towards you from the droid's helmet and you dodge it and try to bury the tip of your sword into the gap left by the open visor. Make an Attack Roll.
+Your sword blade jars the Black Knight with a clang, and smoke and sparks fly up from its elbow joint. It staggers as if its circuits were overloading. It is certainly no man, but a droid, a mechanical man. It swivels its head towards you and the visor of Its great black helmet clicks open. You are ready when a beam of red light lances towards you from the droid's helmet and you dodge it and try to bury the tip of your sword into the gap left by the open visor. Make an Attack Roll.
 
 If you score 6-12, turn to 36
 If you score 2-5, turn to 49
@@ -316,7 +316,7 @@ If you score 2-7, turn to 114
 The green ray expands as it stabs towards you and you are caught. The particles of your body coat the walls of the tunnel for fifty metres around in a thin film. You have fallen victim to a high intensity particle disruptor.
 
 31
-Y our missile breaches a hole in the Main Access portal just large enough for you to fly through. You move from the gloomy, brooding red of Mechanon's thin atmosphere to the ghostly, green luminescent lights of an enormous tunnel which stretches ahead for miles. The Access portal opens suddenly and ten Atmospheric Interceptors follow you down the tunnel, their pulse lasers winking on and off as they pour their deadly fire into your ship's defences. You switch between fore and aft scanner but you have to leave your Battle, computer to target your aft lasers while you synchronise your evasion movements with its prediction of your movements. Make an Attack Roll.
+Your missile breaches a hole in the Main Access portal just large enough for you to fly through. You move from the gloomy, brooding red of Mechanon's thin atmosphere to the ghostly, green luminescent lights of an enormous tunnel which stretches ahead for miles. The Access portal opens suddenly and ten Atmospheric Interceptors follow you down the tunnel, their pulse lasers winking on and off as they pour their deadly fire into your ship's defences. You switch between fore and aft scanner but you have to leave your Battle, computer to target your aft lasers while you synchronise your evasion movements with its prediction of your movements. Make an Attack Roll.
 
 If you score 6-12, turn to 88
 If you score 2-5, turn to 70
@@ -631,7 +631,7 @@ If you score 5-12, turn to 40
 If you score 2-4, turn to 73
 
 94
-Y our blaster discharges a crackling beam of superheated plasma hut your aim is wrong and you only hit a dead horse. The knight charges home, thinking, with his restricted vision, that he had seen no more than the flash of the sun on a polished helm. You have only a moment to try and catch the point of his lance on your shield. Make an Evasion Roll.
+Your blaster discharges a crackling beam of superheated plasma hut your aim is wrong and you only hit a dead horse. The knight charges home, thinking, with his restricted vision, that he had seen no more than the flash of the sun on a polished helm. You have only a moment to try and catch the point of his lance on your shield. Make an Evasion Roll.
 
 If you score 8-12, turn to 63
 If you score 2-7, turn to 114
@@ -1014,7 +1014,7 @@ Turn to 179
 Turn to 193 Turn to 200
 
  163
-You surge upwards through the splintered floormetal with a whine of power. Yelov gropes for his plasma pistol but you are too quick for him. Y our particle disruptor drills into his chest and a look of primeval terror crosses his face as his very being pours out of him in a stream of atoms. Within seconds he has been spread in a thin coat all over the Central Computer. There is nothing left to show the world that you have defeated the greatest villain of all time. Turn to 361.
+You surge upwards through the splintered floormetal with a whine of power. Yelov gropes for his plasma pistol but you are too quick for him. Your particle disruptor drills into his chest and a look of primeval terror crosses his face as his very being pours out of him in a stream of atoms. Within seconds he has been spread in a thin coat all over the Central Computer. There is nothing left to show the world that you have defeated the greatest villain of all time. Turn to 361.
 
 164
 The missile is protected against your ECM and it comes steadily on as you scream down the tunnel at Mach 5.3. You will have to use your aft lasers but you haven't much time. Turn to 134 but subtract 1 from your next die roll.
@@ -1129,7 +1129,7 @@ If you score 2-5, turn to 29
 
 
 185
-Y our ship swamps the missiles with electronic jamming signals and they all explode simultaneously. They were too close and your ship rocks with the force of the blast. Lose 1 Shield point or 2 Armourpoints.Ifyourship'sdefenceshavefallenbelowzero,turn to 276. If you have survived, you leave the fortress far behind. Turn to 71.
+Your ship swamps the missiles with electronic jamming signals and they all explode simultaneously. They were too close and your ship rocks with the force of the blast. Lose 1 Shield point or 2 Armourpoints.Ifyourship'sdefenceshavefallenbelowzero,turn to 276. If you have survived, you leave the fortress far behind. Turn to 71.
 
 186
 Your first shot misses but the wardroids sense it and turn to attack you from either side. You will be lucky to survive the onslaught of their powerful weaponry. Make a Chance Roll.
@@ -1813,7 +1813,7 @@ If you score 6-12, turn to 237
 If you score 2-5, turn to 274
 
 309
-Y our powered battlesuit allows you to leap high into the air and the flash of a laser pulse beneath you tells you your guess was correct. You duck instinctively as the interceptor screams overhead and the sensors on your battlesuit tell you that the small object which Yelov let drop is homing in on you. It is a hunter-seeker mine. Will you:
+Your powered battlesuit allows you to leap high into the air and the flash of a laser pulse beneath you tells you your guess was correct. You duck instinctively as the interceptor screams overhead and the sensors on your battlesuit tell you that the small object which Yelov let drop is homing in on you. It is a hunter-seeker mine. Will you:
 
 Fire your particle disruptor at the hunter-seeker?
 Fire a rocket at the interceptor before it returns to fire On you again?
@@ -1828,7 +1828,7 @@ Nothing happens. CAIN advises you that you can only move to a point on the grid 
 radiation level is critical. Which coordinates will you try next?
 
 312
-You stand and hurl your grenade which arcs through the gaseous mist towards the wardroid and then pull your blaster. The electronic circuitry of the droid reacts faster than thought and a pulse of energy from its weapon banks picks you up and hurls you bodily against a rock outcropping. The plasnet of your suit repairs itself automatically but the blast and the acid gas of Thrix's atmosphere which seeped into your suit have reducedyour Endurance by 10 points. If you are still alive, the contaminated wounds will heal poorly - subtract 1 from your maximum Endurance points forever. Y our grenade explodes, destroying the hover pads of the wardroid which falls to the rocky ground, immobilised. In a split second you have recovered and unleashed a lancing bolt of white-hot energy which hits its power plant and the flash defence on your helmet automatically cuts in and the faceplate darkens as the lurid explosion lights the yellow atmosphere, hurling debris everywhere. You have destroyed the wardroid
+You stand and hurl your grenade which arcs through the gaseous mist towards the wardroid and then pull your blaster. The electronic circuitry of the droid reacts faster than thought and a pulse of energy from its weapon banks picks you up and hurls you bodily against a rock outcropping. The plasnet of your suit repairs itself automatically but the blast and the acid gas of Thrix's atmosphere which seeped into your suit have reducedyour Endurance by 10 points. If you are still alive, the contaminated wounds will heal poorly - subtract 1 from your maximum Endurance points forever. Your grenade explodes, destroying the hover pads of the wardroid which falls to the rocky ground, immobilised. In a split second you have recovered and unleashed a lancing bolt of white-hot energy which hits its power plant and the flash defence on your helmet automatically cuts in and the faceplate darkens as the lurid explosion lights the yellow atmosphere, hurling debris everywhere. You have destroyed the wardroid
 that guards the loading bay but other robots may be on their way to intercept you. A rack of Polybdenum rods stands in the bay at the back of the cavernous armadillo-like mining droid. You seize your chance to destroy it. Turn to 141.
 
 313
