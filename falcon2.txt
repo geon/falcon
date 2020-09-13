@@ -422,8 +422,24 @@ If you score 2-5, turn to 174
 53
 The black Thrix tumbles onward through the yellow gases of its planet, glistening with condensation and reflective particles of dust. You pass the scattered remains of one of its species and you feel the hurt in the mind of the Thrix whom you are following, whose name translates as Carborundum. The grief of the loss of a two thousand-year friendship almost cripples you, but you steel yourself to hold on to your own identity, almost sobbing as you do so. The dead Thrix has been shorn in half by a terrible weapon. There are cavities within its crystal in which still smaller crystal trees grow. You communicate your surprise to Carborundum and he thinks his reaction to you. It seems that he finds your soft bendiness repulsive. 'You should see me without my suit,' you think. As you plod through the heavy gravity there is a slight movement in the heavy air and
 the fog lifts slightly to reveal the most enormous mechanical contraption, shaped like a long armadillo. Dust rises from its form and it rumbles slowly across the surface of the planet towards you on caterpillar tracks. Its body is composed of overlapping segments of metal like a woodlouse, which glow dully in the weak rays of the Thrixian sun, which barely penetrates the thick atmosphere. Thrix is cold.
-
 Carborundum leads you down into a natural cavern which opens out below the gaping mouth of the mining droid. Two smaller excavation droids are clearing slag from a great conveyor belt which leads back into the belly of the armadillo- like droid. They do not react to you and you notice that their effectiveness is severely impaired by the corrosive gas of this world. They will soon break down completely. As you move towards the conveyor belt you notice another shattered Thrix nearby. Then a hovering wardroid with twin laser cannon sights you. Carborundum begins a high-pitched whining as you blast the wardroid to smithereens. You jump into the mining droid and Carborundum rolls up behind you. Inside the droid is a huge refining plant and in its belly you come to the central processor which controls it. Will you:
+
+Continue your exploration?
+Destroy the mining droid's electronic
+brain?
+Turn to 107
+Turn to 118
+
+54
+To your horror you realise that the Main Access is guarded by a reaction damping field. A small hole opens in one of the metal plates but it is too small for you to fly through. You pull up and roar skywards as the Atmospheric Interceptors swarm all around you. You try everything you know to shake them off, downing five of them at the same time, but in the end, weight of numbers tells. Your ship's defences are destroyed and a pulsing laser beam causes your Strike Fighter to explode. You are consumed with it in a ball of orange flame. You have failed.
+
+55
+You bank towards the mountainous space bomb and open fire with your fusion beams. They seem to have little or no effect, but a door opens on its back and a swarm of fighters, nimble and fast, pours out. Will you:
+
+Try to get closer and attack the star bomb's drive tubes?
+Veer away and ask CAIN whether there are any other possible options?
+Turn to 151
+Turn to 290
 
 56
 Yelov rushes in to strike you again but you drive your powered fist towards his face. Make an Attack Roll.
@@ -436,23 +452,30 @@ The excess of adrenaline pumping through your body is causing your arm to shake.
 
 58
 Your camera scans the gently rolling countryside of mediaeval northern France. Falcon's Wing stands on a hill overlooking a gentle slope on which stands the English army. Descending the hills opposite is the French Army, which seems about five times as large. It is mid afternoon, but the vanguard of the French army are advancing to the attack, led by six thousand or so mercenary troops, crossbowmen from Genoa, followed by double that number of mounted knights in full plate armour, the flower of chivalry, their shields and banners a glorious riot of colour. Behind these, and still trooping to the battlefield, are countless peasant infantry, some armed with pikes, but many making do with scythes roped to poles. The English army numbers a little over ten thousand men, composed of knights who have dismounted and will fight on foot, brave Welsh spearmen and a large number of longbowmen.
-CAIN tells you that if history is unchanged, the quick fire of the English bowmen will be the weapon that wins total victory. If the French were to win the battle CAIN cannot compute a likely outcome but Edward HI, King of England, might be deposed and the Hundred Y ears W ar might never be. France would probably grow much stronger than England or Spain. You decide to station yourself amongst the ranks of the English who are divided into three. Nearest to you are the reserves, and CAIN identifies the golden lions and fleur de lis of their leader, King Edward. Before these is another body of knights led by the
-Continue your exploration?
-Destroy the mining droid's electronic
-brain?
+CAIN tells you that if history is unchanged, the quick fire of the English bowmen will be the weapon that wins total victory. If the French were to win the battle CAIN cannot compute a likely outcome but Edward HI, King of England, might be deposed and the Hundred Y ears W ar might never be. France would probably grow much stronger than England or Spain. You decide to station yourself amongst the ranks of the English who are divided into three. Nearest to you are the reserves, and CAIN identifies the golden lions and fleur de lis of their leader, King Edward. Before these is another body of knights led by the young King's son, the Black Prince, who is surrounded by veteran knights, one of whom, Sir Thomas Chandos, bears a silver falcon on his red shield. A way to the left lies the third body of knights, lead by William de Bohun, Earl of Northampton, whose blue shield carries three red stars and six golden lions. The men of Northampton and the Black Prince are linked by a line of archers. Where will you position yourself?
 
-54
-To your horror you realise that the Main Access is guarded by a reaction damping field. A small hole opens in one of the metal plates but it is too small for you to fly through. You pull up and roar skywards as the Atmospheric Interceptors swarm all around you. You try everything you know to shake them off, downing five of them at the same time, but in the end, weight of numbers tells. Your ship's defences are destroyed and a pulsing laser beam causes your Strike Fighter to explode. You are consumed with it in a ball of orange flame. You have failed.
+Near the King?
+Near the Black Prince?
+Near the Earl of Northampton?
+Near Sir Thomas Chandos?
+Turn to 350
+Turn to 335
+Turn to 364
+Turn to 379
 
-55
-You bank towards the mountainous space bomb and open fire with your fusion beams. They seem to have little or no effect, but a door opens on its back and a swarm of fighters, nimble and fast, pours out. Will you:
-Try to get closer and attack the star bomb's drive tubes?
-Veer away and ask CAIN whether there are any other possible options?
-Turn to 151 Turn to 290
-Turn to 107 Turn to 118
+59
+Did you destroy the dish-shaped radar beacon as soon as you left Falcon's Wing?
+If you did, turn to 68
+If you did not, turn to 80
 
-young King's son, the Black Prince, who is surrounded by veteran knights, one of whom, Sir Thomas Chandos, bears a silver falcon on his red shield. A way to the left lies the third body of knights, lead by William de Bohun, Earl of Northampton, whose blue shield carries three red stars and six golden lions. The men of Northampton and the Black Prince are linked by a line of archers. Where will you position yourself?
-knees, and his standard has been raised once more. The camera roomsin on the leader of yet another French charge. CAIN tells you t h a t the man in the visor-less helmet tied to two other knights who are leading his horse into battle is King John the Blind of Bohemia. Once again the French charge is broken by the English archers and is thrown back. You can see the blind king lying dead on the field, still tied to his brave knights. It is already dusk and the English have almost won the day. There is nothing more for you to do here in Mediaeval France. Turn to 194.
+60
+As you wait the raildroid halts abruptly and then accelerates back towards you reaching about 100 mph in three seconds. It opens fire again with its high intensity particle disruptor. Make an Evasion Roll.
+
+If you score 7-12, turn to 41
+If you score 2-6, turn to 30
+
+61
+You regain the safety of Falcon's Wing, suffering no more than the mockery of some camp followers who think that you are fleeing the battle in fear. CAIN tells you that his scanners registered the fact that the Black Knight was a droid from Mechanon, and that it must have been programmed to kill Sir Thomas Chandos who is probably your ancestor. 'Be careful, Falcon, Yelov is trying to kill you.' If you didn't know that electronic brains are not programmed to register emotion CAIN's tone would have you believe he was worried on your behalf. You can see on the console screen that the battle is continuing. The Black Prince is alive, another horse between his knees, and his standard has been raised once more. The camera roomsin on the leader of yet another French charge. CAIN tells you t h a t the man in the visor-less helmet tied to two other knights who are leading his horse into battle is King John the Blind of Bohemia. Once again the French charge is broken by the English archers and is thrown back. You can see the blind king lying dead on the field, still tied to his brave knights. It is already dusk and the English have almost won the day. There is nothing more for you to do here in Mediaeval France. Turn to 194.
 
 62
 The pebbles beneath your feet start to shift but you keep your balanceand duck the flying rock just in time before you fall onto your back. The huge boulder-like Thrix rolls towards you as the whole ground beneath you seems to turn to a palpitating mud- bath. In desperation you concentrate your mind and try to dominate the mind of the alien, using your Power of Will. Turn to 33.
@@ -470,27 +493,7 @@ If you score 6-12, turn to 124
 If you score 2-5, turn to 113
 
 65
-Your blaster melts the droid's sound sensor and it begins to move erratically, unable to locate you. After a time it simply
-Near the King?
-Near the Black Prince?
-Near the Earl of Northampton? Near Sir Thomas Chandos?
-
-59
-Turn to 350 Turn to 335 Turn to 364 Turn to 379
-Did you destroy the dish-shaped radar beacon as soon as you left Falcon's Wing?
-If you did, turn to 68
-If you did not, turn to 80
-
-60
-As you wait the raildroid halts abruptly and then accelerates back towards you reaching about 100 mph in three seconds. It opens fire again with its high intensity particle disruptor. Make an Evasion Roll.
-
-If you score 7-12, turn to 41
-If you score 2-6, turn to 30
-
-61
-You regain the safety of Falcon's Wing, suffering no more than the mockery of some camp followers who think that you are fleeing the battle in fear. CAIN tells you that his scanners registered the fact that the Black Knight was a droid from Mechanon, and that it must have been programmed to kill Sir Thomas Chandos who is probably your ancestor. 'Be careful, Falcon, Yelov is trying to kill you.' If you didn't know that electronic brains are not programmed to register emotion CAIN's tone would have you believe he was worried on your behalf. You can see on the console screen that the battle is continuing. The Black Prince is alive, another horse between his
-
-drifts away. You run on towards the hangar-like opening of the large fluorescent building. As you run, three flying droids Atmospheric Interceptors, with swept-back wings and pulse laser cannons swoop on you, strafing you with pulses of deadly red light. You zig zag towards an abandoned worker droid hoping to shelter beneath it. Make an Evasion Roll as the Interceptors scream overhead.
+Your blaster melts the droid's sound sensor and it begins to move erratically, unable to locate you. After a time it simply drifts away. You run on towards the hangar-like opening of the large fluorescent building. As you run, three flying droids Atmospheric Interceptors, with swept-back wings and pulse laser cannons swoop on you, strafing you with pulses of deadly red light. You zig zag towards an abandoned worker droid hoping to shelter beneath it. Make an Evasion Roll as the Interceptors scream overhead.
 
 If you score 5-12, turn to 194
 If you score 2-4, turn to 175
