@@ -298,16 +298,16 @@ You drop to the steel floor and turn your suit temperature to freezing. The huge
 Try for the doorway? Turn to 17 Try to blast the horns from the droid? Turn to 46
 
 28
-You hurtle through the air down the corridor. Below, you can see a large droid with a shield travelling on a rail running the length of the corridor. Within seconds you flash past it but moments later your microbeam radar picks up a high-energy leading ahead. A large mobile fortress lies in the corridor, an armoured disc bristling with weapon pods and sensor banks. It has two plasma cannon trained on you, several missile bases are tracking you and two energy beam gun turrets are swivelling around. The massive tunnel continues beyond it and another
+You hurtle through the air down the corridor. Below, you can see a large droid with a shield travelling on a rail running the length of the corridor. Within seconds you flash past it but moments later your microbeam radar picks up a high-energy leading ahead. A large mobile fortress lies in the corridor, an armoured disc bristling with weapon pods and sensor banks. It has two plasma cannon trained on you, several missile bases are tracking you and two energy beam gun turrets are swivelling around. The massive tunnel continues beyond it and another forks off the side. You have a few seconds in which to act. Will you:
 
- forks off the side. You have a few seconds in which to act. Will
 Lock on the Battle computer and launch a fission warhead missile, if you have one left?
-Use your fusion beam on the fortress? Pullback on the joystick to gain height
-and try to weave through its imminent attacks?
+Use your fusion beam on the fortress?
+Pull back on the joystick to gain height and try to weave through its imminent attacks?
+Turn to 115
+Turn to 126
+Turn to 104
 
 29
-Turn to 115 Turn to 126
-Turn to 104
 The French knight is consumed with battle-lust and the force of your mental attack is not enough to stun him. He charges home and you have only a moment to catch the lance tip on your shield. Make an Evasion Roll.
 
 If you score 8-12, turn to 63
