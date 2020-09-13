@@ -609,11 +609,13 @@ If you score 2-4, turn to 96
 
 89
 Your ECM is successful; their electronic signals are a target and you manage to cause the missiles to pre-detonate before they reach you. The Atmospheric Interceptor is still behind you. Will you:
+
 Switch on forward thrust and hurtle past the planetary Defence Base to aim a missile at the fortress droid?
 Turn sharply left and aim a missile at the Planetary Defence Base?
+Turn to 50
+Turn to 64
 
 90
-Turn to 50 Turn to 64
 The Laser energy beam has finally breached your ship's defences. The circuits are overloading and she is falling apart. Suddenly the Fighter explodes into a ball of flame and you are destroyed with it.
 
 91
