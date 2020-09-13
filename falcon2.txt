@@ -1191,49 +1191,49 @@ ever. You have failed.
 
 193
 Your blast of thought completely stuns Sir Thomas Chandos and he slumps to the ground just as he was aiming a great blow at Count Louis de Nevers. The Count of Flanders seeks a new foe as a huge English knight dressed from head to toe in black armour, carrying a shield which bears no device but is black as sable, stoops as if to help Chandos. To your surprise, you can detect no thought at all inside the black helm and the knight is raising a spiked mace above Sir Thomas that crackles with a blue aura. Will you:
-Use your Power of Will on the Black Knight? Turn to 414 Attack the Black Knight with your
-of them hover about it. They must have planned to invade the EigerVault with this machine on Earth, 3033 AD. Now that you havedestroyed the Polybdenum and the Timehole on Thrix has closed, Yelov must have altered his plans. As you streak onwards, a daunting vista opens up beneath you. It is Mechanon's space launch field, and it is packed with an interstellar warfleet the size of which defies belief. Row upon row of Interceptors, Ion-drive Battle Cruisers and Atmospheric fighter-carrying Mother-ships glow a burnished bronze be- neath the dull red sky. At the hangar mouth, worker droids are cuttingpart of the Time Machine apart in a blaze of heat and light. Will you:
-sword?
+
+Use your Power of Will on the Black Knight?
+Attack the Black Knight with your sword?
 Use your blaster on the Black Knight?
+Turn to 414
+Turn to 355
+Turn to 346
 
 194
-Turn to 355 Turn to 346
+You shelter under the broken machinery of the worker droid. Pieces clang as they are cut from it to fall to the steel floor by the pulse lasers of the interceptors. They loop the loop and fire again on the return run, before arcing away, their drive reactors emitting a harsh whine. You continue towards the hangar-like entrance of the fluorescent building. The rim of the hangar boasts twenty great space-artillery pieces like outward pointing teeth in the cavernous maw of a prehistoric monster. As you approach it, skirting a huge iron cooling tower, an incredible sight meets your gaze. A spaceship almost as large as one of the generation starships of the 24th Century is being dismantled on a huge brass landing field. As you fly over it you see a contraption which can only be an enlarged Variac Drive being hoisted out of its front end. It takes a few seconds for you to realise what has been happening. The factory droids must have manufactured this colossal Time Machine in hours! Hundreds of them hover about it. They must have planned to invade the EigerVault with this machine on Earth, 3033 AD. Now that you havedestroyed the Polybdenum and the Timehole on Thrix has closed, Yelov must have altered his plans. As you streak onwards, a daunting vista opens up beneath you. It is Mechanon's space launch field, and it is packed with an interstellar warfleet the size of which defies belief. Row upon row of Interceptors, Ion-drive Battle Cruisers and Atmospheric fighter-carrying Mother-ships glow a burnished bronze beneath the dull red sky. At the hangar mouth, worker droids are cutting part of the Time Machine apart in a blaze of heat and light. Will you:
+
 Walk in past these?
-Skirt them, entering the hangar in
-shadow?
+Skirt them, entering the hangar in shadow?
+Turn to 245
+Turn to 218
 
 195
 CAIN chimes, 'I have received data on movements in three timeholes from the Monitoring Section.' The console screen flashes as CAIN presents a list of recent time trips.
-You shelter under the broken machinery of the worker droid. Pieces clang as they are cut from it to fall to the steel floor by the pulse lasers of the interceptors. They loop the loop and fire again on the return run, before arcing away, their drive reactors emitting a harsh whine. You continue towards the hangar-like entrance of the fluorescent building. The rim of the hangar boasts twenty great space-artillery pieces like outward pointing teeth in the cavernous maw of a prehistoric monster. As you approach it, skirting a huge iron cooling tower, an incredible sight meets your gaze. A spaceship almost as large as one of the
-generation starships of the 24th Century is being dismantled on a huge brass landing field. As you fly over it you see a contraption which can only be an enlarged Variac Drive being hoisted out of its front end. It takes a few seconds for you to realise what has been happening. The factory droids must have manufactured this colossal Time Machine in hours! Hundreds
-TIME DESTINA TION
-21.40 Mechanon 2291 AD 23.17 Thrix 1776 AD
-01.02 Mechanon 2291 AD 02.00 Thrix 1776 AD
-02.51 Mechanon 2291 AD 02.59 Crecy 1346 AD
-03.05 Mechanon 2291 AD 03.10 Eiger Vault, 3033 AD
+
 Time now: 03.54
-TRA VELLER Yelov Unknown Unknown Unknown Unknown Unknown
-Unknown
-Agent Chameleon
-You ask CAIN who the unknown traveller could be and it replies that all the other time machines and TIME personnel are accounted for and that you may safely assume the traveller is Yelov. You ask for information on Thrix and Crecy and CAIN tells you that Thrix is a planet rich in Polybdenum, the rare mineral which the Variac Drives and Molecular Converters of
-Turn to 245 Turn to 218
 
-Time Machines use as fuel. It is inhabited by strange intelligent rock-like life forms. Crecy is in Earth's past at the time of a battle- between mediaeval knights in armour which was the first in the Hundred Years War. Yelov has not been idle. Will you:
+TIME	DESTINATION	TRAVELLER
+21.40	Mechanon 2291 AD	Yelov
+23.17	Thrix 1776 AD	Unknown
+01.02	Mechanon 2291 AD	Unknown
+02.00	Thrix 1776 AD	Unknown
+02.51	Mechanon 2291 AD	Unknown
+02.59	Crecy 1346 AD	Unknown
+03.05	Mechanon 2291 AD	Unknown
+03.10	Eiger Vault, 3033 AD	Agent Chameleon
 
-199
-Make a Chance Roll.
-If you score 1-3, turn to 216
-If you score 4-6, turn to 154
+You ask CAIN who the unknown traveller could be and it replies that all the other time machines and TIME personnel are accounted for and that you may safely assume the traveller is Yelov. You ask for information on Thrix and Crecy and CAIN tells you that Thrix is a planet rich in Polybdenum, the rare mineral which the Variac Drives and Molecular Converters of Time Machines use as fuel. It is inhabited by strange intelligent rock-like life forms. Crecy is in Earth's past at the time of a battle- between mediaeval knights in armour which was the first in the Hundred Years War. Yelov has not been idle. Will you:
 
-200
-[score an A]
-There is a great ringing of steel, and sparks fly as the swords of Count Louis and Sir Thomas meet. The Frenchman is tall and powerful, but Sir Thomas is the more skilful and he turns the Count's sword before burying his own deep in the Frenchman's side. Count Louis falls to the ground, dead, as Chandos searches, panting for breath and peering through the narrow slit of his visor, for a new opponent. Suddenly, you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
-Travel through time to Crecy? Thrix?
+Travel through time to Crecy?
+Thrix?
 Mechanon?
 Ask for more information?
+Turn to 209
+Turn to 223
+Turn to 233
+Turn to 261
 
 196
-Turn to 209 Turn to 223 Turn to 233 Turn to 261
 Your blast demolishes the wardroid's radar antenna but its cannonisnowtargetedonyou.Youcanonlyhurlyourselfaside from the impending blast. Make an Evasion Roll.
 
 If you score 7-12, turn to 228
@@ -1248,13 +1248,24 @@ If you score 2-6, turn to 171
 198
 [score an F]
 For long anxious moments you wait for the searing pain which will tell you that a laser cannon is ending your existence, but the wardroids roar overhead creating a whirlpool of dust and mist. Their infra-red sensors, which see only heat, have lost your trace. You return the temperature control of your suit to normal, but you had not calculated on the added effect of the naturally low temperature on this freezing planet. You are already suffering severe frostbite. Lose 2 Endurance points. If you are still alive, CAIN radios you to say that the timehole on Thrix is closing and you run back to Falcon's Wing. Turn to 284.
+
+199
+Make a Chance Roll.
+If you score 1-3, turn to 216
+If you score 4-6, turn to 154
+
+200
+[score an A]
+There is a great ringing of steel, and sparks fly as the swords of Count Louis and Sir Thomas meet. The Frenchman is tall and powerful, but Sir Thomas is the more skilful and he turns the Count's sword before burying his own deep in the Frenchman's side. Count Louis falls to the ground, dead, as Chandos searches, panting for breath and peering through the narrow slit of his visor, for a new opponent. Suddenly, you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
+
 Use your Power of Will on the Black Knight?
 Attack the Black Knight with your sword?
 Use your blaster on the Black Knight?
+turn to 213
+Turn to 226
+Turn to 235
 
 201
-turn to 213 Turn to 226
-Turn to 235
 You have only a moment before the Black Knight's mace crushes Sir Thomas Chandos. Desperately, you focus your thought and project your will into the mind of the French knight, the Duke of Alencon. Make a Power of Will Roll.
 
 If you score 5-12, turn to 132
@@ -1264,9 +1275,7 @@ If you score 2-4, turn to 111
 You move to a new point on the grid, but it is not far enough away from Mechanon. The atomic mine arrives at the same instant as you and hits your Strike Fighter, obliterating you.
 
 203
-Under cover of your shield you draw your blaster from its place
-
-of concealment. You have time to fire once before the French knight is upon you. Make an Attack Roll.
+Under cover of your shield you draw your blaster from its place of concealment. You have time to fire once before the French knight is upon you. Make an Attack Roll.
 
 If you score 5-12, turn to 106
 If you score 2-4, turn to 94
