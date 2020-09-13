@@ -954,40 +954,40 @@ If you score 2-6, turn to 174
 Deadshot Yelov is too quick for you. The plasma bolt from his blaster rips a neat hole in the back of your suit. You fall stunned and the yellow gas of the Thrixian atmosphere invades your lungs. The plasnet of your suit tries to repair itself automati- cally, but Yelov turns down his blaster and uses it to keep the hole open. There is nothing you can do as your lungs turn to an acidified froth. Your death is indeed lingering and painful.
 
 154
-Suddenly you find yourself back in TIME headquarters, and the battlefield of Crecy is a fast-fading memory. Your actions have changed history. Count Louis de Nevers of Flanders survived the battle in which he should have been killed. His descendant is a brilliant young woman who scored even more highly than you in training at the Academy. Now she is Agent Falcon and you
-are working in the Monitoring Section hoping that one day you will be given the chance to be a Special Agent. Unless the new Falcon can foil Yelov the chance will never come. There is an incoming message on the monitoring console screen.
-MESSAGE
-Sent by - AGENT FALCON To any Monitoring Operative
-Please verify the following: Disturbance in Mechanon Timeline Data to follow.
+Suddenly you find yourself back in TIME headquarters, and the battlefield of Crecy is a fast-fading memory. Your actions have changed history. Count Louis de Nevers of Flanders survived the battle in which he should have been killed. His descendant is a brilliant young woman who scored even more highly than you in training at the Academy. Now she is Agent Falcon and you are working in the Monitoring Section hoping that one day you will be given the chance to be a Special Agent. Unless the new Falcon can foil Yelov the chance will never come. There is an incoming message on the monitoring console screen.
+# MESSAGE
+Sent by - AGENT FALCON
+To any Monitoring Operative
+Please verify the following: Disturbance in Mechanon Timeline.
+Data to follow.
 As Falcon, you have failed.
 
 155
 CAIN chooses a visual display for the answer to your question, and the console screen flashes up the following:
-01.13 Earth Standard Time DESTINA TION: Unknown
-END OF FILE YV29
-CAINchimes, 'He left a message addressed to you, Falcon. He saidthathewouldmakesurethatyourdeathwasapainfulone.' you thank CAIN - and tell it not to speak unless spoken to! Will
-SUBJECT: NATURE:
-RESULT:
-Yelov, Agidy - escape from custody Security lapse in the Eiger Vault
-Malfunction of Psionic Damper fitted to bionic circuitry which replaced damaged brain tissue
-Yelov was able to exert his Power of Will to control a security guard who released him and killed three other
-guards to enable Yelov access to his
-File YV29 [New Data]
-Time Machine
-DISAPPEARANCE: Yelov and his Time Machine winked
-out of the Eiger Vault Timehole at
+
 Time Now 03.14
+
+SUBJECT:	File YV29 [New Data] Yelov, Agidy - escape from custody Security lapse in the Eiger Vault
+NATURE:	Malfunction of Psionic Damper fitted to bionic circuitry which replaced damaged brain tissue
+RESULT:	Yelov was able to exert his Power of Will to control a security guard who released him and killed three other guards to enable Yelov access to his Time Machine
+DISAPPEARANCE:	Yelov and his Time Machine winked
+out of the Eiger Vault Timehole at 01.13 Earth Standard Time
+DESTINATION:	Unknown
+
+END OF FILE YV29
+
+CAIN chimes, 'He left a message addressed to you, Falcon. He said that he would make sure that your death was a painful one.' you thank CAIN - and tell it not to speak unless spoken to! Will you:
+
+Request information on Mechanon (if you have not already done so)?
+Listen to a message that CAIN has just received?
+Turn to 140
+Turn to 195
+
+156
 The revving whine of a hovbike sounds behind you. You whirl found to see Clone, lowlifer leader of the hovbike gang that tried to kill you for sport in a dead-end alley of Old Geneva. He has shaven off all but two spiking tufts of his gold-metal hair but he wears the same patchwork of robot parts and sharpened flangesthat he did then. The ram-fronted hovbike rears and he slips neatly off its back as it roars towards you. A lesser human would have been caught by the hovbike and crushed, but you spinaside and it hurtles past, collapsing into a set of wrought- iron park railings. 'You owe me, mutie upper,' Clone shouts madly. 'Your mindgames have made me a no-life. I've only one thingleft, Falcon, I'm not a street'roid any more, I just want to kill you.' A crowd of passers-by gathers and it irritates you that they stare at you as least as much as the outlandishly garbed madman. You decide to drop him, using your powers of Thinkstrike.He crumples senseless to the floor, a look of resigned rage upon his face, and you hand him over to the two Citpol Enforcers who have just arrived on the scene in a jetcopter. They take Clone away, after sedating him, and you walk on into the park. The incident has unnerved you unaccountably and you are unable to relax. Turn to 167.
 
 157
-The wardroid moves faster than you and the beam of its laser cannon knifes into your side, removing an inch of bone and flesh
-Request information on Mechanon (if you have not already done so)?
-Listen to a message that CAIN has just received?
-
-156
-Turn to 140 Turn to 195
-
-from your hip and thigh. The plasnet of your suit reseals itself automatically, but not before the corrosive yellow gas of the Thrixian atmosphere leaks in and contaminates your wound. Lose 10 Endurance points. If you are still alive, the wound will heal poorly, deduct one from your maximum Endurance forever. Carborundum causes the door of the furnace to fly open and a river of molten slag engulfs both it and the droid. The wardroid's melting point is below that of the lava and it subsides into a molten mass. The Thrix is untroubled by this extreme temperature - is Carborundum indestructible, you wonder? Turn to 181.
+The wardroid moves faster than you and the beam of its laser cannon knifes into your side, removing an inch of bone and flesh from your hip and thigh. The plasnet of your suit reseals itself automatically, but not before the corrosive yellow gas of the Thrixian atmosphere leaks in and contaminates your wound. Lose 10 Endurance points. If you are still alive, the wound will heal poorly, deduct one from your maximum Endurance forever. Carborundum causes the door of the furnace to fly open and a river of molten slag engulfs both it and the droid. The wardroid's melting point is below that of the lava and it subsides into a molten mass. The Thrix is untroubled by this extreme temperature - is Carborundum indestructible, you wonder? Turn to 181.
 
 158
 Your attempt to control the 20th century policeman has failed He is determined to take you to the local enforcement station All you can do now is to jab your elbow into his side and try to disable him using your skill at unarmed combat. Make an Attack Roll.
