@@ -528,19 +528,35 @@ Yelov leaps aside and takes cover behind a bank of electronic machinery. You ste
 
 74
 You hurl yourself to the ground, a lancing fed light narrowly missing your shoulder. As you pick yourself up the Black Knight swivels and raises his mace to strike at Sir Thomas Chandos who himself is engaged in a titanic struggle with the Duke of Alencon and another French knight. The mace crackles ominously with electricity. Will you:
+
 Use your Power of Will to command the Duke of Alencon to attack the Black Knight?
 Attack the Black Knight with your sword?
 Use your blaster on the Black Knight?
+Turn to 201
+Turn to 319
+Turn to 3
 
 75
-Turn to 201 Turn to 319
-Turn to 3
 Your crash couch swivels and slides back into position and the Flyer cockpit seals. You press the launch button and the launch doors fly apart as you are hurtled out of Falcon's Wing. Waiting until you are far enough away from Falcon's Wing to avoid causing exhaust damage, you cut in the Flyer's Ion Drive and accelerate to Mach 3. You curve in a gentle arc towards the fluorescent building and as you pass out from behind a huge iron cooling tower an incredible sight meets your gaze. A spaceship almost as large as one of the generation starships of the 24th century is being dismantled on a huge brass landing field. As you fly over it you see a contraption which can only be an enlarged variac drive being hoisted out of its front end. It takes a few seconds for you to realise what has been happening. The factory droids must have manufactured this colossal Time Machine in hours! Hundreds of them hover about it. They must have planned to invade the Eiger Vault with this machine on Earth, 3033 AD. Now that you have destroyed the Polybdenum and the Timehole on Thrix has closed, Yelov must have altered his plans. As you streak onwards a daunting vista opens up beneath you. It is Mechanon's space launch field, and it is packed with an interstellar warfleet the size of which defies belief. Row upon row of Interceptors, Ion-drive Battle Cruisers and Atmospheric Fighter-carrying mother-ships glow a burnished bronze beneath the dull red sky. Turn to 133.
-
 
 76
 You have misjudged the range and failed to cause the missiles to explode before hitting you and they are closing fast. You slam the Strike Fighter into an arcing power drive towards one of the huge iron cooling towers and pull up at the last moment, thankful for the discovery of G-force dampers. One of the missiles hits the cooling tower, which rings in the thin atmosphere like the toll of a high-pitched bell. The other missile slams into you and causes 1 point of damage to your Energy Shields or 2 points of damage to your Titanium Hull Armour, but your Strike
 Fighter is still functional. You decide to retaliate. Will you fire a missile:
+
+At the Planetary Defence Base?
+At the fortress droid that hovers before the Central Computer Complex?
+Turn to 64
+Turn to 50
+
+77
+You dodge the stun-blast and the android is fiddling with the strange device once more. Will you climb the courtyard walls and cut the cable which leads to the telephone booth, turn to 188? or if you wish to use your blaster, make an Attack Roll.
+
+If you score 4-12, turn to 92
+If you score 2-3, turn to 101
+
+78
+The Thrix seems unperturbed by the knowledge that you tried to harm it. Apparently it can withstand the most extreme temperatures and ionic disturbances. It tells you that a mining complex has recently appeared on the planet, a complex as alien to it as you are, and it offers to lead you to it. You decide to follow warily when, out of the gloom, a red light appears ahead
+of you. A great metal monster comes towards you out of the fog. It has four hover-thruster discs, and it is heavily armoured. It is equipped with an awesome array of weaponry - an Ion Beam discharge, mortar cluster, laser cannon mountings, high explosive machine rifles and the like. It is aiming a laser cannon at you - you have no choice but to blast it. The superheated plasma fuses its metal shell and it explodes with a roar, before it can fire. The Thrix registers pleasure at your action and you continue through the fog together. Turn to 53.
 
 79
 You turn the superheated plasma beam of your blaster on the immobile wardroid, an easy target. The lancing bolt of white- hot energy hits its power plant and the flash defence on your helmet automatically cuts in and the faceplate darkens as the lurid explosion lights the yellow atmosphere, hurling debris everywhere. The second wardroid unleashes a guided missile which is homing in on the heat of your body. All you can do is dive behind a rock outcropping and hope that it doesn't carry a fissionwarhead. Make an Evasion Roll.
@@ -559,22 +575,6 @@ The knight lowers his lance, its red pennon fluttering, and his great cart horse
 
 If you score 7-12, turn to 63
 If you score 2-6, turn to 114
-At the Planetary Defence Base?
-At the fortress droid that hovers before
-the Central Computer Complex?
-
-77
-Turn to 64 Turn to 50
-You dodge the stun-blast and the android is fiddling with the strange device once more. Will you climb the courtyard walls and cut the cable which leads to the telephone booth, turn to 188? or if you wish to use your blaster, make an Attack Roll.
-
-If you score 4-12, turn to 92
-If you score 2-3, turn to 101
-
-78
-The Thrix seems unperturbed by the knowledge that you tried to harm it. Apparently it can withstand the most extreme temperatures and ionic disturbances. It tells you that a mining complex has recently appeared on the planet, a complex as alien to it as you are, and it offers to lead you to it. You decide to follow warily when, out of the gloom, a red light appears ahead
-of you. A great metal monster comes towards you out of the fog. It has four hover-thruster discs, and it is heavily armoured. It is equipped with an awesome array of weaponry - an Ion Beam discharge, mortar cluster, laser cannon mountings, high explosive machine rifles and the like. It is aiming a laser cannon at you - you have no choice but to blast it. The superheated plasma fuses its metal shell and it explodes with a roar, before it
-can fire. The Thrix registers pleasure at your action and you continue through the fog together. Turn to 53.
-
 
 83
 The skills you honed in sim-combat at the academy will be put to the test now. You have a moment to open fire before a pulse of energy from the wardroid's weapon banks flattens you. Make an Attack Roll.
