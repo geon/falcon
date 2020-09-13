@@ -360,7 +360,8 @@ The beam of your particle disruptor flays Yelov's bionic arm until there is noth
 
 If you score 5-12, turn to 163
 If you score 2-4, turn to 318
-4 1
+
+41
 The green ray expands towards you, clipping your shoulder, a small part of which is smeared in a thin film across the wall behind you. Lose 3 Endurance points. If you are still alive, will you:
 splits your helm and his sword blade lodges fast in your brain. Y ou have failed.
 
@@ -1040,18 +1041,23 @@ Whilst you have been on Mechanon, a nuclear holocaust has ravaged Earth in 1986 
 You return from the leisure park in time for a thorough rebriefing by section leaders Jobanque and Skirrow, and soon you are settled into the crash-couch of the first ever Weeks/Senior Corporation time travel Strike Fighter. You instruct your new version of CAIN to engage the Variac Drive and set coordinates for Mechanon 1986 AD. All goes grey and insubstantial, but after an hour in null-space you fail to materialise as planned. CAIN reports that there is a time flux disturbance. The droids of Mechanon have constructed a time flux destabiliser, trapping you in null-space! You can dimly see the factory planet below, hazy and insubstantial. CAIN says
 that you are trapped on a grid on which the timeholes of normal space have been forced into null-space. The Strike Fighter's sensors flash warning red and CAIN reports that the droids have sent five atomic mines equipped with anti-matter drives into the grid, one of which has just appeared in front of you and
 is hurtling towards you! The anti-matter drive enables the mines to travel across null-space anywhere in the grid of the destabilised field as if they were in real space. However, your Ion Drivewill not function here, you can only hop from timehole point to timehole on the grid, instantaneously, using the Variac Drive. Psychic awareness is of no use here, but because of the nature of the field the variac navigational computers will interpret coordinate inputs in the normal way. You must use your Variac Drive to shift to a new timehole point on the grid, as the four other atomic mines diverge towards all of the timehole points. If you don't, the mines will obliterate you. CAIN flashes up a picture of the grid on your face-up display. Which coordinates will you type into the console?
-Rigel 0/ Mechanon Danikos Clyss
-Earth
-0/ 0/
-0/ 1 3/ 2 3/ 0 0/ 4/ 1 0/2/ 3
+
+Rigel 0/ 0/ 1
+Mechanon 0/ 3/ 2
+Danikos 0/  3/ 0
+Clyss 0/ 4/ 1
+Earth 0/ 2/ 3
+Turn to 225
+Turn to 86
+Turn to 177
+Turn to 190
+Turn to 202
 
 168
-turn to 225 turn to 86 turn to 177 turn to 190 turn to 202
- The conveyor belt absorbs the beam for a second, but it slices through the plasteel as if it were tender flesh. It is boring through to you when Carborundum causes the door of the furnace to fly open and a river of molten slag engulfs both it and the droid. The wardroid's melting point is below that of the lava and it subsides into a molten mass. The Thrix is untroubled by this extreme temperature - is Carborundum indestructible, you wonder? Turn to 181.
+The conveyor belt absorbs the beam for a second, but it slices through the plasteel as if it were tender flesh. It is boring through to you when Carborundum causes the door of the furnace to fly open and a river of molten slag engulfs both it and the droid. The wardroid's melting point is below that of the lava and it subsides into a molten mass. The Thrix is untroubled by this extreme temperature - is Carborundum indestructible, you wonder? Turn to 181.
 
 169
 One of the policemen produces a padded stick and while you are disposing of his colleague he manages to knock you un- conscious. You wake up in a cell in the enforcement station which they call a police station. Your helmet and blaster are missing. You have allowed advanced technology to fall into the hands of those who will use it to their advantage against the other countries of the divided 20th century world. History is altered and you wink out of existence. You were never born.
-
 
 170
 Make a Chance Roll.
@@ -1180,7 +1186,7 @@ You move to a new point on the grid, but it is not far enough away from Mechanon
 Yelov misses you with the plasma pistol, but he rushes you with a speed that shows that both of his legs are bionic. He is having himself transformed into a walking death machine. He punches you with his bionic arm which is twenty times as powerful as any man's. You hurtle backwards and smash into a computer terminal. Subtract 1 from your Suit Armour. If your armour is at zero or less, turn to 161. Otherwise, the computer screams at Yelov not to hurt it as you leap up and drive your powered fist towards Yelov's face. Make an Attack Roll.
 
 If you score 7-12, turn to 52
-If you score 2-6, turn to 152 192
+If you score 2-6, turn to 152
 
 192
 You hurtle onward like a bullet. After a few moments you see an enormous missile launcher ahead. Obviously the one that launched the missile as big as your Strike Fighter and it is armed and ready again. With a shuddering roar the huge missile pulls away from the launcher and accelerates towards you. You have no time to turn and it completely fills your screen. In desperation you fire your fission beam but to no avail. The missile erupts and its explosive force is doubled in this enclosed space. Your hull is breached and the tunnel collapses around you. A tangled mess of metal and rock will be your tomb for
@@ -1364,9 +1370,23 @@ Falcon's Wing settles onto the rocky surface of Thrix with a crunch and a whine 
 You are unable to shake it off. It homes in on you; its image completely fills the scanner screen as it hits you head on. There is a sickening lurch and a horrifying explosion but you cannot believe it when, a second later, you are still alive. Evidently the defences of your Weeks/Senior Strike Fighter almost defy belief. There is damage, however, you have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour. If your ship's defences are at zero or below all of the circuits overload. Turn to 282. If they are not, you accelerate away, the impact has stopped you dead. Turn to 351.
 
 225
-Well done. You arrive at the point on the grid which corresponds to a Timehole on Rigel Prime. The display on your faceplate shows that the mine at Mechanon has exploded and died away. The other mines are about to explode at the other
+Well done. You arrive at the point on the grid which corresponds to a Timehole on Rigel Prime. The display on your faceplate shows that the mine at Mechanon has exploded and died away. The other mines are about to explode at the other Timehole points on the grid. You must engage your Variac Drive again to avoid the last mine which is racing towards you. Which coordinates will you type into your console?
 
- Timehole points on the grid. You must engage your Variac Drive again to avoid the last mine which is racing towards you. Which coordinates will you type into your console?
+Clyss
+Mechanon
+Danikos
+Earth
+0/ 4/ 1 0/ 3/ 2 0/ 3/ 0 0/ 2/ 3
+Turn to 251
+Turn to 264
+Turn to 240
+Turn to 211
+
+226
+Before the crackling mace can land you swirl your sword and hack at the arm that wields it. Make an Attack Roll.
+
+If you score 7-12, turn to 24
+If you score 2-6, turn to 12
 
 227
 You bank tightly and accelerate up to Mach 5. The Strike Fighter roars into the red sky as the G-force dampers hum. The ship is throbbing with the acceleration, but your rear scanner shows that the missile is gaining. You try to pick it off with your aft point defence lasers. Make an Attack Roll.
@@ -1380,53 +1400,39 @@ You open fire again and this time your plasma beam fuses the wardroid's gun moun
 229
 [score an N]
 You explain your best guess as to what Yelov is up to and you do not have to wait long for CAIN to reply, 'Affirmative, Falcon, I concur. I suggest you set coordinates for the planet Thrix.' Where will you set coordinates for?
-Clyss Mechanon Danikos Earth
-0/ 4/ 1 0/ 3/ 2 0/ 3/ 0 0/ 2/ 3
-Turn to 251 Turn to 264 Turn to 240 Turn to 211
+
 A return to the Eiger Vault on Earth, 3033 AD?
-The factory world of Mechanon? The inhospitable world of Thrix,
-1776 AD?
+The factory world of Mechanon?
+The inhospitable world of Thrix, 1776 AD?
+Turn to 9
+Turn to 47
+Turn to 320
 
 230
-Desperately you target the lasers and let fly. You slice one in two and it falls harmlessly away, but try as you might, you are unable to hit the other two and they slam into the underside of your ship, exploding simultaneously. Lose 2 Shield points or 3
-
-226
-Turn to 9 Turn to 47
-Turn to 320
-Before the crackling mace can land you swirl your sword and hack at the arm that wields it. Make an Attack Roll.
-
-If you score 7-12, turn to 24
-If you score 2-6, turn to 12
-
-Armour points. If your ship's defences have fallen below zero, turn to 276. If you have survived, your ship rocks upward but the gyros right it and you flash onward past the fortress, lucky to be alive. Turn to 71.
+Desperately you target the lasers and let fly. You slice one in two and it falls harmlessly away, but try as you might, you are unable to hit the other two and they slam into the underside of your ship, exploding simultaneously. Lose 2 Shield points or 3 Armour points.
+If your ship's defences have fallen below zero, turn to 276. If you have survived, your ship rocks upward but the gyros right it and you flash onward past the fortress, lucky to be alive. Turn to 71.
 
 231
 You are at a T-junction. The tunnel continues straight ahead and another branches off to the right. You can see something blue glowing at its end. Will you:
-lower as Falcon's Wing is blown to smithereens. As you regain consciousness and realise that you are trapped in time on Mechanon, all goes dark. Your ancestor has been killed at the Battle of Crecy on Earth in 1346 AD. It is as if you had never existed. You have failed.
 
-234
-At the hangar mouth, worker droids are cutting part of the Time Machine apart in a blaze of heat and light. Will you:
-Bank and turn right? Continue straight on?
-Turn to 220 Turn to 246
-Turn to 245 Turn to 218
+Bank and turn right?
+Continue straight on?
+Turn to 220
+Turn to 246
 
 232
 You fly towards the raildroid and set off two rockets before training your particle disruptor on Yelov. The droid's shield moves into place in front of Yelov and its outer edge must be in a stasis field for it is unaffected even by a particle disruptor. Yelov's accuracy with his blaster is breathtaking as he shoots down both of the rockets before they reach him. The raildroid hums as it accelerates along the rail towards you. You jet away but you are too late. You are caught and held in mid-air by its grav-beam. Once more Yelov displays his skill with the blaster as he aims it at the faceplate of your battlesuit. The high tensile plexiglass is vapourised and Yelov pauses to sneer before doing the same to your face. You have failed.
 
 233
-Falcon's Wing rematerialises on Mechanon, which is a gleaming orb of polished metals. Robo-factories stretch as far as the eye can see, covering every inch of the planet's surface, almost without light in the sombre red sky. At three mile intervals around you are what must be planetary defence points: bronze domes bristling with some sort of surface-to-space artillery. Your scanners indicate that nothing lives on this dead world, not even grass, but it is alive with bizarrely-shaped droids which dart and scuttle across its face like insects. You decide to explore on foot and set out towards a building which glows a ghostly green. You move swiftly but are not far enough from Falcon's Wing to escape the blast of an incoming missile. You are hurled through the air and smash into the base of a huge iron cooling
-Blast it?
-Scramble over the wall and run across
-the fields?
+Falcon's Wing rematerialises on Mechanon, which is a gleaming orb of polished metals. Robo-factories stretch as far as the eye can see, covering every inch of the planet's surface, almost without light in the sombre red sky. At three mile intervals around you are what must be planetary defence points: bronze domes bristling with some sort of surface-to-space artillery. Your scanners indicate that nothing lives on this dead world, not even grass, but it is alive with bizarrely-shaped droids which dart and scuttle across its face like insects. You decide to explore on foot and set out towards a building which glows a ghostly green. You move swiftly but are not far enough from Falcon's Wing to escape the blast of an incoming missile. You are hurled through the air and smash into the base of a huge iron cooling tower as Falcon's Wing is blown to smithereens. As you regain consciousness and realise that you are trapped in time on Mechanon, all goes dark. Your ancestor has been killed at the Battle of Crecy on Earth in 1346 AD. It is as if you had never existed. You have failed.
 
-237
-Somehow you withstand the blast of Yelov's unhinged hatred but Yelov now has a plasma pistol in his hand. The computer's tones are slightly higher pitched as it says, 'Yelov, I told you to exterminate the being. Why do you wait?' You leap over one of the computer's fifteen foot tall memory banks - the powered battlesuitwill make such a leap easily but Yelov is a crack marksman. Make an Evasion Roll.
+234
+At the hangar mouth, worker droids are cutting part of the Time Machine apart in a blaze of heat and light. Will you:
 
-If you score 6-12, turn to 191
-If you score 2-5, turn to 214
 Walk in past these?
-Skirt them, entering the hangar in
-shadow?
+Skirt them, entering the hangar in shadow?
+Turn to 245
+Turn to 218
 
 235
 Before the crackling mace can land you whip your blaster from its place of concealment with the speed and skill of a crack combateer. Make an Attack Roll.
@@ -1436,8 +1442,17 @@ If you score 2-5, turn to 417
 
 236
 The android is almost indestructible and far more powerful than you. It catches your arm and crushes it, before knocking you backwards into the wall. Lose 11 Endurance points. It comes at you again, but you have a moment in which to act. Will you:
-Turn to 244 Turn to 255
 
+Blast it?
+Scramble over the wall and run across the fields?
+Turn to 244
+Turn to 255
+
+237
+Somehow you withstand the blast of Yelov's unhinged hatred but Yelov now has a plasma pistol in his hand. The computer's tones are slightly higher pitched as it says, 'Yelov, I told you to exterminate the being. Why do you wait?' You leap over one of the computer's fifteen foot tall memory banks - the powered battlesuitwill make such a leap easily but Yelov is a crack marksman. Make an Evasion Roll.
+
+If you score 6-12, turn to 191
+If you score 2-5, turn to 214
 
 238
 You pick your way through the boulders, keeping low, and make your way slowly towards the loading bay at the back of the mining droid. As you go you pass the burnt out remains of a worker droid; its function may once have been to take rock samplesbut the corrosive gas has completely destroyed it. You watchthe two guardian wardroids scanning the area methodi- cally. The rods of ore piled in the loading bay are Polybdenum ore. If the wardroids collect enough Yelov will be able to send them through time to attack the Space Federation. Will you:
