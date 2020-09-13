@@ -328,7 +328,17 @@ Lynx congratulates you on escaping from the complex. Add 1 to your Evasion Modif
 
 33
 The mind of this rock-being is so alien that you don't know where to begin with your assault on its will. The Thrix is entirely unaffected, but it seems to think that you have made a gesture of friendship and it touches your mind with its own. It clicks at you and your translator goes into operation. The Thrix is saying, 'It is a fact that you are not one of the killer types, but what did you mean by your flash of white fire?' Will you reply:
-dodge them all. You are chopped into several pieces and your mission ends here.
+
+It was a gesture of greeting and friendship?
+I am sorry, it is a weapon and I thought you were trying to kill me?
+Turn to 95
+Turn to 78
+
+34
+As you approach the Central Computer Complex, which glows a ghostly luminescent green, in the midst of the dull red expanse of metal, you enter a freak ion storm. CAIN tells you that the ion storm renders his detection scanners useless. If the same is true for the scanners fitted to the wardroids you may be able to fly right into the complex undetected, but you will have to rely on sight alone to navigate. You slow to Mach 4 and dive down into the storm. Just as you begin to pull out, fearing that you may hit the top of a cooling tower or energy pylon, you burst out of the storm. The polished metal of the launch field glints redly beneath and the warfleet has not yet been launched against Earth. You slow further and line yourself up for the hangar entrance into the glowing green Central Computer Complex. Turn to 257.
+
+35
+At this range you cannot miss the threatening mass of machinery. The beam of your blaster ignites particles in the air which pour upwards in a stream of fairy lights but the super- heated plasma has no effect on the heavily armoured droid. It criss-crosses the highway with laser beams and you cannot dodge them all. You are chopped into several pieces and your mission ends here.
 
 36
 With uncanny accuracy you thrust the sword through the open visor into the droid's computer brain. It folds up and then locks solid,its circuits dead. Looking around you realise that no-one has noticed that there is anything unusual about the droid knight and you drag it away, thankful that it is made of a light alloy. As soon as you are away from the press of battle you take out your blaster and vapourise it. Turn to 61.
@@ -344,16 +354,6 @@ Your aim is true and you have destroyed the wardroid's hover pads. It falls to t
 
 39
 Y ou move back and an English knight looks at you and demands whether you will take the Frenchman prisoner so that you can ransom him. You shake your head saying, 'He's yours,' hoping the muffling effect of your helmet will explain the strange voice of your Universal Translator. The Frenchman's great helm has rolled away and he is recovering consciousness, but you can tell from his expression that he is suffering from concussion and probably will remember nothing. As he is bustled away you look about once more. The valiant French knights are charging time and time again, only to be repulsed by the fire of the English longbowmen. Turn to 162.
-It was a gesture of greeting and friendship?
-I am sorry, it is a weapon and I thought you were trying to kill me?
-
-34
-Turn to 95 Turn to 78
-As you approach the Central Computer Complex, which glows a ghostly luminescent green, in the midst of the dull red expanse of metal, you enter a freak ion storm. CAIN tells you that the ion storm renders his detection scanners useless. If the same is true for the scanners fitted to the wardroids you may be able to fly right into the complex undetected, but you will have to rely on sight alone to navigate. You slow to Mach 4 and dive down into the storm. Just as you begin to pull out, fearing that you may hit the top of a cooling tower or energy pylon, you burst out of the storm. The polished metal of the launch field glints redly beneath and the warfleet has not yet been launched against Earth. You slow further and line yourself up for the hangar entrance into the glowing green Central Computer Complex. Turn to 257.
-
-35
-At this range you cannot miss the threatening mass of machinery. The beam of your blaster ignites particles in the air which pour upwards in a stream of fairy lights but the super- heated plasma has no effect on the heavily armoured droid. It criss-crosses the highway with laser beams and you cannot
-
 
 40
 The beam of your particle disruptor flays Yelov's bionic arm until there is nothing left but smoke. His nerves react as though you had blown off his real arm again and he collapses to the floor. You step towards him to finish it, but the computer opens a hatchway beneath your feet and you fall through it. You blast with your jetpack but the hatchway closes, trapping you at the neck. The floor starts to buckle under the surge of the jets and you pound the floor with your power-suited fists. You tear feverishly at the warping metal as Yelov begins to recover. Make an Evasion Roll as you try to burst free from the trap.
