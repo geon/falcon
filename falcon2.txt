@@ -526,7 +526,7 @@ You duck into the new tunnel and run on. It leads to an electronic communication
 73
 Yelov leaps aside and takes cover behind a bank of electronic machinery. You step towards it but the computer opens a hatchway beneath your feet and you fall through it. You blast with your jetpack but the hatchway closes, trapping you at the neck. The floor starts to buckle under the surge of the jets and you pound the floor with your power suited fists, but Yelov has found his plasma pistol and it demolishes your helmet. You are blinded and cannot see Yelov sneer evilly as he disintegrates your head.
 
- 74
+74
 You hurl yourself to the ground, a lancing fed light narrowly missing your shoulder. As you pick yourself up the Black Knight swivels and raises his mace to strike at Sir Thomas Chandos who himself is engaged in a titanic struggle with the Duke of Alencon and another French knight. The mace crackles ominously with electricity. Will you:
 Use your Power of Will to command the Duke of Alencon to attack the Black Knight?
 Attack the Black Knight with your sword?
@@ -1026,7 +1026,7 @@ Turn to 247
 Turn to 179
 Turn to 193 Turn to 200
 
- 163
+163
 You surge upwards through the splintered floormetal with a whine of power. Yelov gropes for his plasma pistol but you are too quick for him. Your particle disruptor drills into his chest and a look of primeval terror crosses his face as his very being pours out of him in a stream of atoms. Within seconds he has been spread in a thin coat all over the Central Computer. There is nothing left to show the world that you have defeated the greatest villain of all time. Turn to 361.
 
 164
@@ -1111,7 +1111,7 @@ Louis de Nevers is a tall and powerful knight and he swings his sword and shouts
 If you score 7-12, turn to 305
 If you score 2-6, turn to 189
 
- 180
+180
 CAIN opens a holo-link to Jobanque's office. Your new section leader is in deep thought, but looks up at you as you ask your question. 'I shall wait until you have decided your first move before I deploy the SAT Squad. I may send Bloodhound and Lynx to Mechanon if we do not hear from you within four hours, but I don't believe in letting everyone loose on the Timelines at once - there's no telling what might happen if two operatives are active within the same Timehole without knowing that a colleague is busy there too.'
 You nod. 'I'm on my own then?' you ask.
 Jobanque smiles, To begin with, at least. You'll survive, Falcon.'
@@ -1880,7 +1880,8 @@ Thank you CAIN/ you reply, 'and CAIN, has it ever crossed your memory banks that
 The policemen have had only a little training in unarmed combat
 -2 / 4 / 1 1/ 0/ 0 0/-5/-5
 Turn to 349 Turn to 332 Turn to 279
- 311
+
+311
 The green ray expands as it stabs towards you and you have to crouch low to avoid its sweep across the machinery of the broken droid. A light film of metal covers you as the droid is eaten away. The raildroids have high intensity particle disruptors. Will you:
 Dodge out and open fire once more? Run into the smaller access tunnel?
 Turn to 347 Turn to 280
@@ -1924,7 +1925,7 @@ The metal flooring screeches as you twist and tear it, your power suit whining i
 Before the crackling mace can land you swirl your sword and
 Nothing happens. CAIN advises you that you can only move to a point on the grid which corresponds to a timehole. The radiation dampers overload and you suffer severe radiation poisoning. Even if you find a way out of the grid, you will die within minutes. The sophisticated trap set up by the wardroids of Mechanon has caught you in its deadly jaws.
 
- 322
+322
 You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational coordinates for the timehole at Crecy, France, 1346 AD. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and using your Psychic Awareness locate the timehole at Crecy. When you have translated this location into coordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish, and gain up to 12 Endurance points. Turn to 6.
 
 323
@@ -2422,7 +2423,7 @@ If you score 2-6, turn to 392
 413
 You have stopped only one of the missiles, cutting off its drive tube, and it tumbles harmlessly past you. The other two home in and detonate. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved you from certain destruction, but your ship has taken damage. Subtract 2 from you Zeiss Shield energy if you are equipped with energy shields, or 4 Hull Armour points if your ship carries Titanium Hull Armour. Turn to 103.
 
- 414
+414
 Shutting all other thoughts out you concentrate on exerting your will to control the Black Knight, but there is no will to control inside the menacing suit of armour. You realise with horror it is an automaton, not a man. You are too late to halt the descent of the crackling blue mace and Sir Thomas Chandos is bathed in electricity as the force of the blow pulps his helmeted head like an overripe melon. The automaton turns towards you, raising its mace, but suddenly you are engulfed in darkness. Sir Thomas Chandos was your ancestor and he has not yet sired the son whose line comes down to you. Y elov has sent a special droid to kill your ancestor and he has killed you too for it is as if you had never existed.
 
 415
