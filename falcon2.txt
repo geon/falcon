@@ -364,6 +364,21 @@ If you score 2-4, turn to 318
 41
 The green ray expands towards you, clipping your shoulder, a small part of which is smeared in a thin film across the wall behind you. Lose 3 Endurance points. If you are still alive, will you:
 
+Throw a grenade and then immediately blast at the raildroid?
+Run on down the corridor as it speeds past you?
+Turn to 84
+Turn to 97
+
+
+42
+Part of your left foot and calf are smeared into the distance before you scramble through to the surface and into the arms of Lynx and Bloodhound. Lose 8 Endurance points. If you have not died in their arms you set out for their Time Machines. Turn to 59.
+
+43
+You are too slow. The Thrix causes the pebbles beneath your feet to shift and you are powerless to stop the rock as it smashes against your faceplate, cracking it. The yellow gas seeps into your suit and begins to eat away at your skin and lungs. Helpless, you can do nothing as the twenty ton Thrix rolls over you, pressing you flatter than a leaf. You have failed.
+
+44
+You are not quick enough. The French knight's mighty blow splits your helm and his sword blade lodges fast in your brain. You have failed.
+
 45
 You step through the back door of the ancient recreation centre and into the courtyard. The android is inside a red and glass booth - you recognise an ancient 'tele'phone in his hand and he has fitted an unusual device to the transmitter. Your Remote Access Terminal bleeps and CAIN sends you a message. The android is hooking into the telephone network and changing the information reaching the Communist bloc defence computer which controls nearly half of the world's nuclear missiles at this lime. While you are reading the message on your small wrist display the android has noticed you and recognises you for what you are. It is aiming a stun blaster at you. Duck! Make an Evasion Roll.
 
@@ -377,21 +392,7 @@ If you score 4-12, turn to 65
 If you score 2-3, turn to 57
 
 47
-Falcon's Wing rematerialises on Mechanon, which is a gleaming orb of polished metals. Robo-factories stretch as far as the eye can see, covering every inch of the planet's surface, almost without light in the sombre red sky. At three mile intervals around you are what must be planetary defence points: bronze domes bristling with some sort of surface-to-space artillery. Your scanners indicate that nothing lives on this dead world, not even grass, but it is alive with bizarrely-shaped droids which dart and scuttle across its face like insects. You decide to explore on foot and set out towards a building which glows a ghostly green. The bustling machines ignore you until you approach what looks like an enormous spaceship. The spacecraft suddenly disappears and you realise, horror-struck, that the droids of Mechanon have built an enormous Time Machine. You race
-Throw a grenade and then immediately blast at the raildroid?
-Run on down the corridor as it speeds past you?
-
-42
-Turn to 84 Turn to 97
-Part of your left foot and calf are smeared into the distance before you scramble through to the surface and into the arms of Lynx and Bloodhound. Lose 8 Endurance points. If you have not died in their arms you set out for their Time Machines. Turn to 59.
-
-43
-You are too slow. The Thrix causes the pebbles beneath your feet to shift and you are powerless to stop the rock as it smashes against your faceplate, cracking it. The yellow gas seeps into your suit and begins to eat away at your skin and lungs. Helpless, you can do nothing as the twenty ton Thrix rolls over you, pressing you flatter than a leaf. You have failed.
-
-44
-You are not quick enough. The French knight's mighty blow splits your helm and his sword blade lodges fast in your brain. You have failed.
-
-back to Falcon's Wing but when you re-emerge in the Eiger Vault you are already too late. Wardroids are destroying everything and their Time Machine winks out to load up with reinforcements. The wardroids of Mechanon have invaded Earth in 3033 AD and there is nothing you can do to stop them conquering the world. The beam of a particle disruptor spreads you thinly across the shell of Falcon's Wing. You have failed.
+Falcon's Wing rematerialises on Mechanon, which is a gleaming orb of polished metals. Robo-factories stretch as far as the eye can see, covering every inch of the planet's surface, almost without light in the sombre red sky. At three mile intervals around you are what must be planetary defence points: bronze domes bristling with some sort of surface-to-space artillery. Your scanners indicate that nothing lives on this dead world, not even grass, but it is alive with bizarrely-shaped droids which dart and scuttle across its face like insects. You decide to explore on foot and set out towards a building which glows a ghostly green. The bustling machines ignore you until you approach what looks like an enormous spaceship. The spacecraft suddenly disappears and you realise, horror-struck, that the droids of Mechanon have built an enormous Time Machine. You race back to Falcon's Wing but when you re-emerge in the Eiger Vault you are already too late. Wardroids are destroying everything and their Time Machine winks out to load up with reinforcements. The wardroids of Mechanon have invaded Earth in 3033 AD and there is nothing you can do to stop them conquering the world. The beam of a particle disruptor spreads you thinly across the shell of Falcon's Wing. You have failed.
 
 48
 Your aim is true and you have destroyed the wardroid's hover pads. It falls to the ground with an impact that shakes the rock like an earthquake and explodes scattering lumps of corroded metal everywhere. The immobile wardroid is preparing to open up at you with its laser cannon - you have an instant in which to dodge the beam and destroy the droid before it cuts you in half Make an Evasion Roll.
