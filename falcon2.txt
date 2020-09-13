@@ -808,26 +808,26 @@ If you score 6-12, turn to 168
 If you score 2-5, turn to 157
 
 130
-One of the technicians floods the hangar with light and the most advanced piece of weaponry ever designed by the Space Federation is revealed in all its glory. Forty metres long, it looks like a highly advanced, oversized Atmospheric Interceptor, It has four wings which sweep back to needle points on either side of a huge ion-plasma drive tube. A drive like that must mean interstellar capability and the ship is fitted with hyper-drive. Skirrow explains, 'This is a Weeks/Senior Corporation Space Navy Strike Fighter. She has a Variac Drive fitted; this is the first time travel starship, Falcon, treat her well. A copy of CAIN's memory has been installed and linked into our most advanced Battle computer. She has Titanium hull armour.' Skirrow enters the Strike fighter and explains the controls and capabilities of the craft. She has electronic counter measures, a
-Variac Drive, four guided missiles with fission warheads, radar and sonic dampers, twin fusion cannons on the upper wing tips, re-entry shields and aft 'point defence' beam lasers. Skirrow continues, 'We have tailored a Startrooper battlesuit to your size, Falcon. It has a built-in particle disruptor, psionic enhancer helmet, face-up radar display, energy rocket launcher and power armour, which will give you the strength of an android, and boost-jets. The ship handles just like an ordinary Atmospheric Interceptor. Good luck.'
+One of the technicians floods the hangar with light and the most advanced piece of weaponry ever designed by the Space Federation is revealed in all its glory. Forty metres long, it looks like a highly advanced, oversized Atmospheric Interceptor, It has four wings which sweep back to needle points on either side of a huge ion-plasma drive tube. A drive like that must mean interstellar capability and the ship is fitted with hyper-drive. Skirrow explains, 'This is a Weeks/Senior Corporation Space Navy Strike Fighter. She has a Variac Drive fitted; this is the first time travel starship, Falcon, treat her well. A copy of CAIN's memory has been installed and linked into our most advanced Battle computer. She has Titanium hull armour.' Skirrow enters the Strike fighter and explains the controls and capabilities of the craft. She has electronic counter measures, a Variac Drive, four guided missiles with fission warheads, radar and sonic dampers, twin fusion cannons on the upper wing tips, re-entry shields and aft 'point defence' beam lasers. Skirrow continues, 'We have tailored a Startrooper battlesuit to your size, Falcon. It has a built-in particle disruptor, psionic enhancer helmet, face-up radar display, energy rocket launcher and power armour, which will give you the strength of an android, and boost-jets. The ship handles just like an ordinary Atmospheric Interceptor. Good luck.'
 You stare mesmerised at the controls. 'It's all colour coded/says Skirrow. 'You're not colour-blind, are you ?' You laugh. The only reason Skirrow is not head of the Special Agent Section is that the medtechs failed him because of red/green colour-blindness.
-Jobanque says, 'It will take us several hours to complete tests on the Variac Drive, then she's all yours, Falcon. Use her to destroy
-
-the Central Computer on Mechanon before the war-fleet blasts off. Our information is that the Central Command Computer can be found within the section you penetrated earlier, but deeper within. Turn to 143.
+Jobanque says, 'It will take us several hours to complete tests on the Variac Drive, then she's all yours, Falcon. Use her to destroy the Central Computer on Mechanon before the war-fleet blasts off. Our information is that the Central Command Computer can be found within the section you penetrated earlier, but deeper within. Turn to 143.
 
 131
 You are about to make your way back to Falcon's Wing when a machine shaped like a flying beetle appears in the yellow mist before you. A red light shines on its belly and a form glides to the ground on a disc of metal. With a shock you realise that it is a huge Time Machine and the form is that of the arch villain, Agidy Yelov. A field of orange energy crackles around him; it seems he has stolen the force-field technology of the Creche. He is able to stand unprotected on Thrix, inside the defensive shield. Seeing you and the destroyed Polybdenum he screams with rage. The half of his face which you can see twists in a spasm and his robot arm twitches. In the wisps of yellow fog he looks like a foul demon from the blackest hell. He shouts, 'I thought I had erased you from existence at the battle of Crecy, Falcon. You've meddled with my plans once again, but you cannot stop me this time, I have the most deadly arsenal the universe will ever know ready to obey my every command. I shall re-program every droid, Falcon, so that your death, which is imminent, will be as slow and painful as the technology of Mechanon can devise.' Just then two wardroids appear above the mining complex and as you look up Yelov draws his blaster. You try desperately to get behind the scarred plasteel loading rack before he kills you, but Yelov is very fast and a superb
-marksman. Make an Evasion Roll. If you score 7-12, turn to 176
+marksman. Make an Evasion Roll.
+
+If you score 7-12, turn to 176
 If you score 2-6, turn to 153
 
 132
-The Duke of Alencon comes under your control and his sword sweeps in a great arc towards the Black Knight even as the mace begins to fall on Sir Thomas Chandos. Alencon's sword strikes first and the Black Knight jerks unnaturally, his mace blow shaving Chandos' armour. Sparks fly from the Black Knight's armour as he keels over and his helmet visor clicks open. A beam of red light springs from the open helm and Alencon's armour
-begins to boil, frying him alive. The light plays on three English men at arms who suffer the same horrible death before your blaster vapourises the robot knight. These strange happenings are too much even for the flower of English chivalry who begin to run. The French knights scent victory and a great roar, muffled by their helmets, swells from the French ranks. You have changed history and the tide of battle is going against the English. Will you:
+The Duke of Alencon comes under your control and his sword sweeps in a great arc towards the Black Knight even as the mace begins to fall on Sir Thomas Chandos. Alencon's sword strikes first and the Black Knight jerks unnaturally, his mace blow shaving Chandos' armour. Sparks fly from the Black Knight's armour as he keels over and his helmet visor clicks open. A beam of red light springs from the open helm and Alencon's armour begins to boil, frying him alive. The light plays on three English men at arms who suffer the same horrible death before your blaster vapourises the robot knight. These strange happenings are too much even for the flower of English chivalry who begin to run. The French knights scent victory and a great roar, muffled by their helmets, swells from the French ranks. You have changed history and the tide of battle is going against the English. Will you:
+
 Hurry to Falcon's Wing and leave Crecy?
 Use your powers of Thinkstrike on some of the French knights?
+Turn to 216
+Turn to 182
 
 133
-Turn to 216 Turn to 182
 As you head towards the hangar-like opening in the building behind the dismantled Time Machine, your radar picks up ten fast-moving objects closing quickly. As you begin to decelerate before entering the building, ten Atmospheric Interceptors dive on you. They are automatic flying droids, somewhat larger than and as fast as your Flyer. You catch sight of laser cannon mountings and missile tubes. You must try to weave the Flyer into the hangar before you are hit. Make an Evasion Roll.
 
 If you score 6-12, turn to 148
@@ -840,9 +840,7 @@ If you score 6-12, turn to 178
 If you score 2-5, turn to 150
 
 135
-You call CAIN on your Remote Access Terminal and it sends out a homing signal to you. It is an easy matter to locate your Strike Fighter in the dark and, once comfortably inside, you engage the Ion Drive and hurtle into the night sky. Within a half hour you have left Earth's atmosphere and cut in the hyper-
-
-drive, accelerating to light speed and beyond in seconds, bound for Mechanon. Turn to 144.
+You call CAIN on your Remote Access Terminal and it sends out a homing signal to you. It is an easy matter to locate your Strike Fighter in the dark and, once comfortably inside, you engage the Ion Drive and hurtle into the night sky. Within a half hour you have left Earth's atmosphere and cut in the hyperdrive, accelerating to light speed and beyond in seconds, bound for Mechanon. Turn to 144.
 
 136
 It knocks the grenade aside with its shield but your blast of superheated plasma fuses it solid and you run on and turn left down another tunnel just as three flying droids appear behind you. Ahead of you is an electronic communications networking centre. You decide to investigate. Turn to 404.
