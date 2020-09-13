@@ -284,7 +284,8 @@ If you score 2-5, turn to 49
 25
 You concentrate your mind and try to dominate the will of this sentient rock, but its mind is so alien you don't know where to begin. The Thrix is entirely unaffected but it seems to think that you have made a gesture of friendship and it opens its mind to you. Its name translates, in a shortened form, to Carborundum. It clicks at you and your translator tells you that it is beckoning you. Suddenly it lurches and begins to roll across the rocky ground. You decide to follow warily. Turn to 53.
 
- 26 [score an H]
+26
+[score an H]
 As you step out of the recreation centre your Remote Access T erminal bleeps and CAIN sends you a message. The android is hooking into the telephone network and changing the informationreaching the Communist bloc defence computer which controls nearly half of the world's nuclear missiles at this time. Y ou scale a wall and enter a courtyard in which there is a red and glass booth. The android is inside and you recognise an ancient 'tele'phone in its hand. He has fitted an unusual device to the transmitter. Will you:
 Climbback over the wall and cut the cable which leads to the telephone booth?
 Walk to the booth and yank the android out of it?
@@ -735,7 +736,9 @@ If you score a 1 or a 6, turn to 387
 
 116
 The raildroid turns its high intensity particle disruptor on you, beforeyou have focussed your beam. Its shield chops down as cover after your grenade has exploded above it. The green ray expands as it stabs towards you and you are caught. The particles of your body coat the walls of the tunnel for fifty metres around in a thin film.
-117 [score an I]
+
+117
+[score an I]
 You walk over to his stricken form and drive your sword into the juncture between his helmet and breastplate, piercing his neck. As you pull your sword from his body a strange change overcomes you. You are lucky, no-one has noticed the energy beam of your blaster, thinking it was no more than the gleam of the sun's rays off the polished metal of armour but your breathing seems to falter and you feel weak. Your memories change. Whereas once you remembered as a child being successfully cured of a disease caused by a mutant virus, your memory now tells you that a different medtech used an inferior treatment to cure you. With a shock you realise you have just killed the ancestor of the man who would have invented the cure. He will never have existed. Youlose3 Endurancepointsandyour total Endurance may now never exceed 17. You recover from the shock quickly and notice that the valiant French knights are charging time and time again only to be repulsed by the fire of the English longbowmen. Turn to 162.
 
 118
@@ -759,7 +762,9 @@ The Duke of Alencon comes under your control and his sword sweeps in a great arc
 Blast the wardroid that is aiming at you?
 Try to save Carborundum's life?
 Turn to 146 Turn to 129
-119 [score an N]
+
+119
+[score an N]
 One of the technicians floods the hangar with light and the most advanced piece of weaponry ever designed by the Space Federation is revealed in all its glory. Forty metres long, it looks like a highly advanced, oversized Atmospheric Interceptor. It has four wings which sweep back to needle points on either side of a huge ion-plasma drive tube. A drive like that must mean
 interstellar capability and the ship is fitted with hyper-drive Skirrow explains, This is a Weeks/Senior Corporation Space Navy Strike Fighter; She has a Variac Drive fitted; this is the first time travel starship, Falcon, treat her well. A copy of CAIN's memory has been installed and linked into our most advanced Battle computer. You have a choice between Zeiss deflector shields or Titanium hull armour.' Skirrow enters the Strike Fighter and explains the controls and capabilities of the craft. She has electronic counter measures, a Variac Drive, four
 guided missiles with fission warheads, radar and sonic dampers, twin fusion cannons on the upper wing tips, re-entry shields and aft 'point defence' beam lasers. Skirrow continues, 'We have: tailored a Startrooper battlesuit to your size, Falcon. It has a built-in particle disruptor, psionic enhancer helmet, face-up
@@ -783,7 +788,9 @@ Hurry to Falcon's Wing and leave Crecy?
 Use your powers of Thinkstrike on some of the French knights?
 Turn to 199
 Turn to 170
-123 [score an M]
+
+123
+[score an M]
 The side of the refinery slopes smoothly to a polished metal droid highway below, like the edge of a bowl. You step over the edge and slide down shooting across the highway at the bottom as if you were on ice. A few worker droids which are using the highway ignore you completely. After about half an hour you emerge from behind a huge iron cooling tower, towards the fluorescent building. You see a large wardroid hovering ahead and duck into a passageway between two large dome-like structures sporting revolving sensor dishes pointed at the stars. You continue along it, skirting the wardroid. When you emerge, you see a massive flat-topped tower ahead. A dark shape appears in the sky and a heavy Interplanetary cargo droid sinks slowly onto the top of the tower, its retros roaring. Your helmet radio picks up a recognition signal from the cargo droid to the tower and you switch your transmitter to record. The cargo droid beams another message to the tower.
 There is a deep rumbling sound and the droid is drawn into the tower - its roof is an Access Pad. You transmit the Main Access, Code to CAIN in Falcon's Wing. Note down the number 15 and that you have the Main Access Code. You will be told when you can turn to 15. You turn away and head towards the hangar-like entrance of the fluorescent building. The rim of the hangar boasts twenty great space-artillery pieces like outward pointing teeth in the cavernous maw of a prehistoric monster. As you approach it,
 
@@ -797,7 +804,9 @@ You make it over the wall but as you set off down the tarmac strip towards your 
 
 If you score 7-12, turn to 204
 If you score 2-5, turn to 158
-128 [score an I]
+
+128
+[score an I]
 He is hard pressed from all sides and the great swipe of your sword catches him in the neck, piercing and denting his armour. He falls, stricken, to the grass and breathes no more. As you pull your sword from the dented metal a strange change overcomes you. Your breathing seems to falter and you feel weak. Your memories change. Whereas once you remembered as a child being successfully cured of a disease caused by a mutant virus your memory now tells you that a different medtech used an inferior treatment to cure you. With a shock you realise you have just killed the ancestor of the man who would have invented the cure. He will never have existed. You lose 3 Endurance points and your total Endurance may now never exceed 17. You recover from the shock quickly and notice that the valiant French knights are charging time and time again, only to be repulsed by the fire of the English longbowmen. Turn to 162.
 
 129
@@ -1212,7 +1221,9 @@ Time Machines use as fuel. It is inhabited by strange intelligent rock-like life
 Make a Chance Roll.
 If you score 1-3, turn to 216
 If you score 4-6, turn to 154
-200 [score an A]
+
+200
+[score an A]
 There is a great ringing of steel, and sparks fly as the swords of Count Louis and Sir Thomas meet. The Frenchman is tall and powerful, but Sir Thomas is the more skilful and he turns the Count's sword before burying his own deep in the Frenchman's side. Count Louis falls to the ground, dead, as Chandos searches, panting for breath and peering through the narrow slit of his visor, for a new opponent. Suddenly, you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
 Travel through time to Crecy? Thrix?
 Mechanon?
@@ -1230,7 +1241,9 @@ You manage to swerve from the path of the plasma shell and hurtle below the fort
 
 If you score 7-12, turn to 159
 If you score 2-6, turn to 171
-198 [score an F]
+
+198
+[score an F]
 For long anxious moments you wait for the searing pain which will tell you that a laser cannon is ending your existence, but the wardroids roar overhead creating a whirlpool of dust and mist. Their infra-red sensors, which see only heat, have lost your trace. You return the temperature control of your suit to normal, but you had not calculated on the added effect of the naturally low temperature on this freezing planet. You are already suffering severe frostbite. Lose 2 Endurance points. If you are still alive, CAIN radios you to say that the timehole on Thrix is closing and you run back to Falcon's Wing. Turn to 284.
 Use your Power of Will on the Black Knight?
 Attack the Black Knight with your sword?
@@ -1319,7 +1332,9 @@ The laser cannon nicks your leg and the corrosive gas of Thrix's atmosphere pour
 
 218
 As you steal towards the hangar you hear the sound of an alarm. You look to the source and see an infra-red scanner. Twenty gleaming barrels, the space-artillery, composed of a grill-like mesh of metal alloys, dip down ponderously towards you. You begin to sprint as bands of energy pulse ever more quickly from end to end of the barrels, which then spit out balls of plasma. Twenty plasma shells erupt around you, the explosion digs a crater a hundred metres deep, completely destroying the remnants of Yelov's Time Machine as well as you. You are just a memory.
-219 [score a J]
+
+219
+[score a J]
 The Main Access portal is an oval opening, a hundred metres across and fifty high. It seems to be composed of ten overlapping sections of metal which can slide open one at a time or all together. As you hurtle towards it a swarm of Atmospheric Interceptors appear from the hangar opening. Their pulse lasers will soon be wreaking havoc on your ship's defences. To blast your way through the Main Access portal, will you use:
 A missile?
 Your twin fusion beams?
@@ -1361,7 +1376,9 @@ If you score 2-4, turn to 326
 
 228
 You open fire again and this time your plasma beam fuses the wardroid's gun mountings, allowing you to play your beam over it for some time. The yellow gas turns red in a great cloud around it as the metal of the droid fuses and collapses in on itself, into a molten mass. It carried a radar beacon which has now stopped functioning. You can see four more of the hovering wardroids, one at each corner of the gargantuan mining droid and you realise it will not be long before they register that the droid which attacked you is out of action. At the back of the mining droid is a loading bay stacked with thin rods of ore. You creep across the rocky terrain towards the loading bay. Turn to 252.
-229 [score an N]
+
+229
+[score an N]
 You explain your best guess as to what Yelov is up to and you do not have to wait long for CAIN to reply, 'Affirmative, Falcon, I concur. I suggest you set coordinates for the planet Thrix.' Where will you set coordinates for?
 Clyss Mechanon Danikos Earth
 0/ 4/ 1 0/ 3/ 2 0/ 3/ 0 0/ 2/ 3
@@ -1447,7 +1464,9 @@ say that the timehole on Thrix is closing and you allow yourself to be sucked up
 Your thumbs depress the fusion beam fire buttons on the joystick but you mis-timed the shot and the twin blasts of energy destroy some worker droids busy in front of the fortress. To your horror, you see the two plasma cannon, pulses of energy running up and down the barrels, opening up, and about to launch three sleek and deadly dart-shaped missiles at you. There is a spitting roar as the plasma shells hurtle towards you. Will you:
 scrambleover before they catch you. Make an Evasion Roll. If you score 7-12, turn to 135
 If you score 2-6, turn to 127
-245 [score an N]
+
+245
+[score an N]
 You walk nonchalantly past the worker droids, bathed in the heat and light of several welding torches and lasers. The sensors which control the space-artillery cannot detect you, as you are masked by the heat and light. The inside of the building stretchesinto the distance, like a giant hovrail tunnel. To your left a much smaller access tunnel, perhaps thirty metres wide, stretches for a hundred metres, towards an illuminated display board. Will you:
 Run down the access tunnel? Turn to 280 Continue on down the main tunnel? Turn to 256
 
@@ -1556,7 +1575,9 @@ Turn to 250
 history at the battle of Crecy? Turn to 290
 Could a change in the events of the
 battle of Crecy affect me? Turn to 287
-262 [score a I]
+
+262
+[score a I]
 You explain your best guess as to what Yelov is up to and you do not have to wait long for CAIN to reply. After a pause his chimes make a sound almost like a cough and CAIN says, 'My analysis of Yelov's character is that he prefers always to take the initiative and strike first.' You ponder what CAIN may mean by this but when you ask it only replies that it has nothing further to add at this moment. 'I'm only an electronic brain - I can't be expected to know everything.' Where will you set coordinates for?
 A return to the Eiger Vault, 3033 AD? The factory world of Mechanon,
 2217 AD?
@@ -1793,7 +1814,9 @@ Turn to 414
 Turn to 319
 Turn to 334
 
-308 [score an L]
+
+308
+[score an L]
 You explain your best guess as to what Yelov is up to and you do not have to wait long for CAIN to reply. 'The last disturbance registered by the monitoring beacon in the Mechanon timehole occurred after the date and time at which Mechanon historically suffered the nuclear catastrophe. The beacon should have been destroyed by now but it is still live, according to Agent Chameleon. If we assume that Yelov has saved Mechanon he must have a different reason for visiting the planet Thrix.' Where will you set coordinates for?
 
 A return to the Eiger Vault, 3033 AD?
@@ -2051,7 +2074,9 @@ Flyer?
 
 354
 You are still not familiar with the Strike Fighter's beam laser controls and you have failed to stop the missiles. They both home in and detonate. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved you from certain destruction, but your ship has taken damage. Subtract 2 from your Zeiss Shield energy if you are equipped with energy shields, or 4 Hull Armour paints if your ship carries Titanium Hull Armour. Turn to 34.
-355 [score an M]
+
+355
+[score an M]
 Before the crackling mace can land you swirl your sword and hack at the arm that wields it. Make an Attack Roll.
 
 If you score 7-12, turn to 401
@@ -2275,7 +2300,9 @@ If you score 2-6, turn to 407
 
 394
 You manage to catch hold of the bar and swing through a small hatch into a narrow ventilation tube. You push yourself up it for ten minutes until you come to a grille which opens out at the back of a circular area which appears to be an electronic communications networking centre. You prise off the grille and investigate. Turn to 404.
-395 [score a Y]
+
+395
+[score a Y]
 You stride on through the yellow mist, slowed by the high gravity, towards the armadillo-like mining droid. Suddenly the mist churns before you and out of it bursts a large wardroid, hovering ten feet up, on four large discs - hover thrusters. Its top part is crammed with sensors and other indefinable electronic gear, protected by heavy armour. It has several weapon banks - laser cannon, mortar-tube clusters, Ion Beam energy weapons, hi-explosive machine rifles and so on. A huge swivelling gun is moving to target on you. You must blast it before it blasts you. Make an Attack Roll.
 
 If you score 6-12, turn to 206
