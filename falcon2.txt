@@ -258,12 +258,19 @@ If you score 5-12, turn to 32
 If you score 2-4, turn to 42
 
 20
-The raildroid passes overhead with a whoosh of displaced
+The raildroid passes overhead with a whoosh of displaced air.
 You continue to the end of the tunnel, where it and the rail on which the droid appeared turn sharp left. Will you:
 
+Wait to check that the raildroid is not coming back?
+Duck quickly out of sight round the bend in the tunnel?
+Turn to 60
+Turn to 72
+
+21
+They follow you to your Strike Fighter and it quickly becomes obvious that they believe your story. The hums of amazement grow and they are taking in every detail. After a time one of them, a physicist, says that he believes he could duplicate the Variac Drive. You push them away from it but it is too late. They wander off, ignoring you, but the Disputer says, 'Have no fear, we are not an aggressive race. With this Drive we can make sure than no disasters ever occur.' There is nothing that you can do now which will stop the Danikoi using Time Travel to mould history to their own decadent whims. Suddenly, everything goes dark. The Danikoi have changed history and it is as if you and the Space Federation had never existed.
+
 22
-Your lasers have sheared the drive away from one of the missiles and it spins harmlessly past you, in two pieces, but the other strikes home and explodes. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved, you from certain destruction but your ship has taken damage. subtract 1 from your Zeiss Shield energy if you are equipped with energy shields, or 2 Hull Armour points if your ship carries
-Titanium hull armour. Turn to 34.
+Your lasers have sheared the drive away from one of the missiles and it spins harmlessly past you, in two pieces, but the other strikes home and explodes. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved, you from certain destruction but your ship has taken damage. subtract 1 from your Zeiss Shield energy if you are equipped with energy shields, or 2 Hull Armour points if your ship carries Titanium hull armour. Turn to 34.
 
 23
 The wardroid rises dramatically on its hover thrusters just as you fire. Your plasma blast ionises the gas in a long stream turning it from yellow to red, but it has passed beneath the wardroidwhich sweeps the area with a laser cannon. You are caught in the beam and sliced neatly into two at the waist. The shock kills you.
@@ -276,12 +283,6 @@ If you score 2-5, turn to 49
 
 25
 You concentrate your mind and try to dominate the will of this sentient rock, but its mind is so alien you don't know where to begin. The Thrix is entirely unaffected but it seems to think that you have made a gesture of friendship and it opens its mind to you. Its name translates, in a shortened form, to Carborundum. It clicks at you and your translator tells you that it is beckoning you. Suddenly it lurches and begins to roll across the rocky ground. You decide to follow warily. Turn to 53.
-Wait to check that the raildroid is not coming back?
-Duck quickly out of sight round the bend in the tunnel?
-
-21
-Turn to 60 Turn to 72
-They follow you to your Strike Fighter and it quickly becomes obvious that they believe your story. The hums of amazement grow and they are taking in every detail. After a time one of them, a physicist, says that he believes he could duplicate the Variac Drive. You push them away from it but it is too late. They wander off, ignoring you, but the Disputer says, 'Have no fear, we are not an aggressive race. With this Drive we can make sure than no disasters ever occur.' There is nothing that you can do now which will stop the Danikoi using Time Travel to mould history to their own decadent whims. Suddenly, everything goes dark. The Danikoi have changed history and it is as if you and the Space Federation had never existed.
 
  26 [score an H]
 As you step out of the recreation centre your Remote Access T erminal bleeps and CAIN sends you a message. The android is hooking into the telephone network and changing the informationreaching the Communist bloc defence computer which controls nearly half of the world's nuclear missiles at this time. Y ou scale a wall and enter a courtyard in which there is a red and glass booth. The android is inside and you recognise an ancient 'tele'phone in its hand. He has fitted an unusual device to the transmitter. Will you:
