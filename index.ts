@@ -435,7 +435,7 @@ function checkLineBreaks(pages: readonly Page[]) {
 	}
 }
 
-const fileContent = readFileSync("falcon2.txt");
+const fileContent = readFileSync("falcon1.txt");
 const lines = getLines(fileContent.toString("utf8"));
 const linesAfterIntro = skipIntro(lines);
 const pages = [...getPages(linesAfterIntro)].map(parsePage);
