@@ -370,7 +370,8 @@ function parsePage(rawLines: readonly string[]): Page {
 
 	if (
 		lastSection.type === "text" &&
-		lastSection.line.match(/You have failed/i)
+		(lastSection.line.match(/You have failed/i) ||
+			lastSection.line.match(/Your failure is spectacular/i))
 	) {
 		return { pageNumber, sections: content, type: "FailPage" };
 	}
