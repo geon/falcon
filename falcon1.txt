@@ -298,6 +298,7 @@ If you score 5-12, turn to 35
 If you score 2-4, turn to 411
 
 27
+image-011.png
 A lancing white bolt of superheated plasma misses your target and smashes a hole in the end wall of the corridor. One of the guards fires his laser rifle as the other runs towards you. He wings you in the side - lose 4 Endurance points. Then, two security droids arrive and your assailants run back down the corridor, darting out of sight. You give your Security Clearance Code and identify yourself. Satisfied, the security droids chase the two would-be assassins and you return to the safety of Falcon's Wing. Turn to 336.
 
 28
@@ -357,6 +358,7 @@ If you score 7-12, turn to 74
 If you score 2-6, turn to 61
 
 39
+image-012.png
 Your mental barrier throws off the mind attack of the drummer boy, and you recognise Lynx, another Special Agent of TIME. The disguise is perfect, her boyish features smeared with mud from the battlefield. Like Bloodhound was, she may well be trying to kill you. Do you:
 
 Thinkstrike her back?
@@ -460,6 +462,7 @@ With that, he breaks contact and the blue-skinned coordinator Informs you that t
 Your aim was true. A lancing white bolt of superheated plasma erupts against one of the guards. He is blown back against the end wall of the corridor and then slumps to the floor. The second guard runs off as two security droids arrive. You walk up to the fallen man after giving your Security Code to the hovering droids as they aim their stun-lasers at you. You identify yourself. Satisfied, they begin to hunt the second assassin. Your fallen assailant is dying, there is nothing you can do. You ask who sent him, and lean close to hear him gasp: 'Time Lord ...', but the rest is lost in a spasm of coughing as he dies. You head back to the safety of Falcon's Wing. Turn to 336.
 
 58
+image-013.png
 Suddenly an arrow glances from the shield which Alexander has taken from his fallen shieldbearer, and pierces his thigh. He stumbles and drops his sword. The archer rushes in to kill him but the King picks up his sword and/with a last great effort, runs the man through. Alexander is almost done for, but the Macedonians will reach him soon and Lord Speke is amongst the first of them. Do you:
 
 Use your Power of Will on Lord Speke?
@@ -751,6 +754,7 @@ A lancing white bolt of superheated plasma strikes the cydroid which short-circu
 Ney nods and, wheeling his horse, canters back towards the battle lines with his staff and you set off towards the hill at Shevardino, where Bloodhound has gone to watch over Napoleon. Turn to 145.
 
 110
+image-015.png
 The silver doors hiss apart, affording you your first view of the Hall of Honours, which boasts a marble floor and colonnades. In the centre is a large oaken table, in the shape of a horseshoe, the only wood in the TIME building, around which sit the five Lords of TIME. Your Universal Translator synthesises an unusual waterygurgling into words of welcome that sound in your ear:
 Welcome, Agent Falcon, never has a candidate graduated from the Academy with so high a score.' Your self-control allows you to smother any outward betrayal of surprise at the sight of the being which greets you. Submerged in a huge tank, along with some small aquatic mammals, is what looks like a giant lobster with bloated bluish brain-sacs floating under its spiked carapace. It waves a fearsome purplish pincer and clicks and gurgles: 'I am Time Lord Kirik of the Keladi.'
 You bow respectfully and turn to look at the other Lords. You recognise Lord Speke, a dapper little Earther in a Navy 'dress uniform'. On his left sits a squat, humanoid figure, with blue •kin and a mane of bristling white hairs - Lord Silvermane of Rigel Prime. On the other side of the table sits Lord Pilota, a seven-foot tall Lastlander woman with the fragile build and sharp-boned features of all those who live on that low gravity world. She is supported in her chair by a hydraulic exoskeleton which gives her the appearance of a robot, but it is the fifth Lord of TIME sitting on her right who looks the strangest of them all. A network of silica, like an oversized honeycomb, rests on the floor. Inside each of the six cells of the honeycomb is what looks like a giant ant, swathed in silk, like a cocoon. Their front parts protrude from the silk, plainly showing dull-red, compound eyes and wicked looking mandibles which are in constant motion. Collectively, they are called The Creche 82282 and they are six parts of a communal mind, in constant mind-link with each other. They are Hivers, a separate part of the Hive.
@@ -917,11 +921,13 @@ Turn to 141
 Turn to 104
 
 137
+image-016.png
 'Looks like you've done some expensive damage here,' says one of the Enforcers. 'I think well have to take you in.'He points his stun-lance at you. 'Just what you'd expect from a SAT. They give them all these wonderful toys and helmets that let them look into honest men's minds and what do they do, pop off their blasters, like they've just escaped from the incubator.' The first motions you into the jetcopter with his lance.
 'Hold on,' says the other, 'this tin-can carries a Particle Disruptor.'After further examination he consults his RAT.
 This is an ex-SAT security droid, a banned model, apparently they were unpredictable. Funny that, you being a SAT agent, wouldn't you say? Anyway just our luck, you've won yourself 50 creds bounty for eliminating this junk here!' The other Enforcer spits in disgust and they turn on their heels and climb in, bathing you with the 'copter's hot exhaust as they take off. You continue on your way to the hovrail. Turn to 169.
 
 138
+image-029.png
 You float down from the Access Hatch, lowered by invisible Tractor Beams. You can smell ozone in the air of the Spaceport. Rounding a bulkhead you come across a refuelling bay and your holo-detector indicates that the Keladi scoutship in front of you is in fact a Time Machine. Judging by its size it could only be that of Lord Kirik. There is no trace of Lord Speke's machine. As you walk through the hologram you are surprised to see water underfoot. Kirik's machine is normally water-filled, a much larger model than your own. Clearly all is not well for, as you look up, you see that his Access Hatch is open and on automatic, for his Mind Scan is not operating and you are drawn up into his machine. The grotesque body of Lord Kirik lies inert across his crash couch, the disc which is his Psionic Enhancer lies in a pool of water at his side. The usually bloated brain-sacs are flaccid and his jointed legs curled unnaturally. Looking more closely you notice a neat circular wound in the middle of one of his brain sacs, still pouring purplish fluid. There is no sign of the weapon that was used to do this. He has been killed quite recently by someone whom he had allowed into his Time Machine. There is no helping Lord Kirik. Do you:
 Leave the scene of the crime before you can be discovered there? Turn to 262
 Send Kirik's Machine into null-space? Turn to 382
@@ -965,6 +971,7 @@ Turn to 82
 Turn to 132
 
 146
+image-017.png
 Turning left you move towards a junction only to find that the exits are blocked by barricades made of smashed hovmobiles and game-booths. You hear the unmistakable whine of hovbikes behind and, turning, are dazzled by ten or more floodlights, which flare suddenly. 'Well, well, an upper in the Morgue - hey, those epaulettes have real warp!' says a guttural voice, menacingly. 'What shall we do with the upper, Street'roids?'.
 Then a woman's voice: 'I need that pacy helmet, Clone, get it for me?' The whine of the hovbikes increases as their lights are turned off in unison. Your eyes became accustomed to the gloom in time to see twenty or more members of a hovbike gang. Their archaic machines are loaded with rams, sharpened flanges and spikes. The riders' faces are painted silver and gunmetal, their clothes adorned with parts of the casing of various types of robot, hair spiked silver and gold.
 'Get the Exec, Machine,' says Clone, their leader. A man wearing a tattered hydraulic suit, covered in spikes, races his bike at you. You dodge and he piles into the barricade, impaling himself on a snapped driveshaft. Clone signals and they all start towards you. Do you:
@@ -986,6 +993,7 @@ If you score 2-5, turn to 133
 You seize control of Lord Silvermane's mind, after a brief battle of wills. You send a question to him, demanding whether he is guilty of the tampering with Kelados'past, but his conscience is clean, it seems he is not your man. As you relinquish control you catch him thinking that, if anyone, it is likely to be Lord Speke. Lord Silvermane becomes outraged, but you quickly apologise and tell him of your mission. He grows alarmed, but compliments you, saying: 'Never have I striven with so strong a will. You may find that implanting the suggestion of extreme hunger in the mind of your victim will make domination even easier for you.' You thank him and take the advice to heart. Add one to your Power of Will Modifier. He says: 'I would help you further, but it is not my place to risk a diplomatic incident by compromising one of my fellow Lords. However, I shall report to Agidy Yelov.' You bid him well and return to your Time Machine, Turn to 119.
 
 149
+image-018.png
 You are half in and half out of null-space. You are able to see through the walls of your Time Machine and even through your own flesh as if they did not exist. You try to switch the Variac Drive on again but nothing happens. You are caught in a time flux. Unable to do anything else, you look around you. You are hangingin the air above verdant pastures and a wide, blue river, before you is a magnificent city, its houses, mosques and minarets surrounded by a high and well-defended wall. Gold and turquoise gleam below in the sun. The pastures and groves are deserted, but around the walls is a horde of mongols, beyond count. There are more horses than men - each warrior has a remount. You ask CAIN for an update on the history of this timeand place. CAIN chimes, 'The city before you is Baghdad, on the banks of the river Tigris, in Mesopotamia. The year is 1258 AD and the people of Baghdad have been under siege for some months by the mongols, led by their general, Hulagu.'
 The mongols, dressed in furs and leather, look strangely out of place by the warm banks of the Tigris. They wear conical helmets topped with spikes and plumes of horsehair, and strips of boiled ox-hide laced together and painted brightly, affording them the protection of armour without weighing down their horses. They carry curved swords, hooked lances and short bows made of layers of horn and wood. As you watch, some of them show off their skill, standing in their stirrups, drawing arrows from their quivers and firing them at the city walls, all in one swift, lithe movement. They cannot see you, hanging frozen in the air. As you watch, they gather together and the Caliph of Baghdad, Mustasin, walks forward from the gates of his starving city, flanked by faithful retainers. He kneels before Hulagu in a gesture of surrender. Using the external microphone, you can hear what passes between them. Mustasin is clearly petrified and he begs for his life and the lives of his people. The cold, impassive Hulagu demands to know where his treasures are hidden. Mustasin, seeing a ray of hope, tells Hulagu of his hiding place. When satisfied, Hulagu signals to his men, who massacre the Caliph and his attendants. The horrified people of Baghdad make no attempt to close the gates and the mongols sweep into the city like a tide of soldier ants.
 You are held in the air above Baghdad for over a month, and in all that time the slaying continues, the bestial ferocity of the mongols remains unslaked. Only after forty days and the death of 800,000 people does the stench of rotting flesh force Hulagu to abandon the smouldering palaces, mosques and libraries of the dead city. After they have gone you cannot see even a dog or cat moving in the streets - all life has been wiped out. Shaken by the awful spectacle you have had to witness you are thankful when your Psychic Awareness registers a change in the flux of time. You engage the Variac Drive once more and this time re- materialise as planned. Because you were trapped in a time flux, when you materialise no time has passed between the moment you were caught and the moment you were released. Your digital clock shows that in 3033 AD it is still the same day on which you began your mission. Turn to 106.
@@ -1054,6 +1062,7 @@ If you score 7-12, turn to 94
 If you score 2-6, turn to 111
 
 161
+image-019.png
 [score a C]
 Bloodhound hurries back with you to your Time Machines, Falcon's Wing and Hunter, and you both set out for the only Timehole on planet Hel, 600 AD, hoping finally to corner the Creche. You may use your Autodoc to restore up to 12 Endurance points on the way. While waiting to rematerialise, you ask CAIN about planet Hel. CAIN chimes: 'Planet Hel was discovered in 2978 AD by Skirrow, head of the Research Section of TIME, during the same voyage on which he discovered Skirrow's World. It is a tropical world with many dangerous predators, and plants which can trap and digest humans. There are no intelligent life forms. The air is breathable.' It seems that planet Hel was well named by its discoverer.
 You rematerialise at the same instant as Bloodhound and Falcon's Wing settles slightly, as if on soft ground. You are resting on the top of a tropical rain forest. The tops of the trees are flattened by a mass of tangled creepers which form a carpet so dense that CAIN mistook it for the surface of the planet. Even the weight of Falcon's Wing has only bowed it slightly. You meet outside, on the tree carpet and move towards a Time Machine, undisguised by a hologram, which rests on the foliage a hundred metres away. Your Psychic Awareness tells you that the Creche are inside. As you watch, they begin to descend from the hatch of their machine. You must act quickly. Do you shout
@@ -1193,6 +1202,7 @@ Turn to 259
 Turn to 120
 
 189
+image-020.png
 You roll onto the balcony as a hand-axe, thrown by one of the Imperial Guard tangles itself in the silken awning behind you. You leap from the balcony to the edge of the palace roof, swinging your arms and pulling your legs up over the edge as the guardsmen rush onto the balcony behind you. Thinking quickly, you activate the flyer's Homing Beacon which you keep in your hand as you run round the edge of the roof, away from the guardsmen who are now helping each other onto the roof's lacquered wooden slats. The flyer approaches but you must stand still now, to avoid confusing the flyer's computer. Some of the mongols, shouting ferociously, will be upon you before you can climb aboard. Balancing on the edge of the roof and mentally exhausted, you are forced to use your blaster. Make an Attack Roll.
 If you score 5-12, turn to 296
 If you score 2-4, turn to 175
@@ -1590,6 +1600,7 @@ Turn to 229
 Turn to 176
 
 252
+image-021.png
 You are wiping the sweat from your brow when, suddenly, with bloodcurdling cries, a mass of horsemen burst from the trees behind you. They are armed with shortbows, hooked lances and curved swords. Their weathered yellow faces with oriental eyes and black moustaches are creased with the joy of slaughter. Many have conical helmets, spiked with a plume of horsehair at their centre. They wear painted strips of oxhide, laced together for armour over leather jackets and breeches. There seem to be hundreds of them boiling from the cover of the trees, too many for you to use your mental powers. Will you:
 
 Run for the shelter of the village?
@@ -1613,6 +1624,7 @@ Turn to 416
 Turn to 261
 
 255
+image-022.png
 You tell Bloodhound that the Phocian pirate guarding the nearest Corsair ship is under mind control. Bloodhound suggests that you look into this while he returns to Earth in 3033 AD, and reports to Yelov that he has successfully killed you, so that you can operate without fear of further trouble from your comrades. When he has done that, he will explore the Timelines and help you with your mission. You thank him. 'Good luck and look after yourself, my friend,' he calls, and with that he returns to his machine, Hunter, which winks out suddenly. You look towards the sleek Phocian ships and see the pirate enter one and seal the hatch. As you watch, the Corsair's Fusion Drive fires up and the ship hurtles out of the Starport, breaking the noise and launch regulations as it does so.
 
 If you wish to examine Yelov's file on CAIN's records, when you return to Falcon's Wing, turn to 15. You may look at Yelov's file whenever you are in your machine, but don't forget to remember the paragraph you are at before going to 15, as no further options are given there. When you are ready, do you:
@@ -1659,6 +1671,7 @@ Turn to 209
 You catch the hovrail to the TIME building. After about an hour, blackness engulfs you suddenly, just as the car is sliding to a halt. Someone has changed the Timelines and one of your ancestors has been killed before his time. It is as if you had never existed. You have failed.
 
 262
+image-023.png
 Before returning to Falcon's Wing you look around the rest of the refuelling bay. Two Phocian Corsair ships, sleek attack craft, have completed refuelling. A Phocian guard stands by the personnel ramp of the nearest ship, a squat humanoid with a brilliantly coloured head, like a macaw without a beak. To your surprise, your Psychic Awareness tells you that his mind is being dominated by another. Since Korakiik is the only known psionically aware Keladi at this time and he is in space orbit, a non-Keladi must be controlling him, possibly Kirik's killer and maybe the Renegade Lord. Before you can investigate, your holo-detector begins to bleep continuously. A Time Machine has materialised behind you. Spinning round, you see a figure seeming to appear from the side of a gas tank that did not exist a few moments earlier. He looks like a Phocian pirate, but on seeing you he tips back his helmet to reveal the face of TIME Special Agent Bloodhound. Like you, he has a model A3 Time Machine, now disguised as the gas tank. His thoughts brush yours and he speaks before you can greet him, his blue eyes hard, 'I'm sorry, Falcon, I have a Termination Order for you.' You realise he has been ordered to kill you, just as he draws his blaster with the lightning reactions of an elite combateer. You dive to the floor, but are wounded slightly as the lancing white bolt of plasma sears your neck. Lose 4 Endurance points. Will you:
 
 Attempt to use your Power of Will to control Bloodhound?
@@ -1756,6 +1769,7 @@ Do you have a Thermo-nuclear device? If you do, turn to 415. If you do not, turn
 The assassin walks calmly towards you, his voice hissing through the air escape ducts in his armour, 'What a pity, Falcon you seem to have dropped your blaster.' You are in too much pain to concentrate your mental powers, and you realise as he places his laser-rifle in front of your face that he is going to finish the job. This is the first time I've completed a commission given to me by a Lord of TIME,' he hisses. As hegloats a security droid appears, hovering soundlessly behind him, and discharge, its stun-lance. The assassin is bathed in blue light and jerks back suddenly as the circuits in his Power Armour begin to short out Unable to control the armour, which is too heavy to be moved without the assistance of its power pack, he falls on the floor. body arched like a crab, as the armour begins to steam. Sparks fly, and the power pack explodes, ripping his body apart. You may never find out who sent him to kill you. The security droid checks your ID and you drag yourself to Falcon's Wing before it can summon a Medtech. Turn to 336.
 
 278
+image-024.png
 At the top of the stairs is a landing leading to a door with gold panels. A blackened staff with a tuft of horsehair hanging down from its top has been driven into the floor before it. A member of the Imperial Guard, dressed immaculately in gold and black lacquered armour is talking to an older man he refers to as 'Noyan' or general, who wears the long wraparound cloak of leather lined with fur called a del, that the mongols wear when not at war or if they cannot afford armour. Your guards repeat their words, but the general insists that he must hear what you have to say to the Khan of Khans. You know your voice will sound like a robot voice if you speak through the Translator. What will you do?
 
 Speak, saying 'I am a demon from the ice-wastes'?
@@ -2069,6 +2083,7 @@ Turn to 291
 Turn to 310
 
 324
+image-025.png
 You blast the doors of the ambulance away, but whoever was inside was ready for you. Two blasters open fire and you are hit and killed instantly. You may have no idea whether you have killed the Renegade Lord or not, but history has been changed and you have failed.
 
 325
@@ -2082,6 +2097,7 @@ If you score 2-4, turn to 345
 327
 You press the button and the red star clicks forward one line.
 The dials look like this:
+image-026.png
 Which button do you press next:
 The top button? The centre button? The bottom button?
 Turn to 402 to 358 Turn to 342
@@ -2125,6 +2141,7 @@ Turn to 294
 Turn to 284
 
 335
+image-027.png
 Through CAIN you order that a shuttle be prepared for your trip to Spiro's Ringworld and waste no time. You run from the doors of the Vault across the launch bay to the small, dart- shaped shuttle with its huge, ungainly drive vents, each as large as the cabin. The navigational computer is already set as you strap into the Acceleration Web behind the pilot. With a flash of light the Ion Drive fires and you are accelerated sickeningly quickly. This is a Navy pilot - she has never flown civilian craft. Minutes later the Docking Computer locks onto the Ringworld, a glittering disc twenty miles across, turning silently in space and the deceleration is equally unpleasant. As you step out into the air-lock, the pilot turns and smiles, 'You stood that well - you must be fit.' You ask her to stand by for your return journey and enter the Ringworld.
 Lord Pilota's assistant meets you as you emerge from the air- lock and, helping you into a jet pack, points up into the empty centre of the so-called Ringworld. You are standing on the inside rim of the disc which is rotating quickly enough to produce a gravity not far below that of Earth's. Looking up, you see the tops of the buildings, twenty miles away on the opposite side of the Rim. The assistant explains that Lord Pilota is in the gravity free zone, or free fall area, in the centre of the disc, half way to the other rim. You blast off with him confidently enough, and head for the centre of the rimworld. As you approach you see Lord Pilota, spinning slowly, head over heels, apparently at ease without the hydraulic exoskeleton she uses in Earth gravity. With a shock you realise that you cannot adapt easily to free fall and accidentally cannon into her, sending you both towards the other rim. She steadies you easily and with two deft jet-pack blasts returns you to a stationary position in free fall. She speaks, her voice high-pitched in the thin air. 'Falcon, you've come all this way to see me. Why? What is so important?' Will you:
 
@@ -2197,6 +2214,7 @@ If you score 2-6, turn to 356
 
 342
 You press the button and the red star clicks forward onto the line before the DETONATE line. The dials look like this:
+image-028.png
 Which button do you press next:
 
 The top button?
@@ -2308,6 +2326,7 @@ You press the button and, to your horror, the dial clicks forward, moving the st
 You rematerialise in the Eiger Vault and CAIN tells you that the machines of Speke, Silvermane and Pilota are also in the Vault. While you are deciding what to do next, blackness engulfs you suddenly. Someone has changed the Timelines and one of your ancestors has been killed before his time. It is as if you had never existed. You have failed.
 
 360
+image-029.png
 You float down from the Access Hatch, lowered by invisible Tractor Beams. You can smell ozone in the air of the Spaceport. Rounding a bulkhead you come across a refuelling bay and your holo-detector indicates that the Keladi scoutship in front of you is in fact a Time Machine. Judging by its size it could only be that of Lord Kirik. As you walk through the hologram you are surprised to see water underfoot. Kirik's Machine is normally water filled, a much larger model than your own. Clearly all is not well for, as you look up, you see that his Access Hatch is open and on automatic. His Mind Scan is not operating and you are drawn up into his machine. The grotesque body of Lord Kirik lies inert across his crash couch, the disc which is his Psionic Enhancer lies in a pool of water at his side. The usually bloated brain sacs are flaccid and his jointed legs curled unnaturally. Looking more closely you notice a neat circular wound in the middle of one of his brain sacs, still pouring purplish fluid. There is no sign of the weapon that was used to do this. He has been killed quite recently by someone who he had allowed into his Time Machine. There is no helping Lord Kirik. Do you:
 
 Leave the scene of the crime before you can be discovered there?
@@ -2374,6 +2393,7 @@ Arrows fly all around you, but you make it back to Falcon's Wing still carrying 
 Powerless to resist, you come under the sway of the alien mind. You find yourself opening the Phocian's medicine cabinet and taking out a syringe. Dripping with sweat you try to resist but you place the needle into a vein at your wrist and inject yourself with air. Your death is agonising. You have failed.
 
 372
+image-030.png
 As you ride along the battle line, the tide of battle seems to be ebbing and flowing. The first attack of the French columns, under Marshals Ney and Davout have been repulsed, but they are preparing to attack again. Behind Ney's position Murat's cavalry are drawn up. You soon catch sight of Murat, the King of Naples himself, the most extravagantly dressed man on the battlefield, great cockades of white feathers adorning his busby. He looks every inch a cavalry general, dashing and stylish with long hair and a sleek look, but he is a veteran of many campaigns. He and his staff are before a thousand French heavy cavalry, the Cuirassiers with their steel breastplates and crested helmets each with its scarlet plume. Before you come close to him your Psychic Awareness alerts you to a very powerful mental presence nearby. Do you:
 
 Continue and find out who it is coming from?
@@ -2438,6 +2458,7 @@ If you do, turn to 415. If you do not, turn to 306.
 
 381
 You walk along the edge of the forest towards the village; curls of smoke wind up from the holes in the roofs of the cottages and huts. As you approach it, your holo-detector picks up a hologram - a Time Machine has been disguised as trees. Your Psychic Awareness catches a thought as if you have discovered somebody doing something they shouldn't. Abort reconnaissance you sense next. There is a click and a hiss as of a hatch opening and closing and a group of nearby trees wink out abruptly. A metre-long metal canister rolls down from the bank on which the Time Machine had stood. You run towards it and recognise it as a nuclear bomb. The digits on the timer are ticking past, like an old-fashioned 20th century fruit machine. The symbols an foreign but you guess that all of the red stars will be in line within about thirty seconds. The nuclear device appears to be of standard design and is capable of destroying Vienna and most life-forms within twenty miles of this spot. This would change history beyond recognition. As you watch, another of the red stars clicks into place on the DETONATE line. The dials click forward one space at a time and when the middle star has clicked forward three times the three stars will be lined up on the DETONATE line and the bomb will explode. Each of the three dials has three buttons above it with which you can manually move the dials 1, 2 or 3 positions onward but you don't know which button is which. You press the buttons above the two dials whose stars are on the DETONATE line, but they are locked. You will have to move the star on the middle dial to thi DISARM position without pressing a button that will make it stop on the DETONATE line. Which button do you press:
+image-031.png
 
 The top button?
 The centre button?
@@ -2451,6 +2472,7 @@ Turn to 327
 Realising that time travel would be invented too early if Kirik's machine was discovered, you manually set the Variac Drive to engage in a minute's time and pause on your way out only to pick up Kirik's Psionic Enhancer. The machine winks out into null-space and it will never reappear, but at least you have preserved the Timeline. The Psionic Enhancer carries a chip developed on the Kelados Research Station for Lord Kirik. You may slip this into your helmet for it increases the power of Thinkstrike. Add one to your Thinkstrike Modifier. Turn to 262.
 
 383
+image-032.png
 You grab him by one of his huge, blue-skinned arms and insist that he tell you where he is going. He calmly insists that you remove your arm and makes to enter his machine Do you:
 
 Apologise and return to your machine?
@@ -2759,6 +2781,7 @@ Turn to 407
 Turn to 279
 
 416
+image-033.png
 [score a T]
 You may lie in your Autodoc during the journey and gain up to 12 Endurance points. Falcon's Wing rematerialises at the same instant as Bloodhound's Machine, Hunter. The digital readout shows the date: 7th September, 1812. You are at the edge of some woods and, once again, the hologram generator disguises the machine in the form of a group of fir trees. The outside camera shows an amazing sight: two colourful armies face each other along a line three miles long. It is early morning, but already the battlefield is becoming shrouded in the smoke of a thousand cannon. You ask CAIN for a historical report. CAIN replies, The French Emperor, Napoleon I, has conquered most of Europe and has invaded Russia with a large army. Today, the Russian commander in chief, Kutusov, has decided to give battle, here at Borodino. The French will win a victory, but it will not be the crushing victory that Napoleon needs to force the Russians to give in before the awful Russian winter kills the Frenchmen for them.' Thanking CAIN for his brief history, you ask him what could be done to change the Timelines at this battle. CAIN responds quickly, 'Marshal Ney will win an advantage for the French, but Murat's cavalry fail to exploit this. Napoleon, unwell, will not send in his best troops, the Imperial Guard, to support Ney at the critical moment. If he were persuaded to do so he would win a crushing victory. The same might occur if Murat's cavalry were used to better effect. The Russians would be forced to surrender and Napoleon would remain master of Europe. In this case, Europe would continue to be ravaged by wars for several decades. Countless more people would die and there would be great changes in the year 3033. I do not have enough data to outline these with any great probability of being correct.' You nod and are preparing to leave Falcon's Wing when CAIN chimes again, unbidden, 'You will remember of course, Falcon, that one of your ancestors is an Aide-de-Camp, carrying messages for Marshal Ney.'
 'Of course, CAIN,' you smile and ask him to activate the Molecular Converter. CAIN programmes a uniform into the Converter and you are soon dressed in the most stylish uniform imaginable. A short, white jacket, fronted with gold braid, red trousers with a black stripe down the side, a short black cape trimmed with gold, called a Pelisse, and your Psionic Enhancer has become a bearskin helmet with a white plume. Leaving Falcon's Wing, you are amused to see Bloodhound dressed as lavishly as yourself in scarlet and blue. He suggests that you acquire horses and this you manage to do, finding the horses of some French scouts picketed nearby. Bloodhound shows you a map of the battlefield he has had printed by his own version of CAIN. The nearest troops to you are some French and Polish, commanded by the Polish Count, Poniatowski. As you ride towards the battlefield your holo-detector bleeps. There is a Time Machine nearby. Do you:

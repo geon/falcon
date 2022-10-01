@@ -1,4 +1,5 @@
-import { readFileSync, writeFileSync, mkdirSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from "fs";
+import { join } from "path";
 
 function* getLines(string: string) {
 	const lines = string.split("\n");
@@ -101,13 +102,19 @@ interface ChoicesSection {
 	options: { choice: string; link: number }[];
 }
 
+interface IllustrationSection {
+	type: "illustration";
+	fileName: string;
+}
+
 type Section =
 	| TextSection
 	| ScoreSection
 	| HeaderSection
 	| TableSection
 	| DiceRollSection
-	| ChoicesSection;
+	| ChoicesSection
+	| IllustrationSection;
 
 interface PageBase {
 	pageNumber: number;
@@ -216,6 +223,16 @@ function parseHeaders(sections: Section[]): Section[] {
 	});
 }
 
+function parseIllustrations(sections: Section[]): Section[] {
+	return sections.map((section) => {
+		if (section.type === "text" && /image-\d{3}.png/.test(section.line)) {
+			return { type: "illustration", fileName: section.line };
+		}
+
+		return section;
+	});
+}
+
 function parseTables(sections: Section[]): Section[] {
 	const tables: {
 		lastSectionIndex: number;
@@ -279,43 +296,48 @@ function parseDiceRollInstructions(sections: Section[]): Section[] {
 	const subtype = makeDiceRollSubtype(match[1]);
 
 	const outcomes = sections
-		.map((section, sectionIndex):
-			| {
-					sectionIndex: number;
-					scores: number[];
-					link: number | undefined;
-			  }
-			| undefined => {
-			if (section.type !== "text") {
-				return undefined;
-			}
+		.map(
+			(
+				section,
+				sectionIndex,
+			):
+				| {
+						sectionIndex: number;
+						scores: number[];
+						link: number | undefined;
+				  }
+				| undefined => {
+				if (section.type !== "text") {
+					return undefined;
+				}
 
-			const match = section.line.match(
-				/^If you scored? (a )?(([\d]+)|(([\d]+)(-|( or ))([\d]+))), ((turn to ([\d]+))|(roll again\.))$/,
-			);
-			if (!match) {
-				return undefined;
-			}
+				const match = section.line.match(
+					/^If you scored? (a )?(([\d]+)|(([\d]+)(-|( or ))([\d]+))), ((turn to ([\d]+))|(roll again\.))$/,
+				);
+				if (!match) {
+					return undefined;
+				}
 
-			let scores: number[] = [];
-			if (match[5] && match[8]) {
-				const from = parseInt(match[5]);
-				const to = parseInt(match[8]);
-				scores = Array(to - from + 1)
-					.fill(0)
-					.map((_, i) => from + i);
-			} else if (match[3]) {
-				scores = [parseInt(match[3])];
-			}
+				let scores: number[] = [];
+				if (match[5] && match[8]) {
+					const from = parseInt(match[5]);
+					const to = parseInt(match[8]);
+					scores = Array(to - from + 1)
+						.fill(0)
+						.map((_, i) => from + i);
+				} else if (match[3]) {
+					scores = [parseInt(match[3])];
+				}
 
-			if (!scores.length) {
-				throw new Error("No scores found: " + section.line);
-			}
+				if (!scores.length) {
+					throw new Error("No scores found: " + section.line);
+				}
 
-			const link = match[11] ? parseInt(match[11]) : undefined;
+				const link = match[11] ? parseInt(match[11]) : undefined;
 
-			return { sectionIndex, scores, link };
-		})
+				return { sectionIndex, scores, link };
+			},
+		)
 		.filter(isTruthy);
 
 	if (!outcomes.length) {
@@ -349,7 +371,9 @@ function parsePage(rawLines: readonly string[]): Page {
 		parseTurnInstructions(
 			parseTables(
 				parseHeaders(
-					parseScores(rawLines.map((line) => ({ type: "text", line }))),
+					parseIllustrations(
+						parseScores(rawLines.map((line) => ({ type: "text", line }))),
+					),
 				),
 			),
 		),
@@ -480,6 +504,9 @@ function renderSection(section: Section): string {
 		case "choices":
 			return renderChoicesSection(section);
 
+		case "illustration":
+			return renderIllustrationSection(section);
+
 		default:
 			const bad: never = section;
 			throw new Error("No handled: " + bad);
@@ -538,6 +565,9 @@ function renderChoicesSection(section: ChoicesSection): string {
 		</table>
 	`;
 }
+function renderIllustrationSection(section: IllustrationSection): string {
+	return `<img src="${section.fileName}" />`;
+}
 
 const outputDirName = "dist";
 mkdirSync(outputDirName);
@@ -546,4 +576,14 @@ for (const page of pages) {
 		outputDirName + "/" + page.pageNumber + ".html",
 		renderPage(page),
 	);
+
+	// Copy illustrations to dist.
+	for (const section of page.sections) {
+		if (section.type === "illustration") {
+			copyFileSync(
+				join("falcon1-images", section.fileName),
+				join("dist", section.fileName),
+			);
+		}
+	}
 }
