@@ -2024,9 +2024,7 @@ If you score 9-12, turn to 388
 You lead the huge missile in a series of daring manoeuvres down towards a huge metal building with row after row of stunted black glasteel chimneys. You pull up at the last minute, but the missile responds too late. You turn to watch as it screams into a fuel refinery. The explosion flattens factories for a mile around, the shock wave throws you across the sky and a pillar of flame, smoking blackly, reaches far into the atmosphere above you. You fly back towards the gaping maw of the hangar. Turn to 351.
 
 338
-You try to line up the missile launcher in your forward screen
-
-sights. Make an Attack Roll.
+You try to line up the missile launcher in your forward screen sights. Make an Attack Roll.
 If you score 6-12, turn to 373
 If you score 2-5, turn to 291
 
@@ -2082,9 +2080,7 @@ If you score 2-6, turn to 369
 As you dodge out to fire again at the raildroids as they accelerate towards you, the scream of the Atmospheric Interceptor fills the air. It has turned outside the complex and dived back in behind you. As you spin to face it a missile hits you full on the chest. The explosion shakes the whole complex, but the impact alone would have killed you. You have failed.
 
 348
-You have timed your fall perfectly. Falcon's Wing settles onto the rocky surface of Thrix with a crunch and a whine from its hydraulic legs. CAIN warns you that the soupy yellow atmosphere of Thrix is highly corrosive and you put on your environment suit. Whilst you are doing so, CAIN gives you some valuable information on the planet and its inhabitants. The flying girders which you passed in the atmosphere were a primitive form of starship powered by chemical rockets like those used on Earth in the 21st and 22nd centuries. The ships are slow but the pilot, a Thrix, has a lifespan of several millenia and being composed almost entirely of glass-like silica can exist in deep space. The rock-like Thrix are telepathic and can move objects by thought alone. They are dormant at deep space temperatures but regain the capacity for thought whenever their ship nears a sun. Less than two thousand remain on their home world - the reason for their decline is not known. Very little is known about their attitude to aliens in 3033 AD, let alone this time. They are not members of the Federation (they will not become members, that is). 'There is one other thing, Falcon - this timehole is deteriorating rapidly and will soon cease to exist. I estimate anything between one and six hours remaining before it fades away. Take care not to get trapped here!' You thank CAIN. The camera shows ghostly outcroppings of jagged rock, swimming in soupy gases. You leave Falcon's W i n g
--without preparing a disguise (CAIN does not have the relevant information stored in his memory banks in any case) and set out to explore. Before you have gone twenty metres you see a shiny
-black boulder, faceted like a diamond, but three metres tall. It is a Thrix. Will you:
+You have timed your fall perfectly. Falcon's Wing settles onto the rocky surface of Thrix with a crunch and a whine from its hydraulic legs. CAIN warns you that the soupy yellow atmosphere of Thrix is highly corrosive and you put on your environment suit. Whilst you are doing so, CAIN gives you some valuable information on the planet and its inhabitants. The flying girders which you passed in the atmosphere were a primitive form of starship powered by chemical rockets like those used on Earth in the 21st and 22nd centuries. The ships are slow but the pilot, a Thrix, has a lifespan of several millenia and being composed almost entirely of glass-like silica can exist in deep space. The rock-like Thrix are telepathic and can move objects by thought alone. They are dormant at deep space temperatures but regain the capacity for thought whenever their ship nears a sun. Less than two thousand remain on their home world - the reason for their decline is not known. Very little is known about their attitude to aliens in 3033 AD, let alone this time. They are not members of the Federation (they will not become members, that is). 'There is one other thing, Falcon - this timehole is deteriorating rapidly and will soon cease to exist. I estimate anything between one and six hours remaining before it fades away. Take care not to get trapped here!' You thank CAIN. The camera shows ghostly outcroppings of jagged rock, swimming in soupy gases. You leave Falcon's Wing - without preparing a disguise (CAIN does not have the relevant information stored in his memory banks in any case) and set out to explore. Before you have gone twenty metres you see a shiny black boulder, faceted like a diamond, but three metres tall. It is a Thrix. Will you:
 
 Ignore it and walk on?
 Run and hide in a shallow trench nearby?
@@ -2229,8 +2225,7 @@ Turn to 358
 Turn to 385
 
 371
-As you follow the capsule down, the flare of its re-entry licks towards you like a rocket exhaust and you use your retros to control your speed of descent. The capsule is too low and too near to a large city for you to risk attacking. It too has radar damping and you are forced to track it visually, cursing quietly as it leads you within five miles of a large 20th century airliner. Perhaps you look like a shooting star to its passengers. Hoping you have escaped notice you follow the capsule into the night side of Earth as its parachute opens, and set the Strike Fighter down in a field. You climb hastily out of your battlesuit and curse once more as you remember the Weeks/Senior Corpora- tion have not yet had time to install a hologram projector or molecular convertor. You ask CAIN's advice and he tells you that you are in Devon, a county in the democratic country of England, and that you might escape serious notice if you pretend to be an American film star in a cinematograph of the
-far-future, which the people of England would call a science fiction film. You jump down from the Strike Fighter and scan the area with your infra-red goggles. An android, it is too cool to be a human, is moving towards a stream of moving lights, one mile away. You run after him and in the lights, which turn out to be the front searchlights of combustion engined vehicles which roll along a tarmacadam strip, you see that the android looks like a man dressed in clothes from far history. Will you:
+As you follow the capsule down, the flare of its re-entry licks towards you like a rocket exhaust and you use your retros to control your speed of descent. The capsule is too low and too near to a large city for you to risk attacking. It too has radar damping and you are forced to track it visually, cursing quietly as it leads you within five miles of a large 20th century airliner. Perhaps you look like a shooting star to its passengers. Hoping you have escaped notice you follow the capsule into the night side of Earth as its parachute opens, and set the Strike Fighter down in a field. You climb hastily out of your battlesuit and curse once more as you remember the Weeks/Senior Corpora- tion have not yet had time to install a hologram projector or molecular convertor. You ask CAIN's advice and he tells you that you are in Devon, a county in the democratic country of England, and that you might escape serious notice if you pretend to be an American film star in a cinematograph of the far-future, which the people of England would call a science fiction film. You jump down from the Strike Fighter and scan the area with your infra-red goggles. An android, it is too cool to be a human, is moving towards a stream of moving lights, one mile away. You run after him and in the lights, which turn out to be the front searchlights of combustion engined vehicles which roll along a tarmacadam strip, you see that the android looks like a man dressed in clothes from far history. Will you:
 
 Follow the android?
 Go back to sabotage the burnt out re-entry capsule?
@@ -2419,13 +2414,13 @@ Your plasma blast ionises the gas in a long stream like a ribbon, turning it fro
 
 408
 The Disputer says, 'Your argument has merit, but you are an alien with an alien's motives - why should we care what happens to Earth, we can look after our own.' Will you:
-to be responsible for the deaths of countless billions who, although alien, enjoy eating, laughing and loving even as he does?
+
+Use your Power of Will to take control of his mind?
+Appeal once more, asking if he wishes to be responsible for the deaths of countless billions who, although alien, enjoy eating, laughing and loving even as he does?
+Turn to 121
+Turn to 341
 
 409
-Turn to 341
-Use your Power of Will to take control of his mind?
-Appeal once more, asking if he wishes
-Turn to 121
 You manage to dodge the huge grab and, using it as cover, you fire at Yelov With your particle disrupter. He has wrenched a huge girder from the floor in his one bionic hand and arm and is swinging its end towards you. Make an Attack Roll.
 
 If you score 6-12, turn to 40
