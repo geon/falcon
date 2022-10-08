@@ -1874,6 +1874,14 @@ Turn to 414
 Turn to 319
 Turn to 334
 
+306
+Your aim is off and the hunter-seeker flashes behind you and clamps itself onto the back of your battlesuit. Warning lights flash as the suit's sensors tell you that the hunter-seeker is an armour piercing device. A controlled explosion forces a core of molten metal through the suit and you explode inside it when it drills into your body. The last sound you hear is Yelov's vengeful howl of joy.
+
+307
+Your will to live pulls you through the terrible battle with the maniac will of Yelov. Sweating with the effort inside your battlesuit, you manage to throw off his attempt to take control of your mind but his mind is as quick as his reflexes and before you can attack him he hurls a blast of mental energy at you. You use your Power of Will to overcome his Thinkstrike which threatens to reduce you to a grovelling animal. Make a Power of Will Roll.
+
+If you score 6-12, turn to 237
+If you score 2-5, turn to 274
 
 308
 [score an L]
@@ -1885,15 +1893,6 @@ The inhospitable world of Thrix, 1776 AD?
 Turn to 9
 Turn to 47
 Turn to 320
-
-306
-Your aim is off and the hunter-seeker flashes behind you and clamps itself onto the back of your battlesuit. Warning lights flash as the suit's sensors tell you that the hunter-seeker is an armour piercing device. A controlled explosion forces a core of molten metal through the suit and you explode inside it when it drills into your body. The last sound you hear is Yelov's vengeful howl of joy.
-
-307
-Your will to live pulls you through the terrible battle with the maniac will of Yelov. Sweating with the effort inside your battlesuit, you manage to throw off his attempt to take control of your mind but his mind is as quick as his reflexes and before you can attack him he hurls a blast of mental energy at you. You use your Power of Will to overcome his Thinkstrike which threatens to reduce you to a grovelling animal. Make a Power of Will Roll.
-
-If you score 6-12, turn to 237
-If you score 2-5, turn to 274
 
 309
 Your powered battlesuit allows you to leap high into the air and the flash of a laser pulse beneath you tells you your guess was correct. You duck instinctively as the interceptor screams overhead and the sensors on your battlesuit tell you that the small object which Yelov let drop is homing in on you. It is a hunter-seeker mine. Will you:
