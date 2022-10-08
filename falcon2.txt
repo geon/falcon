@@ -1635,25 +1635,23 @@ Turn to 279
 265
 You unleash the energy of your blaster, taking even the superhuman android by surprise. You play the beam across it until it is completely vapourised and then set off across the countryside in search of your Strike Fighter. Turn to 135.
 
-
 266
-You lie low for some time until your translator decodes a binary code radio message. One of the wardroids is reporting to the other robots that wardroid RX-741 is now disfunctional and requesting that one of the wardroids guarding the mouth of the mining droid take up position to replace RX-741 in the loading bay area. It appears the corrosive atmosphere of Thrix is doing some of your work for you. You decide that the moment has come to attack and move forward quickly towards the loading bay, until the single wardroid guard swivels towards you. Will you
-straight upwards. The mine hits the ground just behind the spot where you had been standing and there is a hissing and a groat cloudof steam as it buries itself several feet into the rock beneath the steel floor. Yelov crouches low on the raildroid as the interceptor makes another attack run. You fire a rocket at it which blows one of its side planes off and the interceptor spins, out of control, into an energy wall where it explodes. Turn to 272.
+You lie low for some time until your translator decodes a binary code radio message. One of the wardroids is reporting to the other robots that wardroid RX-741 is now disfunctional and requesting that one of the wardroids guarding the mouth of the mining droid take up position to replace RX-741 in the loading bay area. It appears the corrosive atmosphere of Thrix is doing some of your work for you. You decide that the moment has come to attack and move forward quickly towards the loading bay, until the single wardroid guard swivels towards you. Will you:
 
-271
-Your blaster plays against one of the droids and its metal armour begins to glow but both have locked onto you with their laser cannon and you are cut into seven separate pieces. You have failed.
-
-272
-You turn your attention to Yelov once again just as he fires his blaster at you. The beam which it emits does not crackle and it is a glassy purple. It has been modified to deliver a higher intensity beam by the wardroids of Mechanon. You use your jetpack to throw yourself out of the path of the beam but not before your battlesuit takes 2 points of damage. The heat is so intense that the suitcannot protect you fully and you suffer serious burns. Lose3 Endurance points. If you are still alive, will you use on Yelov:
-Hurl a grenade? Use your blaster?
-Turn to 312 Turn to 83
-Kill him with your sword? Spare his life?
-
-268
-Turn to 297 Turn to 283
+Hurl a grenade?
+Use your blaster?
+Turn to 312
+Turn to 83
 
 267
-The Count of Flanders topples from his horse with a great crash, landing on the ground which has been churned to mud He is not dead but he has no choice but to surrender as he has lost his sword. Will you:
+The Count of Flanders topples from his horse with a great crash, landing on the ground which has been churned to mud. He is not dead but he has no choice but to surrender as he has lost his sword. Will you:
+
+Kill him with your sword?
+Spare his life?
+Turn to 297
+Turn to 283
+
+268
 The missile has sophisticated jamming systems and your counter measures have not worked. You have no choice now but to fire your twin fusion beams, before it hits you. Make an Attack Roll.
 
 If you score 6-12, turn to 304
@@ -1663,18 +1661,54 @@ If you score 2-5, turn to 293
 You pull up and roll the Fighter through 90 degrees, lifting your I wing just over the hurtling ball of flaming plasma, then shoot onward like a bullet over the fortress. The plasma shell explodes behind you, filling the corridor with a globe of burning white destruction. Turn to 71.
 
 270
-Your particle disruptor? A rocket?
-Turn to 249 Turn to 260
-Just as the hunter-seeker reaches you the jet pack carries you
-B: Agidy Yelov is moving the wardroids of Mechanon to
+Just as the hunter-seeker reaches you, the jet pack carries you straight upwards. The mine hits the ground just behind the spot where you had been standing and there is a hissing and a great cloudof steam as it buries itself several feet into the rock beneath the steel floor. Yelov crouches low on the raildroid as the interceptor makes another attack run. You fire a rocket at it which blows one of its side planes off and the interceptor spins, out of control, into an energy wall where it explodes. Turn to 272.
+
+271
+Your blaster plays against one of the droids and its metal armour begins to glow but both have locked onto you with their laser cannon and you are cut into seven separate pieces. You have failed.
+
+272
+You turn your attention to Yelov once again just as he fires his blaster at you. The beam which it emits does not crackle and it is a glassy purple. It has been modified to deliver a higher intensity beam by the wardroids of Mechanon. You use your jetpack to throw yourself out of the path of the beam but not before your battlesuit takes 2 points of damage. The heat is so intense that the suit cannot protect you fully and you suffer serious burns. Lose 3 Endurance points. If you are still alive, will you use on Yelov:
+
+Your particle disruptor?
+A rocket?
+Turn to 249
+Turn to 260
+
 
 273
 You realise that before you type in the coordinates for a new destination in time and space you must have formulated a good guess as to what Yelov's plan is. Consider the three possibilities set below and decide which, in your opinion, knowing Yelov as you do, is the most likely.
+
 A: Agidy Yelov is using the wardroids of Mechanon to build an impregnable fortress on the inhospitable planet Thrix where he can make himself safe from the Space Federation who might be happy to leave him there to rot.
 
-the planet Thrix before they are destroyed by the nuclear catastrophe on Mechanon where he will hide them until he is ready to attack Earth by moving them into the timehole at the Eiger Vault in 3033 AD.
-C: Agidy Yelov has already prevented the nuclear catastrophe on Mechanon and is travelling to Thrix in order to collect enough Polybdenum to ship the deadly arsenal of wardroids through time to attack the Federa tion.
-normal but you had not calculated on the added effect of the naturally low temperature on this freezing planet. You are already suffering severe frostbite. Lose 2 Endurance points. If you are still alive, you decide to crawl to the cover of the boulders.
+B: Agidy Yelov is moving the wardroids of Mechanon to the planet Thrix before they are destroyed by the nuclear catastrophe on Mechanon where he will hide them until he is ready to attack Earth by moving them into the timehole at the Eiger Vault in 3033 AD.
+
+C: Agidy Yelov has already prevented the nuclear catastrophe on Mechanon and is travelling to Thrix in order to collect enough Polybdenum to ship the deadly arsenal of wardroids through time to attack the Federation.
+
+If you believe A is the most likely,
+If you believe B is the most likely,
+If you believe C is the most likely,
+turn to 262
+turn to 308
+turn to 229
+
+274
+The blast of Yelov's unhinged hatred is too much for you and you fall unconscious. You never wake up.
+
+275
+CAIN replies that Yelov's Time Machine carried the usual amount of Polybdenum, enough for eight trips through time. If you would like- to enquire whether there is Polybdenum to be found on Mechanon, turn to 250. If you wish to chase Yelov immediately, will you set coordinates for the timehole on:
+
+Mechanon?
+Thrix?
+Crecy?
+Turn to 233
+Turn to 223
+Turn to 209
+
+276
+The missile has breached your ship's defences. The circuits are overloading and she is falling apart. Suddenly the Fighter explodes into a ball of flame and you are destroyed with it.
+
+277
+For long anxious moments you wait for the searing pain which will tell you that a laser cannon is ending your existence, but the wardroids roar overhead, creating a whirlpool of dust and mist. Their infra-red sensors, which see only heat, have lost your trace. You return the temperature control of your suit to normal but you had not calculated on the added effect of the naturally low temperature on this freezing planet. You are already suffering severe frostbite. Lose 2 Endurance points. If you are still alive, you decide to crawl to the cover of the boulders.
 Turn to 238.
 
 278
@@ -1685,31 +1719,38 @@ If you score 2-5, turn to 292
 
 279
 This time your Strike Fighter warps out into null-space outside The grid. You are free of the sophisticated trap laid for you by the wardroidsof Mechanon. When you type in the coordinates for Mechanon 1986 AD you re-emerge outside the factory planet's dull red atmosphere smoothly and normally. Numerous satellitesare in orbit below you but a moving blip on your radar screendraws your attention. CAIN puts it onto the visual scannersand you see that a large hyper-drive starship is leaving Mechanon. You ask CAIN to compute its likely destination and after a moment it chimes, 'Earth, Falcon, Earth 1986, with a probability of 93%. Proxima Centaurai, probability of 6.3%, and Ceres, probability of 0.39%. Other probabilities exist.' Will you:
-If you believe A is the most likely, If you believe B is the most likely, If you believe C is the most likely,
 
-274
-turn to 262 turn to 308 turn to 229
-The blast of Yelov's unhinged hatred is too much for you and you fall unconscious. You never wake up.
-
-275
-CAIN replies that Yelov's Time Machine carried the usual amount of Polybdenum, enough for eight trips through time. If you would like- to enquire whether there is Polybdenum to be found on Mechanon, turn to 250. If you wish to chase Yelov immediately, will you set coordinates for the timehole on:
-Mechanon? Thrix? Crecy?
-Turn to 233 Turn to 223 Turn to 209
-
-276
 Gun your ship to hyper-drive velocity and jump to Earth 1986?
 Ignore the starship and head for Mechanon and the Central Computer Complex?
-
-280
-The missile has breached your ship's defences. The circuits are ' overloading and she is falling apart. Suddenly the Fighter explodes into a ball of flame and you are destroyed with it.
-
-277
-For long anxious moments you wait for the searing pain which will tell you that a laser cannon is ending your existence, but the wardroids roar overhead, creating a whirlpool of dust and mist. Their infra-red sensors, which see only heat, have lost your trace. You return the temperature control of your suit to
 Turn to 359
 Turn to 325
-A large rail twenty metres above the floor runs the length of the Access tunnel and out into the main tunnel. As you move beneath it a massive wardroid which bears a convex shield whirs into sight at the far end travelling along the rail. It accelerates
 
-towards you. Will you:
+280
+A large rail twenty metres above the floor runs the length of the Access tunnel and out into the main tunnel. As you move beneath it a massive wardroid which bears a convex shield whirs into sight at the far end travelling along the rail. It accelerates towards you. Will you:
+
+Hug the tunnel wall and stay motionless?
+Continue directly beneath the thick rail?
+Turn to 7
+Turn to 20
+
+281
+You pull up and roll the Strike Fighter 90 degrees, presenting as little of it as possible, but you are too slow and it slams into you, filling your forward screens with a great ball of burning plasma The force of the explosion almost shakes the ship apart and you lose control of her for a moment. Incredibly, she withstands the blast itself. Lose 2 Shield or \ Armour point. If y o u r ship defence points have fallen below zero, turn to 90. If not , you streak on over the fortress. Turn to 71.
+
+282
+The damage wreaked on your ship's defences has got through at last. There is a massive explosion as you and the Strike Fighter are consumed in a raging ball of flame. You have failed.
+
+283
+Nevers, stunned and bewildered, is led behind the English lines Suddenly you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace which seems to crackle with a blue aura ready to strike Sir Thomas Chandos. You cannot detect any thoughts at all inside the great black helm. Will you:
+
+Use your Power of Will on the knight?
+Attack the knight with your sword?
+Use your blaster on the knight?
+Turn to 414
+Turn to 355
+Turn to 346
+
+284
+The air recycler flushes the air in Falcon's Wing and you climb out of your suit and stretch, checking any hurts you may have. CAIN reminds you that the timehole on Thrix is closing up, and you decide to set coordinates for Mechanon in 1986 AD. Turn to 317.
 
 285
 You try to line your right arm up with the hunter-seeker and turn the particle disruptor on. Make an Attack Roll.
@@ -1719,26 +1760,13 @@ If you score 2-6, turn to 306
 
 286
 Nothing happens. CAIN tells you that the grid exists in only two dimensions, you have tried to move in a third dimension. The radiation level is critical. Which coordinates will you try next?
-Hug the tunnel wall and stay motionless?
-Continue directly beneath the thick rail?
 
-281
-Turn to 7 Turn to 20
-You pull up and roll the Strike Fighter 90 degrees, presenting as little of it as possible, but you are too slow and it slams into you, filling your forward screens with a great ball of burning plasma The force of the explosion almost shakes the ship apart and you lose control of her for a moment. Incredibly, she withstands the blast itself. Lose 2 Shield or \ Armour point. If y o u r ship defence points have fallen below zero, turn to 90. If not , you streak on over the fortress. Turn to 71.
-
-282
-The damage wreaked on your ship's defences has got through at last. There is a massive explosion as you and the Strike Fighter are consumed in a raging ball of flame. You h a v e failed.
-
-283
-Nevers, stunned and bewildered, is led behind the English lines Suddenly you see an English knight in black a r m o u r whose shield bears no device but is as black as sable. He is raising his macewhichseemstocracklewithablueaura ready tostrikeSir Thomas Chandos. You cannot detect any thoughts at all inside the great black helm. Will you:
-1/ 0/ 0 0/ 5/ 5 0/-5/-5
-Turn to 332 Turn to 321 Turn to 279
- Use your Power of Will on the knight? Attack the knight with your sword? Use your blaster on the knight?
-
-284
-Turn to 414 Turn to 355 Turn to 346
-The air recycler flushes the air in Falcon's Wing and you climb out of your suit and stretch, checking any hurts you may have. CAIN reminds you that the timehole on Thrix is closing up, and you decide to set coordinates for Mechanon in 1986 AD. Turn to 317.
-
+1/ 0/ 0
+0/ 5/ 5
+0/-5/-5
+Turn to 332
+Turn to 321
+Turn to 279
 
 287
 CAIN is silent for some moments before chiming, There is a correspondence between the names of members of the English nobility who were present at the battle of Crecy and the earliest of your known ancestors, Falcon. Sir Thomas Chandos, whose coat of arms is a silver falcon on a blue background may have been a distant ancestor of yours. I assume you know that a coat ofarmsisthepicturecarriedonaknight'sshieldandsurcoatina battle of those times? If Sir Thomas Chandos is murdered before his time, Falcon, you will never have existed.'
