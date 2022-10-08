@@ -1989,27 +1989,15 @@ If you score a 1-3, turn to 61
 If you score a 4-6, turn to 154
 
 325
-Nearest you, on the radar, is what can only be a weather control satellite - it has seeding pods and chemical condenser beams to generate clouds and rainfall. CAIN tells you that Mechanon, before the arrival of the Danikoi, was ravaged by terrible ion
-
-storms and hurricane-force winds. But the weather control satellites prevent these.
+Nearest you, on the radar, is what can only be a weather control satellite - it has seeding pods and chemical condenser beams to generate clouds and rainfall. CAIN tells you that Mechanon, before the arrival of the Danikoi, was ravaged by terrible ion storms and hurricane-force winds. But the weather control satellites prevent these.
 As you approach the weather satellite CAIN chimes again: 'Look at the radar. Falcon.' There is an intruder detection satellite beyond the weather controller. It has already detected the Strike Fighter's ion drive and beamed a message to the Central Computer on Mechanon. Your twin fission tubes are ready to fire. Will you turn them against:
 
-328
-As you descend from Falcon's Wing the radar beacon sweeps towards you. Will you:
-The intruder detection satellite? The weather control satellite?
+The intruder detection satellite?
+The weather control satellite?
+Turn to 336
+Turn to 344
 
 326
-Turn to 336 Turn to 344
-Your rocket hits the interceptor which explodes with a roar and a clang as half of it cannons into the side of the tunnel. The hunter-seeker fixes itself onto the back of your battlesuit. Warning lights flash as the suit's sensors tell you that the hunter-seeker is an armour piercing device. A controlled explosion forces a core of molten metal through the suit and you explode inside it when it drills into your body. The last sound you hear is Yelov's vengeful howl of joy.
-
-330
-Ten seconds after you emerge into the Thrixian atmosphere Falcon's Wing impacts on the rocky surface of Thrix. It is destroyed utterly and the shock is too much for your frail human body. The acid atmosphere of Thrix scalds your panting lungs and you die. You have failed.
-
-331
-You make it to the access tunnel and although this one has a rail it is not connected to those on which the raildroids which attacked you are resting. The scream of the Atmospheric Interceptor which has turned outside the complex and has now returned, almost deafens you, but it cannot turn into this narrow tunnel. Turn to 280.
-
-332
-Nothing happens. CAIN tells you that the grid exists in only two dimensions, you have tried to move in a third dimension. The radiation dampers overload and you suffer severe radiation poisoning. Even if you find a way out of the grid, you will die within minutes. The sophisticated trap set up by the wardroids of Mechanon has caught you in its deadly jaws.
 Your lasers miss time and again. It is difficult to target them in reverse - left is right as you look at the rear scanner. You try electronic counter measures, but nothing happens. You give up and try desperately to throw it off your tail by weaving across the red sky in sickening lurches. Make an Evasion Roll.
 
 If you score 6-12, turn to 337
@@ -2020,12 +2008,26 @@ You slam the Fighter into a dive and hurtle towards the ground. The plasma shell
 
 If you score 7-12, turn to 362
 If you score 2-6, turn to 352
+
+328
+As you descend from Falcon's Wing the radar beacon sweeps towards you. Will you:
+
 Run towards the building which the droid flew into?
 Fire your blaster at the beacon?
+Turn to 5
+Turn to 418
 
 329
-Turn to 5 Turn to 418
+Your rocket hits the interceptor which explodes with a roar and a clang as half of it cannons into the side of the tunnel. The hunter-seeker fixes itself onto the back of your battlesuit. Warning lights flash as the suit's sensors tell you that the hunter-seeker is an armour piercing device. A controlled explosion forces a core of molten metal through the suit and you explode inside it when it drills into your body. The last sound you hear is Yelov's vengeful howl of joy.
 
+330
+Ten seconds after you emerge into the Thrixian atmosphere Falcon's Wing impacts on the rocky surface of Thrix. It is destroyed utterly and the shock is too much for your frail human body. The acid atmosphere of Thrix scalds your panting lungs and you die. You have failed.
+
+331
+You make it to the access tunnel and although this one has a rail it is not connected to those on which the raildroids which attacked you are resting. The scream of the Atmospheric Interceptor which has turned outside the complex and has now returned, almost deafens you, but it cannot turn into this narrow tunnel. Turn to 280.
+
+332
+Nothing happens. CAIN tells you that the grid exists in only two dimensions, you have tried to move in a third dimension. The radiation dampers overload and you suffer severe radiation poisoning. Even if you find a way out of the grid, you will die within minutes. The sophisticated trap set up by the wardroids of Mechanon has caught you in its deadly jaws.
 
 333
 You choose a high arcing trajectory for the throw of your grenade but one of the wardroids, reacting with superhuman speed, shoots up and smashes into the grenade in mid air, causing it to explode before it hits the Polybdenum. The wardroid is immobilised, its gyros gone, and it crashes to the ground, though it is still functional. The other wardroid has locked onto you, however, and it fires at you with a pulse of energy from one of its weapon banks that catches you in the thigh. Lose 8 Endurance points. If you are still alive, your suit has begun to repair itself in time to prevent any of the atmosphere entering and you leap for cover. Turn to 345.
