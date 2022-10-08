@@ -2430,11 +2430,10 @@ If you score 2-5, turn to 73
 As you watch the French knights' charge from your position behind the Earl of Northampton, the withering volleys of the English longbowmen take their toll again and again, bringing down ranks of knights and horses as if they had ridden into a wall. Some of the valiant French knights break through and there is fierce hand-to-hand fighting around the Black Prince's position. As you watch, a huge English knight in black armour who bears no coat of arms raises his mace against one of his fellows. The great blow falls and you are engulfed in darkness. One of your ancestors has been slain - it is as if you had never existed. Now Agidy Yelov will rule the Federation.
 
 411
-The surface of Mechanon is wreathed in flames and as you watch a fuel refinery explodes, sending a pillar of flame into the upper atmosphere. The droids are motionless, the space- artillery tubes hang down limply. Mechanon is dead. As the Strike Fighter climbs away from the stricken planet, something happens which you can hardly comprehend, let alone believe. The planet splits into two flaming halves. Its centre has been mined out centuries ago and from the hollowness within flies a ship as large as a mountain. It rumbles skyward on the thrust of a hundred colossal fusion tubes. This must be the planet killer which the computer launched. Its size alone would mean that Earth would be destroyed if it hit a continent at two-tenths the speed of light, but you can tell at a glance that it is a single flying
-
- bomb. The planet killer accelerates towards hyper-space speed and CAIN confirms that it is almost certainly on course for Earth. Will you:
-Try to destroy the planet killer? Turn to 55 Ask CAIN if there are any other
-options?
+The surface of Mechanon is wreathed in flames and as you watch a fuel refinery explodes, sending a pillar of flame into the upper atmosphere. The droids are motionless, the space- artillery tubes hang down limply. Mechanon is dead. As the Strike Fighter climbs away from the stricken planet, something happens which you can hardly comprehend, let alone believe. The planet splits into two flaming halves. Its centre has been mined out centuries ago and from the hollowness within flies a ship as large as a mountain. It rumbles skyward on the thrust of a hundred colossal fusion tubes. This must be the planet killer which the computer launched. Its size alone would mean that Earth would be destroyed if it hit a continent at two-tenths the speed of light, but you can tell at a glance that it is a single flying bomb. The planet killer accelerates towards hyper-space speed and CAIN confirms that it is almost certainly on course for Earth. Will you:
+Try to destroy the planet killer?
+Ask CAIN if there are any other options?
+Turn to 55
 Turn to 290
 
 412
@@ -2459,31 +2458,29 @@ If you score 2-4, turn to 111
 It takes you some time to find the capsule as it has crashed into a deep wood. When you do, you realise that there is nothing to sabotage, the capsule was designed for a one way trip and could never return to space. Its only purpose was to deliver the android which is now lost in the Devonian night. You return to the road and walk for some miles without locating the android. Suddenly you look up to see several orange streaks in the sky. There is a flash of light and a thunderous roar as a great mushroom cloud of incandescent flame and smoke erupts into the upper atmosphere. The next explosion turns your eyes to steam and strips you to a charred skeleton. The android has swoomne.how provoked a nuclear holocaust on Earth; Yelov has
 
 417
-You draw and aim your blaster in a flash but the superhuman reactions of the Black Knight are even faster and he ducks the
-
-sizzling beam of superheated plasma. The visor on his great black helm clicks open and a beam of red light lances towards you. You can only try desperately to throw yourself aside. Make an Evasion Roll.
+You draw and aim your blaster in a flash but the superhuman reactions of the Black Knight are even faster and he ducks the sizzling beam of superheated plasma. The visor on his great black helm clicks open and a beam of red light lances towards you. You can only try desperately to throw yourself aside. Make an Evasion Roll.
 
 If you score 6-12, turn to 74
 If you score 2-5, turn to 87
 
 418
 The beam of your blaster reacts with small particles in the air which sparkle like dancing fairy lights, but the efficiency of your weapon is as good as ever. The radar beacon grinds to a halt, severely damaged. Will you:
-story and he compliments you on your success.
+Walk towards the building into which the droid flew?
+Return to Falcon's Wing and get into your Flyer?
+Turn to 123
+Turn to 75
+
+419
+You concentrate your mind and try to dominate the will of this sentient rock, but its mind is so alien you don't know where to begin. The Thrix is entirely unaffected but it seems to think that you have made a gesture of friendship and it opens its mind more fully to you. Its name translates, in a shortened form, to Carborundum. It clicks at you and your translator tells you that it is beckoning you. Suddenly it lurches and begins to roll across the ground. You decide to follow warily. Turn to 53.
+
+420
+'Ah, Falcon, I was about to call for you. Agidy Yelov escaped from the detention centre nine minutes ago!'
+'But that's impossible ...' you begin, until you realise that you have changed history and this is not the same Earth that you left a few hours ago. While you tell Jobanque where you have been he listens in amazement. By convincing the Danikoi never to build Mechanon you have saved Earth and the Space Federation and now it is as if Mechanon had never existed. Even CAIN's data banks have been changed. You are the only one who will ever really know what might have been. Jobanque believes your story and he compliments you on your success.
 'No medals this time, Falcon. We would never convince the Federation that your story is true! Sounds like you've had. quite an exciting time! But rest now, take ten days' vacation. I'll arrange a trip to Titan if you like. I'll have to use another agent to track down Yelov (who never died now, of course!). If you go into the recreation centre ask Sparrowhawk to see me. She may know the workings of a fellow Siriun's mind. Happy holiday, Falcon - use it well.' Barely able to adjust to the fact that a part of your life simply never took place as far an your colleagues are concerned, you walk into the recreation centre in a daze. Bloodhound is leaning close to Sparrowhawk who looks troubled. You ask her to report to Jobanque and, as she leaves, Bloodhound asks you how the test flight went.
 'What test flight?' you exclaim, and tell him your incredible story.
 You cannot tell whether Bloodhound believes you or not he infuriates you, pretending that you are mad, but at last he says, 'Well, you're as sane as the rest of us. Falcon, and I know you would never lie. But if you were changing history, couldn't you have arranged for me to have a solar-racer while you were at it?'
 Ignoring Bloodhound's idiocy you protest, 'I have changed history. Why am I the only one to have memories of Mechanon? CAIN was there too.'
 'Sounds like a question for the techs to me,'says Bloodhound 'You're a walking time paradox. Ask Skirrow - if he doesn't know, nobody will!' You shrug your shoulders and decide instead to make the most of your trip to the pleasure-dome on Titan.
-Walk towards the building into which the droid flew?
-Return to Falcon's Wing and get into your Flyer?
-
-419
-Turn to 123 Turn to 75
-You concentrate your mind and try to dominate the will of this sentient rock, but its mind is so alien you don't know where to begin. The Thrix is entirely unaffected but it seems to think that you have made a gesture of friendship and it opens its mind more fully to you. Its name translates, in a shortened form, to Carborundum. It clicks at you and your translator tells you that it is beckoning you. Suddenly it lurches and begins to roll across the ground. You decide to follow warily. Turn to 53.
-
-420
-'Ah, Falcon, I was about to call for you. Agidy Yelov escaped from the detention centre nine minutes ago!'
-'But that's impossible ...' you begin, until you realise that you have changed history and this is not the same Earth that you left a few hours ago. While you tell Jobanque where you have been he listens in amazement. By convincing the Danikoi never to build Mechanon you have saved Earth and the Space Federation and now it is as if Mechanon had never existed. Even CAIN's data banks have been changed. You are the only one who will ever really know what might have been. Jobanque believes your
 
 SCORING FOR FALCON 1: THE RENEGADE LORD
 If you have played Falcon 1: The Renegade Lord and would like to rate your skill as an Agent of TIME here are the points equivalent of the letters you should have recorded.
