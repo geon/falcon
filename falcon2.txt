@@ -1298,6 +1298,10 @@ You fire twice on the run, immobilising one of the wardroids which crashes to th
 
 213
 Shutting all other thoughts out you concentrate on exerting your will to control the Black Knight but there is no will to control. Inside the menacing suit of armour, you realise with horror, is an automaton not a man. It is about to strike Sir Thomas Chandos a crushing blow with its mace and you are almost too late tosave him. Subtract2fromyournextdierolltoreflect this. Will you:
+Attack the Black Knight with your sword?
+Use your blaster against it?
+Turn to 226
+Turn to 235
 
 214
 Yelov's plasma pistol rips into your battlesuit, twisting and rupturing its armour, and you lose 10 Endurance points as the plasma gets through to your midriff. If you are still alive, you recover, but the speed with which Yelov now rushes you shows that both of his legs are bionic. He is having himself transformed into a walking death machine. He punches you with his bionic arm which is twenty times as powerful as any man's. You hurtle backwards and smash into a computer terminal. Subtract \ from your Suit Armour. If your armour is at zero or less, turn to 161. Otherwise, the computer screams at Yelov not to hurt it. Turn to 56.
@@ -1306,13 +1310,7 @@ Yelov's plasma pistol rips into your battlesuit, twisting and rupturing its armo
 Desperately you target the lasers and let fly. You slice two in half and they fall harmlessly away, but try as you might, you are unable to hit the other one and it slams into the underside of your ship and explodes. Lose 1 Shield point or 2 Armour points. If your ship's defences have fallen below zero, turn to 276. If you have survived, your ship rocks upward but the gyros right it, and you flash onward past the fortress, lucky to be alive. Turn to 71.
 
 216
-You regain the safety of Falcon's Wing, suffering no more than the mockery of some camp followers who think that you are fleeing the battle in fear. CAIN tells you that his scanners registered the fact that the Black Knight was a droid from Mechanon, and that it must have been programmed to kill Sir Thomas Chandos who is probably your ancestor. 'Be careful, Falcon, Yelov is trying to kill you.' If you didn't know that electronic brains are not programmed to register emotion, CAIN's tone would have you believe he was worried on your behalf. You can see on the console screen that the English are losing the battle, but it is too late for you to do anything about it.
-You ask CAIN to evaluate the extent to which history has been changed. CAIN purrs quietly for some moments before report- ing that, whilst the Black Prince lives, most of the French leaders have been killed, with the exception of Count Louis de Nevers who will now kill the ancestor of the man who invented the energy deflector shields for Federation warships, at the battle of Poitiers. Note down on your Adventure Sheet that Count Louis
-Attack the Black Knight with your sword?
-Use your blaster against it?
-Turn to 226 Turn to 235
-
- survived the battle of Crecy and Zeiss, the inventor of deflector shields, never lived. Luckily, King Edward will still manage to take Calais from the French and the changes of history will largely be cancelled out by the awful plague, the Black Death, that will sweep Europe in two years' time. Turn to 294.
+You regain the safety of Falcon's Wing, suffering no more than the mockery of some camp followers who think that you are fleeing the battle in fear. CAIN tells you that his scanners registered the fact that the Black Knight was a droid from Mechanon, and that it must have been programmed to kill Sir Thomas Chandos who is probably your ancestor. 'Be careful, Falcon, Yelov is trying to kill you.' If you didn't know that electronic brains are not programmed to register emotion, CAIN's tone would have you believe he was worried on your behalf. You can see on the console screen that the English are losing the battle, but it is too late for you to do anything about it. You ask CAIN to evaluate the extent to which history has been changed. CAIN purrs quietly for some moments before reporting that, whilst the Black Prince lives, most of the French leaders have been killed, with the exception of Count Louis de Nevers who will now kill the ancestor of the man who invented the energy deflector shields for Federation warships, at the battle of Poitiers. Note down on your Adventure Sheet that Count Louis survived the battle of Crecy and Zeiss, the inventor of deflector shields, never lived. Luckily, King Edward will still manage to take Calais from the French and the changes of history will largely be cancelled out by the awful plague, the Black Death, that will sweep Europe in two years' time. Turn to 294.
 
 217
 The laser cannon nicks your leg and the corrosive gas of Thrix's atmosphere pours into your environment suit. Your leg has been almost severed, but the suit's plasnet repairs itself automatically. You lose 10 Endurance points. If you are still alive, your leg will heal badly, and you must remove one from your Endurance maximum forever. Turn to 228.
