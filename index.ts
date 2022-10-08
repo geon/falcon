@@ -453,6 +453,13 @@ function checkLineBreaks(pages: readonly Page[]) {
 					}: Lower case first letter on line: ${section.line.substring(0, 40)}`,
 				);
 			}
+			if (firstChar !== undefined && firstChar === " ") {
+				errors.push(
+					`Page ${
+						page.pageNumber
+					}: Space on first letter on line: ${section.line.substring(0, 40)}`,
+				);
+			}
 		}
 	}
 
