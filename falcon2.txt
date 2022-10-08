@@ -1836,6 +1836,17 @@ Turn to 213
 Turn to 226
 Turn to 235
 
+298
+There wasn't enough time for your electronic counter measures to take effect and all three of the missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose3 Energy Shield points or 5 Hull Armour points. If your ship defences have fallen below zero, turn to 276. If you have survived, the ship is rocked upward with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive. Turn to 71.
+
+299
+CAIN reports that a French victory at the battle of Crecy might have ended the Hundred Years War before it had begun but that he is unable to compute the likely effects of such a change in Earth's timeline. The battle is about to begin in the Crecy timehole. Will you:
+
+Set off for Crecy immediately?
+Ask whether a change in the events of the battle of Crecy would affect you?
+Turn to 322
+Turn to 313
+
 300
 The green ray expands as it stabs towards you and you are caught. The particles of your body coat the walls of the tunnel for fifty metres around in a thin film. You have fallen victim to a high intensity particle disruptor.
 
@@ -1852,18 +1863,6 @@ The faceplate of your helmet darkens automatically as the fluid reacts with the 
 
 304
 Your fusion beams set the missile off but it explodes too close to you for comfort. The forward scanner screen is filled with rolling jets of flame and the ship rocks, its gyros whining. Your ship's defences have lost another 2 points (Armour or Shields). If they are at zero or below, turn to 282. If they are not you fly on. Turn to 351.
-
-
-298
-There wasn't enough time for your electronic counter measures to take effect and all three of the missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose3 Energy Shield points or 5 Hull Armour points. If your ship defences have fallen below zero, turn to 276. If you have survived, the ship is rocked upward with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive. Turn to 71.
-
-299
-CAIN reports that a French victory at the battle of Crecy might have ended the Hundred Years War before it had begun but that he is unable to compute the likely effects of such a change in Earth's timeline. The battle is about to begin in the Crecy timehole. Will you:
-Set off for Crecy immediately?
-Ask whether a change in the events of
-the battle of Crecy would affect you?
-Turn to 322 Turn to 313
-
 
 305
 At last you knock his sword aside and cleave the air with a mighty cut that embeds your sword in his side. He tumbles from his horse, snapping his neck as he hits the ground just as the sword of Sir Thomas Chandos whistles through the air where he would have been but for your blow. A chill feeling of fear takes you in case you have changed history but as you wait and nothing happens you guess that perhaps Chandos killed Louis de Nevers in history. Before you can breathe you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
