@@ -1489,29 +1489,35 @@ say that the timehole on Thrix is closing and you allow yourself to be sucked up
 
 243
 Your thumbs depress the fusion beam fire buttons on the joystick but you mis-timed the shot and the twin blasts of energy destroy some worker droids busy in front of the fortress. To your horror, you see the two plasma cannon, pulses of energy running up and down the barrels, opening up, and about to launch three sleek and deadly dart-shaped missiles at you. There is a spitting roar as the plasma shells hurtle towards you. Will you:
-scrambleover before they catch you. Make an Evasion Roll. If you score 7-12, turn to 135
+
+Try to destroy the missiles before they can get off the ground with your fusion beams?
+Try to evade the plasma shells?
+Turn to 338
+Turn to 301
+
+244
+The bolt of superheated plasma plays across the android and at explodes. The blast knocks you off the wall, lose 3 Endurancepoints. If you are still alive, you regain your senses to the sound of a siren, like that of an Enforcer's jetcopter whining nearby, and two men in navy blue uniforms run towards you from the recreation centre. Still groggy, you jump for the wall and try to scramble over before they catch you. Make an Evasion Roll.
+
+If you score 7-12, turn to 135
 If you score 2-6, turn to 127
 
 245
 [score an N]
 You walk nonchalantly past the worker droids, bathed in the heat and light of several welding torches and lasers. The sensors which control the space-artillery cannot detect you, as you are masked by the heat and light. The inside of the building stretchesinto the distance, like a giant hovrail tunnel. To your left a much smaller access tunnel, perhaps thirty metres wide, stretches for a hundred metres, towards an illuminated display board. Will you:
-Run down the access tunnel? Turn to 280 Continue on down the main tunnel? Turn to 256
+
+Run down the access tunnel?
+Continue on down the main tunnel?
+Turn to 280
+Turn to 256
 
 246
 You hurtle onward like a bullet. A missile base on the left wall comesinto view and a thin corridor branches off to the right. Ahead you can see the cavernous hangar and a droid running on rails below you. Suddenly an Atmospheric Interceptor bursts out of the corridor to the right. With a swift blast of your fission beams you destroy it, but the missile base launches a salvo of sleek homing missiles and the plasma cannons ringing the rim of the hangar entrance turn inward and fire simultaneously. Twenty balls of superheated plasma streak towards you. The corridoris filled from top to bottom and all its length with a great sea of boiling plasma as the shells explode, completely vapourising you and your ship. You have failed.
 
 247
-Asthe Count of Flanders raises his sword to strike Sir Thomas Chandos you concentrate your thoughts and hurl a blast of mental energy at the French nobleman. Make a Thinkstrike Roll.
+As the Count of Flanders raises his sword to strike Sir Thomas Chandos you concentrate your thoughts and hurl a blast of mental energy at the French nobleman. Make a Thinkstrike Roll.
 
 If you score 6-12, turn to 267
 If you score 2-5, turn to 259
-Try to destroy the missiles before they can get off the ground with your fusion beams?
-Try to evade the plasma shells?
-
-244
-Turn to 338 Turn to 301
-The bolt of superheated plasma plays across the android and at explodes. The blast knocks you off the wall, lose3 Endurancepoints. If you are still alive, you regain your senses to the sound of a siren, like that of an Enforcer's jetcopter whining nearby, and two men in navy blue uniforms run towards you from the recreation centre. Still groggy, you jump for the wall and try to
-
 
 248
 CAIN replies that all traces of Polybdenum were mined out of Mechanon for use in wardroids centuries ago. Yelov's machine like yours, carried enough Polybdenum to use the Variac Drive for eight jumps through time and space. If Yelov needs Polybdenum then Thrix is the obvious place to go for it - the planet Thrix has the richest seams of Polybdenum-Iridium ore yet discovered. Turn to 273.
