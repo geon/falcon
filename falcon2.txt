@@ -2127,19 +2127,30 @@ Turn to 372
 Turn to 360
 
 349
-Nothing happens. CAIN tells you that the grid
-in only two dimensions, you have tried to move in a third dimension. The radiation dampers overload and you suffer severe radiation poisoning. Even if you find a way out of the grid, you will die within minutes. The sophisticated trap set up by the wardroids of Mechanon has caught you in its deadly jaws.
+Nothing happens. CAIN tells you that the grid exist in only two dimensions, you have tried to move in a third dimension. The radiation dampers overload and you suffer severe radiation poisoning. Even if you find a way out of the grid, you will die within minutes. The sophisticated trap set up by the wardroids of Mechanon has caught you in its deadly jaws.
 
 350
-CAIN selects a simple coat of arms for you, a red chevron on a white background, and prepares a sword, shield and armour in the molecular convertor. You glide to the ground, looking for all the world like an English man-at-arms, and an atmosphere of tense expectancy hits you. As you step away from Falcon's Wing, around which the hologram of a group of trees is projected, battle is about to be joined. The Genoese cross- bowmen are charging towards the Black Prince and his knights. You clank down the slope and take up a position in the rear rank, behind the King, sword at the ready. His advisers are asking him whether they should send help to his young son but he replies, 'Let the boy win his spurs.' The Genoese halt suddenly and let loose a volley of crossbow bolts - the thud of one hitting your shield with great force shocks you as you realise that you could die at any moment. A few of the English fall under the hail of flying steel, but the English longbowmen let loose a volley. The sky is blackened by a great mass of arrows and they fall upon the Genoese in a withering cloud. The Genoese mercenaries must rewind their crossbows before they can fire again, whereas the English archers, tall, deep-chested men, can fire an arrow with deadly precision every six or eight seconds. The Genoese veterans have never faced such a rain of death and they panic and flee within moments. The French knights are so incensed at
-this that they ride down their own men in their frenzied charge.
-exists
-
+CAIN selects a simple coat of arms for you, a red chevron on a white background, and prepares a sword, shield and armour in the molecular convertor. You glide to the ground, looking for all the world like an English man-at-arms, and an atmosphere of tense expectancy hits you. As you step away from Falcon's Wing, around which the hologram of a group of trees is projected, battle is about to be joined. The Genoese cross- bowmen are charging towards the Black Prince and his knights. You clank down the slope and take up a position in the rear rank, behind the King, sword at the ready. His advisers are asking him whether they should send help to his young son but he replies, 'Let the boy win his spurs.' The Genoese halt suddenly and let loose a volley of crossbow bolts - the thud of one hitting your shield with great force shocks you as you realise that you could die at any moment. A few of the English fall under the hail of flying steel, but the English longbowmen let loose a volley. The sky is blackened by a great mass of arrows and they fall upon the Genoese in a withering cloud. The Genoese mercenaries must rewind their crossbows before they can fire again, whereas the English archers, tall, deep-chested men, can fire an arrow with deadly precision every six or eight seconds. The Genoese veterans have never faced such a rain of death and they panic and flee within moments. The French knights are so incensed at this that they ride down their own men in their frenzied charge.
 All nobles, they treat the Genoese mercenary soldiers with contempt. The charging knights are about to attack the Black Prince's position. Will you:
-the large building into which a droid
-flew?
-Change your mind and get into your
-Flyer?
+
+Stay in relative safety near the King?
+Move towards the Black Prince where the battle may be decided?
+Turn to 389
+Turn to 397
+
+351
+You surge forward towards the Central Computer Complex and the cavernous mouth of the hangar lined with space- artillery. A huge cavernous tunnel stretches away beyond the hangar mouth and a motley assortment of droids are being repaired at intervals along it. Three rails run the length of it, some distance from the floor. A huge access portal opens briefly and an Atmospheric Interceptor zooms out of it towards you. If you have the Main Access Code, you may turn to the paragraph number given for it. If you would like to fly on down through the immense arcing span of this tunnel, turn to 375. If you would like to blast a way through the Main Access portal, turn to 219, Or you could dive sharp left above the smaller tunnel which you walked down on your first visit to Mechanon and blast through the vaulted roof at the point where Bloodhound and Lynx rescued you. Turn to 366.
+
+352
+There wasn't enough time for your electronic counter measures to take effect completely and only one of the missiles detonates prematurely as the electronic jamming signals envelop it. The other two missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose 2 Energy Shield points or 3 HullArmourpoints.Ifyourship'sdefenceshavefallenbelowzero, turn to 276. If you have survived, the ship is rocked upwards with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive. Turn to 71.
+
+353
+As you step onto the disc CAIN tells you that the radar beacon has detected Falcon's Wing and is relaying a message beyond the range of the Time Machine's scanners. Will you:
+
+Leave Falcon's Wing and run towards the large building into which a droid flew?
+Change your mind and get into your Flyer?
+Turn to 398
+Turn to 377
 
 354
 You are still not familiar with the Strike Fighter's beam laser controls and you have failed to stop the missiles. They both home in and detonate. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved you from certain destruction, but your ship has taken damage. Subtract 2 from your Zeiss Shield energy if you are equipped with energy shields, or 4 Hull Armour paints if your ship carries Titanium Hull Armour. Turn to 34.
@@ -2153,62 +2164,50 @@ If you score 2-6, turn to 391
 
 356
 The Ion Beam catches you before you reach safety, ripping open your environment suit as it hurls you backwards. The plasnet in your suit repairs itself but your wound has been made worse by the corrosive gas of the Thrixian atmosphere which has seeped in and burned you. Lose JO Endurance points. The wounds will heal badly - subtract one from your maximum Endurance points forever. If you are still alive, you roll aside and prepare to blast. Will you:
-Stay in relative safety near the King? Move towards the Black Prince where
-the battle may be decided?
 
-351
-Turn to 389 Turn to 397
-Turn to 398 Turn to 377
-You surge forward towards the Central Computer Complex and the cavernous mouth of the hangar lined with space- artillery. A huge cavernous tunnel stretches away beyond the hangar mouth and a motley assortment of droids are being repaired at intervals along it. Three rails run the length of it, some distance from the floor. A huge access portal opens briefly and an Atmospheric Interceptor zooms out of it towards you. If you have the Main Access Code, you may turn to the paragraph number given for it. If you would like to fly on down through the immense arcing span of this tunnel, turn to 375. If you would like to blast a way through the Main Access portal, turn to 219, Or you could dive sharp left above the smaller tunnel which you walked down on your first visit to Mechanon and blast through the vaulted roof at the point where Bloodhound and Lynx rescued you. Turn to 366.
-
-352
-There wasn't enough time for your electronic counter measures to take effect completely and only one of the missiles detonates prematurely as the electronic jamming signals envelop it. The other two missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose 2 Energy Shield points or 3 HullArmourpoints.Ifyourship'sdefenceshavefallenbelowzero, turn to 276. If you have survived, the ship is rocked upwards with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive. Turn to 71.
-
-353
-As you step onto the disc CAIN tells you that the radar beacon has detected Falcon's Wing and is relaying a message beyond the range of the Time Machine's scanners. Will you:
-Kneel and take careful aim? Shoot on the run?
+Kneel and take careful aim?
+Shoot on the run?
+Turn to 368
+Turn to 382
 
 357
-Turn to 368 Turn to 382
-Leave Falcon's Wing and run towards
-Accelerate and try to break through the
 The twin fusion beams leap to their target but fail to reach it. A deflector shield glows red and then purple around the generator, absorbing the power of the beam. The force field still stands. Will you:
 
-force wall and hope your shield or
-armour can withstand it?
-Launch a missile if you have one left? Fire a continuous blast of your fusion
-beam in an attempt to overload it?
+Accelerate and try to break through the force wall and hope your shield or armour can withstand it?
+Launch a missile if you have one left?
+Fire a continuous blast of your fusion beam in an attempt to overload it?
+Turn to 378
+Turn to 367
+Turn to 390
 
 358
-Turn to 378 Turn to 367
-Turn to 390
-are a killer - it wants urgently to find out whether this is true. Will you:
 You make a desperate grab for the box as you fall past it. Make a Chance Roll.
-
 If you score 4-6, turn to 394
 If you score 1-3, turn to 385
 
 359
 Your ship out-accelerates the Mechanon starship and you match speed with it a fraction before reaching hyper-space velocity. You make the fine adjustments which will point you towards Earth and set the jump for a length of 9.36754 parsecs. You go into hyper-space together and the stars form a tunnel around you. Ahead the stars which shoot towards you are neon blue, at the sides they are long streaks of white and yellow, and as you crane your head backwards you can see that you are leaving behind stars which glow redly, at a breathtaking rate. Both ships leave hyper-space near the moon. You are four thousand miles behind and below the Mechanon starship. It is not responding to your presence, your radar dampers must be effective, if the droidship is scanning. You arm your missiles, ready to attack if the starship threatens Earth, but to your surprise, it merely discharges a small re-entry capsule, from its belly. The ship turns and accelerates, once more, apparently returning to Mechanon. Will you:
+
+Turn and follow it?
+Follow the re-entry capsule down?
+Turn to 386
+Turn to 371
+
+360
+You speak into your helmet mike and a stream of clicks is synthesised by your translator. A part of the alien's mind reaches out to touch yours and you realise that it fears that you are a killer - it wants urgently to find out whether this is true. Will you:
+
 Use your translator again and tell it a harmless joke?
 Try to control the alien using your Power of Will?
 Risk putting your mind into full contact with the alien using your Psychic Awareness?
+Turn to 405
+Turn to 419
+Turn to 2
 
 361
-Turn to 405 Turn to 419
-Turn to 2
-Turn and follow it?
-Follow the re-entry capsule down?
-
-360
-Turn to 386 Turn to 371
 The computer's tones are calm once more as it says, 'You must leave now, intruder.' Ignoring it, you look around for what may be the computer's core. It is difficult to tell one part of the enormous electronic brain from another so you decide to use your particle disruptor on all of it. As its memory banks are destroyed one by one the computer threatens you that the whole planet will explode, killing you, if you continue. As your beam of destruction creeps towards a large steel pyramid the computer's tone changes to a wheedling whine. 'Cease immediately, intruder, or I shall launch the planet killer at Earth.' Still ignoring it, you play your beam across the pyramid which seems to melt away to nothing as if by magic. Suddenly everything goes haywire. Lights flash everywhere and then dim as the main generators shut down. You manage to find your way back out of the tunnel in the darkness by the searchlight of your battlesuit helmet and climb into your Strike Fighter once more. The sound of distant explosions rocks the tunnel as you climb into your crash-couch. To your relief the ion drives are operational again now that they have cooled down, and you gun the fighter through the blackness of the tunnel, aiming for the white pin pricks of the stars of Mechanon's night sky at its end. There is a blinding flash and the tunnel is filled with light as another immense explosion rocks the complex, and the walls begin to cave in on you. You make it to the end of the tunnel just in time and hurtle skyward. Turn to 411.
 
 362
-A field of electronic jamming signals envelops the three missiles
-You speak into your helmet mike and a stream of clicks is synthesised by your translator. A part of the alien's mind reaches out to touch yours and you realise that it fears that you
-
-causing them to detonate prematurely, filling your screen with smoke and flame. You race on through the fireball and over the fortress. Turn to 71.
+A field of electronic jamming signals envelops the three missiles causing them to detonate prematurely, filling your screen with smoke and flame. You race on through the fireball and over the fortress. Turn to 71.
 
 363
 You contact CAIN using your battlesuit access terminal (BAT) and it is able to help you. It is fashionable at this period of the history of the Danikoi for eminent Danikoi to prophesy what will happen 500 years after they die. One such prophecy is due to be read in a month's time. CAIN is able to tell you exactly what it will say. You ask the decision makers to read the prophecy now instead of waiting the last few days. They consult a computer terminal and order the prophecy to be read. It causes a great hum of laughter but it is exactly as you predicted and they believe you are a traveller in time. The Disputer now says, 'I believe your story, but the events of fifty millenia in the future have no meaning for we who must eat, laugh and love in the short span of our own lives. Why should we care about the future?' There is a chorused hum of agreement amongst the Danikoi. Will you say:
