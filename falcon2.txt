@@ -1943,31 +1943,34 @@ If you score 7-12, turn to 362
 If you score 2-6, turn to 352
 
 317
-As you have just spent an hour of your life in null-space you may restore up to 12 points of lost Endurance points through the use of your Autodoc. You rematerialise on Mechanon at the same instant that you left Thrix in real time, but as your camera surveys the horizon there is no sign of Yelov or his newly manufactured
+As you have just spent an hour of your life in null-space you may restore up to 12 points of lost Endurance points through the use of your Autodoc. You rematerialise on Mechanon at the same instant that you left Thrix in real time, but as your camera surveys the horizon there is no sign of Yelov or his newly manufactured Time Machine. Mechanon is a gleaming orb of polished metals Robo-factories stretch as far as the eye can see, covering every inch of the planet's surface, almost without light in the sombre red of Mechanon's sky. You have landed on the sloping roof of a refinery and a motionless mining droid overshadows Falcon's Wing. At three mile intervals around you are what must be planetary defence points: bronze domes bristling with some sort of surface-to-space artillery. Between two of these bases is the yawning entrance of a building which is clearly more than a factory. As the camera zooms in, a large flying droid disappears into it, trailing a greenish line of vapour. Your scanners indicate that nothing lives on this dead world, not even grass, but it is alive with bizarrely-shaped droids which fly and scuttle across its face like insects. The sky is laced with power-lines which stretch from pylons atop the factories, and on the towering peak of one of these a radar dish is sweeping in a slow arc towards Falcon's Wing. CAIN tells you Mechanon's atmosphere is harmful to human life and you decide to get into your environment suit again. It also used the molecular converter to create a Universal Interface, saying: 'Insert the Interface into any Central Computer Communications access point and it will extract as much information as it can from Mechanon's Central Computer memory banks about the wardroid's plans, Falcon Good luck!' Will you:
 
-Time Machine. Mechanon is a gleaming orb of polished metals Robo-factories stretch as far as the eye can see, covering every inch of the planet's surface, almost without light in the sombre red of Mechanon's sky. You have landed on the sloping roof of a refinery and a motionless mining droid overshadows Falcon's Wing. At three mile intervals around you are what must be planetary defence points: bronze domes bristling with some sort of surface-to-space artillery. Between two of these bases is the yawning entrance of a building which is clearly more than a factory. As the camera zooms in, a large flying droid disappears into it, trailing a greenish line of vapour. Your scanners indicate that nothing lives on this dead world, not even grass, but it is alive with bizarrely-shaped droids which fly and scuttle across its face like insects. The sky is laced with power-lines which stretch from pylons atop the factories, and on the towering peak of one of these a radar dish is sweeping in a slow arc towards Falcon's Wing. CAIN tells you Mechanon's atmosphere is harmful to human life and you decide to get into your environment suit again. It also used the molecular converter to create a Universal Interface, saying: 'Insert the Interface into any Central Computer Communications access point and it will extract as much information as it can from Mechanon's Central Computer memory banks about the wardroid's plans, Falcon Good luck!' Will you:
-hack at the arm that wields it. Make an Attack Roll. If you score 7-12, turn to 24
+Prepare your Flyer?
+Leap onto the access disc and leave Falcon's Wing immediately?
+Check the functions of your environment suit carefully before stepping onto the access disc?
+Turn to 342
+Turn to 328
+Turn to 353
+
+318
+The metal flooring screeches as you twist and tear it, your power suit whining in protest at the stress. But Yelov recover before you are free and he has his plasma pistol which he uses to demolish your helmet. You are blinded and cannot see Yelov sneer evilly as he disintegrates your head.
+
+319
+Before the crackling mace can land you swirl your sword and hack at the arm that wields it. Make an Attack Roll.
+If you score 7-12, turn to 24
 If you score 2-6, turn to 12
 
 320
 The transition into null-space and back again is smooth - too smooth! You miss the slight jar that usually shakes Falcon's Wing as the hydraulic legs adjust to the ground above which you rematerialise. The camera shows a thin mist, then you sit up and stare as a ghostly shape floats upwards past you. It looks like a series of metal girders riveted together with a crude rocket engine welded on at the back. The girders are braced by metal struts atop which a large crystal or faceted boulder rests. Your stomach leaps into your throat - the crude spaceship with its open-to-the-stars construction is not climbing, you are falling through the dense Thrixian atmosphere and you have just seen a Thrixian starship. Your altimeter shows 460 metres and you are gaining speed or accelerating at 10 metres per second from the stationary position in which you were held as you emerged from null-space. You have no retro-rockets - the only way to stop Falcon's Wing plummeting to destruction is to engage the Variac Drive and throw your Time Machine back into null-space and then back into Thrix, 1776 AD. If you get the timing exactly right, you may be able to wink out and return only inches above the surface. When will you instruct CAIN to engage the Variac Drive?
-Prepare your Flyer?
-Leap onto the access disc and leave
-Falcon's Wing immediately? Check the functions of your
-environment suit carefully before stepping onto the access disc?
 
-318
-Turn to 342 Turn to 328
-Turn to 353
 At one second intervals until you reach the surface?
-After 9 seconds of free fall? After 21 seconds of free fall?
+After 9 seconds of free fall?
+After 21 seconds of free fall?
+Turn to 339
+Turn to 348T
+urn to 330
 
 321
-Turn to 339 Turn to 348 Turn to 330
-The metal flooring screeches as you twist and tear it, your power suit whining in protest at the stress. But Yelov recover before you are free and he has his plasma pistol which he uses to demolish your helmet. You are blinded and cannot see Yelov sneer evilly as he disintegrates your head.
-
-319
-Before the crackling mace can land you swirl your sword and
 Nothing happens. CAIN advises you that you can only move to a point on the grid which corresponds to a timehole. The radiation dampers overload and you suffer severe radiation poisoning. Even if you find a way out of the grid, you will die within minutes. The sophisticated trap set up by the wardroids of Mechanon has caught you in its deadly jaws.
 
 322
