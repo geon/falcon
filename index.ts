@@ -448,7 +448,9 @@ function checkLineBreaks(pages: readonly Page[]) {
 			const firstChar = section.line[0] as string | undefined;
 			if (firstChar !== undefined && firstChar.match(/[a-z]/)) {
 				errors.push(
-					page.pageNumber + " Lower case first letter on line: " + section.line,
+					`Page ${
+						page.pageNumber
+					}: Lower case first letter on line: ${section.line.substring(0, 40)}`,
 				);
 			}
 		}
