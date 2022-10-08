@@ -151,9 +151,7 @@ The hovrail car which will take you to the Eiger Vault glides soundlessly to a h
 Less than an hour after leaving Jobanque's office you stand before the huge plasteel hangar doors of the Eiger Vault, set deep in the side of Mount Eiger. Your ID chip is checked and you are mind scanned before access to the vault is allowed by the service computer. As you pass the security droids, you reflect upon the folly of holding Yelov within this tight security net, instead of outside it. He is a million times more dangerous with a Time Machine at his disposal than if he were at large on Earth, 3033 AD. You cross the cavern which houses the Time Machines and the Research Section of TIME. The area in which the machines are kept is partitioned at intervals and you head straight for your own bay. In the centre of the bay, which is lined on three sides with racks carrying maintenance equipment, spare parts, the Variac Drive Recharger and sundry other useful items, lies Falcon's Wing, your Time Machine. You approach the access hatch and the Mind Scanner lights up red, then green. You are drawn up into the Time Machine by invisible Tractor Beams, activated by CAIN. Soon you are standing on the glowing Access Disc and CAIN chimes 'Welcome, Falcon.' Turn to 210.
 
 2
-As you open your mind to the alien you find yourself having to make a great effort to remain sane and regain your human sense of perspective. The Thrix live for millenia on a cold and lifeless world, barren of architecture - they have no need of building, and of almost everything else that you associate with civil- isation. You realise that something terrible is happening on this
-
-long-peaceful planet and that it wants you to accompany is towards a mining complex which is as alien to the Thrix as it is to you. The Thrix's name translates as Carborundum. Suddenly it lurches and begins to roll across the rocky ground. You decide to follow warily. Turn to 53.
+As you open your mind to the alien you find yourself having to make a great effort to remain sane and regain your human sense of perspective. The Thrix live for millenia on a cold and lifeless world, barren of architecture - they have no need of building, and of almost everything else that you associate with civil- isation. You realise that something terrible is happening on this long-peaceful planet and that it wants you to accompany is towards a mining complex which is as alien to the Thrix as it is to you. The Thrix's name translates as Carborundum. Suddenly it lurches and begins to roll across the rocky ground. You decide to follow warily. Turn to 53.
 
 3
 Your aim, though hasty, is true and a sizzling beam of white-hot plasma erupts against the Black Knight. The black armour is ripped open, revealing mechanical gears and electronic circuitry beneath and the droid collapses before exploding loudly. Sir Thomas Chandos and the other knights turn towards you and then begin to run, terrified of your 'sorcery'. With a loud, if muffled, cheer the French knights press onward, scenting victory - your actions have changed the course of the battle and the English are losing. You quickly vapourise the remains of the droid as the tide of battle washes over you, defending yourself from the lances of the French with your shield. Will you:
@@ -212,8 +210,7 @@ If you score 2-5, turn to 101
 
 
 11
-Three orange flares flicker on your screen, then die away to nothing. You have caused the missiles to pre-detonate before they reach you and you dive down into the thin atmosphere of Mechanon, using reverse thrust to slow the Strike Fighter
-down. Turn to 34.
+Three orange flares flicker on your screen, then die away to nothing. You have caused the missiles to pre-detonate before they reach you and you dive down into the thin atmosphere of Mechanon, using reverse thrust to slow the Strike Fighter down. Turn to 34.
 
 12
 Your sword blade whistles through air as the Black Knight reacts to your attack with superhuman speed. The visor on his great black helm clicks open. A beam of red light lances towards you and you try desperately to throw yourself aside. Make an Evasion Roll.
@@ -237,8 +234,7 @@ If you score 2-6, turn to 23
 The Main Access portal is an oval opening, a hundred metres across and fifty tall. It seems to be composed of ten overlapping sections of metal which can slide open one at a time or all together. As you hurtle towards it a swarm of Atmospheric Interceptorsappear from the hangar opening. Their pulse lasers will soon be wreaking havoc on your ship's defences. Quickly you beam the Main Access Code at the Communication Tower above the portal and it slides open. You move from the gloomy brooding red of Mechanon's thin atmosphere to the ghostly green luminescence which lights an enormous tunnel that stretches ahead for miles. Ten Atmospheric Interceptors follow you down the tunnel, their pulse lasers winking on and off as they pour their deathly fire at your ship's defences. Turn to 109.
 
 16
-You fire your twin fusion cannons and two beams of energy leap from your wingtips, vapourising the incoming missile and flashingon to destroy the missile base, which simply ceases to exist. You bank further to the left and hurtle onward up the
-large tunnel. Turn to 28.
+You fire your twin fusion cannons and two beams of energy leap from your wingtips, vapourising the incoming missile and flashingon to destroy the missile base, which simply ceases to exist. You bank further to the left and hurtle onward up the large tunnel. Turn to 28.
 
 17
 You make it to the doorway, but you haven't the electronic code to gain entry. The droid criss-crosses the highway with laser beamsand you cannot dodge them all. You are chopped into several pieces and your mission ends here.
@@ -410,8 +406,7 @@ If you score 1-5, turn to 137
 If you score 6, turn to 145
 
 51
-Sparks fly as the French knight parries the swipe of your sword and then hacks downward at you, before you can recover your
-balanceand heft your blade, to answer him. He catches you on yourfullfacehelmet,dentingitbadlyandstunningyou,before delivering a thrust to your side. Lose 5 Endurance points. He raises his sword above his head, about to deliver a blow which will surely kill you. Turn to 173.
+Sparks fly as the French knight parries the swipe of your sword and then hacks downward at you, before you can recover your balanceand heft your blade, to answer him. He catches you on yourfullfacehelmet,dentingitbadlyandstunningyou,before delivering a thrust to your side. Lose 5 Endurance points. He raises his sword above his head, about to deliver a blow which will surely kill you. Turn to 173.
 
 52
 Your blow catches the metallic mask that is one side of Yelov's face and he is thrown backwards, stunned. His plasma pistol whirls through the air and lands some way behind him. You step forward, intent on using the strength of your battered suit to smash his head as Yelov staggers to his feet, when the computer activates a grab used for moving the data banks. You try to dodge its metal claws as it closes in on you. Make an Evasion Roll.
@@ -420,8 +415,7 @@ If you score 6-12, turn to 409
 If you score 2-5, turn to 174
 
 53
-The black Thrix tumbles onward through the yellow gases of its planet, glistening with condensation and reflective particles of dust. You pass the scattered remains of one of its species and you feel the hurt in the mind of the Thrix whom you are following, whose name translates as Carborundum. The grief of the loss of a two thousand-year friendship almost cripples you, but you steel yourself to hold on to your own identity, almost sobbing as you do so. The dead Thrix has been shorn in half by a terrible weapon. There are cavities within its crystal in which still smaller crystal trees grow. You communicate your surprise to Carborundum and he thinks his reaction to you. It seems that he finds your soft bendiness repulsive. 'You should see me without my suit,' you think. As you plod through the heavy gravity there is a slight movement in the heavy air and
-the fog lifts slightly to reveal the most enormous mechanical contraption, shaped like a long armadillo. Dust rises from its form and it rumbles slowly across the surface of the planet towards you on caterpillar tracks. Its body is composed of overlapping segments of metal like a woodlouse, which glow dully in the weak rays of the Thrixian sun, which barely penetrates the thick atmosphere. Thrix is cold.
+The black Thrix tumbles onward through the yellow gases of its planet, glistening with condensation and reflective particles of dust. You pass the scattered remains of one of its species and you feel the hurt in the mind of the Thrix whom you are following, whose name translates as Carborundum. The grief of the loss of a two thousand-year friendship almost cripples you, but you steel yourself to hold on to your own identity, almost sobbing as you do so. The dead Thrix has been shorn in half by a terrible weapon. There are cavities within its crystal in which still smaller crystal trees grow. You communicate your surprise to Carborundum and he thinks his reaction to you. It seems that he finds your soft bendiness repulsive. 'You should see me without my suit,' you think. As you plod through the heavy gravity there is a slight movement in the heavy air and the fog lifts slightly to reveal the most enormous mechanical contraption, shaped like a long armadillo. Dust rises from its form and it rumbles slowly across the surface of the planet towards you on caterpillar tracks. Its body is composed of overlapping segments of metal like a woodlouse, which glow dully in the weak rays of the Thrixian sun, which barely penetrates the thick atmosphere. Thrix is cold.
 Carborundum leads you down into a natural cavern which opens out below the gaping mouth of the mining droid. Two smaller excavation droids are clearing slag from a great conveyor belt which leads back into the belly of the armadillo- like droid. They do not react to you and you notice that their effectiveness is severely impaired by the corrosive gas of this world. They will soon break down completely. As you move towards the conveyor belt you notice another shattered Thrix nearby. Then a hovering wardroid with twin laser cannon sights you. Carborundum begins a high-pitched whining as you blast the wardroid to smithereens. You jump into the mining droid and Carborundum rolls up behind you. Inside the droid is a huge refining plant and in its belly you come to the central processor which controls it. Will you:
 
 Continue your exploration?
@@ -499,8 +493,7 @@ If you score 5-12, turn to 194
 If you score 2-4, turn to 175
 
 66
-You are caught by the beam from the android's stunner and stagger, fighting to regain your senses. A man almost trips as he comes out of a hut labelled 'Gentlemen' and stands, swaying, his mouth open in surprise. The droid turns his stunner on him and
-he crumples to the ground, belching. You may use the moment's respite to climb the courtyard wall and cut the cable which leads to the telephone booth, turn to 188, or if you wish to use your blaster, make an Attack Roll.
+You are caught by the beam from the android's stunner and stagger, fighting to regain your senses. A man almost trips as he comes out of a hut labelled 'Gentlemen' and stands, swaying, his mouth open in surprise. The droid turns his stunner on him and he crumples to the ground, belching. You may use the moment's respite to climb the courtyard wall and cut the cable which leads to the telephone booth, turn to 188, or if you wish to use your blaster, make an Attack Roll.
 
 If you score 4-12, turn to 92
 If you score 2-3, turn to 101
@@ -555,8 +548,7 @@ If you score 4-12, turn to 92
 If you score 2-3, turn to 101
 
 78
-The Thrix seems unperturbed by the knowledge that you tried to harm it. Apparently it can withstand the most extreme temperatures and ionic disturbances. It tells you that a mining complex has recently appeared on the planet, a complex as alien to it as you are, and it offers to lead you to it. You decide to follow warily when, out of the gloom, a red light appears ahead
-of you. A great metal monster comes towards you out of the fog. It has four hover-thruster discs, and it is heavily armoured. It is equipped with an awesome array of weaponry - an Ion Beam discharge, mortar cluster, laser cannon mountings, high explosive machine rifles and the like. It is aiming a laser cannon at you - you have no choice but to blast it. The superheated plasma fuses its metal shell and it explodes with a roar, before it can fire. The Thrix registers pleasure at your action and you continue through the fog together. Turn to 53.
+The Thrix seems unperturbed by the knowledge that you tried to harm it. Apparently it can withstand the most extreme temperatures and ionic disturbances. It tells you that a mining complex has recently appeared on the planet, a complex as alien to it as you are, and it offers to lead you to it. You decide to follow warily when, out of the gloom, a red light appears ahead of you. A great metal monster comes towards you out of the fog. It has four hover-thruster discs, and it is heavily armoured. It is equipped with an awesome array of weaponry - an Ion Beam discharge, mortar cluster, laser cannon mountings, high explosive machine rifles and the like. It is aiming a laser cannon at you - you have no choice but to blast it. The superheated plasma fuses its metal shell and it explodes with a roar, before it can fire. The Thrix registers pleasure at your action and you continue through the fog together. Turn to 53.
 
 79
 You turn the superheated plasma beam of your blaster on the immobile wardroid, an easy target. The lancing bolt of white- hot energy hits its power plant and the flash defence on your helmet automatically cuts in and the faceplate darkens as the lurid explosion lights the yellow atmosphere, hurling debris everywhere. The second wardroid unleashes a guided missile which is homing in on the heat of your body. All you can do is dive behind a rock outcropping and hope that it doesn't carry a fissionwarhead. Make an Evasion Roll.
@@ -663,8 +655,7 @@ Turn to 355
 Turn to 381
 
 100
-The G-force dampers work overtime as the Flyer slews drunkenly away from the missiles and you correct its flight path just before impact with the side of a huge iron cooling tower. The missiles slam into the cooling tower, demolishing it completely. Asyoushootpastittowardsthebuildingintowhich the droid flew, an incredible sight meets your gaze. A spaceship almost as large as one of the generation starships of the 24th century isbeingdismantledonahugebrasslandingfield.Asyou fly over it you see a contraption which can only be an enlarged variac drive being hoisted out of its front end. It takes a few secondsfor you to realise what has been happening. The factory droidsmust have manufactured this colossal Time Machine in hours! Hundreds of them hover about it. They must have plannedto invade the Eiger Vault with this machine on Earth, 3033 AD. Now that you have destroyed the Polybdenum and
-the Timehole on Thrix has closed, Yelov must have altered his plans. As you streak onwards, a daunting vista opens up beneath you. It is Mechanon's space launch field, and it is packed with an interstellar warfleet the size of which defies belief. Row upon row of Interceptors, Ion-drive Battle Cruisers and Atmospheric Fighter-carrying mother-ships glow a burnished bronze beneath the dull red sky. Turn to 133.
+The G-force dampers work overtime as the Flyer slews drunkenly away from the missiles and you correct its flight path just before impact with the side of a huge iron cooling tower. The missiles slam into the cooling tower, demolishing it completely. Asyoushootpastittowardsthebuildingintowhich the droid flew, an incredible sight meets your gaze. A spaceship almost as large as one of the generation starships of the 24th century isbeingdismantledonahugebrasslandingfield.Asyou fly over it you see a contraption which can only be an enlarged variac drive being hoisted out of its front end. It takes a few secondsfor you to realise what has been happening. The factory droidsmust have manufactured this colossal Time Machine in hours! Hundreds of them hover about it. They must have plannedto invade the Eiger Vault with this machine on Earth, 3033 AD. Now that you have destroyed the Polybdenum and the Timehole on Thrix has closed, Yelov must have altered his plans. As you streak onwards, a daunting vista opens up beneath you. It is Mechanon's space launch field, and it is packed with an interstellar warfleet the size of which defies belief. Row upon row of Interceptors, Ion-drive Battle Cruisers and Atmospheric Fighter-carrying mother-ships glow a burnished bronze beneath the dull red sky. Turn to 133.
 
 101
 Before you have time to fire your blaster the android fires again and you fall stunned to the ground. When you come round the android is standing motionless outside the booth, deactivated. Sirens like those of an Enforcer's jetcopter sound far away in the night as orange streaks roar overhead. There is a flash of light and a thunderous roar as a great mushroom cloud of incandescent flame and smoke erupts into the upper atmos- phere. The next explosion turns your eyes to steam and strips you to a charred skeleton. The android has somehow provoked a nuclear holocaust on earth. Yelov has won.
@@ -686,15 +677,13 @@ If you score 6-12, turn to 138
 If you score 2-5, turn to 147
 
 105
-You re-materialise high above a green world circled with bands of white cloud. You guide your Strike Fighter towards the largest city that you can see as you skim the rolling hills and plains of Danikos. CAIN says you have been detected but your radar, although covered in moving blips, does not show any aircraft moving to intercept you. You finally set your Fighter down in a sandy square. All of the buildings that you have seen so far look like the palaces of times still to come on Earth. Each is overburdened with exquisitely complicated carvings and orna- mental turrets and domes. A small crowd gathers - the Danikoi
-are spindly, tall humanoids with sparkling eyes of gold, without iris or pupil. They have no body hair. There are no weapons in sight and you blow the hatch seal and step out. You approach the crowd who show no fear despite your formidable array of weaponry and the outlandish whine of your power suit. Your translator synthesises your speech as a metallic humming when you ask to be taken to their decision makers. There is a ripple of humming laughter and one of them invites you to a party instead, but eventually you manage to convince them to do as you ask. Turn to 222.
+You re-materialise high above a green world circled with bands of white cloud. You guide your Strike Fighter towards the largest city that you can see as you skim the rolling hills and plains of Danikos. CAIN says you have been detected but your radar, although covered in moving blips, does not show any aircraft moving to intercept you. You finally set your Fighter down in a sandy square. All of the buildings that you have seen so far look like the palaces of times still to come on Earth. Each is overburdened with exquisitely complicated carvings and orna- mental turrets and domes. A small crowd gathers - the Danikoi are spindly, tall humanoids with sparkling eyes of gold, without iris or pupil. They have no body hair. There are no weapons in sight and you blow the hatch seal and step out. You approach the crowd who show no fear despite your formidable array of weaponry and the outlandish whine of your power suit. Your translator synthesises your speech as a metallic humming when you ask to be taken to their decision makers. There is a ripple of humming laughter and one of them invites you to a party instead, but eventually you manage to convince them to do as you ask. Turn to 222.
 
 106
 Your blaster discharges a crackling beam of superheated plasma at the breastplate of the French knight. A great hole is burnt in his chest and he topples dead from his horse. The immediate dangeris over, but as you hide the weapon once more a strange change overcomes you. You are lucky, no-one has noticed the energy beam of your blaster, thinking it was no more than the gleamof the sun's rays off the polished metal of armour, but your breathing seems to falter and you feel weak. Your memories change. Whereas once you remembered as a child being successfully cured of a disease caused by a mutant virus, your memory now tells you that a different medtech used an inferior treatment to cure you. With a shock you realise you have just killed the ancestor of the man who would have invented the cure. He will never have existed. You lose 3 Endurancepoints and your total Endurance may now never exceed 17. You recover from the shock quickly and notice that the valiant French knights are charging time and time again only to be repulsed by the fire of the English longbowmen. Turn to 162.
 
 107
-You pass the central processor which is cocooned in a web of soft polystyrene and cooled by a steady flow of near-freezing air.Beyond it is the whir and clank of machinery, and the heat of a small furnace. It is an ore refining plant and the Polybdenum ore is being fed in at one end and the lumps of reddish rock emerge at the other in the form of sleek rods usable in the Variac Drive of Time Machines. Beyond the refinery is the back end of the armadillo-like mining droid where a conveyor belt moves the rods onto a plasteel rack. Beyond the rack hover two guardian wardroids. A sensor in the mining droid alerts them to your presence and they swoop towards you. The lancing white- hot beam of your blaster ionises the yellow gas, turning it red on
-its path towards one of the wardroids. You score a direct hit on its power plant and your helmet faceplate turns dark as the lurid explosion lights the interior of the mining droid and debris is hurled through the churning yellow gas of the atmosphere. Carborundum lurches forward, crashing into the second droid, smashing its hover pads and immobilising it. As the wardroid crashes to the ground you see that it is aiming a missile which points at the Thrix. Your blaster cuts a path to destruction once more, fusing the metal casing of the droid until it begins to melt, collapsing in on itself. Turn to 181.
+You pass the central processor which is cocooned in a web of soft polystyrene and cooled by a steady flow of near-freezing air.Beyond it is the whir and clank of machinery, and the heat of a small furnace. It is an ore refining plant and the Polybdenum ore is being fed in at one end and the lumps of reddish rock emerge at the other in the form of sleek rods usable in the Variac Drive of Time Machines. Beyond the refinery is the back end of the armadillo-like mining droid where a conveyor belt moves the rods onto a plasteel rack. Beyond the rack hover two guardian wardroids. A sensor in the mining droid alerts them to your presence and they swoop towards you. The lancing white- hot beam of your blaster ionises the yellow gas, turning it red on its path towards one of the wardroids. You score a direct hit on its power plant and your helmet faceplate turns dark as the lurid explosion lights the interior of the mining droid and debris is hurled through the churning yellow gas of the atmosphere. Carborundum lurches forward, crashing into the second droid, smashing its hover pads and immobilising it. As the wardroid crashes to the ground you see that it is aiming a missile which points at the Thrix. Your blaster cuts a path to destruction once more, fusing the metal casing of the droid until it begins to melt, collapsing in on itself. Turn to 181.
 
 108
 You rise up using your suit jets but Yelov slices the great girder through the air like the arm of a windmill and it crashes into your back, destroying your jetpack. You fall to the ground and surge to your feet once more but Yelov's plasma pistol spits energy at you once again. Turn to 161.
@@ -723,8 +712,7 @@ If you score 6-12, turn to 197
 If you score 2-5, turn to 183
 
 114
-The tip of the French knight's lance catches your shield near the top, causing it to tip backwards. The lance rides up over the shield and bores into your chest, tearing through the chain mail corselet, as if it were paper. Lose 8 Endurance points as you are thrown to the ground by the momentum of his charge. You stagger to your feet, thankful that the armour CAIN prepared for you is lighter than the real thing, as the knight throws down
-his lance and, reining in, draws his blade, intent on finishing you. Turn to 173.
+The tip of the French knight's lance catches your shield near the top, causing it to tip backwards. The lance rides up over the shield and bores into your chest, tearing through the chain mail corselet, as if it were paper. Lose 8 Endurance points as you are thrown to the ground by the momentum of his charge. You stagger to your feet, thankful that the armour CAIN prepared for you is lighter than the real thing, as the knight throws down his lance and, reining in, draws his blade, intent on finishing you. Turn to 173.
 
 115
 The Battle computer manages to lock onto the fortress and your fingerstabs out at the launch button. There is a roar and the Strike Fighter bucks slightly as the missile leaves its bay and streaks toward the fortress. Make a Chance Roll.
@@ -749,10 +737,7 @@ Turn to 129
 
 119
 [score an N]
-One of the technicians floods the hangar with light and the most advanced piece of weaponry ever designed by the Space Federation is revealed in all its glory. Forty metres long, it looks like a highly advanced, oversized Atmospheric Interceptor. It has four wings which sweep back to needle points on either side of a huge ion-plasma drive tube. A drive like that must mean
-interstellar capability and the ship is fitted with hyper-drive Skirrow explains, This is a Weeks/Senior Corporation Space Navy Strike Fighter; She has a Variac Drive fitted; this is the first time travel starship, Falcon, treat her well. A copy of CAIN's memory has been installed and linked into our most advanced Battle computer. You have a choice between Zeiss deflector shields or Titanium hull armour.' Skirrow enters the Strike Fighter and explains the controls and capabilities of the craft. She has electronic counter measures, a Variac Drive, four
-guided missiles with fission warheads, radar and sonic dampers, twin fusion cannons on the upper wing tips, re-entry shields and aft 'point defence' beam lasers. Skirrow continues, 'We have: tailored a Startrooper battlesuit to your size, Falcon. It has a built-in particle disruptor, psionic enhancer helmet, face-up
-radar display, energy rocket launcher and power armour, which will give you the strength of an android, and boost-jets. The ship handles just like an ordinary Atmospheric Interceptor. Good luck.'
+One of the technicians floods the hangar with light and the most advanced piece of weaponry ever designed by the Space Federation is revealed in all its glory. Forty metres long, it looks like a highly advanced, oversized Atmospheric Interceptor. It has four wings which sweep back to needle points on either side of a huge ion-plasma drive tube. A drive like that must mean interstellar capability and the ship is fitted with hyper-drive Skirrow explains, This is a Weeks/Senior Corporation Space Navy Strike Fighter; She has a Variac Drive fitted; this is the first time travel starship, Falcon, treat her well. A copy of CAIN's memory has been installed and linked into our most advanced Battle computer. You have a choice between Zeiss deflector shields or Titanium hull armour.' Skirrow enters the Strike Fighter and explains the controls and capabilities of the craft. She has electronic counter measures, a Variac Drive, four guided missiles with fission warheads, radar and sonic dampers, twin fusion cannons on the upper wing tips, re-entry shields and aft 'point defence' beam lasers. Skirrow continues, 'We have: tailored a Startrooper battlesuit to your size, Falcon. It has a built-in particle disruptor, psionic enhancer helmet, face-up radar display, energy rocket launcher and power armour, which will give you the strength of an android, and boost-jets. The ship handles just like an ordinary Atmospheric Interceptor. Good luck.'
 You stare mesmerised at the controls. 'It's all colour coded,' says Skirrow. 'You're not colour-blind, are you ?' You laugh. The only reason Skirrow is not head of the Special Agent Section is that the medtechs failed him because of red/green colour-blindness.
 Jobanque says, 'She's all yours, Falcon. Use her to destroy the CentralComputer on Mechanon before the war-fleet blasts off. Our information is that the Central Command Computer can be found within the section you penetrated earlier, but deeper within. It will take us several hours to complete tests on the V ariac Drive. We can fit her with Zeiss deflector shields instead of her armour, or leave the Titanium hull in place. It's your decision.' You make your decision. Note whether or not your Strike Fighter has shields or hull armour on your agent profile. Turn to 143.
 
@@ -801,8 +786,7 @@ If you score 2-5, turn to 158
 He is hard pressed from all sides and the great swipe of your sword catches him in the neck, piercing and denting his armour. He falls, stricken, to the grass and breathes no more. As you pull your sword from the dented metal a strange change overcomes you. Your breathing seems to falter and you feel weak. Your memories change. Whereas once you remembered as a child being successfully cured of a disease caused by a mutant virus your memory now tells you that a different medtech used an inferior treatment to cure you. With a shock you realise you have just killed the ancestor of the man who would have invented the cure. He will never have existed. You lose 3 Endurance points and your total Endurance may now never exceed 17. You recover from the shock quickly and notice that the valiant French knights are charging time and time again, only to be repulsed by the fire of the English longbowmen. Turn to 162.
 
 129
-You roll behind the furnace.and open fire at the wardroid which threatens the Thrix. You blast just in time, hitting the power plant of the wardroid. Your faceplate reacts instantly, cutting in the flash damper, and it darkens as a bright explosion lights up
-the interior of the machinery of the refining plant. The second droid shoots across the refinery bay to bring its laser cannon to hear against you. You try to dive under the massive conveyor belt, hoping that it is dense enough to stop the laser. Make an Evasion Roll.
+You roll behind the furnace.and open fire at the wardroid which threatens the Thrix. You blast just in time, hitting the power plant of the wardroid. Your faceplate reacts instantly, cutting in the flash damper, and it darkens as a bright explosion lights up the interior of the machinery of the refining plant. The second droid shoots across the refinery bay to bring its laser cannon to hear against you. You try to dive under the massive conveyor belt, hoping that it is dense enough to stop the laser. Make an Evasion Roll.
 
 If you score 6-12, turn to 168
 If you score 2-5, turn to 157
@@ -813,8 +797,7 @@ You stare mesmerised at the controls. 'It's all colour coded/says Skirrow. 'You'
 Jobanque says, 'It will take us several hours to complete tests on the Variac Drive, then she's all yours, Falcon. Use her to destroy the Central Computer on Mechanon before the war-fleet blasts off. Our information is that the Central Command Computer can be found within the section you penetrated earlier, but deeper within. Turn to 143.
 
 131
-You are about to make your way back to Falcon's Wing when a machine shaped like a flying beetle appears in the yellow mist before you. A red light shines on its belly and a form glides to the ground on a disc of metal. With a shock you realise that it is a huge Time Machine and the form is that of the arch villain, Agidy Yelov. A field of orange energy crackles around him; it seems he has stolen the force-field technology of the Creche. He is able to stand unprotected on Thrix, inside the defensive shield. Seeing you and the destroyed Polybdenum he screams with rage. The half of his face which you can see twists in a spasm and his robot arm twitches. In the wisps of yellow fog he looks like a foul demon from the blackest hell. He shouts, 'I thought I had erased you from existence at the battle of Crecy, Falcon. You've meddled with my plans once again, but you cannot stop me this time, I have the most deadly arsenal the universe will ever know ready to obey my every command. I shall re-program every droid, Falcon, so that your death, which is imminent, will be as slow and painful as the technology of Mechanon can devise.' Just then two wardroids appear above the mining complex and as you look up Yelov draws his blaster. You try desperately to get behind the scarred plasteel loading rack before he kills you, but Yelov is very fast and a superb
-marksman. Make an Evasion Roll.
+You are about to make your way back to Falcon's Wing when a machine shaped like a flying beetle appears in the yellow mist before you. A red light shines on its belly and a form glides to the ground on a disc of metal. With a shock you realise that it is a huge Time Machine and the form is that of the arch villain, Agidy Yelov. A field of orange energy crackles around him; it seems he has stolen the force-field technology of the Creche. He is able to stand unprotected on Thrix, inside the defensive shield. Seeing you and the destroyed Polybdenum he screams with rage. The half of his face which you can see twists in a spasm and his robot arm twitches. In the wisps of yellow fog he looks like a foul demon from the blackest hell. He shouts, 'I thought I had erased you from existence at the battle of Crecy, Falcon. You've meddled with my plans once again, but you cannot stop me this time, I have the most deadly arsenal the universe will ever know ready to obey my every command. I shall re-program every droid, Falcon, so that your death, which is imminent, will be as slow and painful as the technology of Mechanon can devise.' Just then two wardroids appear above the mining complex and as you look up Yelov draws his blaster. You try desperately to get behind the scarred plasteel loading rack before he kills you, but Yelov is very fast and a superb marksman. Make an Evasion Roll.
 
 If you score 7-12, turn to 176
 If you score 2-6, turn to 153
@@ -970,8 +953,7 @@ Time Now 03.14
 SUBJECT:	File YV29 [New Data] Yelov, Agidy - escape from custody Security lapse in the Eiger Vault
 NATURE:	Malfunction of Psionic Damper fitted to bionic circuitry which replaced damaged brain tissue
 RESULT:	Yelov was able to exert his Power of Will to control a security guard who released him and killed three other guards to enable Yelov access to his Time Machine
-DISAPPEARANCE:	Yelov and his Time Machine winked
-out of the Eiger Vault Timehole at 01.13 Earth Standard Time
+DISAPPEARANCE:	Yelov and his Time Machine winked out of the Eiger Vault Timehole at 01.13 Earth Standard Time
 DESTINATION:	Unknown
 
 END OF FILE YV29
@@ -1011,10 +993,8 @@ Your power armour battlesuit has been breached and its power plant burns out. Yo
 162
 The withering volleys from the English longbowmen take their loll of the valiant French knights again and again. The French knights come on in charge after charge, each time retiring to regroup.As they wait for each attack the English bowmen make a V sign with their fingers, indicating that they are ready with more arrows. From their conversation you can gather that it is the French custom to cut off their fingers with which they draw their bowstrings, if ever they are captured.
 At last some of the French knights break through and there is fierce hand-to-hand fighting around the Black Prince's position. The Black Prince's horse is killed under him and he and his banner disappear from sight. A French knight whom you recognise from CAIN's descriptions of coats of arms, a strong lighter it seems, is met by a knight whose name, Sir Thomas Chandos, is called out in a warning by his squire. He is an important French noble, Louis de Nevers, Count of Flanders, whose surcoat is adorned with a rampant black lion. Your Psychic Awareness allows you to pick up a myriad thoughts in the din of battle - fear, pride, blood lust, and, somewhere, a strange blank. Sir Thomas Chandos could be struck dead at any time. Will you:
-Thinkstrike Louis de Nevers? Attack Louis de Nevers with your
-sword?
-Thinkstrike Chandos so that he falls,
-as if dead?
+Thinkstrike Louis de Nevers? Attack Louis de Nevers with your sword?
+Thinkstrike Chandos so that he falls, as if dead?
 Wait to see what happens next?
 Turn to 247
 Turn to 179
@@ -1035,9 +1015,7 @@ Whilst you have been on Mechanon, a nuclear holocaust has ravaged Earth in 1986 
 
 
 167
-You return from the leisure park in time for a thorough rebriefing by section leaders Jobanque and Skirrow, and soon you are settled into the crash-couch of the first ever Weeks/Senior Corporation time travel Strike Fighter. You instruct your new version of CAIN to engage the Variac Drive and set coordinates for Mechanon 1986 AD. All goes grey and insubstantial, but after an hour in null-space you fail to materialise as planned. CAIN reports that there is a time flux disturbance. The droids of Mechanon have constructed a time flux destabiliser, trapping you in null-space! You can dimly see the factory planet below, hazy and insubstantial. CAIN says
-that you are trapped on a grid on which the timeholes of normal space have been forced into null-space. The Strike Fighter's sensors flash warning red and CAIN reports that the droids have sent five atomic mines equipped with anti-matter drives into the grid, one of which has just appeared in front of you and
-is hurtling towards you! The anti-matter drive enables the mines to travel across null-space anywhere in the grid of the destabilised field as if they were in real space. However, your Ion Drivewill not function here, you can only hop from timehole point to timehole on the grid, instantaneously, using the Variac Drive. Psychic awareness is of no use here, but because of the nature of the field the variac navigational computers will interpret coordinate inputs in the normal way. You must use your Variac Drive to shift to a new timehole point on the grid, as the four other atomic mines diverge towards all of the timehole points. If you don't, the mines will obliterate you. CAIN flashes up a picture of the grid on your face-up display. Which coordinates will you type into the console?
+You return from the leisure park in time for a thorough rebriefing by section leaders Jobanque and Skirrow, and soon you are settled into the crash-couch of the first ever Weeks/Senior Corporation time travel Strike Fighter. You instruct your new version of CAIN to engage the Variac Drive and set coordinates for Mechanon 1986 AD. All goes grey and insubstantial, but after an hour in null-space you fail to materialise as planned. CAIN reports that there is a time flux disturbance. The droids of Mechanon have constructed a time flux destabiliser, trapping you in null-space! You can dimly see the factory planet below, hazy and insubstantial. CAIN says that you are trapped on a grid on which the timeholes of normal space have been forced into null-space. The Strike Fighter's sensors flash warning red and CAIN reports that the droids have sent five atomic mines equipped with anti-matter drives into the grid, one of which has just appeared in front of you and is hurtling towards you! The anti-matter drive enables the mines to travel across null-space anywhere in the grid of the destabilised field as if they were in real space. However, your Ion Drivewill not function here, you can only hop from timehole point to timehole on the grid, instantaneously, using the Variac Drive. Psychic awareness is of no use here, but because of the nature of the field the variac navigational computers will interpret coordinate inputs in the normal way. You must use your Variac Drive to shift to a new timehole point on the grid, as the four other atomic mines diverge towards all of the timehole points. If you don't, the mines will obliterate you. CAIN flashes up a picture of the grid on your face-up display. Which coordinates will you type into the console?
 
 Rigel 0/ 0/ 1
 Mechanon 0/ 3/ 2
@@ -1077,8 +1055,7 @@ If you score 6-12, turn to 187
 If you score 2-5, turn to 44
 
 174
-It is more difficult to dodge in the battlesuit than without it and the grab latches onto you, the four metal plates of its claw each as large as you. It crushes you and even your armoured power suit begins to buckle. Subtract 2 from your battlesuit armour points and 4 Endurancepointsasyourribscrackinseveralplaces.Ifyourbattle- suit armour is at zero or less, turn to 161. If not, and you are still alive, luckily you have your arms free and you blast the grab with your disruptor and fall to your feet as it crumbles to dust You must try to dodge again - Yelov has wrenched a huge girder
-from the floor with his bionic arm and is swinging its end at you. Make an Evasion Roll.
+It is more difficult to dodge in the battlesuit than without it and the grab latches onto you, the four metal plates of its claw each as large as you. It crushes you and even your armoured power suit begins to buckle. Subtract 2 from your battlesuit armour points and 4 Endurance points as your ribs crack in several places. If your battlesuit armour is at zero or less, turn to 161. If not, and you are still alive, luckily you have your arms free and you blast the grab with your disruptor and fall to your feet as it crumbles to dust. You must try to dodge again - Yelov has wrenched a huge girder from the floor with his bionic arm and is swinging its end at you. Make an Evasion Roll.
 
 If you score 6-12, turn to 93
 If you score 2-5, turn to 108
@@ -1110,22 +1087,18 @@ CAIN opens a holo-link to Jobanque's office. Your new section leader is in deep 
 You nod. 'I'm on my own then?' you ask.
 Jobanque smiles, To begin with, at least. You'll survive, Falcon.'
 You instruct CAIN to break the holo-link and ask it for more information.
+
 If you wish to review data on Mechanon
 If you want more details on Yelov's escape
+Turn to 140
+Turn to 155
 
 181
-Turn to 140 Turn to 155
-You move quickly out to the back of the mining droid, where the conveyor belt has delivered about a hundred rods of pure Polybdenum onto a plasteel rack. There are no more wardroids to be seen. Three badly corroded loading droids stand motionless, ignoring you. You play your blaster across the rods and they glow red and begin to react with the chlorine in the Thrixian atmosphere, becoming a useless crumbling compound Carborundum thinks into your mind, thanking you for saving its life. He tells you that he was named after a form of carbon because he is considered unusual by the silicon Thrix, but that he is privileged to have contacted so unusual a being as you. He asks if you will become his silica-clone, and as this is apparently a great honour, you accept. Before you ask what a silica-clone is a machine shaped like a flying beetle appears in the yellow mist before you. A red light shines on its belly and a form glides to the ground on a disc of metal. With a shock you realise that it is a huge Time Machine and the form is that of the arch villain
-
-Agidy Yelov. A field of orange energy crackles around him. It seems he has stolen the force-field technology of the Creche. He is able to stand unprotected on Thrix, inside the defensive shield. Seeing you and the destroyed Polybdenum he screams with rage. The half of his face which you can see twists in a spasm and his robot arm twitches. In the wisps of yellow fog he looks like a foul demon from the blackest hell. He. shouts, 'I thought I had erased you from existence at the battle of Crecy. Falcon. You've meddled with my plans once again, but you cannot stop me this time, I have the most deadly arsenal the universe will ever know ready to obey my every command. I shall re-program every droid, Falcon, so that your death which is
-imminent will be as slow and painful as the technology of Mechanon can devise.' Just then two wardroids appear above the mining complex and, as you look up, Yelov draws his blaster. Carborundum sets up a keening wail which seems to disturb Yelov's force shield. He starts to choke as the deadly gas reaches his lungs and, stepping onto the disc, is sucked back up into the Time Machine, which winks out seconds later. Turn to 242.
+You move quickly out to the back of the mining droid, where the conveyor belt has delivered about a hundred rods of pure Polybdenum onto a plasteel rack. There are no more wardroids to be seen. Three badly corroded loading droids stand motionless, ignoring you. You play your blaster across the rods and they glow red and begin to react with the chlorine in the Thrixian atmosphere, becoming a useless crumbling compound Carborundum thinks into your mind, thanking you for saving its life. He tells you that he was named after a form of carbon because he is considered unusual by the silicon Thrix, but that he is privileged to have contacted so unusual a being as you. He asks if you will become his silica-clone, and as this is apparently a great honour, you accept. Before you ask what a silica-clone is a machine shaped like a flying beetle appears in the yellow mist before you. A red light shines on its belly and a form glides to the ground on a disc of metal. With a shock you realise that it is a huge Time Machine and the form is that of the arch villain Agidy Yelov. A field of orange energy crackles around him. It seems he has stolen the force-field technology of the Creche. He is able to stand unprotected on Thrix, inside the defensive shield. Seeing you and the destroyed Polybdenum he screams with rage. The half of his face which you can see twists in a spasm and his robot arm twitches. In the wisps of yellow fog he looks like a foul demon from the blackest hell. He. shouts, 'I thought I had erased you from existence at the battle of Crecy. Falcon. You've meddled with my plans once again, but you cannot stop me this time, I have the most deadly arsenal the universe will ever know ready to obey my every command. I shall re-program every droid, Falcon, so that your death which is imminent will be as slow and painful as the technology of Mechanon can devise.' Just then two wardroids appear above the mining complex and, as you look up, Yelov draws his blaster. Carborundum sets up a keening wail which seems to disturb Yelov's force shield. He starts to choke as the deadly gas reaches his lungs and, stepping onto the disc, is sucked back up into the Time Machine, which winks out seconds later. Turn to 242.
 
 182
-As the French knights flow past you in pursuit of the English men at arms, hacking at you with their swords as they go, you concentrate your thoughts and hurl blast after blast of mental energy at them even while catching sword blows on your shield. You topple several from the saddle. The impetus of their charge slows and just at the right moment twenty English knights arrive, having been ordered to the Black Prince's position by King Edward when his son and his son's banner had been thrown to the ground. The English rally and after fierce fighting the French are repulsed once more. You regain the safety of Falcon's Wing, suffering no more than the mockery of some camp followers who think that you are fleeing the battle in fear. CAIN tells you that his scanners registered the fact that the Black Knight was a droid from Mechanon, and that it must have been programmed to kill Sir Thomas Chandos who is probably
-your ancestor. 'Be careful Falcon, Yelov is trying to kill you.' If you didn't know that electronic brains are not programmed to register emotion CAIN's tone would have you believe CAIN was worried on your behalf. You ask CAIN what effect the
-changes in history will have. CAIN is silent for some seconds before replying, 'King Edward will still take Calais from the French and most of the changes will be cancelled out by the terrible plague called the Black Death that will sweep Europe in two years' time.'
-You can see on the console screen that the battle is continuing. The Black Prince is alive, another horse between his knees, and his standard has been raised once more. The camera zooms in on the leader of yet another French charge. CAIN tells you that the man in the visor-less helmet tied to two other knights who are leading his horse into battle is King John the Blind of Bohemia. Once again the French charge is broken by the English archers and is thrown back. You can see the blind king lying dead on the field,still tied to his brave knights. It is already dusk and the Englishhave almost won the day. There is nothing more for you
-to do here in mediaeval France. Turn to 294.
+As the French knights flow past you in pursuit of the English men at arms, hacking at you with their swords as they go, you concentrate your thoughts and hurl blast after blast of mental energy at them even while catching sword blows on your shield. You topple several from the saddle. The impetus of their charge slows and just at the right moment twenty English knights arrive, having been ordered to the Black Prince's position by King Edward when his son and his son's banner had been thrown to the ground. The English rally and after fierce fighting the French are repulsed once more. You regain the safety of Falcon's Wing, suffering no more than the mockery of some camp followers who think that you are fleeing the battle in fear. CAIN tells you that his scanners registered the fact that the Black Knight was a droid from Mechanon, and that it must have been programmed to kill Sir Thomas Chandos who is probably your ancestor. 'Be careful Falcon, Yelov is trying to kill you.' If you didn't know that electronic brains are not programmed to register emotion CAIN's tone would have you believe CAIN was worried on your behalf. You ask CAIN what effect the changes in history will have. CAIN is silent for some seconds before replying, 'King Edward will still take Calais from the French and most of the changes will be cancelled out by the terrible plague called the Black Death that will sweep Europe in two years' time.'
+You can see on the console screen that the battle is continuing. The Black Prince is alive, another horse between his knees, and his standard has been raised once more. The camera zooms in on the leader of yet another French charge. CAIN tells you that the man in the visor-less helmet tied to two other knights who are leading his horse into battle is King John the Blind of Bohemia. Once again the French charge is broken by the English archers and is thrown back. You can see the blind king lying dead on the field,still tied to his brave knights. It is already dusk and the Englishhave almost won the day. There is nothing more for you to do here in mediaeval France. Turn to 294.
 
 183
 The plasma shell explodes close enough to damage your Strike Fighter. If you are equipped with Zeiss Deflector Shields they are drained by 2 points. If you are not, your Titanium Hull Armour has taken 1 point of damage. The Atmospheric Interceptor is about to open fire on you. You pull your starship into a loop and bring it into your forward sights before firing your twin fission beams. Make an Attack Roll.
@@ -1151,13 +1124,11 @@ If you score 1 or 4, turn to 271
 If you score 3 or 6, turn to 254
 
 187
-Three times the French knight's sword rings loudly on your shield with bludgeoning force. You are driven to your knees under the weight of his attack, but the English knights have courageously beaten back the French and their ranks close once more. Your assailant is trapped and, realising the hopelessness of his position, he decides, instead of killing you, to surrender to you in the hope of being ransomed. You shake your head and move your aching shield arm gingerly as he is led away. An
-esquire calls that he is the prize of the unknown knight whose arms are 'Argent, a Chevron Gules', the colours of your shield. As the numbness leaves your arm, you look about you to gauge the flow of battle. Turn to 162.
+Three times the French knight's sword rings loudly on your shield with bludgeoning force. You are driven to your knees under the weight of his attack, but the English knights have courageously beaten back the French and their ranks close once more. Your assailant is trapped and, realising the hopelessness of his position, he decides, instead of killing you, to surrender to you in the hope of being ransomed. You shake your head and move your aching shield arm gingerly as he is led away. An esquire calls that he is the prize of the unknown knight whose arms are 'Argent, a Chevron Gules', the colours of your shield. As the numbness leaves your arm, you look about you to gauge the flow of battle. Turn to 162.
 
 188
-You have managed to cut through the telephone wire with your
-blaster and the android can no longer use the telephone booth.
-As you look down it steps out of the booth and aims its stun- blaster at you. Will you:
+You have managed to cut through the telephone wire with your blaster and the android can no longer use the telephone booth.
+As you look down it steps out of the booth and aims its stunblaster at you. Will you:
 
 Jump down on the far side of the wall and run across the fields?
 Jump down and attack the android hand-to-hand?
@@ -1186,8 +1157,7 @@ If you score 7-12, turn to 52
 If you score 2-6, turn to 152
 
 192
-You hurtle onward like a bullet. After a few moments you see an enormous missile launcher ahead. Obviously the one that launched the missile as big as your Strike Fighter and it is armed and ready again. With a shuddering roar the huge missile pulls away from the launcher and accelerates towards you. You have no time to turn and it completely fills your screen. In desperation you fire your fission beam but to no avail. The missile erupts and its explosive force is doubled in this enclosed space. Your hull is breached and the tunnel collapses around you. A tangled mess of metal and rock will be your tomb for
-ever. You have failed.
+You hurtle onward like a bullet. After a few moments you see an enormous missile launcher ahead. Obviously the one that launched the missile as big as your Strike Fighter and it is armed and ready again. With a shuddering roar the huge missile pulls away from the launcher and accelerates towards you. You have no time to turn and it completely fills your screen. In desperation you fire your fission beam but to no avail. The missile erupts and its explosive force is doubled in this enclosed space. Your hull is breached and the tunnel collapses around you. A tangled mess of metal and rock will be your tomb for ever. You have failed.
 
 193
 Your blast of thought completely stuns Sir Thomas Chandos and he slumps to the ground just as he was aiming a great blow at Count Louis de Nevers. The Count of Flanders seeks a new foe as a huge English knight dressed from head to toe in black armour, carrying a shield which bears no device but is black as sable, stoops as if to help Chandos. To your surprise, you can detect no thought at all inside the black helm and the knight is raising a spiked mace above Sir Thomas that crackles with a blue aura. Will you:
@@ -1324,8 +1294,7 @@ Turn to 180
 You move to the new point on the grid but are caught in the middle of an atomic explosion which obliterates you. The atomic mine has arrived momentarily before you and you have entered a fireball of raw energy.
 
 212
-You fire twice on the run, immobilising one of the wardroids which crashes to the ground, but missing the other. A pulse of energy from the weapon banks of the second droid hurls you against the rocky remains of a dead Thrix. Your suit is ruptured. Lose 10 Endurance points. The wounds will heal badly - subtract 1 from your maximum Endurance points permanently. If you are still alive, you roll aside and blast again. Your aim is true and you have destroyed the other wardroid's hover pads. It falls to the ground with an impact that shakes the rock like an earthquake and explodes scattering lumps of corroded metal everywhere. The immobile wardroid is preparing to open up at you with its laser
-cannon - you have an instant in which to dodge the beam and destroy the droid. You evade the questing beam of the wardroid's laser cannon and return fire at the immobile death machine. The lancing bolt of white-hot energy hits its power plant, hurling debris everywhere and your helmet faceplate flash defence cuts in, darkening automatically as the bright explosion lights the yellow atmosphere. CAIN radios you to say that the timehole on Thrix is closing and you run to Falcon's Wing. Turn to 284.
+You fire twice on the run, immobilising one of the wardroids which crashes to the ground, but missing the other. A pulse of energy from the weapon banks of the second droid hurls you against the rocky remains of a dead Thrix. Your suit is ruptured. Lose 10 Endurance points. The wounds will heal badly - subtract 1 from your maximum Endurance points permanently. If you are still alive, you roll aside and blast again. Your aim is true and you have destroyed the other wardroid's hover pads. It falls to the ground with an impact that shakes the rock like an earthquake and explodes scattering lumps of corroded metal everywhere. The immobile wardroid is preparing to open up at you with its laser cannon - you have an instant in which to dodge the beam and destroy the droid. You evade the questing beam of the wardroid's laser cannon and return fire at the immobile death machine. The lancing bolt of white-hot energy hits its power plant, hurling debris everywhere and your helmet faceplate flash defence cuts in, darkening automatically as the bright explosion lights the yellow atmosphere. CAIN radios you to say that the timehole on Thrix is closing and you run to Falcon's Wing. Turn to 284.
 
 213
 Shutting all other thoughts out you concentrate on exerting your will to control the Black Knight but there is no will to control. Inside the menacing suit of armour, you realise with horror, is an automaton not a man. It is about to strike Sir Thomas Chandos a crushing blow with its mace and you are almost too late tosave him. Subtract2fromyournextdierolltoreflect this. Will you:
@@ -1359,16 +1328,13 @@ Your twin fusion beams?
 Turn to 31 Turn to 54
 
 220
-You bank and hurtle down the enormous side tunnel like a bullet, and an incredible sight greets you. The floor of the
-
-corridor is a huge droid factory, production lines stretch endlessly for miles ahead and the walls and floor are crawling with droids, like ants in an anthill. One side of the corridor is lined with rank upon rank of wardroids, waiting for activation. You speed onward at Mach 5, eating up the miles. Something glowing a bright electric blue seems to grow ahead of you as you approach it. Turn to 340.
+You bank and hurtle down the enormous side tunnel like a bullet, and an incredible sight greets you. The floor of the corridor is a huge droid factory, production lines stretch endlessly for miles ahead and the walls and floor are crawling with droids, like ants in an anthill. One side of the corridor is lined with rank upon rank of wardroids, waiting for activation. You speed onward at Mach 5, eating up the miles. Something glowing a bright electric blue seems to grow ahead of you as you approach it. Turn to 340.
 
 221
 You play the beam of your particle disruptor over the generator as Yelov takes aim again. There is a sudden flash behind him and a gust of wind rushes past you and out of the tunnel, now that the invisible force field is destroyed. Noxious vapours stream in around you and Yelov is propelled, choking, to a hatch in the side of the tunnel that opens by the raildroid's grav-beam. You fire a rocket and then jet towards him, but he is through the hatchway in a twinkling. The droid's shield blocks the rocket, but the explosion damages its circuitry and it jars to a standstill. Using your particle disrupter you carve a hole in the tunnel wall and fly through it, after Yelov. Turn to 412.
 
 222
-You are taken to the Speaking House, a building neither more nor less grandiose than any of the Others, and given the chance to speak to those who have volunteered to play a part in governing the planet. There are twenty-seven of the Danikoi who recline on plush couches that float in the air. They elect one called the Disputer to argue against you. You have no choice but to tell them you are a Time Traveller and the reasons you have journeyed to their world and time. Your own people on Earth and the Federation will be killed if they allow Mechanon to be turned into a lasting monument to their technological knowhow. They hear you out without interruption and when you have finished the Disputer says that they have no plans to build a factory planet anywhere. You reply that they will begin building on Mechanon in five thousand years. There is a general hum and one of the Danikoi asks you why their descendants should wish to do this. You reply, 'I know only that they will choose to do so. In my time, fifty millenia from now, it is history.' The hum this time is louder. The Disputer stands and
-asks you to prove that you are a Time Traveller. Will you:
+You are taken to the Speaking House, a building neither more nor less grandiose than any of the Others, and given the chance to speak to those who have volunteered to play a part in governing the planet. There are twenty-seven of the Danikoi who recline on plush couches that float in the air. They elect one called the Disputer to argue against you. You have no choice but to tell them you are a Time Traveller and the reasons you have journeyed to their world and time. Your own people on Earth and the Federation will be killed if they allow Mechanon to be turned into a lasting monument to their technological knowhow. They hear you out without interruption and when you have finished the Disputer says that they have no plans to build a factory planet anywhere. You reply that they will begin building on Mechanon in five thousand years. There is a general hum and one of the Danikoi asks you why their descendants should wish to do this. You reply, 'I know only that they will choose to do so. In my time, fifty millenia from now, it is history.' The hum this time is louder. The Disputer stands and asks you to prove that you are a Time Traveller. Will you:
 
 Call up CAIN and ask him if there is a useful prophecy you can make?
 Lead them to the Strike Fighter, show them the Variac Drive and explain the principles of time travel?
@@ -1467,13 +1433,13 @@ If you score 6-12, turn to 191
 If you score 2-5, turn to 214
 
 238
-You pick your way through the boulders, keeping low, and make your way slowly towards the loading bay at the back of the mining droid. As you go you pass the burnt out remains of a worker droid; its function may once have been to take rock samplesbut the corrosive gas has completely destroyed it. You watchthe two guardian wardroids scanning the area methodi- cally. The rods of ore piled in the loading bay are Polybdenum ore. If the wardroids collect enough Yelov will be able to send them through time to attack the Space Federation. Will you:
-Throw a grenade at one of the
-wardroids? Turn to 263
- Use a grenade to destroy the Polybdenum?
+You pick your way through the boulders, keeping low, and make your way slowly towards the loading bay at the back of the mining droid. As you go you pass the burnt out remains of a worker droid; its function may once have been to take rock samplesbut the corrosive gas has completely destroyed it. You watchthe two guardian wardroids scanning the area methodically. The rods of ore piled in the loading bay are Polybdenum ore. If the wardroids collect enough Yelov will be able to send them through time to attack the Space Federation. Will you:
+Throw a grenade at one of the wardroids?
+Use a grenade to destroy the Polybdenum?
+Turn to 263
+Turn to 323
 
 239
-Turn to 323
 CAIN replies that the technology possessed by the decadent Danikoi who programmed the self-replicating droids which turned Mechanon into one great factory was at least as advanced as that possessed by a member of the Space Federation in 3033 AD. The fearsome array of space weapons made by these machines is the most deadly arsenal the galaxy has ever seen. This arsenal includes potent nuclear devices, floating fortress platforms and spaceships which are all vast robots. Mechanon is itself heavily defended by Atmospheric Inter- ceptors, intruder detection satellite droids and wardroids with missile or energy weapon strongpoints all over the surface. They are also able to manufacture new droids, weapons, ships etc for any purpose within hours. Turn to 273.
 
 240
@@ -1484,8 +1450,7 @@ Your twin fusion beams meet at a point just in front of the missile and as it fl
 
 
 242
-You duck back inside the mining droid and run back through the length of it and down into the cave at its mouth once more Carborundum guides you back through the miasmal fog to Falcon's Wing. It thinks of you as a mere space traveller and you do nothing to let it realise that you have come from the far future. You tell it that the droids remaining on Thrix will soon be disabled by the corrosive atmosphere, and that if you are successful it and its kind will never be troubled by them again When it realises you are leaving it becomes sad, and its mind touches yours once more. It is hoping that you will meet again one day and it says that it will travel a thousand years to find you if you tell it which star your planet circles. You shake your head, its sadness is infectious, and say that you cannot tell it. Indeed you have to tell it never to try to find out. CAIN radios you to
-say that the timehole on Thrix is closing and you allow yourself to be sucked up into Falcon's Wing. Turn to 284.
+You duck back inside the mining droid and run back through the length of it and down into the cave at its mouth once more Carborundum guides you back through the miasmal fog to Falcon's Wing. It thinks of you as a mere space traveller and you do nothing to let it realise that you have come from the far future. You tell it that the droids remaining on Thrix will soon be disabled by the corrosive atmosphere, and that if you are successful it and its kind will never be troubled by them again When it realises you are leaving it becomes sad, and its mind touches yours once more. It is hoping that you will meet again one day and it says that it will travel a thousand years to find you if you tell it which star your planet circles. You shake your head, its sadness is infectious, and say that you cannot tell it. Indeed you have to tell it never to try to find out. CAIN radios you to say that the timehole on Thrix is closing and you allow yourself to be sucked up into Falcon's Wing. Turn to 284.
 
 243
 Your thumbs depress the fusion beam fire buttons on the joystick but you mis-timed the shot and the twin blasts of energy destroy some worker droids busy in front of the fortress. To your horror, you see the two plasma cannon, pulses of energy running up and down the barrels, opening up, and about to launch three sleek and deadly dart-shaped missiles at you. There is a spitting roar as the plasma shells hurtle towards you. Will you:
@@ -1568,6 +1533,9 @@ Asyou advance down the main tunnel into the cold, green glow of the luminous pan
 Break left and run down the smaller access tunnel?
 Hide in a recess in the side of the tunnel?
 Open fire at long range?
+Turn to 280
+Turn to 370
+Turn to 289
 
 257
 If you have not landed on Earth in 1986, then turn to 166. If you have, read on. As the yawning mouth of the hangar entrance looms towards you, you slow down to decide how to enter the complex. Suddenly a missile as large as your Strike Fighter flashes out of the dark opening. It is so close you can actually . make out a huge array of electronic sensors at its tip. Will you:
@@ -1579,43 +1547,44 @@ Turn to 227 Turn to 268 Turn to 241
 The hunter-seeker seems to peel apart and evaporate in the path of your disruptor beam. Yelov crouches low on the raildroid as the interceptor makes another attack run. You fire a rocket at it which blows one of its side planes off and the interceptor spins, out of control, into an energy wall where it explodes. Turn to 272.
 
 259
-Your mental effort is not enough to stun the French nobleman; he is strong-willed and phlegmatic of temperament. He may have hesitated for a split second however, and he is too slow to meet the swinging sword of Sir Thomas Chandos. Sparks fly as, with a mighty sweep, he kills the Frenchman in the saddle. Nevers' horse bolts and the dead Count topples and is dragged across the battlefield, his gauntlet tangled in the reins. A chill feeling of fear takes you in case you have changed history, but as
-Turn to 280 Turn to 370
-Turn to 289
+Your mental effort is not enough to stun the French nobleman; he is strong-willed and phlegmatic of temperament. He may have hesitated for a split second however, and he is too slow to meet the swinging sword of Sir Thomas Chandos. Sparks fly as, with a mighty sweep, he kills the Frenchman in the saddle. Nevers' horse bolts and the dead Count topples and is dragged across the battlefield, his gauntlet tangled in the reins. A chill feeling of fear takes you in case you have changed history, but as you wait and nothing happens you guess that perhaps Chandos killed Louis de Nevers in history. Before you can breathe a sigh of relief you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
 
- you wait and nothing happens you guess that perhaps Chandos killed Louis de Nevers in history. Before you can breathe a sigh of relief you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
 Use your Power of Will on the Black Knight?
 Attack the Black Knight with your sword?
 Use your blaster on the Black Knight?
+Turn to 213
+Turn to 226
+Turn to 235
 
 260
-Turn to 213 Turn to 226
-Turn to 235
 Yelov ducks but the rocket never reaches him. The exhaust from its engine flares brightly but it slows down and is held motionless in mid air. You stare in awe as it is suddenly thrown as if by a giant invisible hand into an energy field where it explodes harmlessly. The raildroid is evidently equipped with a directional gravity beam of enormous power. When the rocket exploded the air behind Yelov rippled like water. You guess that there is an invisible force field which keeps an atmosphere breathable for Yelov in the tunnel which appears to be open to the stars at its end. Will you:
+
 Fire two rockets at Yelov simultaneously?
 Aim your particle disrupter at what you hope is the generator for the invisible force field?
+Turn to 232
+Turn to 221
 
 261
 What question will you ask CAIN?
 Did Yelov's Time Machine carry a full supply of Polybdenum?
 Does Mechanon have reserves of the Polybdenum which is needed for time travel Machines?
-Turn to 232
-Turn to 221
+What could be done to change Earth's history at the battle of Crecy?
+Could a change in the events of the battle of Crecy affect me?
 Turn to 275
 Turn to 250
-
- What could be done to change Earth's
-history at the battle of Crecy? Turn to 290
-Could a change in the events of the
-battle of Crecy affect me? Turn to 287
+Turn to 290
+Turn to 287
 
 262
 [score a I]
 You explain your best guess as to what Yelov is up to and you do not have to wait long for CAIN to reply. After a pause his chimes make a sound almost like a cough and CAIN says, 'My analysis of Yelov's character is that he prefers always to take the initiative and strike first.' You ponder what CAIN may mean by this but when you ask it only replies that it has nothing further to add at this moment. 'I'm only an electronic brain - I can't be expected to know everything.' Where will you set coordinates for?
-A return to the Eiger Vault, 3033 AD? The factory world of Mechanon,
-2217 AD?
-The inhospitable world of Thrix,
-1776 AD?
+
+A return to the Eiger Vault, 3033 AD?
+The factory world of Mechanon, 2217 AD?
+The inhospitable world of Thrix, 1776 AD?
+Turn to 9
+Turn to 47
+Turn to 320
 
 263
 The grenade which you have hurled lands underneath one of the wardroids but the other one locks onto you with its energy weapon banks and fires an Ion Beam at you. The grenade goes off and the wardroid lurches, one of its hover pads destroyed - it is still functional but immobilised. You dart behind a boulder as the Ion Beam seeks you out. Make an Evasion Roll.
@@ -1624,12 +1593,15 @@ If you score 6-12, turn to 345
 If you score 2-5, turn to 356
 
 264
-You arrive back at the point on the grid which corresponds to the timehole on Mechanon as the flare of nuclear explosion glares red on your face-up display at the other points on the grid. The blast at this point has died away but your Strike Fighter's radiation dampers are being steadily overloaded by the fallout from the atomic mine. You must leave the gridI
-somehow, perhaps you can convince CAIN that you are not in the restricted grid of what to a computer is a 'fixed' universe. You must engage the Variac Drive once more, before the radiation reaches you. What coordinates will you type in this time?
-Turn to 9 Turn to 47 Turn to 320
+You arrive back at the point on the grid which corresponds to the timehole on Mechanon as the flare of nuclear explosion glares red on your face-up display at the other points on the grid. The blast at this point has died away but your Strike Fighter's radiation dampers are being steadily overloaded by the fallout from the atomic mine. You must leave the grid somehow, perhaps you can convince CAIN that you are not in the restricted grid of what to a computer is a 'fixed' universe. You must engage the Variac Drive once more, before the radiation reaches you. What coordinates will you type in this time?
+
 0/ 5/ 5
-1/ 0/ 0 -2/ 4/ 1 0/-5/-5
-Turn to 310 Turn to 295 Turn to 286
+1/ 0/ 0
+-2/ 4/ 1
+0/-5/-5
+Turn to 310
+Turn to 295
+Turn to 286
 Turn to 279
 
 265
