@@ -2235,11 +2235,10 @@ If you score 5-7, turn to 22
 If you score 2-4, turn to 354
 
 366
-Your fusion beams blast a hole in the roof of the communica- tions vault and you dive through and into a tunnel about which
-
- several inactive worker droids are strewn. An Atmospheric Interceptor screams after you, but you take care of it with your aft lasers. You hurtle out of the tunnel into a far larger one and, banking left, you see the droid repair shops and a missile base. The base tracks you and a missile streaks from it towards you. The rocket's drive flares brightly in the luminescent green glow of the tunnel. Will you use:
-Electronic counter measures against it? Turn to 384 Your twin fusion beams on it and the
-base?
+Your fusion beams blast a hole in the roof of the communica- tions vault and you dive through and into a tunnel about which several inactive worker droids are strewn. An Atmospheric Interceptor screams after you, but you take care of it with your aft lasers. You hurtle out of the tunnel into a far larger one and, banking left, you see the droid repair shops and a missile base. The base tracks you and a missile streaks from it towards you. The rocket's drive flares brightly in the luminescent green glow of the tunnel. Will you use:
+Electronic counter measures against it?
+Your twin fusion beams on it and the base?
+Turn to 384
 Turn to 396
 
 367
@@ -2249,26 +2248,27 @@ The Battle computer locks onto its target and your finger stabs out to the butto
 Before you can fire, one of the wardroids fires four shells from a mortar-cluster housing. They pepper the ground all around and explode, tumbling you through the air and tearing a hole in your environment suit. The suit's plasnet repairs itself but some of the acid atmosphere of Thrix is trapped inside and it reaches your lungs before your suit flushes it out. Lose 12 Endurancepoints. If you are still alive, the wounds will heal badly. Subtract 1 from your maximum Endurance forever. You pick yourself up again and decide to shoot on the run this time. Turn to 382.
 
 369
-You draw and aim your blaster in a flash, but the superhuman reactions of the Black Knight are even faster and he ducks the sizzling beam of superheated plasma. The visor on his great black helm clicks open and a beam of red light lances towards
-
-you. You can only try desperately to throw yourself aside. Make an Evasion Roll.
+You draw and aim your blaster in a flash, but the superhuman reactions of the Black Knight are even faster and he ducks the sizzling beam of superheated plasma. The visor on his great black helm clicks open and a beam of red light lances towards you. You can only try desperately to throw yourself aside. Make an Evasion Roll.
 
 If you score 6-12, turn to 99
 If you score 2-5, turn to 87
 
 370
 As you step into the recess a circular flap in the floor gives way beneath and you slide gently down an angled chute, like a large drainpipe. You begin to gain speed as you notice a bar protruding into the chute below you. Will you:
-Turn to 399 Turn to 416
+
 Try to grab the bar to stop your descent?
 Make sure you avoid it?
+Turn to 358
+Turn to 385
 
 371
 As you follow the capsule down, the flare of its re-entry licks towards you like a rocket exhaust and you use your retros to control your speed of descent. The capsule is too low and too near to a large city for you to risk attacking. It too has radar damping and you are forced to track it visually, cursing quietly as it leads you within five miles of a large 20th century airliner. Perhaps you look like a shooting star to its passengers. Hoping you have escaped notice you follow the capsule into the night side of Earth as its parachute opens, and set the Strike Fighter down in a field. You climb hastily out of your battlesuit and curse once more as you remember the Weeks/Senior Corpora- tion have not yet had time to install a hologram projector or molecular convertor. You ask CAIN's advice and he tells you that you are in Devon, a county in the democratic country of England, and that you might escape serious notice if you pretend to be an American film star in a cinematograph of the
 far-future, which the people of England would call a science fiction film. You jump down from the Strike Fighter and scan the area with your infra-red goggles. An android, it is too cool to be a human, is moving towards a stream of moving lights, one mile away. You run after him and in the lights, which turn out to be the front searchlights of combustion engined vehicles which roll along a tarmacadam strip, you see that the android looks like a man dressed in clothes from far history. Will you:
-Turn to 358 Turn to 385
+
 Follow the android?
-Go back to sabotage the burnt out
-re-entry capsule?
+Go back to sabotage the burnt out re-entry capsule?
+Turn to 399
+Turn to 416
 
 372
 You crouch in the trench, along which a heavy opaque green gas pours like a stream. To your surprise the great rock begins to roll along past you and is swallowed up in the yellow fog. You leave the trench and walk warily in the direction from which it came. There is a slight movement in the heavy air and the fog lifts slightly to reveal the most enormous mechanical contrap- tion shaped like a long armadillo. Dust rises from its form and it rumbles slowly across the surface of the planet towards you on caterpillar tracks. Its body is composed of overlapping segments of metal like a woodlouse, which glow dully in the dull rays of the Thrixian sun, which barely penetrates the thick atmos- phere. Thrix is cold. Turn to 395.
@@ -2278,7 +2278,6 @@ Your thumbs press down on the joystick firing buttons and twin fission beams lea
 
 374
 The arrogant Danikoi are not interested in a future in which they are not the most powerful beings. The Disputer says, 'If we can no longer protect ourselves then let it all end. Our species will no longer be fit for survival.' They turn their backs on you and you cannot make them listen. There is nothing that you can do now which will stop the Danikoi using time travel to mould history to their own decadent whims. Suddenly, everything goes dark. The Danikoi have changed history and it is as if you and the Space Federation had never existed.
-
 
 375
 Too late you realise that the twenty space-artillery cannons are trained towards you. They fire simultaneously and twenty plasma bolts explode all around you. Your ship's defences, incredibly, stand up to this battering, but they are almost useless now. You scream into the cavernous tunnel and two raildroids whir along their raits towards you. You score a hit on one but the particle disrupter beam of the other pierces your defences. The Strike Fighter is consumed in a ball of flame as its drive overloads and you are destroyed with it. You have failed.
