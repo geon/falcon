@@ -2394,29 +2394,25 @@ If you score 2-5, turn to 69
 397
 The din of metal striking metal rings all about you as the French knights ride amongst the English. All is confusion as the English seek to drag the French from their horses while defending, shields raised, against the blows of their swords. You move back, but the Black Prince is hard pressed and whilst you are deciding whether to aid him a French knight in a great visored helmet bears down on you with a lance. Will you:
 
- Use your blaster against the French knight?
-Fight him with your sword? Attempt to Thinkstrike him?
+Use your blaster against the French knight?
+Fight him with your sword?
+Attempt to Thinkstrike him?
+Turn to 203
+Turn to 82
+Turn to 184
 
 398
-Turn to 203 Turn to 82 Turn to 184
 You sprint away from Falcon's Wing as three ballistic missiles streak overhead. Two score direct hits on your Time Machine and the blast hurls you fifty feet across the gleaming steel roof of the refining plant. Lose 2 Endurance points. The third missile destroys the mining droid, sending a purple cloud of atomised rock into the atmosphere. When the dust settles all that remains of Falcon's Wing is a few small parts of one of the hydraulic legs. You are trapped in time, on Mechanon in 1986 AD with no way of leaving this soulless planet dedicated to the manufacture of hideous weaponry. You have no choice but to go on. Turn to 5.
 
 399
 You follow the android at a distance and it makes for a quiet village. It enters an old building which has a painting hanging outside it of two black horses pulling a four wheeled vehicle made of wood. You follow it inside, cautiously, and the building appears to be an ancient form of recreation centre. There are no vid-booths or massage machines but several men and women appear to be drinking enormous glass mugs of what looks faintly like urine. Some of them appear to be losing control.of their limbs. The android is talking to the man who serves the drinks asking in a flat voice for the use of a phone. You can see no holophones but your attention is momentarily distracted as a man staggers towards you and puts his arm on your shoulder. 'What have we got here then? Going to a fancy dress party?' You search your memory for the vid-lecture which dealt with late 20th century customs and history but all you can remember is that a dress is something worn only by women at this time. You shake your head and reply, mimicking his accent, that you are an extra from a science fiction film. 'A Star Wars chappie eh? Well, come and have a drink.' The android is walking to the back door. Will you:
-Ignore the man and follow the android? Turn to 45 Say you have no 'money' and leave by
 
-the front so that you can walk round to the back unobserved?
+Ignore the man and follow the android?
+Say you have no 'money' and leave by the front so that you can walk round to the back unobserved?
+Turn to 45
+Turn to 26
 
 400
-Turn to 26
-overcome his Thinkstrike which threatens to reduce you to a grovelling animal. Make a Power of Will Roll.
-
-If you score 6-12, turn to 237
-If you score 2-5, turn to 274
-
-404
-A small communications droid is linked to a terminal and it disengages and backs away as you approach. You blast it and move over to the terminal. A screen is covered in multi-coloured blocks which flash seemingly at random, but the communica- tions port is still open. You take your Universal Interface and plug it in. Its shape changes to fit the alien specification of the port and it is linked into the communications network in seconds. It probes the databanks, subtly changing the software until it has extracted gygabytes of data on the status of Mechanon. As the Universal Interface completes its work you pick up a radio message.
-'Bloodhound calling Lynx, I am in position in front of the hangar door. The inside of the fluorescent building is teeming with battle droids and mobile scanner banks.' Jobanque has sent Bloodhound and Lynx to help you on Mechanon! You cut in on the same frequency and tell them your position. It appears that the tunnels between you and them are teeming with wardroids. Will you:
 You are still not familiar with the Strike Fighter's beam laser controls and you have failed to stop the missiles. AH three home in and detonate. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved you from certain destruction, but your ship has taken damage. Subtract 3 from your Zeiss Shield energy if you are equipped with energy shields, or 6 Hull Armour points if your ship carries Titanium Hull Armour. Turn to 103.
 
 401
@@ -2429,17 +2425,24 @@ If you score 2-5, turn to 125
 As your missile arrows down towards the fortress, you can see several small laser cluster banks swivelling to track it. They open fire, but the missile streaks under the red laser lances and slams into the fortress. There is an enormous explosion and the fortress erupts, sending pieces of twisted metal everywhere. The Strike Fighter is blown upward by the force of the blast, but its gyros correct its course and you rush onward through the smoke and debris like a bullet. Turn to 71.
 
 403
-Sweating with the effort inside your battlesuit, you manage to throw off his attempt to take control of your mind, but his mind is as quick as his reflexes and before you can attack him he hurls a blast of mental energy at you. You use your Power of Will to
-Try to fight your way back to them? Continue deeper into the complex?
+Sweating with the effort inside your battlesuit, you manage to throw off his attempt to take control of your mind, but his mind is as quick as his reflexes and before you can attack him he hurls a blast of mental energy at you. You use your Power of Will to overcome his Thinkstrike which threatens to reduce you to a grovelling animal. Make a Power of Will Roll.
+
+If you score 6-12, turn to 237
+If you score 2-5, turn to 274
+
+404
+A small communications droid is linked to a terminal and it disengages and backs away as you approach. You blast it and move over to the terminal. A screen is covered in multi-coloured blocks which flash seemingly at random, but the communica- tions port is still open. You take your Universal Interface and plug it in. Its shape changes to fit the alien specification of the port and it is linked into the communications network in seconds. It probes the databanks, subtly changing the software until it has extracted gygabytes of data on the status of Mechanon. As the Universal Interface completes its work you pick up a radio message.
+'Bloodhound calling Lynx, I am in position in front of the hangar door. The inside of the fluorescent building is teeming with battle droids and mobile scanner banks.' Jobanque has sent Bloodhound and Lynx to help you on Mechanon! You cut in on the same frequency and tell them your position. It appears that the tunnels between you and them are teeming with wardroids. Will you:
+Try to fight your way back to them?
+Continue deeper into the complex?
+Turn to 8
+Turn to 19
 
 405
-Turn to 8 Turn to 19
 Either your joke did not translate well into Thrixian or the alien has no sense of humour. It seems to shudder slightly and pulls its mind back from yours. Turn to 383.
 
 406
-The force field falters and then disappears. You gun the Strike Fighter through the gap but the field is rekindled just as you are half way through. The power surge plays havoc with the Fighter's Ion Drive and CAIN tells you that he must shut down the Drive before it explodes. You have passed through into yet
-
-another tunnel at the end of which you Can see the stars of Mechanon's night sky. You are forced to crash land and the Strike Fighter skids for half a mile along the steel floor of the tunnel, throwing you about in your crash-couch harness like a bobsleigh until it comes to a rest. You check the air supply of your battlesuit and then blow the cockpit seals and jump out. There is a whirring noise in the distance and a rail above your head starts to vibrate slightly. You decide to test your jetpack and fly up to the rail. A raildroid looms rapidly larger as it speeds along towards you. You are about to fire your suit's particle disrupter when you see a living being riding on a disc attached to the droid. It slows as it approaches you and you recognise Agidy Yelov. On his own Yelov is a dangerous customer, with all his new toys to help him kill you, you sense that you will do well to survive. The thin atmosphere has been changed to suit the Siriun in this part of the complex and he has no need of a space suit. Yelov recognises you and curses. 'Kill or be killed, Falcon/ he threatens, and lets a small, white object fall from his hand as an Atmospheric Interceptor enters the tunnel in the far distance. You decide to dodge in case the Interceptor is about to fire its laser. Make an Evasion Roll.
+The force field falters and then disappears. You gun the Strike Fighter through the gap but the field is rekindled just as you are half way through. The power surge plays havoc with the Fighter's Ion Drive and CAIN tells you that he must shut down the Drive before it explodes. You have passed through into yet another tunnel at the end of which you Can see the stars of Mechanon's night sky. You are forced to crash land and the Strike Fighter skids for half a mile along the steel floor of the tunnel, throwing you about in your crash-couch harness like a bobsleigh until it comes to a rest. You check the air supply of your battlesuit and then blow the cockpit seals and jump out. There is a whirring noise in the distance and a rail above your head starts to vibrate slightly. You decide to test your jetpack and fly up to the rail. A raildroid looms rapidly larger as it speeds along towards you. You are about to fire your suit's particle disrupter when you see a living being riding on a disc attached to the droid. It slows as it approaches you and you recognise Agidy Yelov. On his own Yelov is a dangerous customer, with all his new toys to help him kill you, you sense that you will do well to survive. The thin atmosphere has been changed to suit the Siriun in this part of the complex and he has no need of a space suit. Yelov recognises you and curses. 'Kill or be killed, Falcon/ he threatens, and lets a small, white object fall from his hand as an Atmospheric Interceptor enters the tunnel in the far distance. You decide to dodge in case the Interceptor is about to fire its laser. Make an Evasion Roll.
 
 If you score 6-12, turn to 309
 If you score 2-5, turn to 296
