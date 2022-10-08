@@ -459,7 +459,7 @@ function checkLineBreaks(pages: readonly Page[]) {
 	}
 }
 
-const fileContent = readFileSync("falcon1.txt");
+const fileContent = readFileSync("falcon2.txt");
 const lines = getLines(fileContent.toString("utf8"));
 const linesAfterIntro = skipIntro(lines);
 const pages = [...getPages(linesAfterIntro)].map(parsePage);
@@ -581,7 +581,7 @@ for (const page of pages) {
 	for (const section of page.sections) {
 		if (section.type === "illustration") {
 			copyFileSync(
-				join("falcon1-images", section.fileName),
+				join("falcon2-images", section.fileName),
 				join("dist", section.fileName),
 			);
 		}
