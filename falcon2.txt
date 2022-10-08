@@ -1905,9 +1905,22 @@ Turn to 329
 Turn to 270
 
 310
-Nothing happens. CAIN advises you that you can only move to a point on the grid which corresponds to a timehole. The
+Nothing happens. CAIN advises you that you can only move to a point on the grid which corresponds to a timehole. The radiation level is critical. Which coordinates will you try next?
 
-radiation level is critical. Which coordinates will you try next?
+-2 / 4 / 1
+1/ 0/ 0
+0/-5/-5
+Turn to 349
+Turn to 332
+Turn to 279
+
+311
+The green ray expands as it stabs towards you and you have to crouch low to avoid its sweep across the machinery of the broken droid. A light film of metal covers you as the droid is eaten away. The raildroids have high intensity particle disruptors. Will you:
+
+Dodge out and open fire once more?
+Run into the smaller access tunnel?
+Turn to 347
+Turn to 280
 
 312
 You stand and hurl your grenade which arcs through the gaseous mist towards the wardroid and then pull your blaster. The electronic circuitry of the droid reacts faster than thought and a pulse of energy from its weapon banks picks you up and hurls you bodily against a rock outcropping. The plasnet of your suit repairs itself automatically but the blast and the acid gas of Thrix's atmosphere which seeped into your suit have reducedyour Endurance by 10 points. If you are still alive, the contaminated wounds will heal poorly - subtract 1 from your maximum Endurance points forever. Your grenade explodes, destroying the hover pads of the wardroid which falls to the rocky ground, immobilised. In a split second you have recovered and unleashed a lancing bolt of white-hot energy which hits its power plant and the flash defence on your helmet automatically cuts in and the faceplate darkens as the lurid explosion lights the yellow atmosphere, hurling debris everywhere. You have destroyed the wardroid
@@ -1918,16 +1931,7 @@ CAIN is silent for some moments before chiming, 'There is a correspondence betwe
 Thank you CAIN/ you reply, 'and CAIN, has it ever crossed your memory banks that even you don't know everything? I have the information I need now. Set coordinates for Crecy, 26th August, 1346 AD,' you order. Turn to 322.
 
 314
-The policemen have had only a little training in unarmed combat
--2 / 4 / 1 1/ 0/ 0 0/-5/-5
-Turn to 349 Turn to 332 Turn to 279
-
-311
-The green ray expands as it stabs towards you and you have to crouch low to avoid its sweep across the machinery of the broken droid. A light film of metal covers you as the droid is eaten away. The raildroids have high intensity particle disruptors. Will you:
-Dodge out and open fire once more? Run into the smaller access tunnel?
-Turn to 347 Turn to 280
-
- and you manage to stun them and escape across the fields, setting out towards your Strike Fighter. Turn to 135.
+The policemen have had only a little training in unarmed combat and you manage to stun them and escape across the fields, setting out towards your Strike Fighter. Turn to 135.
 
 315
 The lasers rake across its nose, destroying the sensitive equipment that the missile carried, but it does not explode. You try electronic counter measures as it closes in on you and it suddenly falls out of the sky. You turn and dive to watch as it screams into a fuel refinery. The explosion flattens factories for a mile around, the shock wave throws you across the sky and a pillar of flame, smoking blackly, reaches far into the atmosphere above you. You fly back towards the gaping maw of the hangar. Turn to 351.
