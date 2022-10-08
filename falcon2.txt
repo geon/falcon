@@ -1288,13 +1288,23 @@ Desperately you target the lasers and let fly. With the accuracy of an elite com
 
 206
 You blast the gun mounting which fuses before it has brought the cannon to bear, and then play a long blast of sizzling energy over the wardroid. The yellow gas turns red in a great cloud around it as the metal of the droid fuses and collapses in on itself, into a molten mass. It carried a radar beacon which has now stopped functioning. You can see four more of the hovering wardroids, one at each corner of the gargantuan mining droid and you realise it will not be long before they register that the droid which attacked you is out of action. At the back of the mining droid is a loading bay stacked with thin rods of ore. Will you:
-and another branches off to the left. You can see something blue glowing at its end. Will you:
+
 Creep across the rocky terrain towards the loading bay?
 Wait where you are to see what happens?
 Skirt the mining droid taking advantage of the cover of some loose boulders?
+Turn to 252
+Turn to 266
+Turn to 238
 
 207
-Turn to 252 Turn to 266 Turn to 238
+You are at a T-junction. The tunnel continues straight ahead and another branches off to the left. You can see something blue glowing at its end. Will you:
+
+Bank and turn left?
+Continue straight on?
+Turn to 220
+Turn to 192
+
+208
 The laser energy beam has finally breached your ship's defences. The circuits are overloading and she is falling apart. Suddenly the Fighter explodes into a ball of flame and you are destroyed with it.
 
 209
@@ -1302,17 +1312,13 @@ You instruct CAIN to turn on the Variac Drive to shift you into null-space and t
 
 210
 The hatch seals as you settle into your crash-couch and run routine system checks. The technicians have been over your machine with a microscope and Falcon's Wing is in perfect repair. You decide to ask CAIN for some information.
-You are at a T-junction. The tunnel continues straight ahead
+
 If you ask for details on planet Mechanon,
 If you would like to ask for details of Yelov's escape,
 If you would like to ask Jobanque whether he is using any other agents on this mission,
-Turn to 140 Turn to 155
+Turn to 140
+Turn to 155
 Turn to 180
-Bank and turn left? Continue straight on?
-Turn to 220 Turn to 192
-
-208
-
 
 211
 You move to the new point on the grid but are caught in the middle of an atomic explosion which obliterates you. The atomic mine has arrived momentarily before you and you have entered a fireball of raw energy.
