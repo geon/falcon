@@ -5,7 +5,7 @@ The hovrail car which will take you to the Eiger Vault glides soundlessly to a h
 Less than an hour after leaving Jobanque's office you stand before the huge plasteel hangar doors of the Eiger Vault, set deep in the side of Mount Eiger. Your ID chip is checked and you are mind scanned before access to the vault is allowed by the service computer. As you pass the security droids, you reflect upon the folly of holding Yelov within this tight security net, instead of outside it. He is a million times more dangerous with a Time Machine at his disposal than if he were at large on Earth, 3033 AD. You cross the cavern which houses the Time Machines and the Research Section of TIME. The area in which the machines are kept is partitioned at intervals and you head straight for your own bay. In the centre of the bay, which is lined on three sides with racks carrying maintenance equipment, spare parts, the Variac Drive Recharger and sundry other useful items, lies Falcon's Wing, your Time Machine. You approach the access hatch and the Mind Scanner lights up red, then green. You are drawn up into the Time Machine by invisible Tractor Beams, activated by CAIN. Soon you are standing on the glowing Access Disc and CAIN chimes 'Welcome, Falcon.' Turn to 210.
 
 2
-As you open your mind to the alien you find yourself having to make a great effort to remain sane and regain your human sense of perspective. The Thrix live for millenia on a cold and lifeless world, barren of architecture - they have no need of building, and of almost everything else that you associate with civil- isation. You realise that something terrible is happening on this long-peaceful planet and that it wants you to accompany is towards a mining complex which is as alien to the Thrix as it is to you. The Thrix's name translates as Carborundum. Suddenly it lurches and begins to roll across the rocky ground. You decide to follow warily. Turn to 53.
+As you open your mind to the alien you find yourself having to make a great effort to remain sane and regain your human sense of perspective. The Thrix live for millennia on a cold and lifeless world, barren of architecture - they have no need of building, and of almost everything else that you associate with civilisation. You realise that something terrible is happening on this long-peaceful planet and that it wants you to accompany is towards a mining complex which is as alien to the Thrix as it is to you. The Thrix's name translates as Carborundum. Suddenly it lurches and begins to roll across the rocky ground. You decide to follow warily. Turn to 53.
 
 3
 Your aim, though hasty, is true and a sizzling beam of white-hot plasma erupts against the Black Knight. The black armour is ripped open, revealing mechanical gears and electronic circuitry beneath and the droid collapses before exploding loudly. Sir Thomas Chandos and the other knights turn towards you and then begin to run, terrified of your 'sorcery'. With a loud, if muffled, cheer the French knights press onward, scenting victory - your actions have changed the course of the battle and the English are losing. You quickly vapourise the remains of the droid as the tide of battle washes over you, defending yourself from the lances of the French with your shield. Will you:
@@ -45,7 +45,7 @@ If you score 7-12, turn to 41
 If you score 2-6, turn to 30
 
 8
-You set off towards them, but a phalanx of hovering wardroids pours out of the tunnel where you passed the raildroid. You destroy one but the barrage of their fire turns the communi- idtions area to molten slag and you do not survive it.
+You set off towards them, but a phalanx of hovering wardroids pours out of the tunnel where you passed the raildroid. You destroy one but the barrage of their fire turns the communications area to molten slag and you do not survive it.
 
 9
 Since you have just spent an hour of your life in null-space you may restore up to twelve points of lost Endurance through the use of your Autodoc. As soon as you rematerialise in the Eiger Vault, CAIN memory banks are updated with any details of time-trips which may have been detected by the time beacons placed in each timehole.Someone has made another trip to the planet Thrix. Will you:
@@ -80,19 +80,19 @@ If you score 7-12, turn to 62
 If you score 2-6, turn to 43
 
 14
-You were not fast enough and the energy pulse picks you up a nd hurls you bodily against a rock outcropping. The plasnet of your suit repairs itself automatically, but the blast and the acid gas of Thrix's atmosphere which seeped into your suit have reducedyour Endurance by 10 points. If you are still alive, the contaminated wounds will heal poorly - subtract 1 from your maximum Endurance forever. You have a split second in which to fire before the wardroid unleashes another blast of energy. Make an Attack Roll.
+You were not fast enough and the energy pulse picks you up and hurls you bodily against a rock outcropping. The plasnet of your suit repairs itself automatically, but the blast and the acid gas of Thrix's atmosphere which seeped into your suit have reduced your Endurance by 10 points. If you are still alive, the contaminated wounds will heal poorly - subtract 1 from your maximum Endurance forever. You have a split second in which to fire before the wardroid unleashes another blast of energy. Make an Attack Roll.
 
 If you score 7-12, turn to 38
 If you score 2-6, turn to 23
 
 15
-The Main Access portal is an oval opening, a hundred metres across and fifty tall. It seems to be composed of ten overlapping sections of metal which can slide open one at a time or all together. As you hurtle towards it a swarm of Atmospheric Interceptorsappear from the hangar opening. Their pulse lasers will soon be wreaking havoc on your ship's defences. Quickly you beam the Main Access Code at the Communication Tower above the portal and it slides open. You move from the gloomy brooding red of Mechanon's thin atmosphere to the ghostly green luminescence which lights an enormous tunnel that stretches ahead for miles. Ten Atmospheric Interceptors follow you down the tunnel, their pulse lasers winking on and off as they pour their deathly fire at your ship's defences. Turn to 109.
+The Main Access portal is an oval opening, a hundred metres across and fifty tall. It seems to be composed of ten overlapping sections of metal which can slide open one at a time or all together. As you hurtle towards it a swarm of Atmospheric Interceptors appear from the hangar opening. Their pulse lasers will soon be wreaking havoc on your ship's defences. Quickly you beam the Main Access Code at the Communication Tower above the portal and it slides open. You move from the gloomy brooding red of Mechanon's thin atmosphere to the ghostly green luminescence which lights an enormous tunnel that stretches ahead for miles. Ten Atmospheric Interceptors follow you down the tunnel, their pulse lasers winking on and off as they pour their deathly fire at your ship's defences. Turn to 109.
 
 16
-You fire your twin fusion cannons and two beams of energy leap from your wingtips, vapourising the incoming missile and flashingon to destroy the missile base, which simply ceases to exist. You bank further to the left and hurtle onward up the large tunnel. Turn to 28.
+You fire your twin fusion cannons and two beams of energy leap from your wingtips, vapourising the incoming missile and flashing on to destroy the missile base, which simply ceases to exist. You bank further to the left and hurtle onward up the large tunnel. Turn to 28.
 
 17
-You make it to the doorway, but you haven't the electronic code to gain entry. The droid criss-crosses the highway with laser beamsand you cannot dodge them all. You are chopped into several pieces and your mission ends here.
+You make it to the doorway, but you haven't the electronic code to gain entry. The droid criss-crosses the highway with laser beams and you cannot dodge them all. You are chopped into several pieces and your mission ends here.
 
 18
 The French knight topples forward, his lance ploughing a great furrow as he crashes to the ground like a sack of.coal. He lies still at your feet and his horse bucks and rears in panic before bolting. Will you:
@@ -124,7 +124,7 @@ They follow you to your Strike Fighter and it quickly becomes obvious that they 
 Your lasers have sheared the drive away from one of the missiles and it spins harmlessly past you, in two pieces, but the other strikes home and explodes. The ship rocks and the gyros whir as it rights itself. Your hull armour or shields have saved, you from certain destruction but your ship has taken damage. subtract 1 from your Zeiss Shield energy if you are equipped with energy shields, or 2 Hull Armour points if your ship carries Titanium hull armour. Turn to 34.
 
 23
-The wardroid rises dramatically on its hover thrusters just as you fire. Your plasma blast ionises the gas in a long stream turning it from yellow to red, but it has passed beneath the wardroidwhich sweeps the area with a laser cannon. You are caught in the beam and sliced neatly into two at the waist. The shock kills you.
+The wardroid rises dramatically on its hover thrusters just as you fire. Your plasma blast ionises the gas in a long stream turning it from yellow to red, but it has passed beneath the wardroid which sweeps the area with a laser cannon. You are caught in the beam and sliced neatly into two at the waist. The shock kills you.
 
 24
 image-017.png
@@ -138,8 +138,8 @@ You concentrate your mind and try to dominate the will of this sentient rock, bu
 
 26
 [score an H]
-As you step out of the recreation centre your Remote Access T erminal bleeps and CAIN sends you a message. The android is hooking into the telephone network and changing the informationreaching the Communist bloc defence computer which controls nearly half of the world's nuclear missiles at this time. You scale a wall and enter a courtyard in which there is a red and glass booth. The android is inside and you recognise an ancient 'tele'phone in its hand. He has fitted an unusual device to the transmitter. Will you:
-Climbback over the wall and cut the cable which leads to the telephone booth?
+As you step out of the recreation centre your Remote Access Terminal bleeps and CAIN sends you a message. The android is hooking into the telephone network and changing the information reaching the Communist bloc defence computer which controls nearly half of the world's nuclear missiles at this time. You scale a wall and enter a courtyard in which there is a red and glass booth. The android is inside and you recognise an ancient 'telephone' in its hand. He has fitted an unusual device to the transmitter. Will you:
+Climb back over the wall and cut the cable which leads to the telephone booth?
 Walk to the booth and yank the android out of it?
 Use your blaster on the android?
 
