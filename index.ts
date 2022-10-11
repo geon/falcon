@@ -568,7 +568,10 @@ function renderIllustrationSection(section: IllustrationSection): string {
 	return `<img src="${section.fileName}" />`;
 }
 
-const fileContent = readFileSync("falcon2.txt");
+const bookFileName = "falcon2.txt";
+const imageFolderName = "falcon2-images";
+
+const fileContent = readFileSync(bookFileName);
 const lines = getLines(fileContent.toString("utf8"));
 const linesAfterIntro = skipIntro(lines);
 const pages = [...getPages(linesAfterIntro)].map(parsePage);
@@ -588,7 +591,7 @@ for (const page of pages) {
 	for (const section of page.sections) {
 		if (section.type === "illustration") {
 			copyFileSync(
-				join("falcon2-images", section.fileName),
+				join(imageFolderName, section.fileName),
 				join("dist", section.fileName),
 			);
 		}
