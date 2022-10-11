@@ -569,10 +569,10 @@ function renderIllustrationSection(section: IllustrationSection): string {
 }
 
 function processBook(bookNumber: number) {
-	const bookFileName = `falcon${bookNumber}.txt`;
-	const imageFolderName = `falcon${bookNumber}-images`;
+	const bookFilePath = `falcon${bookNumber}.txt`;
+	const imageFolderPath = `falcon${bookNumber}-images`;
 
-	const fileContent = readFileSync(bookFileName);
+	const fileContent = readFileSync(bookFilePath);
 	const lines = getLines(fileContent.toString("utf8"));
 	const linesAfterIntro = skipIntro(lines);
 	const pages = [...getPages(linesAfterIntro)].map(parsePage);
@@ -592,7 +592,7 @@ function processBook(bookNumber: number) {
 		for (const section of page.sections) {
 			if (section.type === "illustration") {
 				copyFileSync(
-					join(imageFolderName, section.fileName),
+					join(imageFolderPath, section.fileName),
 					join("dist", section.fileName),
 				);
 			}
