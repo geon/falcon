@@ -568,32 +568,36 @@ function renderIllustrationSection(section: IllustrationSection): string {
 	return `<img src="${section.fileName}" />`;
 }
 
-const bookFileName = "falcon2.txt";
-const imageFolderName = "falcon2-images";
+function processBook(bookNumber: number) {
+	const bookFileName = `falcon${bookNumber}.txt`;
+	const imageFolderName = `falcon${bookNumber}-images`;
 
-const fileContent = readFileSync(bookFileName);
-const lines = getLines(fileContent.toString("utf8"));
-const linesAfterIntro = skipIntro(lines);
-const pages = [...getPages(linesAfterIntro)].map(parsePage);
+	const fileContent = readFileSync(bookFileName);
+	const lines = getLines(fileContent.toString("utf8"));
+	const linesAfterIntro = skipIntro(lines);
+	const pages = [...getPages(linesAfterIntro)].map(parsePage);
 
-checkPageNumbers(pages);
-checkLineBreaks(pages);
+	checkPageNumbers(pages);
+	checkLineBreaks(pages);
 
-const outputDirName = "dist";
-mkdirSync(outputDirName);
-for (const page of pages) {
-	writeFileSync(
-		outputDirName + "/" + page.pageNumber + ".html",
-		renderPage(page),
-	);
+	const outputDirName = "dist";
+	mkdirSync(outputDirName);
+	for (const page of pages) {
+		writeFileSync(
+			outputDirName + "/" + page.pageNumber + ".html",
+			renderPage(page),
+		);
 
-	// Copy illustrations to dist.
-	for (const section of page.sections) {
-		if (section.type === "illustration") {
-			copyFileSync(
-				join(imageFolderName, section.fileName),
-				join("dist", section.fileName),
-			);
+		// Copy illustrations to dist.
+		for (const section of page.sections) {
+			if (section.type === "illustration") {
+				copyFileSync(
+					join(imageFolderName, section.fileName),
+					join("dist", section.fileName),
+				);
+			}
 		}
 	}
 }
+
+processBook(2);
