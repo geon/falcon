@@ -1,4 +1,10 @@
-import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from "fs";
+import {
+	readFileSync,
+	writeFileSync,
+	mkdirSync,
+	copyFileSync,
+	existsSync,
+} from "fs";
 import { join } from "path";
 
 function* getLines(string: string) {
@@ -569,8 +575,8 @@ function renderIllustrationSection(section: IllustrationSection): string {
 }
 
 function processBook(bookNumber: number) {
-	const bookFilePath = `falcon${bookNumber}.txt`;
-	const imageFolderPath = `falcon${bookNumber}-images`;
+	const bookFilePath = join("books", bookNumber.toString(), "book.txt");
+	const imageFolderPath = join("books", bookNumber.toString(), "images");
 
 	const fileContent = readFileSync(bookFilePath);
 	const lines = getLines(fileContent.toString("utf8"));
@@ -580,11 +586,15 @@ function processBook(bookNumber: number) {
 	checkPageNumbers(pages);
 	checkLineBreaks(pages);
 
-	const outputDirName = "dist";
-	mkdirSync(outputDirName);
+	const outputMainDirName = "dist";
+	if (!existsSync(outputMainDirName)) {
+		mkdirSync(outputMainDirName);
+	}
+	const outputBookDirName = join(outputMainDirName, bookNumber.toString());
+	mkdirSync(outputBookDirName);
 	for (const page of pages) {
 		writeFileSync(
-			outputDirName + "/" + page.pageNumber + ".html",
+			join(outputBookDirName, page.pageNumber + ".html"),
 			renderPage(page),
 		);
 
@@ -593,11 +603,13 @@ function processBook(bookNumber: number) {
 			if (section.type === "illustration") {
 				copyFileSync(
 					join(imageFolderPath, section.fileName),
-					join("dist", section.fileName),
+					join(outputBookDirName, section.fileName),
 				);
 			}
 		}
 	}
 }
 
-processBook(2);
+for (const bookNumber of [1, 2]) {
+	processBook(bookNumber);
+}
