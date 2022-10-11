@@ -468,16 +468,6 @@ function checkLineBreaks(pages: readonly Page[]) {
 	}
 }
 
-const fileContent = readFileSync("falcon2.txt");
-const lines = getLines(fileContent.toString("utf8"));
-const linesAfterIntro = skipIntro(lines);
-const pages = [...getPages(linesAfterIntro)].map(parsePage);
-
-checkPageNumbers(pages);
-checkLineBreaks(pages);
-
-// console.log(JSON.stringify(pages, null, "\t"));
-
 function renderPage(page: Page): string {
 	return `
 		<html>
@@ -577,6 +567,14 @@ function renderChoicesSection(section: ChoicesSection): string {
 function renderIllustrationSection(section: IllustrationSection): string {
 	return `<img src="${section.fileName}" />`;
 }
+
+const fileContent = readFileSync("falcon2.txt");
+const lines = getLines(fileContent.toString("utf8"));
+const linesAfterIntro = skipIntro(lines);
+const pages = [...getPages(linesAfterIntro)].map(parsePage);
+
+checkPageNumbers(pages);
+checkLineBreaks(pages);
 
 const outputDirName = "dist";
 mkdirSync(outputDirName);
