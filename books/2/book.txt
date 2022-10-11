@@ -139,15 +139,21 @@ You concentrate your mind and try to dominate the will of this sentient rock, bu
 26
 [score an H]
 As you step out of the recreation centre your Remote Access Terminal bleeps and CAIN sends you a message. The android is hooking into the telephone network and changing the information reaching the Communist bloc defence computer which controls nearly half of the world's nuclear missiles at this time. You scale a wall and enter a courtyard in which there is a red and glass booth. The android is inside and you recognise an ancient 'telephone' in its hand. He has fitted an unusual device to the transmitter. Will you:
+
 Climb back over the wall and cut the cable which leads to the telephone booth?
 Walk to the booth and yank the android out of it?
 Use your blaster on the android?
+Turn to 188
+Turn to 10
+Turn to 92
 
 27
-Turn to 188 Turn to 10
-Turn to 92
 You drop to the steel floor and turn your suit temperature to freezing. The huge droid moves towards you and then stops. You can see its banks of infra-red sensors questing all around, but two of the horn-like devices turn slowly towards you. It must be homing in on your heartbeat. There is a closed doorway into a small domed building not far to your right. Will you:
-Try for the doorway? Turn to 17 Try to blast the horns from the droid? Turn to 46
+
+Try for the doorway?
+Try to blast the horns from the droid?
+Turn to 17
+Turn to 46
 
 28
 image-018.png
