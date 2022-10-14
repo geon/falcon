@@ -32,6 +32,8 @@ Earth, using Hyperdrive, faster-than-light travel, has established itself as hea
 Travel through time involves crossing a fourth dimension, 'Null-space' or the 'Void' as it is known. This dimension joins all points in time and space from the beginning of the universe to its end. Imagine time as a cable. Earth's Timeline (or past, present and future) is a single strand of this cable stretching from Earth's beginning to the end of time. The Timelines of other planets run alongside this and weave around each other, because events on one planet affect things on another. These strands, or Timelines, are insulated from the fourth dimension in the same way that an electrical wire is insulated. At certain points there are holes in the insulation allowing travel from one point on the wire through this hole to a different point on this or another wire. In this way a Time Machine may move from one 'Timehole' to another and from one point in space to another via Null-space.
 The Timeholes are formed when the fabric of time is damaged by unknown forces. They can be larger, but are usually less than five miles across. Timeholes come and go as new damage occurs and older Timeholes close up naturally. The Monitoring Section is responsible for keeping the map of current Timeholes. Your up-to-date map is at the beginning of the book. At least one hole has been there for a long time - the Eiger Vault, near the TIME Building in the Alps. It is thought to be a permanent Timehole and your Time Machine, Falcon's Wing, is kept there along with those of the Lords of TIME and other Agents. Some Timeholes are safer than others and it is possible to go back in time only to find that the hole through which you travelled has closed up, trapping the unfortunate traveller in the past. Time passes at the same rate in all Timeholes as on Earth. If you begin a journey to a Timehole ten minutes after somebody else does you will arrive ten minutes later than them. Only those with Psychic Awareness can navigate across Null-space.
 
+image-001.png
+
 # Game Rules
 
 # ATTACK
@@ -47,7 +49,7 @@ In certain cases you may need to avoid the attack of an enemy or escape from a d
 Some paragraphs will offer you the chance to make a mental attack, either a Thinkstrike or Power of Will. Make an Attack Roll, just as if you were attacking normally, but add or subtract your Thinkstrike or Power of Will Modifier, not your Attack Modifier. In all other ways mental attacks work in the same way as a physical attack. To begin with your Thinkstrike and Power of Will Modifiers are zero, as noted on your Agent Profile.
 
 # PSYCHIC AWARENESS
-Your Psychic Awareness operates at all times and you told when you have discovered anything of interest.
+Your Psychic Awareness operates at all times and you will be told when you have discovered anything of interest.
 
 # ENDURANCE
 You, Falcon, start the adventure with 20 points of Endurance. If you are wounded in combat, suffer something unpleasant such as an acid atmosphere without a space suit, or become exhausted, you will lose Endurance points. A running total of your Endurance should be kept on your Agent Profile. If at any time you fall to zero Endurance or less you are dead and your adventure is over. Endurance points can be regained by visiting the Autodoc in your Time Machine (see equipment list) and you will be told when you can use your Autodoc.
@@ -82,7 +84,7 @@ Each Time Machine is equipped with a Molecular Converter, a device which uses th
 This is a couch-like device which has needles, a drip, a blood supply and surgical robo-arms. You may lie in the Autodoc
 during the time taken to travel from one Timehole to another, for instance, and come out healed, restoring your Endurance by up to twelve points. You will be told when you can use your Autodoc.
 
-# ITEM6: FLYER [see accompanying specification]
+# ITEM 6: FLYER [see accompanying specification]
 Your crash-couch swivels up onto the platform of your flyer when you wish to use it. The flyer is a small hover-raft which is catapulted out of the Time Machine through the Launch Doors, two sections on top of the hull that slide apart. Once safely away from the Machine the Ion Drive can be cut in, giving the flyer a top speed many times the speed of sound (Mach 6). It can hover which allows you to use it as an observation platform, but it is too small to carry a Hologram Generator and should only be used when strictly necessary. Fortunately, its Ion Drive is almost soundless. You are also issued with a Homing Beacon, which, when activated, will make the flyer move to its location as quickly as possible. The flyer is then piloted by its micro computer. The Beacon is magnetic, and about the size of a die.
 
 FLYER
@@ -91,7 +93,7 @@ image-005.png
 FLYER
 image-004.png
 
-# ITEM7: CAIN [Cybernetic Artificial Intelligence Nexus]
+# ITEM 7: CAIN [Cybernetic Artificial Intelligence Nexus]
 CAIN is one of the most advanced computers known to man. Its data banks offer information on all subjects and historical data on all Federation and alien planets. Its memory banks are continuously updated with information concerning the Time- holes and it is able to link with the massive memory banks of the TIME Service Computer at the Eiger Vault. A holophone, through which you can contact any other holophone in the Federation, is built into CAIN and you also have access to most of the files kept by TIME. CAIN answers to your spoken commands and runs the Time Machine for you. It can display information visually, via the terminal screen, or verbally, using its melodic chimes.
 
 # ITEM 8: BLASTER [see accompanying specifications]
@@ -106,7 +108,7 @@ This helmet helps your Powers of the Mind by damping all other thoughts. It sens
 PSIONIC ENHANCER
 image-006.png
 
-# ITEM10: ENVIRONMENT SUIT [see accompanying specifications]
+# ITEM 10: ENVIRONMENT SUIT [see accompanying specifications]
 A light, pressurised suit for use in vacuum, inhospitable atmospheres and extreme ranges of temperature which monitors your life signals such as pulse and temperature. It is compatible with your Psionic Enhancer.
 
 ENVIRONMENT SUIT
