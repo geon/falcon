@@ -1,6 +1,10 @@
 @import 'cssreset-min.css';
 @import 'sensible-defaults-for-text.css';
 
+
+table {
+    width: 100%;
+}
 table td {
 	vertical-align: top;
 	padding: 0.5em;
@@ -14,4 +18,5 @@ table td:last-child {
 
 table.choices td a {
 	white-space: nowrap;
+	width: 0.1%;
 }
