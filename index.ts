@@ -387,7 +387,11 @@ function parsePage(rawLines: readonly string[]): Page {
 		// Remove empty lines.
 		.filter((x) => x.type !== "text" || x.line.length);
 
-	if (content.some((section) => section.type === "choices")) {
+	if (
+		content.some(
+			(section) => section.type === "choices" || section.type === "diceRoll",
+		)
+	) {
 		return {
 			pageNumber,
 			sections: content,
