@@ -73,6 +73,11 @@ code {
 	padding: 0.1em 0.25em;
 	border-radius: 0.25em;
 }
+img {
+    display: block;
+    margin: auto;
+	max-width: 100%;
+}
 body {
 	max-width: 600px;
 	margin: 50px auto;
