@@ -1,14 +1,14 @@
 @import 'cssreset-min.css';
 @import 'sensible-defaults-for-text.css';
 
-table.choices td {
+table td {
 	vertical-align: top;
 	padding: 0.5em;
 }
-table.choices td:first-child {
+table td:first-child {
 	padding-left: 0;
 }
-table.choices td:last-child {
+table td:last-child {
 	padding-right: 0;
 }
 
