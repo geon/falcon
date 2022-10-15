@@ -404,9 +404,11 @@ function parsePage(rawLines: readonly string[]): Page {
 
 	if (
 		lastSection.type === "text" &&
-		(lastSection.line.match(/You have failed/i) ||
-			lastSection.line.match(/Your failure is spectacular/i) ||
-			lastSection.line.match(/You are just a memory/i))
+		[
+			/You have failed/i,
+			/Your failure is spectacular/i,
+			/You are just a memory/i,
+		].some((deathPhrase) => lastSection.line.match(deathPhrase))
 	) {
 		return { pageNumber, sections: content, type: "FailPage" };
 	}
