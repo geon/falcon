@@ -540,7 +540,7 @@ function renderHeaderSection(section: HeaderSection): string {
 }
 function renderDiceRollSection(section: DiceRollSection): string {
 	return `
-		<table>
+		<table class="choices">
 			${section.outcomes
 				.map(
 					(outcome) => `
@@ -559,7 +559,7 @@ function renderDiceRollSection(section: DiceRollSection): string {
 }
 function renderChoicesSection(section: ChoicesSection): string {
 	return `
-		<table>
+		<table class="choices">
 			${section.options
 				.map(
 					(option) => `
