@@ -483,7 +483,7 @@ function renderPage(page: Page): string {
 				${page.sections.map(renderSection).join("\n")}
 				${
 					page.type === "SingleLinkPage"
-						? `<a href="${page.link}.html">Turn to ${page.link}</a>`
+						? `<p><a href="${page.link}.html">Turn to ${page.link}</a></p>`
 						: ""
 				}
 			</body>
