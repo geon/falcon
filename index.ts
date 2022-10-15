@@ -477,6 +477,8 @@ function checkLineBreaks(pages: readonly Page[]) {
 function renderPage(page: Page): string {
 	return `
 		<html>
+			<meta name="viewport" content="width=device-width, initial-scale=1" />
+			<link rel="stylesheet" href="../style.css" />
 			<body>
 				${page.sections.map(renderSection).join("\n")}
 				${
@@ -574,6 +576,8 @@ function renderIllustrationSection(section: IllustrationSection): string {
 	return `<img src="${section.fileName}" />`;
 }
 
+const outputMainDirName = "dist";
+
 function processBook(bookNumber: number) {
 	const bookFilePath = join("books", bookNumber.toString(), "book.txt");
 	const imageFolderPath = join("books", bookNumber.toString(), "images");
@@ -586,7 +590,6 @@ function processBook(bookNumber: number) {
 	checkPageNumbers(pages);
 	checkLineBreaks(pages);
 
-	const outputMainDirName = "dist";
 	if (!existsSync(outputMainDirName)) {
 		mkdirSync(outputMainDirName);
 	}
@@ -612,4 +615,17 @@ function processBook(bookNumber: number) {
 
 for (const bookNumber of [1, 2]) {
 	processBook(bookNumber);
+}
+
+// Copy CSS.
+const styleFilePathName = "books";
+for (const fileName of [
+	"style.css",
+	"cssreset-min.css",
+	"sensible-defaults-for-text.css",
+]) {
+	copyFileSync(
+		join(styleFilePathName, fileName),
+		join(outputMainDirName, fileName),
+	);
 }
