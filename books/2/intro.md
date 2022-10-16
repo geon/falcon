@@ -52,9 +52,7 @@ Modifier. This works in the same way as the Attack Roll and
 Attack Modifier as described above. Your initial Evasion Modifier is also zero.
 
 # CHANCE
-There are moments in any agent's career when pure luck will
-play its part. On such occasions you will be asked to make a
-Chance Roll. Roll one die. You will then be instructed to turn to a new paragraph.
+There are moments in any agent's career when pure luck will play its part. On such occasions you will be asked to make a Chance Roll. Roll one die. You will then be instructed to turn to a new paragraph.
 
 # POWERS OF THE MIND
 Some paragraphs will offer you the chance to make a mental attack, either a Thinkstrike or Power of Will. Make an Attack Roll, just as if you were attacking normally, but add or subtract your Thinkstrike or Power of Will Modifier, not your Attack
