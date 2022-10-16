@@ -431,6 +431,27 @@ function parsePage(rawLines: readonly string[]): Page {
 	};
 }
 
+function parseIntroPage(rawLines: readonly string[]): Page {
+	const content = parseTurnInstructions(
+		parseTables(
+			parseHeaders(
+				parseIllustrations(
+					parseScores(rawLines.map((line) => ({ type: "text", line }))),
+				),
+			),
+		),
+	)
+		// Remove empty lines.
+		.filter((x) => x.type !== "text" || x.line.length);
+
+	return {
+		pageNumber: 0,
+		sections: content,
+		type: "SingleLinkPage",
+		link: 1,
+	};
+}
+
 function checkPageNumbers(pages: readonly Page[]) {
 	let lastPageNumber = undefined;
 	for (const page of pages) {
@@ -608,6 +629,23 @@ function processBook(bookNumber: number) {
 			renderPage(page),
 		);
 
+		// Copy illustrations to dist.
+		for (const section of page.sections) {
+			if (section.type === "illustration") {
+				copyFileSync(
+					join(imageFolderPath, section.fileName),
+					join(outputBookDirName, section.fileName),
+				);
+			}
+		}
+	}
+
+	{
+		const introFilePath = join("books", bookNumber.toString(), "intro.md");
+		const fileContent = readFileSync(introFilePath);
+		const lines = getLines(fileContent.toString("utf8"));
+		const page = parseIntroPage([...lines]);
+		writeFileSync(join(outputBookDirName, "index.html"), renderPage(page));
 		// Copy illustrations to dist.
 		for (const section of page.sections) {
 			if (section.type === "illustration") {
