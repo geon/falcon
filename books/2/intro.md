@@ -51,8 +51,7 @@ In certain cases you may need to avoid the attack of an enemy or escape from a d
 There are moments in any agent's career when pure luck will play its part. On such occasions you will be asked to make a Chance Roll. Roll one die. You will then be instructed to turn to a new paragraph.
 
 # POWERS OF THE MIND
-Some paragraphs will offer you the chance to make a mental attack, either a Thinkstrike or Power of Will. Make an Attack Roll, just as if you were attacking normally, but add or subtract your Thinkstrike or Power of Will Modifier, not your Attack
-Modifier. In all other ways mental attacks work in the same way as a physical attack. To begin with your Thinkstrike and Power of Will Modifiers are zero, as noted on your Agent Profile.
+Some paragraphs will offer you the chance to make a mental attack, either a Thinkstrike or Power of Will. Make an Attack Roll, just as if you were attacking normally, but add or subtract your Thinkstrike or Power of Will Modifier, not your Attack Modifier. In all other ways mental attacks work in the same way as a physical attack. To begin with your Thinkstrike and Power of Will Modifiers are zero, as noted on your Agent Profile.
 
 # PSYCHIC AWARENESS
 Your Psychic Awareness operates at all times and you will be told when you have discovered anything of interest.
