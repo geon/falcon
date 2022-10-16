@@ -45,11 +45,7 @@ In certain paragraphs you will have the chance to attack an enemy. When you choo
 Whenever you make an Attack Roll you must add or subtract your Attack Modifier to the dice score. Your Attack Modifier may change as the adventure unfolds and you should keep a note of this on your Agent Profile (at the beginning of the adventure). To begin with your Attack Modifier is zero.
 
 # EVASION
-In certain cases you may need to avoid the attack of an enemy or
-escape from a difficult situation. You will be asked to make an
-Evasion Roll, to which you must add or subtract your Evasion
-Modifier. This works in the same way as the Attack Roll and
-Attack Modifier as described above. Your initial Evasion Modifier is also zero.
+In certain cases you may need to avoid the attack of an enemy or escape from a difficult situation. You will be asked to make an Evasion Roll, to which you must add or subtract your Evasion Modifier. This works in the same way as the Attack Roll and Attack Modifier as described above. Your initial Evasion Modifier is also zero.
 
 # CHANCE
 There are moments in any agent's career when pure luck will play its part. On such occasions you will be asked to make a Chance Roll. Roll one die. You will then be instructed to turn to a new paragraph.
