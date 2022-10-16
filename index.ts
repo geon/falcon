@@ -369,10 +369,6 @@ function parsePage(rawLines: readonly string[]): Page {
 	const pageNumberString = lines.shift();
 	const pageNumber = parseInt(pageNumberString || "");
 
-	if (Number.isNaN(pageNumber)) {
-		throw new Error("Not a valid page number: " + pageNumberString);
-	}
-
 	const content = parseDiceRollInstructions(
 		parseTurnInstructions(
 			parseTables(
@@ -438,6 +434,10 @@ function parsePage(rawLines: readonly string[]): Page {
 function checkPageNumbers(pages: readonly Page[]) {
 	let lastPageNumber = undefined;
 	for (const page of pages) {
+		if (Number.isNaN(page.pageNumber)) {
+			throw new Error("Not a valid page number after page: " + lastPageNumber);
+		}
+
 		if (
 			lastPageNumber !== undefined &&
 			page.pageNumber !== lastPageNumber + 1
