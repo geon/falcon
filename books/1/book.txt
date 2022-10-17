@@ -955,7 +955,7 @@ If you score 6-12, turn to 189
 If you score 2-5, turn to 201
 
 166
-Lord Silvermane's will shrugs off your attempt at mind control. He enters his Time Machine shouting: 'I'll have you de- commissioned for this.' The Time Machine does not wink out, Indeed Silvermane comes out a moment later bearing a message capsule. Do you:
+Lord Silvermane's will shrugs off your attempt at mind control. He enters his Time Machine shouting: 'I'll have you decommissioned for this.' The Time Machine does not wink out, Indeed Silvermane comes out a moment later bearing a message capsule. Do you:
 
 Return to Falcon's Wing?
 Follow Silvermane to find out where he is going?
