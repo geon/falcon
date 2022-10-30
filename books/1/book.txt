@@ -176,6 +176,7 @@ If you scored 2-5, turn to 162
 If you scored 6-12, turn to 108
 
 30
+image-012.png
 You dismount and walk towards the new mental presence, looking carefully about you. Suddenly a drummer boy who had been wandering forlornly up the hillside turns to you and speaks. To your surprise it is a woman's voice - that of Lynx, a Special Agent of TIME, like Bloodhound and yourself. The disguise is perfect - her boyish features are smeared with mud from the battlefield. 'Falcon, Bloodhound, I have a Termination Order for you both from our leader, Agidy Yelov.' With that, she unleashes a Hornet, a miniature guided missile, like an arrow with wings, which jets towards you. Do you:
 
 Try to blast the small and fast moving Hornet out of the air?
@@ -201,7 +202,7 @@ If you score 2-5, turn to 27
 While you are deciding what to do, next, blackness engulfs you. Someone has changed the timelines and one of your ancestors has been killed before his time. It is as if you had never existed, You have failed.
 
 35
-You bring the soldier under your control and force him to discharge his musket through a crack in the ambulance's side pplanking. Bloodhound suddenly tenses and, drawing his blaster, takes aim at you. You are about to dive onto the ground when the musket goes off and Bloodhound regains control of himself. You run up to the ambulance, but before you arrive the hunt explodes and a flyer accelerates out of it. Six giant ants, their red eyes glaring at you balefully, are clinging onto the honeycomb-like seats. One of them appears to have been killed bya musket ball. You realise it is the Hivers, Creche 82282. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. You have succeeded in preserving the past and decide to follow the Creche to Hel. Turn to 161.
+You bring the soldier under your control and force him to discharge his musket through a crack in the ambulance's side planking. Bloodhound suddenly tenses and, drawing his blaster, takes aim at you. You are about to dive onto the ground when the musket goes off and Bloodhound regains control of himself. You run up to the ambulance, but before you arrive the hunt explodes and a flyer accelerates out of it. Six giant ants, their red eyes glaring at you balefully, are clinging onto the honeycomb-like seats. One of them appears to have been killed bya musket ball. You realise it is the Hivers, Creche 82282. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. You have succeeded in preserving the past and decide to follow the Creche to Hel. Turn to 161.
 
 36
 You give your Epsilon Security Code and the micro-display on your wrist lights up,
@@ -219,7 +220,6 @@ If you score 7-12, turn to 74
 If you score 2-6, turn to 61
 
 39
-image-012.png
 Your mental barrier throws off the mind attack of the drummer boy, and you recognise Lynx, another Special Agent of TIME. The disguise is perfect, her boyish features smeared with mud from the battlefield. Like Bloodhound was, she may well be trying to kill you. Do you:
 
 Thinkstrike her back?
@@ -2432,7 +2432,8 @@ Turn to 308
 You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on Earth in the Jurassic age. Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and, using your Psychic Awareness, locate the Timehole on Earth. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
 You activate the camera which shows that you have landed in a tropical rain forest, full of giant ferns and primitive fir trees, weighed down with cones. Falcon's Wing settles gently into soft ooze and the holo-projector casts the image of a clump of ferns around the Time Machine. A great swampy lake stretches into the distance ahead. You cannot see any visual evidence of Speke but if his machine is disguised like yours, you realise that the only way of finding it, if it is here, is to take the holo-detector outside. Do you:
 
-Leave the Machine to search for Speke? Go to the planet Kelados in 2710 AD where Q found a Lord of Time tampering with the past (if you have not done so already)?
+Leave the Machine to search for Speke?
+Go to the planet Kelados in 2710 AD where Q found a Lord of Time tampering with the past (if you have not done so already)?
 Travel to Earth in 2700 AD (if you have not done so already)?
 Travel to Earth in the time of Alexander the Great (if you have not done so already)?
 Travel to the alien world of the Repnids, Dyskra, in 1985 AD (if you have not done so already)?
