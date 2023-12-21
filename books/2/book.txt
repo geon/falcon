@@ -859,13 +859,15 @@ Your power armour battlesuit has been breached and its power plant burns out. Yo
 162
 image-022.png
 The withering volleys from the English longbowmen take their loll of the valiant French knights again and again. The French knights come on in charge after charge, each time retiring to regroup.As they wait for each attack the English bowmen make a V sign with their fingers, indicating that they are ready with more arrows. From their conversation you can gather that it is the French custom to cut off their fingers with which they draw their bowstrings, if ever they are captured.
-At last some of the French knights break through and there is fierce hand-to-hand fighting around the Black Prince's position. The Black Prince's horse is killed under him and he and his banner disappear from sight. A French knight whom you recognise from CAIN's descriptions of coats of arms, a strong lighter it seems, is met by a knight whose name, Sir Thomas Chandos, is called out in a warning by his squire. He is an important French noble, Louis de Nevers, Count of Flanders, whose surcoat is adorned with a rampant black lion. Your Psychic Awareness allows you to pick up a myriad thoughts in the din of battle - fear, pride, blood lust, and, somewhere, a strange blank. Sir Thomas Chandos could be struck dead at any time. Will you:
-Thinkstrike Louis de Nevers? Attack Louis de Nevers with your sword?
+At last some of the French knights break through and there is fierce hand-to-hand fighting around the Black Prince's position. The Black Prince's horse is killed under him and he and his banner disappear from sight. A French knight whom you recognise from CAIN's descriptions of coats of arms, a strong fighter it seems, is met by a knight whose name, Sir Thomas Chandos, is called out in a warning by his squire. He is an important French noble, Louis de Nevers, Count of Flanders, whose surcoat is adorned with a rampant black lion. Your Psychic Awareness allows you to pick up a myriad thoughts in the din of battle - fear, pride, blood lust, and, somewhere, a strange blank. Sir Thomas Chandos could be struck dead at any time. Will you:
+Thinkstrike Louis de Nevers?
+Attack Louis de Nevers with your sword?
 Thinkstrike Chandos so that he falls, as if dead?
 Wait to see what happens next?
 Turn to 247
 Turn to 179
-Turn to 193 Turn to 200
+Turn to 193
+Turn to 200
 
 163
 You surge upwards through the splintered floormetal with a whine of power. Yelov gropes for his plasma pistol but you are too quick for him. Your particle disruptor drills into his chest and a look of primeval terror crosses his face as his very being pours out of him in a stream of atoms. Within seconds he has been spread in a thin coat all over the Central Computer. There is nothing left to show the world that you have defeated the greatest villain of all time. Turn to 361.
