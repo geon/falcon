@@ -323,8 +323,10 @@ Turn to 379
 
 59
 Did you destroy the dish-shaped radar beacon as soon as you left Falcon's Wing?
-If you did, turn to 68
-If you did not, turn to 80
+If you did,
+If you did not,
+turn to 68
+turn to 80
 
 60
 As you wait the raildroid halts abruptly and then accelerates back towards you reaching about 100 mph in three seconds. It opens fire again with its high intensity particle disruptor. Make an Evasion Roll.
