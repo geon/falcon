@@ -1207,9 +1207,11 @@ As you steal towards the hangar you hear the sound of an alarm. You look to the 
 219
 [score a J]
 The Main Access portal is an oval opening, a hundred metres across and fifty high. It seems to be composed of ten overlapping sections of metal which can slide open one at a time or all together. As you hurtle towards it a swarm of Atmospheric Interceptors appear from the hangar opening. Their pulse lasers will soon be wreaking havoc on your ship's defences. To blast your way through the Main Access portal, will you use:
+
 A missile?
 Your twin fusion beams?
-Turn to 31 Turn to 54
+Turn to 31
+Turn to 54
 
 220
 You bank and hurtle down the enormous side tunnel like a bullet, and an incredible sight greets you. The floor of the corridor is a huge droid factory, production lines stretch endlessly for miles ahead and the walls and floor are crawling with droids, like ants in an anthill. One side of the corridor is lined with rank upon rank of wardroids, waiting for activation. You speed onward at Mach 5, eating up the miles. Something glowing a bright electric blue seems to grow ahead of you as you approach it. Turn to 340.
