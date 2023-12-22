@@ -1428,11 +1428,15 @@ Turn to 289
 257
 image-029.png
 If you have not landed on Earth in 1986, then turn to 166. If you have, read on. As the yawning mouth of the hangar entrance looms towards you, you slow down to decide how to enter the complex. Suddenly a missile as large as your Strike Fighter flashes out of the dark opening. It is so close you can actually . make out a huge array of electronic sensors at its tip. Will you:
+
 Bank the Strike Fighter and gun it skywards?
-Use electronic counter measures? Fire your twin fusion beams at it?
+Use electronic counter measures?
+Fire your twin fusion beams at it?
+Turn to 227
+Turn to 268
+Turn to 241
 
 258
-Turn to 227 Turn to 268 Turn to 241
 The hunter-seeker seems to peel apart and evaporate in the path of your disruptor beam. Yelov crouches low on the raildroid as the interceptor makes another attack run. You fire a rocket at it which blows one of its side planes off and the interceptor spins, out of control, into an energy wall where it explodes. Turn to 272.
 
 259
