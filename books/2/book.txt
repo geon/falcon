@@ -761,7 +761,12 @@ Turn to 131.
 The wardroids of Mechanon have built an enormous time travel ship using Polybdenum from Thrix. Suddenly it appears in the Eiger Vault, and countless Wardroids pour out of it. The ship winks out once more, to pick up reinforcements. There are already four hundred of them, Interceptors, missile platforms and hovering fortresses and there is nothing you can do to stop them conquering the world, as the beam of a particle disruptor spreads you thinly across the shell of Falcon's Wing. You have failed.
 
 143
-Jobanque tells you to rest until the Weeks/Senior Corporation Strike Fighter is ready. You decide to take the hovrail to the leisure park. Alpolis hums with activity, news of Yelov's escape has been suppressed to avoid mass hysteria. You stroll leisurely towards the old style iron gates of the leisure park with its live sheep. Did you visit the low life area of Old Geneva and encounter a hovbike gang when on a mission to find the Renegade Lord? If you did, turn to 156. If you have not visited Old Geneva, turn to 167.
+Jobanque tells you to rest until the Weeks/Senior Corporation Strike Fighter is ready. You decide to take the hovrail to the leisure park. Alpolis hums with activity, news of Yelov's escape has been suppressed to avoid mass hysteria. You stroll leisurely towards the old style iron gates of the leisure park with its live sheep. Did you visit the low life area of Old Geneva and encounter a hovbike gang when on a mission to find the Renegade Lord?
+
+If you did,
+If you have not visited Old Geneva,
+Turn to 156
+Turn to 167
 
 144
 You rematerialise two hours out from the dull red planet Mechanon, you are travelling at four-tenths light and are well Out of the range of the intruder detection satellites. Turn to 325.
