@@ -1229,7 +1229,12 @@ Turn to 21
 Falcon's Wing settles onto the rocky surface of Thrix with a crunch and a whine from its hydraulic legs. CAIN warns you that the soupy, yellow atmosphere of Thrix is highly corrosive, so you put on your environment suit. The inhabitants of this world live for many thousands of years and are composed almost entirely of glass, like silica. They are telepathic and can also move objects by thought alone. The camera shows ghostly outcroppings of jagged rock, swimming in soupy gases. Soon after you have stepped outside, the gases seem to thicken into a fog and you are forced to halt until visibility improves. Just as you catch sight of a huge machine bristling with weaponry, everything goes black. Your ancestor has been killed at the Battle of Crecy on Earth in 1346 AD. It is as if you had never existed. You have failed.
 
 224
-You are unable to shake it off. It homes in on you; its image completely fills the scanner screen as it hits you head on. There is a sickening lurch and a horrifying explosion but you cannot believe it when, a second later, you are still alive. Evidently the defences of your Weeks/Senior Strike Fighter almost defy belief. There is damage, however, you have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour. If your ship's defences are at zero or below all of the circuits overload. Turn to 282. If they are not, you accelerate away, the impact has stopped you dead. Turn to 351.
+You are unable to shake it off. It homes in on you; its image completely fills the scanner screen as it hits you head on. There is a sickening lurch and a horrifying explosion but you cannot believe it when, a second later, you are still alive. Evidently the defences of your Weeks/Senior Strike Fighter almost defy belief. There is damage, however, you have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour.
+
+If your ship's defences are at zero or below all of the circuits overload.
+If they are not, you accelerate away, the impact has stopped you dead.
+Turn to 282
+Turn to 351
 
 225
 Well done. You arrive at the point on the grid which corresponds to a Timehole on Rigel Prime. The display on your faceplate shows that the mine at Mechanon has exploded and died away. The other mines are about to explode at the other Timehole points on the grid. You must engage your Variac Drive again to avoid the last mine which is racing towards you. Which coordinates will you type into your console?
@@ -2007,7 +2012,14 @@ Turn to 389
 Turn to 397
 
 351
-You surge forward towards the Central Computer Complex and the cavernous mouth of the hangar lined with space- artillery. A huge cavernous tunnel stretches away beyond the hangar mouth and a motley assortment of droids are being repaired at intervals along it. Three rails run the length of it, some distance from the floor. A huge access portal opens briefly and an Atmospheric Interceptor zooms out of it towards you. If you have the Main Access Code, you may turn to the paragraph number given for it. If you would like to fly on down through the immense arcing span of this tunnel, turn to 375. If you would like to blast a way through the Main Access portal, turn to 219, Or you could dive sharp left above the smaller tunnel which you walked down on your first visit to Mechanon and blast through the vaulted roof at the point where Bloodhound and Lynx rescued you. Turn to 366.
+You surge forward towards the Central Computer Complex and the cavernous mouth of the hangar lined with space- artillery. A huge cavernous tunnel stretches away beyond the hangar mouth and a motley assortment of droids are being repaired at intervals along it. Three rails run the length of it, some distance from the floor. A huge access portal opens briefly and an Atmospheric Interceptor zooms out of it towards you. If you have the Main Access Code, you may turn to the paragraph number given for it.
+
+If you would like to fly on down through the immense arcing span of this tunnel,
+If you would like to blast a way through the Main Access portal, 
+Or you could dive sharp left above the smaller tunnel which you walked down on your first visit to Mechanon and blast through the vaulted roof at the point where Bloodhound and Lynx rescued you.
+Turn to 375
+Turn to 219
+Turn to 366
 
 352
 There wasn't enough time for your electronic counter measures to take effect completely and only one of the missiles detonates prematurely as the electronic jamming signals envelop it. The other two missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose 2 Energy Shield points or 3 Hull Armour points. If your ship's defences have fallen below zero, turn to 276. If you have survived, the ship is rocked upwards with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive. Turn to 71.
