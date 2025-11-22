@@ -2817,19 +2817,32 @@ triumphantly, plunges his dagger into your throat.
 'Any creature intelligent enough and with those replication
 powers could have arranged that,' says Achov, eyeing you
 closely.
+
 Sil goes on, 'You turn up from nowhere and all this starts to
-happen.' His voice is flat and even. 'What were you doing in the
-lab anyway?'
-Caleb says loudly, 'I think we should lock him up until the relief
-ship gets here, Braxton.'
+happen.' His voice is flat and even. 'What were you doing in the lab anyway?'
+
+Caleb says loudly, 'I think we should lock him up until the relief ship gets here, Braxton.'
+
 'Yes, maybe we should,' says Bragg and Caleb moves towards
 you. Will you:
+
 Draw your blaster and open fire?
 Make a run for the door?
-
 Turn to 232
 Turn to 265
 
+254
+You hurl several blasts of mental energy, dropping three of
+them, but the others come on. Suddenly, there is a crash of
+splintered stone and Baal comes smashing through the portal
+behind you, shattering rock and brick with great sweeping
+blows. As the priests slam into you, Baal stretches both arms out towards you and twin balls of energy leap from his hands,
+enveloping you and the priests in an inferno of flame. Death is
+almost instantaneous.
+
+255
+Thinking quickly, you take the magnesite and hurl it into the
+gaping maw. Then you use the flamethrower. There is a roar
 and the magnesite catches, crackling with bright blue light.
 There is a horrible screaming and the thing explodes into a sheet
 of flame. You watch as it burns, thrashing madly and giving off a
@@ -2857,19 +2870,8 @@ hammer-like fist. Make an Evasion Roll.
 If you score 7-12, turn to 336
 If you score 2-6, turn to 349
 
-254
 
 258
-
-You hurl several blasts of mental energy, dropping three of
-them, but the others come on. Suddenly, there is a crash of
-splintered stone and Baal comes smashing through the portal
-behind you, shattering rock and brick with great sweeping
-blows. As the priests slam into you, Baal stretches both arms out
-towards you and twin balls of energy leap from his hands,
-enveloping you and the priests in an inferno of flame. Death is
-almost instantaneous.
-
 After the hideous monstrosity has slaked its hunger it turns to
 the congregation and, incredibly, speaks/the sound disturbingly
 unnatural, human words not meant for an alien throat: 'The
@@ -2883,15 +2885,10 @@ Then the fly being appears to stiffen. Its head swivels towards
 you and your Psychic Awareness tells you that you are being
 probed mentally. Will you:
 
-255
-Thinking quickly, you take the magnesite and hurl it into the
-gaping maw. Then you use the flamethrower. There is a roar
-
-Draw your blaster and try to kill the fly being
-and destroy the altar before making a run
-for it?
+Draw your blaster and try to kill the fly being and destroy the altar before making a run for it?
+Make a dash for Falcon's Wing immediately?
 Turn to 270
-Make a dash for Falcon's Wing immediately? Turn to 280
+Turn to 280
 
 259
 You twist away from the hurtling bludgeon and ascend into
