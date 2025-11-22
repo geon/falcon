@@ -962,108 +962,40 @@ Achov gives you a flamethrower. 'This was Caleb's, he looked after it well. He w
 Bragg says, 'If we don't find it, it'll be in the mine itself. Then we'll go down and flush it out.' As you all head down the corridor you nip into your cabin. Quickly you take out the tripod and search for the Rack. You discover that it has been taken back to the Cavern at the end of the mineshaft. You will have to go down there after all despite Bragg's warning not to. Turn to 412.
 
 167
-Achov's tracks lead up to a nearby ridge. Looking up you can see
-the trail leads to the mouth of an ice-cave. Opposite the cave is
-another ridge of ice, about fifty yards from it. Will you:
-Go round to the back of the ridge and take up a
-position directly above the cave mouth?
+Achov's tracks lead up to a nearby ridge. Looking up you can see the trail leads to the mouth of an ice-cave. Opposite the cave is another ridge of ice, about fifty yards from it. Will you:
+
+Go round to the back of the ridge and take up a position directly above the cave mouth?
+Walk around to the other ridge and take up a position looking into the cave?
 Turn to 21
-Walk around to the other ridge and take up a
-position looking into the cave?
 Turn to 59
 
 168
-The panel slams shut abruptly and you begin to retrace your
-steps. You decide that whoever has been tracking you doesn't
-have a part of the Rack, that this is your primary mission and
-that you had better continue the search elsewhere. You reach
-
-the warehouse where Falcon's Wing rests. Suddenly four black
-robed figures, waiting at the entrance to the warehouse, charge
-at you without hesitation and in silence, drawing long, wickedly
-curved daggers. You have little time to act. Instinctively, you
-hurl yourself, rolling, at their feet, hoping to trip them and run
-on to the safety of Falcon's Wing. Make an Evasion Roll.
+The panel slams shut abruptly and you begin to retrace your steps. You decide that whoever has been tracking you doesn't have a part of the Rack, that this is your primary mission and that you had better continue the search elsewhere. You reach the warehouse where Falcon's Wing rests. Suddenly four black robed figures, waiting at the entrance to the warehouse, charge at you without hesitation and in silence, drawing long, wickedly curved daggers. You have little time to act. Instinctively, you hurl yourself, rolling, at their feet, hoping to trip them and run on to the safety of Falcon's Wing. Make an Evasion Roll.
 If you score 5-12, turn to 123
 If you score 2-4, turn to 112
 
 169
-A bolt of superheated plasma burns off the head of your first
-target. Before the other two have noticed, you have cut another
-down. The remaining Noble turns and fires at you, but you
-dodge aside and a thin lance of blue light takes a chunk of rock
-out of the wall. Firing on the move, you catch the last Noble full
-in the chest, hurling it backwards in a ball of flaming fur. The
-rebels will soon be overwhelmed, especially as their Warrior
-reserve will be unable to act without orders from the Nobles.
-You head towards the tunnel when your foot nudges something
-on the floor. It is a Warrior's severed hand, more like a short
-sword than anything else. Picking it up, you put it in one of your
-suit pouches. Turn to 128.
+A bolt of superheated plasma burns off the head of your first target. Before the other two have noticed, you have cut another down. The remaining Noble turns and fires at you, but you dodge aside and a thin lance of blue light takes a chunk of rock out of the wall. Firing on the move, you catch the last Noble full in the chest, hurling it backwards in a ball of flaming fur. The rebels will soon be overwhelmed, especially as their Warrior reserve will be unable to act without orders from the Nobles. You head towards the tunnel when your foot nudges something on the floor. It is a Warrior's severed hand, more like a short sword than anything else. Picking it up, you put it in one of your suit pouches. Turn to 128.
 
 170
-A bolt of superheated plasma streaks towards Baal, hitting him
-squarely in the chest. Coruscating streams of plasma crackle and
-spit across his body and he staggers back in the air, howling like
-thunder. The crowd back off away from you, and you can hear a
-muttering of 'Quetzacoatl'. From what you know of Aztec
-mythology, they think you are a god, Quetzacoatl, the enemy of
-Huitzilopochtli. This is too much for them and they begin to flee
-from the plaza in droves, except for the black-robed priests and
-some of the knights, although they make no attempts to prevent
-the massed prisoners from running. Then, to your horror, you
-see that Baal has survived the blast of plasma and is now
-enraged, snarling in fury. He points at you and, to your shocked
-amazement, a ball of yellow crackling energy erupts from his
-arm and speeds toward you, leaving a glowing vapour trail in the
-sky. Desperately, you try to leap aside, amazed at such a display
-of inherent power. Make an Evasion Roll.
+A bolt of superheated plasma streaks towards Baal, hitting him squarely in the chest. Coruscating streams of plasma crackle and spit across his body and he staggers back in the air, howling like thunder. The crowd back off away from you, and you can hear a muttering of 'Quetzacoatl'. From what you know of Aztec mythology, they think you are a god, Quetzacoatl, the enemy of Huitzilopochtli. This is too much for them and they begin to flee from the plaza in droves, except for the black-robed priests and some of the knights, although they make no attempts to prevent the massed prisoners from running. Then, to your horror, you see that Baal has survived the blast of plasma and is now enraged, snarling in fury. He points at you and, to your shocked amazement, a ball of yellow crackling energy erupts from his arm and speeds toward you, leaving a glowing vapour trail in the sky. Desperately, you try to leap aside, amazed at such a display of inherent power. Make an Evasion Roll.
 If you score 7-12, turn to 182
 If you score 2-6, turn to 199
 
 171
-You are not fast enough and one of the razor sharp horns on the
-body of the Warrior punctures your suit and gouges a wound
-into your arm. Lose 5 Endurance points. If you are still alive, you
-manage to remain on your feet. Just then a troop of red-furred
-Warriors charge into the room and straight at Baal, led by two of
-the rebel Nobles, still trying to defeat the intruder Baal. They
-use their laser pistols on him as the Warriors launch themselves
-into the attack. You make it to the exit and sprint down it. Baal's
-bellows of rage fill the cavern. You know it will only be a matter
-of minutes before Baal has dealt with the Cavers and is hot on
-your trail. Turn to 204.
+You are not fast enough and one of the razor sharp horns on the body of the Warrior punctures your suit and gouges a wound into your arm. Lose 5 Endurance points. If you are still alive, you manage to remain on your feet. Just then a troop of red-furred Warriors charge into the room and straight at Baal, led by two of the rebel Nobles, still trying to defeat the intruder Baal. They use their laser pistols on him as the Warriors launch themselves into the attack. You make it to the exit and sprint down it. Baal's bellows of rage fill the cavern. You know it will only be a matter of minutes before Baal has dealt with the Cavers and is hot on your trail. Turn to 204.
 
 172
 [Score a B]
-You concentrate hard, trying to bend the huge warrior to your
-will. Luckily, his thought patterns are not unlike a human's, and
-you catch him completely unawares; to him you are a young
-Rigellian medic, posing little threat. He falls under your
-domination. You force him to run away from the glade for as
-long as you can hold him under your power. He is some miles
-away when you release him. Soon you are in the crash-couch of
-Falcon's Wing. Your body feels as light as air now that you are in
-the artificial gravity of Falcon's Wing. After you have told CAIN
-what happened, it chimes: 'You must have landed in a Rigellian
-ritual combat arena. My data banks tell me you have changed
-Rigellian history slightly, Falcon. The defeated Warrior was of
-the Arocks clan. They have now been disgraced since you were
-taken to be an Arocks assassin with a new "dishonourable"
-weapon. This will have to be logged in TIME records of course.'
-Resisting the temptation to turn CAIN off, you prepare for
-another time jump. Where will you search for the Rack now:
-Earth in the time of the Aztecs, if you have not
-done so already?
+You concentrate hard, trying to bend the huge warrior to your will. Luckily, his thought patterns are not unlike a human's, and you catch him completely unawares; to him you are a young Rigellian medic, posing little threat. He falls under your domination. You force him to run away from the glade for as long as you can hold him under your power. He is some miles away when you release him. Soon you are in the crash-couch of Falcon's Wing. Your body feels as light as air now that you are in the artificial gravity of Falcon's Wing. After you have told CAIN what happened, it chimes: 'You must have landed in a Rigellian ritual combat arena. My data banks tell me you have changed Rigellian history slightly, Falcon. The defeated Warrior was of the Arocks clan. They have now been disgraced since you were taken to be an Arocks assassin with a new "dishonourable" weapon. This will have to be logged in TIME records of course.' Resisting the temptation to turn CAIN off, you prepare for another time jump. Where will you search for the Rack now:
+
+Earth in the time of the Aztecs, if you have not done so already?
+Earth in the time of the American Civil War, if you have not done so already?
+The colony planet, Dustbowl, in the year 2764 AD if you have not done so already?
+The Eiger Vault, in case the Monitoring Section has any information for you?
 Turn to 22
-Earth in the time of the American Civil War, if
-you have not done so already?
 Turn to 34
-The colony planet, Dustbowl, in the year 2764
-AD if you have not done so already?
 Turn to 10
-The Eiger Vault, in case the Monitoring Section
-has any information for you?
 Turn to 205
 
 173
@@ -1085,146 +1017,64 @@ Turn to 228
 You are rolling to your feet when Achov's bullet slams into your shoulder, spinning you round and Bragg's laser beam burns a hole neatly through your back. The last words you ever hear are, 'Damn it, he was human after all.'
 
 176
-You try to catch the arm holding the knife, but you just miss.
-You twist aside, but the knife slides across your ribs. Lose 8
-Endurance points. If you are still alive, you catch your opponent's
-hand as he tries to pull it back and deliver a quick sharp blow to
+You try to catch the arm holding the knife, but you just miss. You twist aside, but the knife slides across your ribs. Lose 8 Endurance points. If you are still alive, you catch your opponent's hand as he tries to pull it back and deliver a quick sharp blow to the bridge of your assailant's nose, and whilst he stiffens in agony, throw him into the other dustwhaler. They both collapse into a heap and" you sprint away, losing them amongst the mounds of crates and equipment piled in the wharf. You return to Falcon's Wing where you decide to wait until the Winged Demon has left on another whaling expedition, so you find another ship. You instruct CAIN to disguise Falcon's Wing as a pile of whaling equipment to avoid the prying eyes of anyone in search of the scientist's diving bell. You may lie in your Autodoc if you wish, and gain- up to 6 points of lost Endurance. Turn to 342.
 
-the bridge of your assailant's nose, and whilst he stiffens in
-agony, throw him into the other dustwhaler. They both collapse
-into a heap and" you sprint away, losing them amongst the
-mounds of crates and equipment piled in the wharf. You return
-to Falcon's Wing where you decide to wait until the Winged
-Demon has left on another whaling expedition, so you find
-another ship. You instruct CAIN to disguise Falcon's Wing as a
-pile of whaling equipment to avoid the prying eyes of anyone in
-search of the scientist's diving bell. You may lie in your Autodoc
-if you wish, and gain- up to 6 points of lost Endurance. Turn to 342.
 177
-A bolt of superheated plasma burns off the head of your first
-target, but you miss the second. Then the two remaining Nobles
-open fire at you with their laser pistols and you are forced to
-throw yourself aside. They trill a command and five of their
-Warrior reserves peel away from their formation and charge at
-you with frightening speed. Will you:
+A bolt of superheated plasma burns off the head of your first target, but you miss the second. Then the two remaining Nobles open fire at you with their laser pistols and you are forced to throw yourself aside. They trill a command and five of their Warrior reserves peel away from their formation and charge at you with frightening speed. Will you:
 
-Try to cut them down with your blaster? .... Turn to 186
-Make a run for it down the left hand tunnel? .Turn to 198
+Try to cut them down with your blaster?
+Make a run for it down the left hand tunnel?
+Turn to 186
+Turn to 198
 
 178
-Somehow Baal has detected your presence near the Rack
-segment. There is a snarl of ferocious rage as he continues his
-onslaught on the roof. You dash back towards the portal, as
-bricks and mortar cascade into the room. Before you have
-reached the doorway, Baal crashes through the roof into the
-room and comes to his feet on the floor. His weight sets off a
-trap and a volley of javelins fly at him, but they shatter against
-his skin as if they were made of sand. He hardly notices them.
-Do you have a piece of the Rack with small triangles at each
-corner with you, as well as the one you have just picked up? If
-you have, turn to 305. If you have not, turn to 320.
+Somehow Baal has detected your presence near the Rack segment. There is a snarl of ferocious rage as he continues his onslaught on the roof. You dash back towards the portal, as bricks and mortar cascade into the room. Before you have reached the doorway, Baal crashes through the roof into the room and comes to his feet on the floor. His weight sets off a trap and a volley of javelins fly at him, but they shatter against his skin as if they were made of sand. He hardly notices them. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up? If you have, turn to 305. If you have not, turn to 320.
 
 179
-You hurl a blast of mental energy at the mind behind the coal
-black eyes. Make a Thinkstrike Roll.
+You hurl a blast of mental energy at the mind behind the coal black eyes. Make a Thinkstrike Roll.
 If you score 6-12, turn to 202
 If you score 2-5, turn to 213
 
 180
-Your battlesuit begins to short-circuit, giving off a shower of
-sparks. The jets cut out and the mechanical joints lock, trapping
-you inside. You plummet to the floor of the Vault, but the
-battlesuit cushions you from the fall. However, you can do
-nothing as Baal walks over to you and tears your head off with
-his bare hands, laughing maniacally as he does so.
+Your battlesuit begins to short-circuit, giving off a shower of sparks. The jets cut out and the mechanical joints lock, trapping you inside. You plummet to the floor of the Vault, but the battlesuit cushions you from the fall. However, you can do nothing as Baal walks over to you and tears your head off with his bare hands, laughing maniacally as he does so.
 
 181
-You swerve away and the spiked body sails past you. Baal howls
-angrily, scooping up another corpse. Just then a troop of redfurred Warriors charge into the room and straight at Baal, led by
-two of the rebel Nobles, still trying to defeat the intruder, Baal.
-They use their laser pistols on him as the Warriors launch
-themselves into the attack. You make it to the exit and sprint
-down it. Baal's bellows of rage fill the cavern. You know it will
-only be a matter of minutes before Baal has dealt with the
-Cavers and is hot on your trail. Turn to 204.
+You swerve away and the spiked body sails past you. Baal howls angrily, scooping up another corpse. Just then a troop of redfurred Warriors charge into the room and straight at Baal, led by two of the rebel Nobles, still trying to defeat the intruder, Baal. They use their laser pistols on him as the Warriors launch themselves into the attack. You make it to the exit and sprint down it. Baal's bellows of rage fill the cavern. You know it will only be a matter of minutes before Baal has dealt with the Cavers and is hot on your trail. Turn to 204.
 
 182
-Leaping into the air you roll out of the path of the fireball which
-explodes in a blaze of heat and flame. You come to your feet near
-the entrance of the building where the other segment of the
-Rack lie, the two Jaguar Knights staring at you in fear and
-amazement. Will you:
+Leaping into the air you roll out of the path of the fireball which explodes in a blaze of heat and flame. You come to your feet near the entrance of the building where the other segment of the Rack lie, the two Jaguar Knights staring at you in fear and amazement. Will you:
+
 Dash into the building?
 Fire at Baal?
-
 Turn to 210
 Turn to 222
 
 183
 [Score an E]
-You activate one of your homing rockets. It surges up out of
-your back-rack launcher but its retros do not function at all well
-in this dust and your radar tells you it has lodged a few feet away
-from you, creeping slowly upward. Turn to 197.
-/
+You activate one of your homing rockets. It surges up out of your back-rack launcher but its retros do not function at all well in this dust and your radar tells you it has lodged a few feet away from you, creeping slowly upward. Turn to 197.
 
 184
-You roll to your feet, Achov's bullet hums past and ricochets
-with a shrill whine. Bragg's laser beam slices past your ear,
-heating it uncomfortably. You have your blaster aimed at
-McReady and you squeeze the trigger, just as he begins to move.
-Make an Attack Roll.
+You roll to your feet, Achov's bullet hums past and ricochets with a shrill whine. Bragg's laser beam slices past your ear, heating it uncomfortably. You have your blaster aimed at McReady and you squeeze the trigger, just as he begins to move. Make an Attack Roll.
 If you score 6-12, turn to 162
 If you score 2-5, turn to 154
 
 185
-The Rigellian warrior falls to the ground with a heavy thud.
-Slowly you work your way back to Falcon's Wing, struggling
-against the gravity. As you sit in your crash-couch your body
-feels as light as air, now that you are under the artificial gravity
-of your Time Machine. CAIN tells you that you must be in a
-Rigellian ritual combat arena. Luckily, you have not changed
-Rigellian history significantly. The victor's blackout will be put
-down to fatigue. Where will you go now in search of the Rack:
-Earth in the time of the Aztecs, if you have not
-done so already?
-Turn
-Earth in the time of the American Civil War, if
-you have not done so already?
-Turn
-The colony planet, Dustbowl, in the year 2764
-AD if you have not done so already?
-Turn
-The Eiger Vault, in case the Monitoring Section
-has any information for you?
-Turn
+The Rigellian warrior falls to the ground with a heavy thud. Slowly you work your way back to Falcon's Wing, struggling against the gravity. As you sit in your crash-couch your body feels as light as air, now that you are under the artificial gravity of your Time Machine. CAIN tells you that you must be in a Rigellian ritual combat arena. Luckily, you have not changed Rigellian history significantly. The victor's blackout will be put down to fatigue. Where will you go now in search of the Rack:
 
-to 22
-to 34
-to 10
-to 52
+Earth in the time of the Aztecs, if you have not done so already?
+Earth in the time of the American Civil War, if you have not done so already?
+The colony planet, Dustbowl, in the year 2764 AD if you have not done so already?
+The Eiger Vault, in case the Monitoring Section has any information for you?
+Turn to 22
+Turn to 34
+Turn to 10
+Turn to 52
 
 186
-You play your blaster over them and two of them fall but still
-they come on. You manage to get another hit, then the last two
-are upon you. Moving with a speed no human could ever hope to
-match, they cut you, literally, to ribbons.
+You play your blaster over them and two of them fall but still they come on. You manage to get another hit, then the last two are upon you. Moving with a speed no human could ever hope to match, they cut you, literally, to ribbons.
 
 187
-Later on that evening, you step out to reconnoitre the quayside.
-It is dark now and the port is dimly lit. You are walking along the
-wharf when suddenly you are bathed in a mass of bright lights
-and a voice booms at you through a megaphone, 'Okay
-Offworlder, lay your energy weapon in front of your feet and lie
-down. This is the police!' Narrowing your eyes against the glare,
-you can see a number of figures in red robes covering you with
-Las-rifles. You realise you have no choice, and you have to
-surrender. You are booked for murder and for possessing an
-energy weapon. There is nothing you can do to escape your fate
-as you are never given an opportunity to use your mental
-powers. Justice on Dustbowl is harsh, you are sentenced to be
-executed in the Las-chair and the sentence is duly carried out.
-You have failed.
+Later on that evening, you step out to reconnoitre the quayside. It is dark now and the port is dimly lit. You are walking along the wharf when suddenly you are bathed in a mass of bright lights and a voice booms at you through a megaphone, 'Okay Offworlder, lay your energy weapon in front of your feet and lie down. This is the police!' Narrowing your eyes against the glare, you can see a number of figures in red robes covering you with Las-rifles. You realise you have no choice, and you have to surrender. You are booked for murder and for possessing an energy weapon. There is nothing you can do to escape your fate as you are never given an opportunity to use your mental powers. Justice on Dustbowl is harsh, you are sentenced to be executed in the Las-chair and the sentence is duly carried out. You have failed.
 
 188
 You take the star-shaped Rack and send it spinning through the
