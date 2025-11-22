@@ -322,89 +322,39 @@ Turn to 68
 Turn to 80
 
 55
-Ignoring the officer, you dash away from his men over the stone
-wall. There is a shout of anger but nobody pursues you. You run
-out into an open field to be greeted by an unexpected sight. 200
-yards ahead is a small river, Union troops are pulling back across
-it. In front of them are a line of logs, carts and the like, behind
-which a row of Union troops are waiting. The small river
-disappears in the heavy wood that blankets Culp's Hill. Seeing
-you, some of the blue-coated soldiers open fire, and puffs of
-white smoke appear in front of them. As fast as you can, you try
-to throw yourself to the ground. Make an Evasion Roll.
+Ignoring the officer, you dash away from his men over the stone wall. There is a shout of anger but nobody pursues you. You run out into an open field to be greeted by an unexpected sight. 200 yards ahead is a small river, Union troops are pulling back across it. In front of them are a line of logs, carts and the like, behind which a row of Union troops are waiting. The small river disappears in the heavy wood that blankets Culp's Hill. Seeing you, some of the blue-coated soldiers open fire, and puffs of white smoke appear in front of them. As fast as you can, you try to throw yourself to the ground. Make an Evasion Roll.
 If you score 6-12, turn to 77
 If you score 2-5, turn to 66
+
 56
 You set co-ordinates for Earth in 3033 AD and you are soon
 surrounded by the grey nothingness of null-space. You may lie
-in your Autodoc and regain up to 12 points of lost Endurance during the
-journey. You rematerialise in the Eiger Vault and whilst a TIME
-maintenance team is replenishing Falcon's Wing's supply of
-polybdenum, you instruct CAIN to link up with the Eiger
-Service computer to check for any news. CAIN reports that
-nothing new has occurred during your visit to Dustbowl. You
-will have to continue your search. Which timehole will you
+in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team is replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger Service computer to check for any news. CAIN reports that nothing new has occurred during your visit to Dustbowl. You will have to continue your search. Which timehole will you
 travel to:
 
-Rigel Prime, in 1642 AD if you have not been
-there already?
+Rigel Prime, in 1642 AD if you have not been there already?
+South America, Earth, 1409 AD, the time of the Aztecs, if you have not been there already?
+North America, Earth, 1863 AD, the time of the American Civil War, if you have not been there already?
 Turn to 46
-South America, Earth, 1409 AD, the time of
-the Aztecs, if you have not been there
-already?
 Turn to 22
-North America, Earth, 1863 AD, the time of
-the American Civil War, if you have not been
-there already?
 Turn to 34
 
 57
-You step away from the door and then begin to pour a sustained
-stream of plasma into the rock. The cavern wall crashes and
-splinters under the assault, some of the rock actually melting
-under the heat. Soon you have burnt a hole through it and you
-can see into a small chamber beyond. But there is a triumphant
-howl behind you and, turning your head, you can see that Baal
-has completely destroyed the Warriors. He turns his attentions
-to you. Immediately you hurl yourself through the opening as a
-great river of burning energy rushes from Baal's outstretched
-hands, his face contorted with effort. Make an Evasion Roll.
-If you score 6-12, turn to 104
+You step away from the door and then begin to pour a sustained stream of plasma into the rock. The cavern wall crashes and splinters under the assault, some of the rock actually melting under the heat. Soon you have burnt a hole through it and you can see into a small chamber beyond. But there is a triumphant howl behind you and, turning your head, you can see that Baal has completely destroyed the Warriors. He turns his attentions to you. Immediately you hurl yourself through the opening as a great river of burning energy rushes from Baal's outstretched hands, his face contorted with effort. Make an Evasion Roll. If you score 6-12, turn to 104
 If you score 2-5, turn to 113
 
 58
-You set co-ordinates for Earth in 3033 AD and you are soon
-surrounded by the grey nothingness of null-space. You may lie
-in your Autodoc and regain up to 12 points of lost Endurance during the
-journey. You rematerialise in the Eiger Vault and whilst a TIME
-maintenance team is replenishing Falcon's Wing's supply of
-polybdenum, you instruct CAIN to link up with the Eiger Service
-computer to check for any news. CAIN chimes: 'Incoming holomessage Falcon.'
-Agent Bloodhound's face seems to come alive inside Falcon's
-Wing. He nods a greeting at you. 'On line, Falcon. How's the
-mission going? A tough one this, eh? Anyway, I have an
-important mesage for you. We've picked up some strange
-disturbances in the timelines of the timehole on Dustbowl. I've
-just returned from a routine check there. Something appeared
-and then left the Dustbowl timehole within a space of about one
-hour. It caused a disturbance in the Winds of Time that is
-completely unlike anything previously recorded and was of
-great power. Monitoring is sure it was not a Variac Drive
-emission. It could be Baal. That's all for now, Falcon. Good luck, I
-hope to see you soon in the Rec Centre.'
-'Thanks Blood,' you reply. You must continue your search.
-Where will you go to next:
+You set co-ordinates for Earth in 3033 AD and you are soon surrounded by the grey nothingness of null-space. You may lie in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team is replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger Service computer to check for any news. CAIN chimes: 'Incoming holomessage Falcon.'
 
-The colony planet, Dustbowl, in the year 2764
-AD (even if you have been there once
-already)?
+Agent Bloodhound's face seems to come alive inside Falcon's Wing. He nods a greeting at you. 'On line, Falcon. How's the mission going? A tough one this, eh? Anyway, I have an important mesage for you. We've picked up some strange disturbances in the timelines of the timehole on Dustbowl. I've just returned from a routine check there. Something appeared and then left the Dustbowl timehole within a space of about one hour. It caused a disturbance in the Winds of Time that is completely unlike anything previously recorded and was of great power. Monitoring is sure it was not a Variac Drive emission. It could be Baal. That's all for now, Falcon. Good luck, I hope to see you soon in the Rec Centre.'
+
+'Thanks Blood,' you reply. You must continue your search. Where will you go to next:
+
+The colony planet, Dustbowl, in the year 2764 AD (even if you have been there once already)?
+South America, Earth, 1409 AD, the time of the Aztecs, if you have not been there already?
+Rigel Prime in 1642 AD Civil War, if you have not been there already?
 Turn to 287
-South America, Earth, 1409 AD, the time of
-the Aztecs, if you have not been there
-already?
 Turn to 22
-Rigel Prime in 1642 AD Civil War, if you have
-not been there already?
 Turn to 34
 
 59 [Score a G]
