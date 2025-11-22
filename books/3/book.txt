@@ -3901,9 +3901,38 @@ flying beast. It bursts into flames and drops to the floor. You
 dash to the lift door. Turn to 388.
 
 338
+Make a Chance Roll.
+If you score 1 or 6, turn to 347
+If you score 2, 3, 4 or 5, turn to 193
 
-entrance if you wish. Close up you can identify it as magnesite.
-Turn to 290.
+339
+You fail to control them, two at once is too much for you after
+your recent mental battle with Baal. However, your attention is
+drawn to the oncoming Warriors. All you can do is try to gain
+some time by using your blaster on them, as they are almost
+upon you. Make an Attack Roll.
+If you score 6-12, turn to 315
+If you score 2-5, turn to 323
+
+340
+You walk out onto the middle stone slab, sense alert for any
+trap. Nothing happens. Will you step out onto:
+
+The slab directly ahead of you, the centremost slab of the nine?
+The slab to your left?
+The slab to your right?
+The slab at a diagonal right forward?
+The slab at a diagonal left forward?
+Turn to 373
+Turn to 330
+Turn to 352
+Turn to 383
+Turn to 361
+
+341
+Your aim is true, reducing the last two Warriors to mounds of
+smoking flesh. You may pick up some of the rocks by the
+entrance if you wish. Close up you can identify it as magnesite. Turn to 290.
 
 342
 A day later you leave Falcon's Wing in the hope of finding an
@@ -3917,74 +3946,26 @@ their hands. One of them hisses: 'This time Baal will have your
 soul.' Amazed at the persistent fanaticism of the disciples of
 Baal, you prepare to defend yourself. Will you:
 
-Make a Chance Roll.
 Thinkstrike the nearest assailant?
 Use your blaster?
 Try and control one of your assailants?
-
-If you score 1 or 6, turn to 347
-If you score 2, 3, 4 or 5, turn to 193
-
-343
-
-339
-You fail to control them, two at once is too much for you after
-your recent mental battle with Baal. However, your attention is
-drawn to the oncoming Warriors. All you can do is try to gain
-some time by using your blaster on them, as they are almost
-upon you. Make an Attack Roll.
-If you score 6-12, turn to 315
-If you score 2-5, turn to 323
-
-Who will you fire the blaster at?
-Achov?
-Caleb?
-McReady?
-Bragg?
-
-Turn
-Turn
-Turn
-Turn
-
-to
-to
-to
-to
-
-348
-375
-328
-390
-
-344
-
-340
-You walk out onto the middle stone slab, sense alert for any
-trap. Nothing happens. Will you step out onto:
-The slab directly ahead of you, the centremost
-slab of the nine?
-The slab to your left?
-The slab to your right?
-The slab at a diagonal right forward?
-The slab at a diagonal left forward?
-
 Turn to 376
 Turn to 387
 Turn to 395
 
-Turn to
-Turn to
-Turn to
-Turn to
-Turn to
+343
+Who will you fire the blaster at?
 
-373
-330
-352
-383
-361
+Achov?
+Caleb?
+McReady?
+Bragg?
+Turn to 348
+Turn to 375
+Turn to 328
+Turn to 390
 
+344
 Your hand a blur of movement, you unleash a river of white-hot
 plasma at the figure before it can fire. The figure is hurled back
 against the tree with a crash and then flops to the ground,
@@ -3998,13 +3979,8 @@ will indeed be complete. Goodbye.' You have time to recognise
 the voice of the arch traitor, Agidy Yelov, before he squeezes the
 trigger, ending your life. You have failed.
 
-341
-Your aim is true, reducing the last two Warriors to mounds of
-smoking flesh. You may pick up some of the rocks by the
-
 345
 You dive aside and the horned bony spear hammers past you,
-
 retracting into the main body as fast as it was launched at you.
 You roll to your feet and run for the lift as fast as you can,
 leaving the flaming creature behind you. Turn to 392.
