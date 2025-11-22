@@ -935,96 +935,31 @@ If you score 8-12, turn to 216
 If you score 2-7, turn to 227
 
 162
-A bolt of plasma slams into McReady's leg, smashing him
-against the door. He howls, an unearthly inhuman sound, and
-Achov and Bragg lower the weapons that were pointed at you
-and turn to look at McReady. His eyes roll up into his head.
-Suddenly a small, suppurating hole appears in his neck, opening
-and closing spasmodically. His skull splits open with a loud wet
-crack and something large and bulky shudders forth, forming
-into a heavy head, horned and armoured, two small pig-like eyes
-at each side> the whole thing spilling rivulets of reddish mucus.
-Horrified, Achov and Caleb hesitate. McReady's shoulders split
-apart and a bony carapace forms over them. Then a thin jet of
-dirty white liquid hisses from the hole in the neck and streams
-towards you, Bragg and Achov. Almost as one you duck. Caleb
-raises the flamethrower, but McReady's side bursts open and a
-length of ridged, slime-ridden bone shoots out with devastating
-speed and buries itself in Caleb's chest. He howls in agony as, in
-front of your eyes, the bone begins to fuse with Caleb,
-retracting slowly, drawing him to the thing. Achov, Bragg and
-you open fire in horror, but the creature turns and, putting its
-head down, smashes through the door and is away, taking
-Caleb's body with it. Achov and Bragg, thunder-struck, turn to
-you and apologise for doubting you. Bragg is ashen-faced at the
-loss of Caleb. Turn to 166.
+A bolt of plasma slams into McReady's leg, smashing him against the door. He howls, an unearthly inhuman sound, and Achov and Bragg lower the weapons that were pointed at you and turn to look at McReady. His eyes roll up into his head. Suddenly a small, suppurating hole appears in his neck, opening and closing spasmodically. His skull splits open with a loud wet crack and something large and bulky shudders forth, forming into a heavy head, horned and armoured, two small pig-like eyes at each side> the whole thing spilling rivulets of reddish mucus. Horrified, Achov and Caleb hesitate. McReady's shoulders split apart and a bony carapace forms over them. Then a thin jet of dirty white liquid hisses from the hole in the neck and streams towards you, Bragg and Achov. Almost as one you duck. Caleb raises the flamethrower, but McReady's side bursts open and a length of ridged, slime-ridden bone shoots out with devastating speed and buries itself in Caleb's chest. He howls in agony as, in front of your eyes, the bone begins to fuse with Caleb, retracting slowly, drawing him to the thing. Achov, Bragg and you open fire in horror, but the creature turns and, putting its head down, smashes through the door and is away, taking Caleb's body with it. Achov and Bragg, thunder-struck, turn to you and apologise for doubting you. Bragg is ashen-faced at the loss of Caleb. Turn to 166.
 
 163
-Before Baal can throw the body at you, a horde of yellow and
-blacked striped Warriors boil into the cavern, between you and
-Baal. The loyalists have broken through! The Nobles order
-them to attack Baal immediately, his size and bearing draw their
-attention away from you and you pass unnoticed. You wait until
-the exit tunnel is cleared of the loyalist army and dart down it.
-Baal is surrounded by hundreds of Warriors, for the Cavers
-have no way of actually hurting Baal, you should be in Falcon's
-Wing by the time he is free to follow. Turn to 237.
+Before Baal can throw the body at you, a horde of yellow and blacked striped Warriors boil into the cavern, between you and Baal. The loyalists have broken through! The Nobles order them to attack Baal immediately, his size and bearing draw their attention away from you and you pass unnoticed. You wait until the exit tunnel is cleared of the loyalist army and dart down it. Baal is surrounded by hundreds of Warriors, for the Cavers have no way of actually hurting Baal, you should be in Falcon's Wing by the time he is free to follow. Turn to 237.
 
 164
-You are a little too slow; he cuts your arm with his dagger as you
-roll. Lose 4 Endurance points. If you are still alive, you throw yourself
-off the side of the bed, slamming into your assailant's thigh. He
-throws his arms back, letting go of the knife and crashes to the
-floor with a cry, where he lies winded. You are up on your feet,
-shouting for help as the others close in on you. Make an Attack
-Roll.
+You are a little too slow; he cuts your arm with his dagger as you roll. Lose 4 Endurance points. If you are still alive, you throw yourself off the side of the bed, slamming into your assailant's thigh. He throws his arms back, letting go of the knife and crashes to the floor with a cry, where he lies winded. You are up on your feet, shouting for help as the others close in on you. Make an Attack Roll.
 If you score 6-12, turn to 136
 If you score 2-5, turn to 145
 
 165
-You catch the arm holding the knife, deliver a quick sharp blow
-to the bridge of your assailant's nose, and whilst he stiffens in
-agony, throw him into the other dustwhaler. They both collapse
-into a heap and you sprint away, losing them amongst the
-mounds of crates and equipment piled in the wharf. You return
-to Falcon's Wing where you decide to wait, until the Winged
-Demon has left on another whaling expedition, so you can find
-another ship. You instruct CAIN to disguise Falcon's Wing as a
-pile of whaling equipment to avoid the prying eyes of anyone in
-search of the scientist's diving bell. You may lie in your Autodoc
-if you wish, and gain up to 6 points of lost Endurance. Turn to 342.
+You catch the arm holding the knife, deliver a quick sharp blow to the bridge of your assailant's nose, and whilst he stiffens in agony, throw him into the other dustwhaler. They both collapse into a heap and you sprint away, losing them amongst the mounds of crates and equipment piled in the wharf. You return to Falcon's Wing where you decide to wait, until the Winged Demon has left on another whaling expedition, so you can find another ship. You instruct CAIN to disguise Falcon's Wing as a pile of whaling equipment to avoid the prying eyes of anyone in search of the scientist's diving bell. You may lie in your Autodoc if you wish, and gain up to 6 points of lost Endurance. Turn to 342.
 
 166
-Bragg speaks, 'Right, it's it or us. We've got to hunt it down and
-kill it; if we just wait it'll come for us in our sleep or individually.
-There's only three of us now.'
-'I agree,' says Achov. 'Let's do it.'
-'Okay,' says Bragg. 'Let's go and get the powersuits, Lieutenant
+Bragg speaks, 'Right, it's it or us. We've got to hunt it down and kill it; if we just wait it'll come for us in our sleep or individually. There's only three of us now.'
 
-Falcon's battlesuit will be a great asset.' You all leave together,
-headed for the air-lock strong room. Unfortunately you
-discover all of the powersuits, including your battlesuit, have
-had their Central Processing Units ripped out. Achov rifles
-through the emergency spares box, 'Damn, the spares are gone
-too!' The suits are useless without their computers to guide
-them. You won't be able to leave the Dome until you find the
-suits' computer cartridges.
-Bragg says: 'We'll just have to do without them. We'll flush it
-out: Achov, you take the right corridor. Lieutenant, you take the
-centre corridor, but don't descend into the mine itself, that
-would be too dangerous if it's there. I'll take the left tunnel. Well
-each take a short range radio on the same frequency. At the first
-sign of trouble, pull back to the junction and radio for help.'
-Bragg hands out the radios.
-Achov gives you a flamethrower. 'This was Caleb's, he looked
-after it well. He was a good man, use it to avenge him.'
-Bragg says, 'If we don't find it, it'll be in the mine itself. Then
-we'll go down and flush it out.' As you all head down the
-corridor you nip into your cabin. Quickly you take out the tripod
-and search for the Rack. You discover that it has been taken back
-to the Cavern at the end of the mineshaft. You will have to go
-down there after all despite Bragg's warning not to. Turn to
-412.
+'I agree,' says Achov. 'Let's do it.'
+
+'Okay,' says Bragg. 'Let's go and get the powersuits, Lieutenant Falcon's battlesuit will be a great asset.' You all leave together, headed for the air-lock strong room. Unfortunately you discover all of the powersuits, including your battlesuit, have had their Central Processing Units ripped out. Achov rifles through the emergency spares box, 'Damn, the spares are gone too!' The suits are useless without their computers to guide them. You won't be able to leave the Dome until you find the suits' computer cartridges.
+
+Bragg says: 'We'll just have to do without them. We'll flush it out: Achov, you take the right corridor. Lieutenant, you take the centre corridor, but don't descend into the mine itself, that would be too dangerous if it's there. I'll take the left tunnel. Well each take a short range radio on the same frequency. At the first sign of trouble, pull back to the junction and radio for help.' Bragg hands out the radios.
+
+Achov gives you a flamethrower. 'This was Caleb's, he looked after it well. He was a good man, use it to avenge him.'
+
+Bragg says, 'If we don't find it, it'll be in the mine itself. Then we'll go down and flush it out.' As you all head down the corridor you nip into your cabin. Quickly you take out the tripod and search for the Rack. You discover that it has been taken back to the Cavern at the end of the mineshaft. You will have to go down there after all despite Bragg's warning not to. Turn to 412.
 
 167
 Achov's tracks lead up to a nearby ridge. Looking up you can see
