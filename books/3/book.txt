@@ -1851,59 +1851,22 @@ has any information for you?
 Turn to 205
 
 173
-You have missed again, but this time the creature's return shot
-
-is deadly accurate. A laser beam lances into your battlesuit
-environment control unit, destroying it. Your suit can no longer
-maintain any heat and you freeze to death in seconds, helpless
-against the deadly cold of the planet Chill.
+You have missed again, but this time the creature's return shot is deadly accurate. A laser beam lances into your battlesuit environment control unit, destroying it. Your suit can no longer maintain any heat and you freeze to death in seconds, helpless against the deadly cold of the planet Chill.
 
 174
-When you are close you switch on the computer graphic
-delineator. This interprets your microbeam radar and renders it
-visually. It is almost as good as the real thing. The rack segment
-is a large translucent white triangle, with a hole in its middle.
-Three tiny objects are embedded in its corners. The whole thing
-is about the size of your head. Reaching down you feel about,
-using the touch sensors on the fingertips of your battlesuit. At
-last you have it. You transfer it to the iron grip of your
-mechanical assistor arm, and begin to walk back to Falcon's
-Wing. Suddenly your radar picks up a large blip on the edge of
-your face plate display. It is moving directly towards you at great
-speed. You realise it will reach you before you can get to Falcon's
-Wing. Suddenly, the computer graphic delineator cuts in and a
-hideous sight fills your face plate and you step back
-involuntarily, horrified. Some creature, utterly alien, is almost
-upon you. It has a long head, completely smooth, the skull
-lengthened to hang over the back. It has no eyes, the mouth like
-that of an Earth shark. The head lies on a long and sinuous body,
-like a huge snake, but with tentacles. It is enormous and will
-reach you in a few seconds, what will you do? Will you:
+When you are close you switch on the computer graphic delineator. This interprets your microbeam radar and renders it visually. It is almost as good as the real thing. The rack segment is a large translucent white triangle, with a hole in its middle. Three tiny objects are embedded in its corners. The whole thing is about the size of your head. Reaching down you feel about, using the touch sensors on the fingertips of your battlesuit. At last you have it. You transfer it to the iron grip of your mechanical assistor arm, and begin to walk back to Falcon's Wing. Suddenly your radar picks up a large blip on the edge of your face plate display. It is moving directly towards you at great speed. You realise it will reach you before you can get to Falcon's Wing. Suddenly, the computer graphic delineator cuts in and a hideous sight fills your face plate and you step back involuntarily, horrified. Some creature, utterly alien, is almost upon you. It has a long head, completely smooth, the skull lengthened to hang over the back. It has no eyes, the mouth like that of an Earth shark. The head lies on a long and sinuous body, like a huge snake, but with tentacles. It is enormous and will reach you in a few seconds, what will you do? Will you:
+
 Launch one of your rockets at it?
 Fire your Particle Disruptor at it?
 Try to control it using Power of Will?
 Try to frighten it off in some way?
-
-Turn
-Turn
-Turn
-Turn
-
-to
-to
-to
-to
-
-183
-208
-219
-228
+Turn to 183
+Turn to 208
+Turn to 219
+Turn to 228
 
 175
-You are rolling to your feet when Achov's bullet slams into your
-shoulder, spinning you round and Bragg's laser beam burns a
-hole neatly through your back. The last words you ever hear
-are, 'Damn it, he was human after all.'
+You are rolling to your feet when Achov's bullet slams into your shoulder, spinning you round and Bragg's laser beam burns a hole neatly through your back. The last words you ever hear are, 'Damn it, he was human after all.'
 
 176
 You try to catch the arm holding the knife, but you just miss.
