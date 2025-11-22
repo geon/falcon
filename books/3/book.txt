@@ -2500,35 +2500,21 @@ Turn to 234
 Turn to 246
 
 227
-As you open fire, the Rigellian hurls himself at your feet. A bolt
-of plasma streams across the glade into a tree on the other side
-of the clearing, reducing it to charcoal. The Rigellian crashes
-into you, almost breaking your legs and you are sent through
-the air to land in a tangled heap. You force yourself to your feet
-just in time to see the Rigellian's axe flying toward your head.
-Make an Evasion Roll.
+As you open fire, the Rigellian hurls himself at your feet. A bolt of plasma streams across the glade into a tree on the other side of the clearing, reducing it to charcoal. The Rigellian crashes into you, almost breaking your legs and you are sent through the air to land in a tangled heap. You force yourself to your feet just in time to see the Rigellian's axe flying toward your head. Make an Evasion Roll.
 If you score 7-12, turn to 236
 If you score 2-6, turn to 247
 
 228
-What will you try? Witt you:
-Switch on your battlesuit flashlights and hope
-to blind it?
-Turn to
-Use your suit radio system to broadcast as
-much noise as possible on all frequencies? Turn to
-Use your jetboosters and try to burn it with the
-exhaust?
-Turn to
-Take out an energy rocket, drop it, move back
-as fast as you can toward Falcon's Wing and
-then detonate it by radio signal?
-Turn to
+What will you try? Will you:
 
-268
-279
-288
-303
+Switch on your battlesuit flashlights and hope to blind it?
+Use your suit radio system to broadcast as much noise as possible on all frequencies?
+Turn to Use your jetboosters and try to burn it with the exhaust?
+Take out an energy rocket, drop it, move back as fast as you can toward Falcon's Wing and then detonate it by radio signal?
+Turn to 268
+Turn to 279
+Turn to 288
+Turn to 303
 
 229
 You try to twist out of its path, but the long dagger sinks into
