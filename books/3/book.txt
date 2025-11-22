@@ -1173,195 +1173,87 @@ Falcon's Wing from the rear?
 Turn to 129
 
 110
-A laser beam slams into your battlesuit, close to your
-environment control unit. Subtract two from your battlesuit armour
-points. You realise it is aiming to destroy your suit's ability to keep
-out the cold. Without your environment control, you will freeze
-to death in seconds. Will you:
+A laser beam slams into your battlesuit, close to your environment control unit. *Subtract two from your battlesuit armour points.* You realise it is aiming to destroy your suit's ability to keep out the cold. Without your environment control, you will freeze to death in seconds. Will you:
+
 Fire your Particle Disruptor again?
 Launch a rocket?
-
 Turn to 381
 Turn to 11
 
 111
 What will you do? Will you:
 
-and shoulders in seconds. The other gives a howl of fear, runs,
-and is soon lost in the port. You return to Falcon's Wing where
-you decide to wait until the Winged Demon has left on another
-whaling expedition, then you can find another ship. You
-instruct CAIN to disguise Falcon's Wing as a pile of whaling
-equipment to avoid the prying eyes of anyone in search of the
-scientist's diving bell. You may lie in your Autodoc if you wish,
-and gain up to 6 points of lost Endurance. Make a Chance Roll.
-If you score 1 or 2, turn to 342
-If you score 3, 4, 5 or 6, turn to 187
-
-115
-
-Fire a concentrated burst of plasma at Baal,
-whilst he is not yet at the height of his
-power?
-Make a mental attack upon him, either a
-Thinkstrike or a Power of Will?
-Ignore him for the moment, and go directly
-towards the section of the Rack?
-
+Fire a concentrated burst of plasma at Baal, whilst he is not yet at the height of his power?
+Make a mental attack upon him, either a Thinkstrike or a Power of Will?
+Ignore him for the moment, and go directly towards the section of the Rack?
 Turn to 121
 Turn to 131
 Turn to 142
 
 112
-You slam into the legs of two of them, but they are ready for you
-and fall on top of you, pinning you to the ground for a brief
-moment which is enough time for their two companions to
-plunge their blades into your body over and over again. You
-scream in pain as you try to twist away from their daggers but to
-no avail. They leave your twitching body to die in the gutter.
+You slam into the legs of two of them, but they are ready for you and fall on top of you, pinning you to the ground for a brief moment which is enough time for their two companions to plunge their blades into your body over and over again. You scream in pain as you try to twist away from their daggers but to no avail. They leave your twitching body to die in the gutter.
 
 113
-You roll into the chamber beyond, but not before your back is
-singed badly by the blast of lethal energy that fills the opening. It
-burns through to your flesh and you lose 6 Endurance points. If you
-are still alive, your suit, still functioning well, begins to repair
-itself. As you come to your feet you can see a translucent white
-triangle on the floor, three small squares embedded in each
-corner, a section of the Rack. Quickly you grab it. Turn to 124.
+You roll into the chamber beyond, but not before your back is singed badly by the blast of lethal energy that fills the opening. It burns through to your flesh and you lose 6 Endurance points. If you are still alive, your suit, still functioning well, begins to repair itself. As you come to your feet you can see a translucent white triangle on the floor, three small squares embedded in each corner, a section of the Rack. Quickly you grab it. Turn to 124.
 
 114
 [Score an S]
-You draw your blaster and fire at the disciple of Baal. He is
-completely surprised and you cannot miss at this range. A river
-of superheated plasma ploughs into him, burning away his head
+You draw your blaster and fire at the disciple of Baal. He is completely surprised and you cannot miss at this range. A river of superheated plasma ploughs into him, burning away his head and shoulders in seconds. The other gives a howl of fear, runs, and is soon lost in the port. You return to Falcon's Wing where you decide to wait until the Winged Demon has left on another whaling expedition, then you can find another ship. You instruct CAIN to disguise Falcon's Wing as a pile of whaling equipment to avoid the prying eyes of anyone in search of the scientist's diving bell. You may lie in your Autodoc if you wish, and gain up to 6 points of lost Endurance. Make a Chance Roll.
+If you score 1 or 2, turn to 342
+If you score 3, 4, 5 or 6, turn to 187
 
-You force him to turn and attack the two others. They are
-struggling together when you leap up and shout for help.
-Turning to the struggling knot you knock one of them out with
-a quick blow to the temple and then release control of your
-victim. A few seconds later, you are battling with them when
-Captain Cresap Ord and several men burst in. Your assailants
-are overwhelmed and tied up. Captain Cresap Ord asks you
-why they attacked you, but you pretend complete ignorance. He
-eyes you suspiciously for a moment and then orders that the
-three men be locked in the brig. He wishes you goodnight and
-advises you to lock the door. The rest of the night passes
-uneventfully. Turn to 106.
+115
+You force him to turn and attack the two others. They are struggling together when you leap up and shout for help. Turning to the struggling knot you knock one of them out with a quick blow to the temple and then release control of your victim. A few seconds later, you are battling with them when Captain Cresap Ord and several men burst in. Your assailants are overwhelmed and tied up. Captain Cresap Ord asks you why they attacked you, but you pretend complete ignorance. He eyes you suspiciously for a moment and then orders that the three men be locked in the brig. He wishes you goodnight and advises you to lock the door. The rest of the night passes uneventfully. Turn to 106.
 
 116
-A musket ball thuds into your chest near the right shoulder. The
-impact, like a physical blow, throws you backwards to the
-ground. Lose 14 Endurance points. If you are still alive, you lie hidden
-in the long grass gritting your teeth in pain. You can hear the
-repeated volleys of musketfire from the Union lines and the
-shrieks of the wounded and dying as the Confederates press
-home their attack. After they have gone, you risk a look. A brief
-hand-to-hand struggle ensues and then the blue coats fall back,
-the Confederates too exhausted to pursue for now. Suddenly, a
-movement catches your eye and a section of wood just
-disappears. Your holo-detector no longer registers another
-Time Machine. It looks like Yelov has escaped. You make your
-way to Benner's Hill where you are pleased to see Lynx waiting
-for you. 'I stopped his attempt on Ewell,' she says despondently,
-'but I couldn't stop him reaching his Time Machine. I was hoping
-you'd be there.' You tell Lynx what happened. 'Lucky to be alive,
-
-as usual, eh, Falcon? Anyway I must try to find him again.
-Thanks and good luck with the Baal mission.' Turn to 333.
+A musket ball thuds into your chest near the right shoulder. The impact, like a physical blow, throws you backwards to the ground. Lose 14 Endurance points. If you are still alive, you lie hidden in the long grass gritting your teeth in pain. You can hear the repeated volleys of musketfire from the Union lines and the shrieks of the wounded and dying as the Confederates press home their attack. After they have gone, you risk a look. A brief hand-to-hand struggle ensues and then the blue coats fall back, the Confederates too exhausted to pursue for now. Suddenly, a movement catches your eye and a section of wood just disappears. Your holo-detector no longer registers another Time Machine. It looks like Yelov has escaped. You make your way to Benner's Hill where you are pleased to see Lynx waiting for you. 'I stopped his attempt on Ewell,' she says despondently, 'but I couldn't stop him reaching his Time Machine. I was hoping you'd be there.' You tell Lynx what happened. 'Lucky to be alive, as usual, eh, Falcon? Anyway I must try to find him again. Thanks and good luck with the Baal mission.' Turn to 333.
 
 117
-
-some distance away. Make an Attack Roll.
-If you score 6-12, turn to 170
-If you score 2-5, turn to 158
-
 Will you:
 
-122
 Pick off the three Nobles with your blaster?
-Turn to 137
-Use your Power of Will to force some of the
-rebel Warrior reserves to attack the Nobles? Turn to 149
+Use your Power of Will to force some of the rebel Warrior reserves to attack the Nobles?
 Use your Power of Will on a Noble?
+Turn to 137
+Turn to 149
 Turn to 157
 
 118
-You roll aside and its head crashes into the spot where you once
-were. Leaping to your feet you give it a full blast from your
-flamethrower as it tries to get out from under the lift. You burn
-it thoroughly, making sure there is nothing left but charcoal.
-Then you use your blaster to reduce the lift to molten metal,
-sealing anything that may be left of the creature in the mine.
-When you have finished, you leave the Mining Control Room.
-Turn to 147.
+You roll aside and its head crashes into the spot where you once were. Leaping to your feet you give it a full blast from your flamethrower as it tries to get out from under the lift. You burn it thoroughly, making sure there is nothing left but charcoal. Then you use your blaster to reduce the lift to molten metal, sealing anything that may be left of the creature in the mine. When you have finished, you leave the Mining Control Room. Turn to 147.
 
 119
-As you fall to the side, an obsidian-tipped spear catapults from
-the ceiling, hammering into the stone slab, where it shivers into
-splinters with a crack. Wiping the sweat from your brow, you
-get to your feet. You must go on. Will you:
-Step onto the slab directly ahead of you on the
-last row?
+As you fall to the side, an obsidian-tipped spear catapults from the ceiling, hammering into the stone slab, where it shivers into splinters with a crack. Wiping the sweat from your brow, you get to your feet. You must go on. Will you:
+
+Step onto the slab directly ahead of you on the last row?
+Step onto the slab diagonally to your left, on the last row?
+Step onto the slab directly to your left, the centre slab of the nine?
 Turn to 419
-Step onto the slab diagonally to your left, on
-the last row?
 Turn to 404
-Step onto the slab directly to your left, the
-centre slab of the nine?
 Turn to 373
 
 120
-You concentrate hard and send a bolt of psionic power at the
-mind of the Rigellian warrior. Make a Thinkstrike Roll.
+You concentrate hard and send a bolt of psionic power at the mind of the Rigellian warrior. Make a Thinkstrike Roll.
 If you score 6-12, turn to 185
 If you score 2-5, turn to 196
 
 121
 [Score a P]
-Drawing your blaster, you aim it at Baal. It is a large target, but
+Drawing your blaster, you aim it at Baal. It is a large target, but some distance away. Make an Attack Roll.
+If you score 6-12, turn to 170
+If you score 2-5, turn to 158
 
-You notice that Tsu Tsang is not limping. There seems to be
-something odd about her, not quite right. Instinctively you draw
-your blaster, backing up, a sixth sense in your brain sending
-alarm signals up and down your body. Suddenly there is a
-sickening, tearing sound and Tsu Tsang's chest rips apart
-loudly, blood and slime spraying everywhere. Several tentacles
-writhe out and twist forward, hissing and bubbling horribly.
-Her body jerks convulsively, the jaws crack open and her
-tongue, impossibly long, slithers out obscenely, splitting like
-ripe fruit into two pulpy appendages that form into stings like a
-scorpion's tail in front of your very eyes. Organic juices spurt
-and flow in rivulets. Utterly horrified, you stand transfixed with
-shock at what you are seeing, as slime ridden tentacles reach out
-for you. Make a Power of Will Roll as you try to regain control
-of your senses.
+122
+You notice that Tsu Tsang is not limping. There seems to be something odd about her, not quite right. Instinctively you draw your blaster, backing up, a sixth sense in your brain sending alarm signals up and down your body. Suddenly there is a sickening, tearing sound and Tsu Tsang's chest rips apart loudly, blood and slime spraying everywhere. Several tentacles writhe out and twist forward, hissing and bubbling horribly. Her body jerks convulsively, the jaws crack open and her tongue, impossibly long, slithers out obscenely, splitting like ripe fruit into two pulpy appendages that form into stings like a scorpion's tail in front of your very eyes. Organic juices spurt and flow in rivulets. Utterly horrified, you stand transfixed with shock at what you are seeing, as slime ridden tentacles reach out for you. *Make a Power of Will Roll* as you try to regain control of your senses.
 If you score 6-12, turn to 396
 If you score 2-5, turn to 379
 
 123
-You slam into the legs of three of them and they fly over you,
-crashing to the ground. In an instant you are up, but the fourth
-whips his dagger out, gashing your shoulder as he shouts: 'Die,
-in the name of Baal!' Controlling your shocked surprise at this,
-you unleash a Thinkstrike and he staggers back, holding his
-head. Barging past him you dart into the warehouse, running
-for the crate marked 'Eiger Corporation'. Then a loud humming
-fills the air, as if of a hundred bees flying in unison. Turning
-your head you are greeted by a revolting sight. Flying into the
-warehouse is what can only be described as a twelve-foot fly, its
-huge compound eyes glittering malevolently and its black limbs
-glistening with mucus and lined with cilia. Its mouthparts are
-working violently, oozing a vile greyish saliva. Incredibly it
-speaks, the sound disturbingly unnatural, human words not
-meant for an alien throat. 'You must die, Time Traveller, Baal
-has spoken,' it bubbles. A wave of disgust comes over you even
-though you have seen many strange life forms, as it swoops
+You slam into the legs of three of them and they fly over you, crashing to the ground. In an instant you are up, but the fourth whips his dagger out, gashing your shoulder as he shouts: 'Die, in the name of Baal!' Controlling your shocked surprise at this, you unleash a Thinkstrike and he staggers back, holding his head. Barging past him you dart into the warehouse, running for the crate marked 'Eiger Corporation'. Then a loud humming fills the air, as if of a hundred bees flying in unison. Turning your head you are greeted by a revolting sight. Flying into the warehouse is what can only be described as a twelve-foot fly, its huge compound eyes glittering malevolently and its black limbs glistening with mucus and lined with cilia. Its mouthparts are working violently, oozing a vile greyish saliva. Incredibly it speaks, the sound disturbingly unnatural, human words not meant for an alien throat. 'You must die, Time Traveller, Baal has spoken,' it bubbles. A wave of disgust comes over you even
+though you have seen many strange life forms, as it swoopstoward you, intent on devouring you. Will you:
 
-toward you, intent on devouring you. Will you:
 Thinkstrike it?
 Use your Power of Will?
 Go for your blaster?
-
 Turn to 135
 Turn to 146
 Turn to 160
