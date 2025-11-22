@@ -1379,51 +1379,28 @@ If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
 133
-The one you know to be a disciple of Baal throws his head back
-in pain, but then looks at you wildly. 'Sorcery,' he hisses. 'Let's
-take him now.' With that they draw vicious looking daggers,
-trying to come at you from either side. One of them thrusts
-
-savagely at your abdomen. You will have to try and get away.
-Make an Attack Roll.
+The one you know to be a disciple of Baal throws his head back in pain, but then looks at you wildly. 'Sorcery,' he hisses. 'Let's take him now.' With that they draw vicious looking daggers, trying to come at you from either side. One of them thrusts savagely at your abdomen. You will have to try and get away. Make an Attack Roll.
 If you score 7-12, turn to 165
 If you score 2-6, turn to 176
 
 134
-Just as you are about to pick up the translucent triangle, you feel
-an unpleasant pattern of mental thought; some powerful
-psychic is probing your mind! There is a sudden cry of 'No!', like
-thunder, coming from above the roof. Then the ceiling begins to
-shudder and shake, dust and masonry falling from it. Something
-awesomely powerful is smashing its way in here. Quickly you
-grab the segment of the Rack. Have you seen what the Aztecs
-believed to have been the god Huitzilopochtli, materialise on the
-Great Pyramid? If you have, turn to 178. If you have not, turn to
-191.
+Just as you are about to pick up the translucent triangle, you feel an unpleasant pattern of mental thought; some powerful psychic is probing your mind! There is a sudden cry of 'No!', like thunder, coming from above the roof. Then the ceiling begins to shudder and shake, dust and masonry falling from it. Something awesomely powerful is smashing its way in here. Quickly you grab the segment of the Rack. Have you seen what the Aztecs believed to have been the god Huitzilopochtli, materialise on the Great Pyramid?
 
-139
+If you have,
+If you have not,
+Turn to 178
+Turn to 191
 
 135
-As it swoops closer you hurl a bolt of mental energy at the grisly
-apparition. Much to your consternation, there is no effect
-whatsoever, apparently the creature is much too alien to be
-affected by human thought patterns. It is getting close. Will you:
+As it swoops closer you hurl a bolt of mental energy at the grisly apparition. Much to your consternation, there is no effect whatsoever, apparently the creature is much too alien to be affected by human thought patterns. It is getting close. Will you:
+
 Use your blaster?
 Try to use your Power of Will?
-
 Turn to 160
 Turn to 411
 
 136
-Moving fast, you deliver a short kick at one of your assailants'
-knee caps, spinning him to the floor. You are battling with them
-when Captain Cresap Ord and several men burst in. Your
-assailants are overwhelmed and tied up. Captain Cresap Ord
-asks you why they attacked you but you pretend complete
-ignorance. He eyes you suspiciously for a moment and then
-orders that the three men be locked in the brig. Then he wishes
-you goodnight and advises you to lock the door. The rest of the
-night passes uneventfully. Turn to 106.
+Moving fast, you deliver a short kick at one of your assailants' knee caps, spinning him to the floor. You are battling with them when Captain Cresap Ord and several men burst in. Your assailants are overwhelmed and tied up. Captain Cresap Ord asks you why they attacked you but you pretend complete ignorance. He eyes you suspiciously for a moment and then orders that the three men be locked in the brig. Then he wishes you goodnight and advises you to lock the door. The rest of the night passes uneventfully. Turn to 106.
 
 137
 Make an Attack Roll as you open up with rapid blasts of plasma.
@@ -1431,47 +1408,22 @@ If you score 7-12, turn to 169
 If you score 2-6, turn to 177
 
 138
-You drop into the long grass crying out in mock agony. You lie
-still, pretending to be dead. You can hear the repeated volleys of
-musketfire from the Union lines and the shrieks of the wounded
-and dying as the Confederates press home their attack. After
-they have gone, you risk a look. A brief hand-to-hand struggle
-ensues and then the blue coats fall back, the Confederates too
-exhausted to pursue for now. Suddenly, a movement catches
-your eye and a section of wood just disappears. Your holodetector no longer registers another Time Machine. It looks like
-Yelov has escaped. You make your way to Benner's Hill where,
-you are pleased to see Lynx waiting for you. 'I stopped his
-attempt on Ewell, but I couldn't prevent him reaching his Time
-Machine,' she says despondently. 'I was hoping you'd be there.'
-You tell Lynx what happened. 'Lucky to be alive, as usual, eh,
-Falcon? Anyway I must try to find him again. Thanks and good
-luck with the Baal mission.' Turn to 333.
-You launch all your rockets and fire your Particle Disruptor
-several times, destroying many of the fly-creatures. But there
-are too many of them and they crash into you from all sides,
-ripping and tearing at your battlesuit, wreaking terrible damage
-to it. Subtract 4 from your armour score. If it is at 0, turn to 180. If it is
-still functional, you boost your jets and surge up out of their
+You drop into the long grass crying out in mock agony. You lie still, pretending to be dead. You can hear the repeated volleys of musketfire from the Union lines and the shrieks of the wounded and dying as the Confederates press home their attack. After they have gone, you risk a look. A brief hand-to-hand struggle ensues and then the blue coats fall back, the Confederates too exhausted to pursue for now. Suddenly, a movement catches your eye and a section of wood just disappears. Your holodetector no longer registers another Time Machine. It looks like Yelov has escaped. You make your way to Benner's Hill where, you are pleased to see Lynx waiting for you. 'I stopped his attempt on Ewell, but I couldn't prevent him reaching his Time Machine,' she says despondently. 'I was hoping you'd be there.' You tell Lynx what happened. 'Lucky to be alive, as usual, eh, Falcon? Anyway I must try to find him again. Thanks and good luck with the Baal mission.' Turn to 333.
+
+139
+You launch all your rockets and fire your Particle Disruptor several times, destroying many of the fly-creatures. But there are too many of them and they crash into you from all sides, ripping and tearing at your battlesuit, wreaking terrible damage to it. Subtract 4 from your armour score. If it is at 0, turn to 180. If it is still functional, you boost your jets and surge up out of their
 reach. Will you:
+
 Throw the Rack at Baal?
 Fire your Particle Disruptor at him?
-
 Turn to 188
 Turn to 159
 
 140
-As silently as you can you stalk the Rigellian warrior. However,
-you are unable to move as quickly as you would normally under
-this gravity, and the warrior senses you. He spins and hurls a
-viciously barbed sphere in one motion. You are unable to throw
-yourself aside and it slams into your shoulder with superhuman
-force, knocking you to the ground. Desperately, you struggle to
-your feet but he is upon you. In a flash he has struck your head
-from your shoulders. You have failed.
+As silently as you can you stalk the Rigellian warrior. However, you are unable to move as quickly as you would normally under this gravity, and the warrior senses you. He spins and hurls a viciously barbed sphere in one motion. You are unable to throw yourself aside and it slams into your shoulder with superhuman force, knocking you to the ground. Desperately, you struggle to your feet but he is upon you. In a flash he has struck your head from your shoulders. You have failed.
 
 141
 Make an Attack Roll.
-
 If you score 6-12, turn to 215
 If you score 2-5, turn to 223
 
