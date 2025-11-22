@@ -2629,39 +2629,23 @@ steps. It is completely deserted, save for the bodies of many
 Warriors mostly red-furred, and the oblivious workers still
 toiling away. Soon you are in Falcon's Wing. Turn to 248.
 
+238
+You play your blaster across the width of the corridor, cutting down the priests as one. Turning, you sprint on to the portal at the end of the corridor. Looking in you can see a stone altar at the far end of a large room. Upon it lies a translucent white triangle, giving off a faint white light, a part of the Rack. The floor in front of the altar is carved into a chequered grid of nine large stone slabs. Suddenly, there is a crunching sound above you. Looking up you can see the ceiling is being ripped open, and you can hear a snarling howl of ferocious fage - Baal is smashing his way in. You dash out onto the floor, knowing you must try to get the triangle before Baal breaks in. Make a Chance Roll.
+If you score 1, 2, 3 or 4, turn to 266
+If you score 5 or 6, turn to 282
+
+239
+You draw your blaster and burn the tentacles in two, but the section around your ankle continues to tighten, melting together. You stagger back, as unendurable agony rips through your body. It begins to absorb your foot, fusing with it and becoming a pulpy mass at the bottom of your leg. Suddenly two more tentacles burst out of it and wrap themselves around your thigh. Then they tear themselves away from the mass of your foot, forming jointed spider-like legs, ending in two barbed stings. The stings whip up and bury themselves into your chest, mercifully killing you instantly.
+
 240
-You spin aside and grab the sailor. Using his own momentum,
-you hurl him into the corner of the cabin. He slams into the wall
-with bone-shattering force, and slides to the floor motionless.
-However, the captain is upon you, and he slashes your arm. Lose
-4 Endurance points. You grunt in agony but the pain galvanises
-you. You drive your fist into his solar plexus, driving the wind
-out of him. He doubles up, retching and you sprint up the stairs
-and out onto the deck, almost into the arms of a huge hairy
-sailor, lumbering towards the cabin. Wrestling with him is out
-of the question. Will you:
+You spin aside and grab the sailor. Using his own momentum, you hurl him into the corner of the cabin. He slams into the wall with bone-shattering force, and slides to the floor motionless. However, the captain is upon you, and he slashes your arm. *Lose 4 Endurance points.* You grunt in agony but the pain galvanises you. You drive your fist into his solar plexus, driving the wind out of him. He doubles up, retching and you sprint up the stairs and out onto the deck, almost into the arms of a huge hairy sailor, lumbering towards the cabin. Wrestling with him is out of the question. Will you:
+
 Use your Power of Will on him?
+Cut to the left and dive overboard into the dust near the quayside?
 Turn to 264
-Cut to the left and dive overboard into the dust
-near the quayside?
 Turn to 275
 
-238
-
 241
-
-You play your blaster across the width of the corridor, cutting
-down the priests as one. Turning, you sprint on to the portal at
-the end of the corridor. Looking in you can see a stone altar at
-the far end of a large room. Upon it lies a translucent white
-triangle, giving off a faint white light, a part of the Rack. The
-floor in front of the altar is carved into a chequered grid of nine
-large stone slabs. Suddenly, there is a crunching sound above
-you. Looking up you can see the ceiling is being ripped open, and
-you can hear a snarling howl of ferocious fage - Baal is smashing
-his way in. You dash out onto the floor, knowing you must try
-to get the triangle before Baal breaks in. Make a Chance Roll.
-
 As you sit in your crash-couch, your Psychic Awareness begins
 to register some kind of psionic phenomena within Falcon's
 Wing. Turning around you can see that the three pieces of the
@@ -2678,21 +2662,6 @@ nausea passes over you. Then, excitedly, you set co-ordinates
 for the timehole on planet Chill, in 2985 AD, where the fourth
 part of the Rack lies. You may lie in your Autodoc during the trip
 and regain up to 12 points of lost Endurance. Turn to 353.
-
-If you score 1, 2, 3 or 4, turn to 266
-If you score 5 or 6, turn to 282
-
-239
-You draw your blaster and burn the tentacles in two, but the
-section around your ankle continues to tighten, melting
-together. You stagger back, as unendurable agony rips through
-your body. It begins to absorb your foot, fusing with it and
-becoming a pulpy mass at the bottom of your leg. Suddenly two
-more tentacles burst out of it and wrap themselves around your
-thigh. Then they tear themselves away from the mass of your
-foot, forming jointed spider-like legs, ending in two barbed
-stings. The stings whip up and bury themselves into your chest,
-mercifully killing you instantly.
 
 242
 McReady says, 'No, no, it could be some kind of mind attack.'
