@@ -164,8 +164,7 @@ Turn to 340
 Turn to 373
 
 29
-As you walk onward, in the soft glow of the phosphorescent fungus, the unmistakable sound of battle echoes down the tunnel. Cautiously edging along the side of the corridor you come to a T-junction. Poking your head out you look to the left. A group of yellow and black furred Burrowers are waiting placidly, a mass of mud and rock at their feet. Turning your head to the right, you are greeted by the cause of the sound. The tunnel is filled with two lines of what must be Warriors, some yellow and black, the others with dull red fur, engaged in a vicious death struggle. The Warriors are frightening to look at. They have two arms ending in what can only be described as serrated sword blades, presumably of bone or hardened cartilage. Viciously sharp horns protrude from their domed heads, their elbows and knees. Their feet resemble the claws of a bird, except that they are of sharp cartilage, all talons. Their heads are much the same as the Burrowers, except for the massive fangs. What is most frightening is their speed and ferocity and the feral savagery with which they are ripping each other into shreds. Incredibly swift and powerful, they are creatures bred for one thing only - killing. Behind each rank of Warriors there are two or three Nobles, giving orders. They are human in shape, except for their heads. These are much the same as the Burrowers, except for a membrane covering a circular cavity above the mouth. They communicate by
-vibrating this membrane to produce sound. Turn to 44.
+As you walk onward, in the soft glow of the phosphorescent fungus, the unmistakable sound of battle echoes down the tunnel. Cautiously edging along the side of the corridor you come to a T-junction. Poking your head out you look to the left. A group of yellow and black furred Burrowers are waiting placidly, a mass of mud and rock at their feet. Turning your head to the right, you are greeted by the cause of the sound. The tunnel is filled with two lines of what must be Warriors, some yellow and black, the others with dull red fur, engaged in a vicious death struggle. The Warriors are frightening to look at. They have two arms ending in what can only be described as serrated sword blades, presumably of bone or hardened cartilage. Viciously sharp horns protrude from their domed heads, their elbows and knees. Their feet resemble the claws of a bird, except that they are of sharp cartilage, all talons. Their heads are much the same as the Burrowers, except for the massive fangs. What is most frightening is their speed and ferocity and the feral savagery with which they are ripping each other into shreds. Incredibly swift and powerful, they are creatures bred for one thing only - killing. Behind each rank of Warriors there are two or three Nobles, giving orders. They are human in shape, except for their heads. These are much the same as the Burrowers, except for a membrane covering a circular cavity above the mouth. They communicate by vibrating this membrane to produce sound. Turn to 44.
 
 30
 A musket ball thuds into your shoulder, the impact stops you dead in your tracks and you are thrown into the long grass. *Lose 74 Endurance points.* If you are still alive Lynx, unhurt, comes to your side, crawling through the long grass. Quickly she applies a field dressing and a local anaesthetic. The Autodoc will deal with the rest, Falcon,' she says. Looking up over the edge of the long grass, you see the blue-coats stepping back into the woods. The Union have finally occupied Culp's Hill. Suddenly, a section of the woods on the left side of Culp's Hill winks out. Yelov has escaped in his Time Machine. Lynx drops her head in disappointment. 'I'll have to find him again. Thanks anyway, Falcon, let's head back to our Machines.' Slowly, you crawl through the grass until you are behind the Confederate lines. 'Well good luck, Falcon, I hope to see you soon. Bet you I get Yelov before you get Baal!' Smiling, you climb Benner's Hill and soon you are approaching the clump of trees disguising Falcon's Wing. Turn to 333.
@@ -731,8 +730,7 @@ If you score 6-12, turn to 396
 If you score 2-5, turn to 379
 
 123
-You slam into the legs of three of them and they fly over you, crashing to the ground. In an instant you are up, but the fourth whips his dagger out, gashing your shoulder as he shouts: 'Die, in the name of Baal!' Controlling your shocked surprise at this, you unleash a Thinkstrike and he staggers back, holding his head. Barging past him you dart into the warehouse, running for the crate marked 'Eiger Corporation'. Then a loud humming fills the air, as if of a hundred bees flying in unison. Turning your head you are greeted by a revolting sight. Flying into the warehouse is what can only be described as a twelve-foot fly, its huge compound eyes glittering malevolently and its black limbs glistening with mucus and lined with cilia. Its mouthparts are working violently, oozing a vile greyish saliva. Incredibly it speaks, the sound disturbingly unnatural, human words not meant for an alien throat. 'You must die, Time Traveller, Baal has spoken,' it bubbles. A wave of disgust comes over you even
-though you have seen many strange life forms, as it swoopstoward you, intent on devouring you. Will you:
+You slam into the legs of three of them and they fly over you, crashing to the ground. In an instant you are up, but the fourth whips his dagger out, gashing your shoulder as he shouts: 'Die, in the name of Baal!' Controlling your shocked surprise at this, you unleash a Thinkstrike and he staggers back, holding his head. Barging past him you dart into the warehouse, running for the crate marked 'Eiger Corporation'. Then a loud humming fills the air, as if of a hundred bees flying in unison. Turning your head you are greeted by a revolting sight. Flying into the warehouse is what can only be described as a twelve-foot fly, its huge compound eyes glittering malevolently and its black limbs glistening with mucus and lined with cilia. Its mouthparts are working violently, oozing a vile greyish saliva. Incredibly it speaks, the sound disturbingly unnatural, human words not meant for an alien throat. 'You must die, Time Traveller, Baal has spoken,' it bubbles. A wave of disgust comes over you even though you have seen many strange life forms, as it swoopstoward you, intent on devouring you. Will you:
 
 Thinkstrike it?
 Use your Power of Will?
@@ -829,8 +827,7 @@ If you score 2-6, turn to 177
 You drop into the long grass crying out in mock agony. You lie still, pretending to be dead. You can hear the repeated volleys of musketfire from the Union lines and the shrieks of the wounded and dying as the Confederates press home their attack. After they have gone, you risk a look. A brief hand-to-hand struggle ensues and then the blue coats fall back, the Confederates too exhausted to pursue for now. Suddenly, a movement catches your eye and a section of wood just disappears. Your holodetector no longer registers another Time Machine. It looks like Yelov has escaped. You make your way to Benner's Hill where, you are pleased to see Lynx waiting for you. 'I stopped his attempt on Ewell, but I couldn't prevent him reaching his Time Machine,' she says despondently. 'I was hoping you'd be there.' You tell Lynx what happened. 'Lucky to be alive, as usual, eh, Falcon? Anyway I must try to find him again. Thanks and good luck with the Baal mission.' Turn to 333.
 
 139
-You launch all your rockets and fire your Particle Disruptor several times, destroying many of the fly-creatures. But there are too many of them and they crash into you from all sides, ripping and tearing at your battlesuit, wreaking terrible damage to it. Subtract 4 from your armour score. If it is at 0, turn to 180. If it is still functional, you boost your jets and surge up out of their
-reach. Will you:
+You launch all your rockets and fire your Particle Disruptor several times, destroying many of the fly-creatures. But there are too many of them and they crash into you from all sides, ripping and tearing at your battlesuit, wreaking terrible damage to it. Subtract 4 from your armour score. If it is at 0, turn to 180. If it is still functional, you boost your jets and surge up out of their reach. Will you:
 
 Throw the Rack at Baal?
 Fire your Particle Disruptor at him?
@@ -846,180 +843,46 @@ If you score 6-12, turn to 215
 If you score 2-5, turn to 223
 
 142
-Horrified, you make your way through the crowd towards the
-building housing the piece of the Rack. It is a low structure, with
-a large square entrance, hung with bright curtains. Two Jaguar
-Knights stand guard at either side. Not wishing to waste time in
-this place of death, you decide to Thinkstrike them in rapid
-succession. Turn to 311.
+Horrified, you make your way through the crowd towards the building housing the piece of the Rack. It is a low structure, with a large square entrance, hung with bright curtains. Two Jaguar Knights stand guard at either side. Not wishing to waste time in this place of death, you decide to Thinkstrike them in rapid succession. Turn to 311.
 
 143
-You hurl yourself forward, coming to rest just in front of the
-altar. A long, sharpened wooden stake bursts out of the slab you
-were just on. Relieved to be still alive, you turn your attention to
-the altar. Turn to 134.
+You hurl yourself forward, coming to rest just in front of the altar. A long, sharpened wooden stake bursts out of the slab you were just on. Relieved to be still alive, you turn your attention to the altar. Turn to 134.
 
 144
-The one you know to be a disciple of Baal throws his head back,
-his face screwed up in pain and slumps to the ground. The other
-sailor stares at his prone body in astonishment. Taking no
-chances, you drive your fist at his temple, knocking him out
-instantly. You return to Falcon's Wing where you decide to wait
-until the Winged Demon has left on another whaling
-expedition, so you can find another ship. You instruct CAIN to
-disguise Falcon's Wing as a pile of whaling equipment to avoid
-the prying eyes of anyone in search of the scientist's diving bell.
-You may lie in your Autodoc if you wish, and gain up to 6 points of
-lost Endurance. Turn to 342.
+The one you know to be a disciple of Baal throws his head back, his face screwed up in pain and slumps to the ground. The other sailor stares at his prone body in astonishment. Taking no chances, you drive your fist at his temple, knocking him out instantly. You return to Falcon's Wing where you decide to wait until the Winged Demon has left on another whaling expedition, so you can find another ship. You instruct CAIN to disguise Falcon's Wing as a pile of whaling equipment to avoid the prying eyes of anyone in search of the scientist's diving bell. You may lie in your Autodoc if you wish, and gain up to 6 points of lost Endurance. Turn to 342.
 
 145
-Desperately, you try to fight them off, but one of them manages
-to slash your shoulder with his dagger. Lose 4 Endurance points. If
-you are still alive, you are battling with them when Captain
-Cresap Ord and several men burst in. Your assailants are
-overwhelmed and tied up. Captain Cresap Ord asks you why
-they attacked you but you pretend complete ignorance. He eyes
-you suspiciously for a moment and then orders that the three
-men be locked in the brig. He wishes you goodnight and advises
-you to lock the door. The rest of the night passes uneventfully.
-Turn to 106.
+Desperately, you try to fight them off, but one of them manages to slash your shoulder with his dagger. Lose 4 Endurance points. If you are still alive, you are battling with them when Captain Cresap Ord and several men burst in. Your assailants are overwhelmed and tied up. Captain Cresap Ord asks you why they attacked you but you pretend complete ignorance. He eyes you suspiciously for a moment and then orders that the three men be locked in the brig. He wishes you goodnight and advises you to lock the door. The rest of the night passes uneventfully. Turn to 106.
 
 146
-Concentrating hard, you project the force of your will into the
-mind of the fly-being. Its mind is a confusing swirl of alien
+Concentrating hard, you project the force of your will into the mind of the fly-being. Its mind is a confusing swirl of alien thought patterns, so different that it almost unhinges your mind. However, it seems the creature is under some kind of control, nothing like the mental domination you are familiar with, rather some kind of binding that has been upon the fly-being for centuries beyond reckoning, something which you are unable to affect. Hastily you withdraw your mind as it swoops closer. You have only a moment. Judging its mind as too alien to be affected by a Thinkstrike, you go for your blaster. Turn to 160.
 
-thought patterns, so different that it almost unhinges your
-mind. However, it seems the creature is under some kind of control, nothing like the mental domination you are familiar with,
-rather some kind of binding that has been upon the fly-being for
-centuries beyond reckoning, something which you are unable to
-affect. Hastily you withdraw your mind as it swoops closer. You
-have only a moment. Judging its mind as too alien to be affected
-by a Thinkstrike, you go for your blaster. Turn to 160.
 147
-Bragg and Achov, a tool box in his hand, are waiting for you at
-the corridor junction. The tool box contains the suit computers
-and you take your battlesuit control unit. Achov eyes you
-silently. Bragg asks you what happened and you explain
-everything to him. Achov says he is going to repair the suits and
-sets off to the airlock. Bragg nods tiredly, 'Wellit's sealed in the
-mine, if it's still alive. All we have to do is wait for the relief ship
-now.' Suddenly, an alarm bell rings out, echoing around the
-Dome. 'Somebody has left the outer airlock door open!... It
-must be Achov! Quick, to the suitroom,' cries Bragg and you run
-down the corridor. Reaching it you discover that one powersuit
-is missing and the rest have laser beam holes neatly drilled into
-their face plates, all useless. However your battlesuit is intact its
-face plate is of toughened pastiglas, proof against laser fire. 'It's
-not Achov at all!' says Bragg. 'The creature must have got him,
-and it's gone outside. There's no telling what damage it can do to
-the Dome from outside with a laser weapon! Our only chance is
-for you to go outside and kill it, Lieutenant. You should have a
-good chance in your scoutsuit.' Knowing that you won't be
-returning to the Dome, you tell Bragg to lock himself in a
-Titanium Container with enough heating and food to last him
-until the relief ship arrives. 'In case I don't make it Brax,' you say.
-He nods and says, 'Okay Lieutenant, good luck. Finish that thing
-once and for all and let this nightmare end.' Quickly you repair
-your battlesuit and put it on, the Rack safe inside it, You say
-goodbye to Bragg and he shakes you by the hand. You wait until
-he is safely out of the way, then open the air-lock door. A rush of
-freezing ammonia-ridden gas swirls in and you quickly seal the
-air-lock, closing the outer door. You find yourself on the bleak
-surface of Chill once more. It is day time and the weather is good
-in so far as there isn't a storm. The visibility is reasonable under
-the slate grey sky. You realise you did not sleep at all last night.
+Bragg and Achov, a tool box in his hand, are waiting for you at the corridor junction. The tool box contains the suit computers and you take your battlesuit control unit. Achov eyes you silently. Bragg asks you what happened and you explain everything to him. Achov says he is going to repair the suits and sets off to the airlock. Bragg nods tiredly, 'Wellit's sealed in the mine, if it's still alive. All we have to do is wait for the relief ship now.' Suddenly, an alarm bell rings out, echoing around the Dome. 'Somebody has left the outer airlock door open!... It must be Achov! Quick, to the suitroom,' cries Bragg and you run down the corridor. Reaching it you discover that one powersuit is missing and the rest have laser beam holes neatly drilled into their face plates, all useless. However your battlesuit is intact its face plate is of toughened pastiglas, proof against laser fire. 'It's not Achov at all!' says Bragg. 'The creature must have got him, and it's gone outside. There's no telling what damage it can do to the Dome from outside with a laser weapon! Our only chance is for you to go outside and kill it, Lieutenant. You should have a good chance in your scoutsuit.' Knowing that you won't be returning to the Dome, you tell Bragg to lock himself in a Titanium Container with enough heating and food to last him until the relief ship arrives. 'In case I don't make it Brax,' you say. He nods and says, 'Okay Lieutenant, good luck. Finish that thing once and for all and let this nightmare end.' Quickly you repair your battlesuit and put it on, the Rack safe inside it, You say goodbye to Bragg and he shakes you by the hand. You wait until he is safely out of the way, then open the air-lock door. A rush of freezing ammonia-ridden gas swirls in and you quickly seal the air-lock, closing the outer door. You find yourself on the bleak surface of Chill once more. It is day time and the weather is good in so far as there isn't a storm. The visibility is reasonable under the slate grey sky. You realise you did not sleep at all last night. Will you:
 
-Will you:
-Forget about Achov and head straight for
-Falcon's Wing, you have the Rack now in any
-case?
+Forget about Achov and head straight for Falcon's Wing, you have the Rack now in any case?
+Follow the tracks he, or it, has left clearly imprinted in the ice?
 Turn to 212
-Follow the tracks he, or it, has left clearly
-imprinted in the ice?
 Turn to 167
 
 148
-Ahead of you is a large log of wood. A blue jacketed man leaps up
-behind it and thrusts at you with his bayonet. You grab it and
-knock him senseless with a blow to his neck. Leaping over the
-log you find yourself in a hand-to-hand struggle with another
-Union soldier. All around, small knots of men are struggling
-desperately. Another Union soldier gashes your thigh with his
-bayonet, in the melee. Lose 8 Endurance points. If you are still alive,
-you drop to one knee and your opponent is about to finish you
-off when the Union line breaks and he is forced to flee. A cheer
-goes up, but the Confederates are too tired to pursue them.
-Tearing a strip of cloth from your shirt, you bind up your
-wound. Suddenly, a movement catches your eye and a section of
-wood just disappears. Your holo-detector no longer registers
-another Time Machine. It looks like Yelov has escaped. You
-have to wait a few hours until nightfall before you can get away
-from the Confederate soldiers, who make no further attacks
-that day. You make your way to Benner's Hill/where you are
-pleased to see Lynx is waiting for you. 'Where have you been,
-Falcon? I was worried. I stopped Yelov's attempt on Ewell, but I
-couldn't prevent him reaching his Time Machine,' she says
-despondently. 'I was hoping you'd be there.' You tell Lynx what
-happened. 'Lucky to be alive, as usual, eh, Falcon? Anyway I
-must try to find him again. Thanks and good luck with the Baal
-mission.' Turn to 333.
-149
-You take control of two of the Warriors with ease as their minds
-are accustomed to a life of obedience. You force them to charge
-at the Nobles. However, the Nobles turn and, although utterly
-surprised, their fear spurs them to speed and they cut the
-Warriors down with their laser pistols. Trilling to each other
-about insane Warriors, they rejoin the battle. You will have to
-try something else. Will you:
+Ahead of you is a large log of wood. A blue jacketed man leaps up behind it and thrusts at you with his bayonet. You grab it and knock him senseless with a blow to his neck. Leaping over the log you find yourself in a hand-to-hand struggle with another Union soldier. All around, small knots of men are struggling desperately. Another Union soldier gashes your thigh with his bayonet, in the melee. Lose 8 Endurance points. If you are still alive, you drop to one knee and your opponent is about to finish you off when the Union line breaks and he is forced to flee. A cheer goes up, but the Confederates are too tired to pursue them. Tearing a strip of cloth from your shirt, you bind up your wound. Suddenly, a movement catches your eye and a section of wood just disappears. Your holo-detector no longer registers another Time Machine. It looks like Yelov has escaped. You have to wait a few hours until nightfall before you can get away from the Confederate soldiers, who make no further attacks that day. You make your way to Benner's Hill/where you are pleased to see Lynx is waiting for you. 'Where have you been, Falcon? I was worried. I stopped Yelov's attempt on Ewell, but I couldn't prevent him reaching his Time Machine,' she says despondently. 'I was hoping you'd be there.' You tell Lynx what happened. 'Lucky to be alive, as usual, eh, Falcon? Anyway I must try to find him again. Thanks and good luck with the Baal mission.' Turn to 333.
 
-Try to control one of the Nobles with your
-Power of Will?
+149
+You take control of two of the Warriors with ease as their minds are accustomed to a life of obedience. You force them to charge at the Nobles. However, the Nobles turn and, although utterly surprised, their fear spurs them to speed and they cut the Warriors down with their laser pistols. Trilling to each other about insane Warriors, they rejoin the battle. You will have to try something else. Will you:
+
+Try to control one of the Nobles with your Power of Will?
+Use your blaster on the Nobles?
+Give up on helping the loyalists and leave the cavern?
 Turn to 157
-Use your blaster on the Nobles? .
 Turn to 137
-Give up on helping the loyalists and leave the
-cavern?
 Turn to 128
 
 150
-You drive a kick at the huge being's knee cap, but your
-movements are painfully slow in this gravity. The twin-bladed
-sword whips down, severing your leg at the ankle. Seconds later
-the axe is buried in your head, killing you instantly. You have
-failed.
-151
-You step out into a large excavated area, shored up with steel
-girders. Tunnels lead off in many directions, huge juggernaut
-machines are lying about, currently idle. They are of all shapes
-and sizes, huge drills, great caterpillar treads, wheels, jointed
-mechanical legs, containers and so on. It is lit by enormous banks
-of lamps. Monorails lead off into each tunnel, presumably to the
-titanium faces. You board a monorail car and drive it down the
-most recently excavated tunnel. It is as silent as a grave, save for
-the low thrum of the monorail car's electric motors. The car
-hums to a halt in a massive natural cavern of seamed rocks, lit by
-the headlamps of two drilling machines. In the centre lies a black
-stone altar. On it lies a translucent white triangle dimly pulsing
-with light. Slowly you get out of the car, your spine tingling,
-suspicious of the quiet emptiness. You edge forward to the altar,
-grab the fourth part of the Rack and dart back to the car. You get
-it and drive back. You are walking towards the lift when a dull
-thud comes to your ears from the darkness of an empty
-titanium container. Suddenly, a formless mass of flesh shoots
-out of the container, telescoping out towards you, dripping
-viscous slime and a fetid stench washes over you. Two stalks
-rupture up out of the mass, black glinting eyes forming that fix
-their gaze upon you. There is a deafening bubbling hiss, and the
-rest of the creature, a large mass of writhing tentacles, bursts
-out of the container. It splits open and a column of flesh rears up,
-towering above you. At its top rests a hideously twisted human
-head, McReady's. Then the column splits open with a vile
-smacking sound and a long snake-like neck comes out, a
+You drive a kick at the huge being's knee cap, but your movements are painfully slow in this gravity. The twin-bladed sword whips down, severing your leg at the ankle. Seconds later the axe is buried in your head, killing you instantly. You have failed.
 
-predatory-looking mouth opening at its end, teeth glistening
-wetly. Once again you are transfixed with horror, it is as if the
-creature projected fear in some kind of mental attack. Make a
-Power of Will Roll as you try to force yourself into action.
+151
+You step out into a large excavated area, shored up with steel girders. Tunnels lead off in many directions, huge juggernaut machines are lying about, currently idle. They are of all shapes and sizes, huge drills, great caterpillar treads, wheels, jointed mechanical legs, containers and so on. It is lit by enormous banks of lamps. Monorails lead off into each tunnel, presumably to the titanium faces. You board a monorail car and drive it down the most recently excavated tunnel. It is as silent as a grave, save for the low thrum of the monorail car's electric motors. The car hums to a halt in a massive natural cavern of seamed rocks, lit by the headlamps of two drilling machines. In the centre lies a black stone altar. On it lies a translucent white triangle dimly pulsing with light. Slowly you get out of the car, your spine tingling, suspicious of the quiet emptiness. You edge forward to the altar, grab the fourth part of the Rack and dart back to the car. You get it and drive back. You are walking towards the lift when a dull thud comes to your ears from the darkness of an empty titanium container. Suddenly, a formless mass of flesh shoots out of the container, telescoping out towards you, dripping viscous slime and a fetid stench washes over you. Two stalks rupture up out of the mass, black glinting eyes forming that fix their gaze upon you. There is a deafening bubbling hiss, and the rest of the creature, a large mass of writhing tentacles, bursts out of the container. It splits open and a column of flesh rears up, towering above you. At its top rests a hideously twisted human head, McReady's. Then the column splits open with a vile smacking sound and a long snake-like neck comes out, a predatory-looking mouth opening at its end, teeth glistening wetly. Once again you are transfixed with horror, it is as if the creature projected fear in some kind of mental attack. Make a Power of Will Roll as you try to force yourself into action.
 If you score 6-12, turn to 209
 If you score 2-5, turn to 221
 
