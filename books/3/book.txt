@@ -2570,21 +2570,10 @@ Achov?
 Caleb?
 Bragg?
 McReady?
-
-Turn
-Turn
-Turn
-Turn
-
-to
-to
-to
-to
-
-225
-214
-207
-195
+Turn to 225
+Turn to 214
+Turn to 207
+Turn to 195
 
 233
 You find yourself unable to control the mind of the door guard,
