@@ -14,20 +14,6 @@ function* getLines(string: string) {
 	}
 }
 
-function* skipIntro(lines: Generator<string>) {
-	let skipped = false;
-	for (const line of lines) {
-		if (!skipped) {
-			if (line === "THE MISSION") {
-				skipped = true;
-			}
-			continue;
-		}
-
-		yield line;
-	}
-}
-
 function* getPages(lines: Generator<string>) {
 	let page: string[] = [];
 	for (const line of lines) {
@@ -52,7 +38,7 @@ const diceRollSubtypes = [
 	"Chance" as const,
 ];
 
-type DiceRollSubtype = typeof diceRollSubtypes[0];
+type DiceRollSubtype = (typeof diceRollSubtypes)[0];
 
 function isDiceRollSubtype(
 	potentiallySubtype: string,
@@ -81,7 +67,7 @@ const scoreLetters = [
 	"T" as const,
 	"Q" as const,
 ];
-type ScoreLetter = typeof scoreLetters[0];
+type ScoreLetter = (typeof scoreLetters)[0];
 interface ScoreSection {
 	type: "score";
 	letter: ScoreLetter;
@@ -612,8 +598,7 @@ function processBook(bookNumber: number) {
 
 	const fileContent = readFileSync(bookFilePath);
 	const lines = getLines(fileContent.toString("utf8"));
-	const linesAfterIntro = skipIntro(lines);
-	const pages = [...getPages(linesAfterIntro)].map(parsePage);
+	const pages = [...getPages(lines)].map(parsePage);
 
 	checkPageNumbers(pages);
 	checkLineBreaks(pages);
