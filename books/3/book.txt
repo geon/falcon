@@ -41,8 +41,8 @@ CAIN chimes: 'I have disguised your Time Machine as an adobe house; fortunately 
 
 If this is the first or second timehole you have visited on this mission,
 If you have visited more than two timeholes,
-turn to 13
-turn to 38
+Turn to 13
+Turn to 38
 
 7
 You materialise on the world of Dustbowl again. Examining the camera you see that you have not arrived within the domed city of Refuge this time, but at the port, on the edge of the Sea of Dust. This should mean that the priests of Baal will probably be unable to detect your presence. Crates and miscellaneous equipment are stacked nearby and to the left you can see a cluster of buildings. It is day time, and the white sun is directly overhead; the sky is maroon tinged with blue, and the air is filled with clouds of fine dust. Ahead of you stretches an endless red expanse, the Sea of Dust. Behind you and to either side, great rocky cliffs climb high above you, stretching out of sight. Perched somewhere at their top lies the city of Refuge. CAIN runs off the disguise of a Dustbowl whaler in the Molecular Convertor again, along with a filter mask and you step out, detector in hand. You look around, but no one is near. Setting the tripod up, you begin to explore its psychic emanations. You sense that it is registering the presence of a piece of the Rack! Your excitement fades though as you realise that it is lying out at sea, deep in the depths of the crater, buried under tons and tons of dust. It will prove difficult to get hold of. You decide to consult CAIN, and re-enter Falcon's Wing. Turn to 27.
@@ -147,8 +147,8 @@ Have you spoken to Agent Bloodhound on this mission?
 
 If you have,
 If you have not,
-turn to 37
-turn to 58
+Turn to 37
+Turn to 58
 
 27
 You tell CAIN where the section of the Rack lies, and ask it how it could be reached. 'The Sea of Dust is very deep, Falcon, even in our own time its depths haven't been fully plumbed. However, Falcon's Wing could withstand the pressure and you would need a modified battlesuit to move about on the seabed. For that you will have to return to the Eiger Vault and ask Section Chief Jobanque to issue you with one,' You set co-ordinates for the Eiger Vault, 3034 AD and instruct CAIN to engage the Variac Drive. Turn to 39.
@@ -327,10 +327,7 @@ If you score 6-12, turn to 77
 If you score 2-5, turn to 66
 
 56
-You set co-ordinates for Earth in 3033 AD and you are soon
-surrounded by the grey nothingness of null-space. You may lie
-in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team is replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger Service computer to check for any news. CAIN reports that nothing new has occurred during your visit to Dustbowl. You will have to continue your search. Which timehole will you
-travel to:
+You set co-ordinates for Earth in 3033 AD and you are soon surrounded by the grey nothingness of null-space. You may lie in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team is replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger Service computer to check for any news. CAIN reports that nothing new has occurred during your visit to Dustbowl. You will have to continue your search. Which timehole will you travel to:
 
 Rigel Prime, in 1642 AD if you have not been there already?
 South America, Earth, 1409 AD, the time of the Aztecs, if you have not been there already?
@@ -359,14 +356,8 @@ Turn to 34
 
 59
 [Score a G]
-You move around to the other ridge and climb up it. As you
-reach the top, you can see Achov lying in the very place you
-were intending to be. The whole thing was a trap! It was hoping
-you'd go to the cave where it could pick you off from here.
-Somehow it senses you and rolls over, a laser rifle in its hand.
-The face inside the powersuit is not Achov's any more, it is
-something else, something you are glad not to be able to make
-out properly. You have the initiative. Will you:
+You move around to the other ridge and climb up it. As you reach the top, you can see Achov lying in the very place you were intending to be. The whole thing was a trap! It was hoping you'd go to the cave where it could pick you off from here. Somehow it senses you and rolls over, a laser rifle in its hand. The face inside the powersuit is not Achov's any more, it is something else, something you are glad not to be able to make out properly. You have the initiative. Will you:
+
 Launch a rocket at the thing in Achov's Power
 armour?
 Turn to 11
@@ -374,252 +365,93 @@ Fire your Particle Disruptor?
 Turn to 292
 
 60
-You walk up the gang plank and onto the main deck of the
-'Winged Demon'. A sailor is polishing a huge gun on a swivel
-mount. It is a rocket powered harpoon gun. His filter mask is
-painted to resemble an insect's head, and he stares at you dully.
-You ask for the captain. He stands motionless for a moment and
-then points down some stairs to a cabin door at the stern of the
-ship. You go down the steps and knock on the door. 'Enter,'says
-a gruff voice, and you open the door. It leads into a small cabin
-lined with charts of the Sea of Dust, with a bunk and a desk.
-Behind it sits a bearded man in black robes, wearing a yellow
-headband, presumably denoting his rank, and still wearing a
-black filter mask. Next to him stands a grizzled old sailor in
-traditional heavy whaling clothes, also bearded, a long whaler's
-knife at his side. 'Yes?' says the man behind the desk, eyeing you
-up and down quizzically. You introduce yourself as Professor
-Falcon, a scientist sent here by the Eiger Corporation on Earth.
-You ask if you can hire him and his ship and tell him of your
-planned expedition. He nods, interested, but when you tell him
-the co-ordinates you wish to go to he starts and stares at you.
+You walk up the gang plank and onto the main deck of the 'Winged Demon'. A sailor is polishing a huge gun on a swivel mount. It is a rocket powered harpoon gun. His filter mask is painted to resemble an insect's head, and he stares at you dully. You ask for the captain. He stands motionless for a moment and then points down some stairs to a cabin door at the stern of the ship. You go down the steps and knock on the door. 'Enter,'says a gruff voice, and you open the door. It leads into a small cabin lined with charts of the Sea of Dust, with a bunk and a desk. Behind it sits a bearded man in black robes, wearing a yellow headband, presumably denoting his rank, and still wearing a black filter mask. Next to him stands a grizzled old sailor in traditional heavy whaling clothes, also bearded, a long whaler's knife at his side. 'Yes?' says the man behind the desk, eyeing you up and down quizzically. You introduce yourself as Professor Falcon, a scientist sent here by the Eiger Corporation on Earth. You ask if you can hire him and his ship and tell him of your planned expedition. He nods, interested, but when you tell him the co-ordinates you wish to go to he starts and stares at you. Then he says abruptly, 'What do you want to go there for?' his voice muffled by his mask. You tell him about your research into whales and that the area is a prime whale breeding ground. He looks at you and then says, 'Ah, I see,' and nods. 'It'll cost you ten thousand placs, all in. I'm Captain Nathan. Welcome aboard.' There is a knock on the door and a sailor enters. Have you been
+to Dustbowl once before on this mission?
 
-Then he says abruptly, 'What do you want to go there for?' his
-voice muffled by his mask. You tell him about your research into
-whales and that the area is a prime whale breeding ground. He
-looks at you and then says, 'Ah, I see,' and nods. 'It'll cost you ten
-thousand placs, all in. I'm Captain Nathan. Welcome aboard.'
-There is a knock on the door and a sailor enters. Have you been
-to Dustbowl once before on this mission? If you have, turn to
-70. If you have not, turn to 79.
+If you have,
+If you have not,
+Turn to 70.
+Turn to 79.
 
 61
-You throw yourself into the air and somersault through the
-doorway, as the slab of masonry shatters into a thousand shards
-close behind you. Turn to 299.
+You throw yourself into the air and somersault through the doorway, as the slab of masonry shatters into a thousand shards close behind you. Turn to 299.
 
 62
-You try and impose your will on your assailant. Make a Power of
-Will Roll.
+You try and impose your will on your assailant. Make a Power of Will Roll.
 If you score 6-12, turn to 115
 If you score 2-5, turn to 127
 
 63
-CAIN chimes, its voice disturbingly calm: The Variac Drive is
-dysfunctional, Falcon, it has taken too much damage.' Then
-Falcon's Wing crashes to the ground with awful force. You hang
-upside down by the straps of your couch, stunned. You can do
-nothing as Baal tears your Time Machine, and then yourself
-apart. You have failed.
+CAIN chimes, its voice disturbingly calm: The Variac Drive is dysfunctional, Falcon, it has taken too much damage.' Then Falcon's Wing crashes to the ground with awful force. You hang upside down by the straps of your couch, stunned. You can do nothing as Baal tears your Time Machine, and then yourself apart. You have failed.
 
 64
-You hurl a blast of mental energy at one of them, but it has no
-effect it seems they have almost no minds at all. Seeing you, the
-first acts with blinding speed, lashing out a taloned foot to rip
-open your thigh, before you can react. Lose 5 Endurance points. If
-you are still alive, as the plasnet of your suit seals, you leap
-backwards out of range. Will you:
+You hurl a blast of mental energy at one of them, but it has no effect it seems they have almost no minds at all. Seeing you, the first acts with blinding speed, lashing out a taloned foot to rip open your thigh, before you can react. Lose 5 Endurance points. If you are still alive, as the plasnet of your suit seals, you leap backwards out of range. Will you:
+
 Use your blaster?
+Use your Power of Will to control two of them?
 Turn to 74
-Use your Power of Will to control two of them? Turn to 85
+Turn to 85
 
 65
-The plasma hurtles towards him but Baal, anticipating it, twists
-aside in the air and dives towards you. The people nearby flee in
-
-terror, some screaming that the gods are doing battle in the
-streets of Tenochtitlan. Desperately, you run on. Turn to 372.
+The plasma hurtles towards him but Baal, anticipating it, twists aside in the air and dives towards you. The people nearby flee in terror, some screaming that the gods are doing battle in the streets of Tenochtitlan. Desperately, you run on. Turn to 372.
 
 66
-A musket ball thuds into your chest near the right shoulder. The
-impact, like a physical blow, throws you backwards to the
-ground. Lose 14 Endurance points. If you are still alive, will you:
-Lie where you are in the long grass and await
-developments?
+A musket ball thuds into your chest near the right shoulder. The impact, like a physical blow, throws you backwards to the ground. Lose 14 Endurance points. If you are still alive, will you:
+
+Lie where you are in the long grass and await developments?
+Reverse your jacket so that the blue is on the outside, move away from your present point and then run towards the Union lines?
 Turn to 89
-Reverse your jacket so that the blue is on the
-outside, move away from your present point
-and then run towards the Union lines?
 Turn to 103
 
 67
-As you leave the artificial gravity of Falcon's Wing you are
-instantly struck by the heavy weight of twice the gravity you
-are used to. It is as if your limbs were made of lead and your
-breathing is heavy and laboured as you stagger into the cover of
-some nearby trees, half way up the side of the glade. As if in slow
-motion you set up the detector tripod. The dull whitish gem
-begins to radiate a translucent light and you use your Psychic
-Awareness to explore the psionic emanations of the detector.
-Within moments you realise that there are no traces of the Rack
-here on Rigel. As you are packing the detector up, a sound alerts
-you. Turning, you see a large humanoid figure, seven or eight
-feet tall, entering the glade. The figure is a Rigellian, obviously
-dressed for war. He looks much like Lord Silvermane save that
-his long, shoulder-length hair is jet black. He has blue skin,
-covered in strange designs painted on in yellow and white. His
-body is heavily muscled, the legs and arms are like tree trunks,
-the torso a barrel. In one three-fingered hand he holds an
-enormous club, a long spiked bar ending in a cluster of
-sharpened blades. His other arm is armoured from shoulder to
-hand with spiked steel, ending in a vicious dagger-like blade
-coming from the top of the wrist. From a wide belt hang several
-wickedly pointed throwing weapons. The eyes, all white, glare
-balefully around the glade. You sink slowly into the cover of the
-trees, hoping not to be spotted. Unfortunately, the Rigellian is
-now between you and Falcon's Wing. Then there is a sound to
-your left and another enormous figure, less stocky than the
-other, but with a hint of tigerish grace, enters the glade. His hair
-is bluey-green, in one hand he holds what would be to a human a
-
-halberd, which serves as a one bladed axe to the Rigellian. In his
-other hand is one long blade, a hand grip in its middle. His
-abdomen is covered in linked plates of mail with a spike at the
-front. Turn to 78.
+As you leave the artificial gravity of Falcon's Wing you are instantly struck by the heavy weight of twice the gravity you are used to. It is as if your limbs were made of lead and your breathing is heavy and laboured as you stagger into the cover of some nearby trees, half way up the side of the glade. As if in slow motion you set up the detector tripod. The dull whitish gem begins to radiate a translucent light and you use your Psychic Awareness to explore the psionic emanations of the detector. Within moments you realise that there are no traces of the Rack here on Rigel. As you are packing the detector up, a sound alerts you. Turning, you see a large humanoid figure, seven or eight feet tall, entering the glade. The figure is a Rigellian, obviously dressed for war. He looks much like Lord Silvermane save that his long, shoulder-length hair is jet black. He has blue skin, covered in strange designs painted on in yellow and white. His body is heavily muscled, the legs and arms are like tree trunks, the torso a barrel. In one three-fingered hand he holds an enormous club, a long spiked bar ending in a cluster of sharpened blades. His other arm is armoured from shoulder to hand with spiked steel, ending in a vicious dagger-like blade coming from the top of the wrist. From a wide belt hang several wickedly pointed throwing weapons. The eyes, all white, glare balefully around the glade. You sink slowly into the cover of the trees, hoping not to be spotted. Unfortunately, the Rigellian is now between you and Falcon's Wing. Then there is a sound to your left and another enormous figure, less stocky than the other, but with a hint of tigerish grace, enters the glade. His hair is bluey-green, in one hand he holds what would be to a human a halberd, which serves as a one bladed axe to the Rigellian. In his other hand is one long blade, a hand grip in its middle. His abdomen is covered in linked plates of mail with a spike at the front. Turn to 78.
 
 68
-Quickly, you leave the warehouse, detector tripod in hand,
-Blaster hidden in the folds of your clothes. You are on a paved
-street, lined with dark and brooding buildings, all industrial in
-some way. It is night on Dustbowl. Looking through the
-transparent Dome of Refuge you see the night sky, scattered
-with unfamiliar constellations and strange stars. The street
-seems deserted except for some large automated hovcars that
-stop at certain points, marked with posts fortunately labelled in
-Fedspeak. You examine the nearest post. It says 'Refuge
-Transport Hovbus'. A few moments later a large hovcar hums
-to a stop beside you and its doors slide open. The computer
-driver grates, in slightly archaic Fedspeak: 'What is your
-destination?' You reply that you would like to be taken to see the
-whaling port and it says 'Providence Airlock, Sir. That will be
-130 credits. Please insert your card.'Hoping that CAIN has done
-its work properly, you pass your credit card through the data
-processor and sit in the hovbus. The only other passengers are
-three drunken whalers and a.few other Dustbowlers, dressed in
-robes of varying dark shades. Soon you are at the Providence
-Airlock where you hire a filter mask to cover your nose and
-mouth before stepping into the airlock that leads to the lift, after
-paying a small toll. Turn to 90.
+Quickly, you leave the warehouse, detector tripod in hand, Blaster hidden in the folds of your clothes. You are on a paved street, lined with dark and brooding buildings, all industrial in some way. It is night on Dustbowl. Looking through the transparent Dome of Refuge you see the night sky, scattered with unfamiliar constellations and strange stars. The street seems deserted except for some large automated hovcars that stop at certain points, marked with posts fortunately labelled in Fedspeak. You examine the nearest post. It says 'Refuge Transport Hovbus'. A few moments later a large hovcar hums to a stop beside you and its doors slide open. The computer driver grates, in slightly archaic Fedspeak: 'What is your destination?' You reply that you would like to be taken to see the whaling port and it says 'Providence Airlock, Sir. That will be 130 credits. Please insert your card.'Hoping that CAIN has done its work properly, you pass your credit card through the data processor and sit in the hovbus. The only other passengers are three drunken whalers and a.few other Dustbowlers, dressed in robes of varying dark shades. Soon you are at the Providence Airlock where you hire a filter mask to cover your nose and mouth before stepping into the airlock that leads to the lift, after paying a small toll. Turn to 90.
 
 69
-You walk to the door of the Recreation building and it slides
-open. Stepping in you find yourself in a small airlock,
-presumably to minimise the amount of dust getting into the
-main building. You enter a large room with a bar at one end. The
-air is free of dust and you remove your filter mask. There are a
-few people, sailors mostly, eating and drinking in groups at
-various tables. They look up as you enter and you can hear one
-or two muttering 'Offworlders'. You walk to the bar intent on
-asking the barman's advice on finding a whaling ship, when
-your attention is drawn to a small man, obviously drunk, telling
-a story to a group of attentive listeners. 'Yup, I served on the
-Winged Demon on its last voyage and ...'
+You walk to the door of the Recreation building and it slides open. Stepping in you find yourself in a small airlock, presumably to minimise the amount of dust getting into the main building. You enter a large room with a bar at one end. The air is free of dust and you remove your filter mask. There are a few people, sailors mostly, eating and drinking in groups at various tables. They look up as you enter and you can hear one or two muttering 'Offworlders'. You walk to the bar intent on asking the barman's advice on finding a whaling ship, when your attention is drawn to a small man, obviously drunk, telling a story to a group of attentive listeners. 'Yup, I served on the Winged Demon on its last voyage and ...'
 
-'What did you want to take up with the likes of them for?'
-interrupts one of the men at his table.
-'I needed a few placs, right. Be quiet and listen up. They needed a
-few extra whalers for this trip, so me and a few others signed up
-We sailed out for a day or two but, get this, although several
-whales were sighted, we didn't do no whaling at all! Then one
-night, I was woke by a noise on deck. I went up and guess what I
-saw... ? Well, most of the regular crew was dressed in black
-robes and they were chanting some weird song. And then, strike
-me dead if I'm lying, a huge figure, more'n twenty foot tall,
-bursts up outta the sea. In the ship's lights 1 could see he was as
-red as dust and his eyes were yellow and unnatural looking.'
-Some of the men scoff at this, but the small man goes on: 'It's
-true, honest. He flies, yes flies, up above the ship and there was
-this awful smile on his face, dust etch my bones, I'll never forget
-that smile as long as I live, pure evil it was. Well, at this I get off
-that deck as quick as I can and into my bunk. And that's not the
-end of it. The next day I could swear there were less of them
-onboard as when we started out. Anyway, we did do some
-whaling on the way back, but I can tell you, I'm never working
-on the Winged Demon no more!'
-There is silence around the table for a moment but one of the
-men says, 'You've been drinking too much as usual,' and they
-break into uproarious laughter. Turning away, you ask the
-barman about whaling ships for hire.
-'Well, most any whaler is up for hire,' he replies, 'but you gotta
-be careful. I mean, I wouldn't hire out the Winged Demon, even
-if it was for nothing. Tell you what though, the Dustskate
-should be here in a day or two and Captain Cresap Ord's a good
-man. That's your best bet if you're not in a hurry.' Thanking
-him, you leave the Recreation Centre. Will you:
-Go back to Falcon's Wing and wait for the
-Dustskate to arrive if you think you can
-afford the time?
+'What did you want to take up with the likes of them for?' interrupts one of the men at his table.
+
+'I needed a few placs, right. Be quiet and listen up. They needed a few extra whalers for this trip, so me and a few others signed up We sailed out for a day or two but, get this, although several whales were sighted, we didn't do no whaling at all! Then one night, I was woke by a noise on deck. I went up and guess what I saw... ? Well, most of the regular crew was dressed in black robes and they were chanting some weird song. And then, strike me dead if I'm lying, a huge figure, more'n twenty foot tall, bursts up outta the sea. In the ship's lights 1 could see he was as red as dust and his eyes were yellow and unnatural looking.' Some of the men scoff at this, but the small man goes on: 'It's true, honest. He flies, yes flies, up above the ship and there was this awful smile on his face, dust etch my bones, I'll never forget that smile as long as I live, pure evil it was. Well, at this I get off that deck as quick as I can and into my bunk. And that's not the end of it. The next day I could swear there were less of them onboard as when we started out. Anyway, we did do some whaling on the way back, but I can tell you, I'm never working on the Winged Demon no more!'
+
+There is silence around the table for a moment but one of the men says, 'You've been drinking too much as usual,' and they break into uproarious laughter. Turning away, you ask the barman about whaling ships for hire.
+
+'Well, most any whaler is up for hire,' he replies, 'but you gotta be careful. I mean, I wouldn't hire out the Winged Demon, even if it was for nothing. Tell you what though, the Dustskate should be here in a day or two and Captain Cresap Ord's a good man. That's your best bet if you're not in a hurry.' Thanking him, you leave the Recreation Centre. Will you:
+
+Go back to Falcon's Wing and wait for the Dustskate to arrive if you think you can afford the time?
+Board the Winged Demon and try to arrange an expedition as soon as possible?
 Turn to 283
-Board the Winged Demon and try to arrange
-an expedition as soon as possible?
 Turn to 60
 
 70
-Your eyes widen in surprise, but you try not to give anything
-away. You recognise the sailor as one of the fanatical disciples of
-Baal who tried to kill you once before. He nods at Captain
-Nathan and then stares at you, expressionlessly. The Captain
-says, Take these two men with you and show them the location
-of your equipment and well get it loaded aboard. The payment
-will be five thousand placs now and five thousand when we get
-back to port. Is that agreeable to you?' Will you:
-Say yes and lead the two sailors to Falcon's
-Wing - you may be able to lose them or you
-may wish to carry on with the expedition
-regardless?
+Your eyes widen in surprise, but you try not to give anything away. You recognise the sailor as one of the fanatical disciples of Baal who tried to kill you once before. He nods at Captain Nathan and then stares at you, expressionlessly. The Captain says, Take these two men with you and show them the location of your equipment and well get it loaded aboard. The payment will be five thousand placs now and five thousand when we get back to port. Is that agreeable to you?' Will you:
+
+Say yes and lead the two sailors to Falcon's Wing - you may be able to lose them or you may wish to carry on with the expedition regardless?
+Turn down the Captain's offer, saying you must first see if you can get a cheaper price elsewhere?
 Turn to 81
-Turn down the Captain's offer, saying you
-must first see if you can get a cheaper price
-elsewhere?
 Turn to 92
 
 71
-You catch the creature in the chest, smearing the powersuit and
-its contents across the ridge, where it freezes instantly,
-completely inert. All that is left is a broad red stain, frozen solid.
-Exhausted, you pick yourself up and use your jets to fly back to
-Falcon's Wing. Turn to 100.
+You catch the creature in the chest, smearing the powersuit and its contents across the ridge, where it freezes instantly, completely inert. All that is left is a broad red stain, frozen solid. Exhausted, you pick yourself up and use your jets to fly back to Falcon's Wing. Turn to 100.
+
 72
-You drop to the floor but a single barbed two-foot javelin
-explodes from the wall, six inches from the floor and embeds
-itself into your thigh. Lose 7 Endurance points. If you are still alive,
-you slowly draw it out, gasping in pain. Will you:
+You drop to the floor but a single barbed two-foot javelin explodes from the wall, six inches from the floor and embeds itself into your thigh. Lose 7 Endurance points. If you are still alive, you slowly draw it out, gasping in pain. Will you:
 
-Step onto the slab directly ahead of you, in the
-last row?
+Step onto the slab directly ahead of you, in the last row?
+Step onto the slab diagonally to your right, the middle slab on the last row?
+Step directly to your right, to the centremost of Turn to 373 the nine slabs?
 Turn to 393
-Step onto the slab diagonally to your right, the
-middle slab on the last row?
 Turn to 404
-Step directly to your right, to the centremost of
-Turn to 373
-the nine slabs?
-73
 
+73
 Make an Evasion Roll.
 If you score 6-12, turn to 156
 If you score Z-5, turn to 164
 
 74
-You open fire with your blaster. At such close range you cannot
-miss and you manage to fry two of them before another darts
-forward and slashes at your chest with the speed of a striking
-snake. You are hurled backward, lose 6 Endurance points. If you are
-still alive, your suit begins to repair itself and you have just
-enough time to spray a continuous stream of plasma across the
-width of the tunnel, leaving it dotted with the smoking carcasses
-of the Warriors. Shaken by their fearless attack, you press on.
-Turn to 99.
+You open fire with your blaster. At such close range you cannot miss and you manage to fry two of them before another darts forward and slashes at your chest with the speed of a striking snake. You are hurled backward, lose 6 Endurance points. If you are still alive, your suit begins to repair itself and you have just enough time to spray a continuous stream of plasma across the width of the tunnel, leaving it dotted with the smoking carcasses of the Warriors. Shaken by their fearless attack, you press on. Turn to 99.
 
 75
 Some Aztecs lining the roadway gape in astonishment as you
