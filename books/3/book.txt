@@ -685,106 +685,46 @@ are tied to a block of wood and your heart is cut out and offered
 up to Baal as a sacrifice. You have failed.
 
 80
-Quickly, you leave the warehouse, your blaster hidden in the
-folds of your clothing. You are on a paved street, lined with dark
-and brooding buildings, all industrial in some way. It is night on
-Dustbowl. Looking through the transparent Dome of Refuge
-you see the night sky, scattered with unfamiliar constellations
-and strange stars. The street seems deserted except for some
-large automated hovcars that stop at certain points in the
-streets, marked with posts fortunately labelled in Fedspeak. The
-black robed figure is disappearing around a corner at the end of
-the street. Using your Psychic Awareness to mark his mental
-pattern, you are able to follow him without having to keep him
-in sight. You come to a more active area of Refuge. The
-buildings are still dark and gloomy - it seems all of Refuge has
+Quickly, you leave the warehouse, your blaster hidden in the folds of your clothing. You are on a paved street, lined with dark and brooding buildings, all industrial in some way. It is night on Dustbowl. Looking through the transparent Dome of Refuge you see the night sky, scattered with unfamiliar constellations and strange stars. The street seems deserted except for some large automated hovcars that stop at certain points in the streets, marked with posts fortunately labelled in Fedspeak. The black robed figure is disappearing around a corner at the end of the street. Using your Psychic Awareness to mark his mental pattern, you are able to follow him without having to keep him in sight. You come to a more active area of Refuge. The buildings are still dark and gloomy - it seems all of Refuge has been built in this dark stone. There are seamy shops and drinking houses and the street is lit by a central strip light, running the length of the street. The people seem to be ignoring each other, hurrying along with their eyes fixed on the road ahead of them. You duck down a thin alley until you come to a large door through which your target has just gone. Quietly, you try to push the door open. Suddenly, a panel in the door clicks open and a pair of coal-black eyes glare out at you, looking you up and down. 'Who are you and what do you want?' a voice demands tensely. You can either try to gain entrance and find out who has been monitoring you or you can leave Dustbowl to continue your search elsewhere. Will you:
 
-been built in this dark stone. There are seamy shops and
-drinking houses and the street is lit by a central strip light,
-running the length of the street. The people seem to be ignoring
-each other, hurrying along with their eyes fixed on the road
-ahead of them. You duck down a thin alley until you come to a
-large door through which your target has just gone. Quietly,
-you try to push the door open. Suddenly, a panel in the door
-clicks open and a pair of coal-black eyes glare out at you, looking
-you up and down. 'Who are you and what do you want?' a voice
-demands tensely. You can either try to gain entrance and find
-out who has been monitoring you or you can leave Dustbowl to
-continue your search elsewhere. Will you:
 Thinkstrike the man at the door?
 Use your Power of Will on him?
-Say 'Sorry, wrong address/ and go back to
-Falcon's Wing?
-
+Say 'Sorry, wrong address' and go back to Falcon's Wing?
 Turn to 179
 Turn to 189
+Turn to 168
+
+81
+You agree to the Captain's terms and leave with the two sailors. You lead them along the quayside for a little way. They are quiet and taciturn, it seems they are not interested in conversation. Will you:
+
+Allow Falcon's Wing to be loaded onto the Winged Demon as planned?
+Thinkstrike the two sailors?
+Use your blaster on the one you know for sure to be a disciple of Baal?
+Turn to 51
+Turn to 105
+Turn to 114
+
+82
+A hushed silence falls, as Baal hangs there. Then, with a smile of pure evil, Baal gestures at the priests, the passage of his hand leaving a fading trail of crackling yellow energy. They leap up and frantically continue the sacrifice, offering the hearts up to what they believe to be their god. With a thrill of horror, you realise Baal is feeding off the life forces of the victims, using some kind of psychic vampirism. Even as you watch, he seems to grow stronger, raw energy flickering about him in everincreasing intensity. He throws back his head and laughs, a terrible booming sound that echoes around the plaza. If you are carrying a piece of the Rack, turn to 93. If you are not, turn to 111.
 
 83
-Your Particle Disruptor beam drills into the ice near the
-creature. It rolls away and fires its laser rifle. Make an Evasion
-Roll.
+Your Particle Disruptor beam drills into the ice near the creature. It rolls away and fires its laser rifle. Make an Evasion Roll.
 If you score 6-12, turn to 91
 If you score 2-5, turn to 110
 
 84
-Your assailant sees what you are doing and brings his knife
-down onto your arm. You grunt in pain, pulling your arm back
-reflexively. Lose 8 Endurance points. If you are still alive, will you:
-Use your Power of Will?
-Roll off the bed, and try to knock him to the
-floor?
+Your assailant sees what you are doing and brings his knife down onto your arm. You grunt in pain, pulling your arm back reflexively. *Lose 8 Endurance points.* If you are still alive, will you:
 
+Use your Power of Will?
+Roll off the bed, and try to knock him to the floor?
 Turn to 62
 Turn to 73
 
-Turn to 168
-
-81
-You agree to the Captain's terms and leave with the two sailors.
-You lead them along the quayside for a little way. They are quiet
-and taciturn, it seems they are not interested in conversation.
-Will you:
-Allow Falcon's Wing to be loaded onto the
-Winged Demon as planned?
-Turn to 51
-Thinkstrike the two sailors?
-Turn to 105
-Use your blaster on the one you know for sure
-to be a disciple of Baal?
-Turn to 114
-
-82
-A hushed silence falls, as Baal hangs there. Then, with a smile of
-pure evil, Baal gestures at the priests, the passage of his hand
-leaving a fading trail of crackling yellow energy. They leap up
-and frantically continue the sacrifice, offering the hearts up to
-what they believe to be their god. With a thrill of horror, you
-realise Baal is feeding off the life forces of the victims, using
-some kind of psychic vampirism. Even as you watch, he seems to
-grow stronger, raw energy flickering about him in everincreasing intensity. He throws back his head and laughs, a
-terrible booming sound that echoes around the plaza. If you are
-carrying a piece of the Rack, turn to 93. If you are not, turn to
-111.
-
 85
-You concentrate hard, but it is surprisingly easy to take control
-of their tiny minds, they are bred for a lifetime of obedience. You
-force them to attack their fellows and a vicious battle ensues. In
-a few bloody seconds four of them are dead. The survivor's leg
-has been virtually filleted, but it limps towards you. Grimly you
-blast it back out of the tunnel with a bolt from your blaster and
-press on. Turn to 99.
+You concentrate hard, but it is surprisingly easy to take control of their tiny minds, they are bred for a lifetime of obedience. You force them to attack their fellows and a vicious battle ensues. In a few bloody seconds four of them are dead. The survivor's leg has been virtually filleted, but it limps towards you. Grimly you blast it back out of the tunnel with a bolt from your blaster and press on. Turn to 99.
 
 86
-Soon you are safe in your bay at the Eiger Vault, You call in a
-maintenance team to make the necessary repairs to Falcon's
-Wing whilst you reflect on what could have happened had you
-been wearing your battlesuit in the fight against Baal. You have
-two parts of the Rack now, you must search for the third. Your
-only clue is the timeline disturbances and the death of
-Kingfisher on the timehole on Cave. After the Maintenance
-Techs have completed their work, you set co-ordinates for
-Cave, in the year 432 AD. Turn to 205.
+Soon you are safe in your bay at the Eiger Vault, You call in a maintenance team to make the necessary repairs to Falcon's Wing whilst you reflect on what could have happened had you been wearing your battlesuit in the fight against Baal. You have two parts of the Rack now, you must search for the third. Your only clue is the timeline disturbances and the death of Kingfisher on the timehole on Cave. After the Maintenance Techs have completed their work, you set co-ordinates for Cave, in the year 432 AD. Turn to 205.
 
 87
 The battle continues for a few minutes more. The stocky
