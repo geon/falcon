@@ -1,16 +1,15 @@
-Also by Mark Smith and Jamie Thomson in Sphere Books:
+# Also by Mark Smith and Jamie Thomson in Sphere Books:
 FALCON I: THE RENEGADE LORD
 FALCON 2: MECHANON
 FALCON 4: LOST IN TIME
 
-Falcon 3:
+# Falcon 3:
 The Rack of Baal
 MARK SMITH AND JAMIE THOMSON
 
 SPHERE BOOKS LIMITED
 London and Sydney
 
-EARTH 3033 AD
 First published in Great Britain by
 
 Sphere Books Ltd 1985
@@ -18,6 +17,7 @@ Sphere Books Ltd 1985
 Copyright © 1985 by Mark Smith and Jamie Thomson
 Illustrations by Geoff Senior and Nic Weeks
 
+# EARTH 3033 AD
 A third of the land's surface is populated with cities which
 stretch miles up towards the Ionosphere and are also tunnelled
 deep into the Earth's crust.
@@ -90,6 +90,7 @@ point on the wire through this hole to a different point on this or
 another wire. In this way a Time Machine may move from one
 'Timehole' to another and from one point in space to another via
 Null-space.
+
 The Timeholes are formed when the fabric of time is damaged
 by unknown forces. They can be larger, but are usually less than
 five miles across. Timeholes come and go as new damage occurs
@@ -108,8 +109,9 @@ to a Timehole ten minutes after somebody else does you will
 arrive ten minutes later than them. Only those with Psychic
 Awareness can navigate across Null-space.
 
-Game Rules
-ATTACK
+# Game Rules
+
+# ATTACK
 
 In certain paragraphs you will have the chance to attack an
 enemy. When you choose to do so, you will be asked to make an
@@ -117,14 +119,16 @@ Attack Roll. To do this, roll two dice and add the numbers
 together. You will be told which paragraph to turn to next,
 depending on your score. In all combats you are more likely to
 succeed if your score is high than if it is low.
-ATTACK MODIFIER
+
+# ATTACK MODIFIER
 
 Whenever you make an Attack Roll you must add or subtract
 your Attack Modifier to the dice score. Your Attack Modifier
 may change as the adventure unfolds and you should keep a
 note of this on your Agent Profile (at the beginning of the
 adventure). To begin with your Attack Modifier is zero.
-EVASION
+
+# EVASION
 
 In certain cases you may need to avoid the attack of an enemy or
 escape from a difficult situation. You will be asked to make an
@@ -136,7 +140,8 @@ There are moments in any agent's career when pure luck will
 play its part. On such occasions you will be asked to make a
 Chance Roll. Roll one die. You will then be instructed to turn to
 a new paragraph.
-POWERS OF THE MIND
+
+# POWERS OF THE MIND
 
 Some paragraphs will offer you the chance to make a mental
 attack, either a Thinkstrike or Power of Will. Make an Attack
@@ -145,12 +150,13 @@ your Thinkstrike or Power of Will Modifier, not your Attack
 Modifier. In all other ways mental attacks work in the same way
 as a physical attack. To begin with your Thinkstrike and Power
 of Will Modifiers are zero, as noted on your Agent Profile.
-PSYCHIC AWARENESS
+
+# PSYCHIC AWARENESS
 
 Your Psychic Awareness operates at all times and you will be
 told when you have discovered anything of interest.
 
-ENDURANCE
+# ENDURANCE
 
 You, Falcon, start the adventure with 20 points of Endurance. If
 you are wounded in combat, suffer something unpleasant such
@@ -161,7 +167,8 @@ time you fall to zero Endurance or less you are dead and your
 adventure is over. Endurance points can be regained by visiting
 the Autodoc in your Time Machine (see equipment list) and you
 will be told when you can use your Autodoc.
-SCORING
+
+# SCORING
 You will notice as you use this book that certain paragraph
 numbers are followed by a letter in brackets. If you wish to score
 your performance as Special Agent Falcon, you will need to
@@ -176,7 +183,8 @@ found at the back of the fourth book of this series, Lost in Time.
 This is necessary, since printing the scores in this book would
 allow you to find out what the right decisions to take in this
 adventure are!
-Special Rules
+
+# Special Rules
 . The action in Falcon 3: The Rack of Baal, carries straight on from
 Falcon 2: Mechanon. If you have played Falcon 2, transfer the
 modifier scores from your Agent Profile in the beginning of this
@@ -191,11 +199,12 @@ battlesuit you will be told to lose a certain number of points.
 Simply cross off the relevant amount in the box provided on
 your Agent Profile.
 
-STRIKE FIGHTER
+# STRIKE FIGHTER
 
-Equipment
+# Equipment
 Standard Issue for TIME Special Agents
-ITEM 1: MODEL A3 TIME MACHINE [see accompanying specifications]
+
+# ITEM 1: MODEL A3 TIME MACHINE [see accompanying specifications]
 Your own Time Machine, Falcon's Wing, is silver with bright
 scarlet markings and is the eleventh machine capable of travel
 through time ever built. Its cost cannot be computed, since it
@@ -221,7 +230,8 @@ and power floodlights are mounted on top of the Machine. The
 Variac Drive, which forces the Machine into null-space, is
 housed beneath the deck and is controlled through your
 computer (CAIN, see Item 7).
-ITEM 2: HOLOGRAM GENERATOR
+
+# ITEM 2: HOLOGRAM GENERATOR
 
 Each Time Machine is equipped with a Hologram Generator very important if the First Law of TIME is to be obeyed. The
 Generator changes the appearance of the Machine by casting a
@@ -231,7 +241,7 @@ lifelike unless you are within two metres of the Machine itself.
 This stops people in history being curious at the sight of a highly
 technological machine.
 
-ITEM 3: HOLO-DETECTOR
+# ITEM 3: HOLO-DETECTOR
 
 Due to the existence of Hologram Generators you may find it
 difficult to see other Time Machines. As a member of the Time
@@ -239,7 +249,8 @@ Police you have been given a Hologram-detector which is
 portable and operates to a range of fifty metres. This will reveal
 the presence of a hologram and therefore another Time
 Machine.
-ITEM 4: MOLECULAR CONVERTOR
+
+# ITEM 4: MOLECULAR CONVERTOR
 
 Each Time Machine is equipped with a Molecular Convertor, a
 device which uses the rarest of all elements, Polybdenum, as its
@@ -259,13 +270,15 @@ during the time taken to travel from one Timehole to another,
 for instance, and come out healed, restoring your Endurance by
 up to twelve points. You will be told when you can use your
 Autodoc.
-ITEM 6: FLYER [see accompanying specifications)
+
+# ITEM 6: FLYER [see accompanying specifications)
 Your crash-couch swivels up onto the platform of your flyer
 when you wish to use it. The flyer is a small hover raft which is
 catapulted out of the Time Machine through the Launch Doors,
 two sections on top of the hull that slide apart. Once safely away
 
-ITEM 7: CAIN [Cybernetic Artificial Intelligence Nexus]
+
+# ITEM 7: CAIN [Cybernetic Artificial Intelligence Nexus]
 CAIN is one of the most advanced computers known to man. Its
 data banks offer information on all subjects and historical data
 on all Federation and alien planets. Its memory banks are
@@ -277,22 +290,26 @@ of the files kept by TIME. CAIN answers to your spoken
 commands and runs the Time Machine for you. It can display
 information visually, via the terminal screen, or verbally, using
 its melodic chimes.
-ITEM 8: BLASTER [see accompanying specifications]
+
+# ITEM 8: BLASTER [see accompanying specifications]
 This is your Standard Starship Trooper issue Plasma Pistol. It
 fires superheated plasma to a range of 100 metres, and the
 Energy Pack is sufficient for ten minutes continuous use. You
 have more Energy Packs in your weapons locker. Your blaster is
 labelled, 'For use in exceptional circumstances only'.
-ITEM 9: PSIONIC ENHANCER [see accompanying specifications]
+
+# ITEM 9: PSIONIC ENHANCER [see accompanying specifications]
 This helmet helps your Powers of the Mind by damping all other
 thoughts. It senses when you want to use your power and
 activates automatically.
-ITEM 10: ENVIRONMENT SUIT [see accompanying specifications]
+
+# ITEM 10: ENVIRONMENT SUIT [see accompanying specifications]
 A light, pressurised suit for use in vacuum, inhospitable
 atmospheres and extreme ranges of temperature which
 monitors your life signals such as pulse and temperature. It is
 compatible with your Psionic Enhancer.
-Personal Background
+
+# Personal Background
 
 SpecialAgent(TIME)
 from the Machine the Ion Drive can be cut in, giving the flyer a
@@ -448,7 +465,7 @@ remove the pieces, and has scattered each segment throughout
 space and time. Your mission, Falcon, is to find each piece, unite
 them and then imprison Baal once more. A difficult mission, but
 
-AGENT PROFILE:
+# AGENT PROFILE:
 
 the fate of the galaxy is at stake; there's no telling what damage a
 being like that could do to the timelines.'
