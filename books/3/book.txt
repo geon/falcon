@@ -207,8 +207,7 @@ Turn to 96
 As you gather yourself to leap, the energy bolt explodes at your feet, blasting you into the air and hurling you into a nearby building with bone-crunching impact, and you sink into unconsciousness. You never wake up. You have failed.
 
 37
-You set co-ordinates for Earth in 3033 AD and you are soon surrounded by the grey nothingness of null-space. You may lie in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team are replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger Service computer to check for any news. CAIN reports that nothing new has occurred during your visit to Gettysburg. You will have to continue your search. Which timehole will you
-travel to:
+You set co-ordinates for Earth in 3033 AD and you are soon surrounded by the grey nothingness of null-space. You may lie in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team are replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger Service computer to check for any news. CAIN reports that nothing new has occurred during your visit to Gettysburg. You will have to continue your search. Which timehole will you travel to:
 
 Rigel Prime in 1642 AD, if you have not been there already?
 South America, Earth, 1409 AD, the time of the Aztecs, if you have not been there already?
@@ -365,8 +364,7 @@ Fire your Particle Disruptor?
 Turn to 292
 
 60
-You walk up the gang plank and onto the main deck of the 'Winged Demon'. A sailor is polishing a huge gun on a swivel mount. It is a rocket powered harpoon gun. His filter mask is painted to resemble an insect's head, and he stares at you dully. You ask for the captain. He stands motionless for a moment and then points down some stairs to a cabin door at the stern of the ship. You go down the steps and knock on the door. 'Enter,'says a gruff voice, and you open the door. It leads into a small cabin lined with charts of the Sea of Dust, with a bunk and a desk. Behind it sits a bearded man in black robes, wearing a yellow headband, presumably denoting his rank, and still wearing a black filter mask. Next to him stands a grizzled old sailor in traditional heavy whaling clothes, also bearded, a long whaler's knife at his side. 'Yes?' says the man behind the desk, eyeing you up and down quizzically. You introduce yourself as Professor Falcon, a scientist sent here by the Eiger Corporation on Earth. You ask if you can hire him and his ship and tell him of your planned expedition. He nods, interested, but when you tell him the co-ordinates you wish to go to he starts and stares at you. Then he says abruptly, 'What do you want to go there for?' his voice muffled by his mask. You tell him about your research into whales and that the area is a prime whale breeding ground. He looks at you and then says, 'Ah, I see,' and nods. 'It'll cost you ten thousand placs, all in. I'm Captain Nathan. Welcome aboard.' There is a knock on the door and a sailor enters. Have you been
-to Dustbowl once before on this mission?
+You walk up the gang plank and onto the main deck of the 'Winged Demon'. A sailor is polishing a huge gun on a swivel mount. It is a rocket powered harpoon gun. His filter mask is painted to resemble an insect's head, and he stares at you dully. You ask for the captain. He stands motionless for a moment and then points down some stairs to a cabin door at the stern of the ship. You go down the steps and knock on the door. 'Enter,'says a gruff voice, and you open the door. It leads into a small cabin lined with charts of the Sea of Dust, with a bunk and a desk. Behind it sits a bearded man in black robes, wearing a yellow headband, presumably denoting his rank, and still wearing a black filter mask. Next to him stands a grizzled old sailor in traditional heavy whaling clothes, also bearded, a long whaler's knife at his side. 'Yes?' says the man behind the desk, eyeing you up and down quizzically. You introduce yourself as Professor Falcon, a scientist sent here by the Eiger Corporation on Earth. You ask if you can hire him and his ship and tell him of your planned expedition. He nods, interested, but when you tell him the co-ordinates you wish to go to he starts and stares at you. Then he says abruptly, 'What do you want to go there for?' his voice muffled by his mask. You tell him about your research into whales and that the area is a prime whale breeding ground. He looks at you and then says, 'Ah, I see,' and nods. 'It'll cost you ten thousand placs, all in. I'm Captain Nathan. Welcome aboard.' There is a knock on the door and a sailor enters. Have you been to Dustbowl once before on this mission?
 
 If you have,
 If you have not,
@@ -454,67 +452,33 @@ If you score Z-5, turn to 164
 You open fire with your blaster. At such close range you cannot miss and you manage to fry two of them before another darts forward and slashes at your chest with the speed of a striking snake. You are hurled backward, lose 6 Endurance points. If you are still alive, your suit begins to repair itself and you have just enough time to spray a continuous stream of plasma across the width of the tunnel, leaving it dotted with the smoking carcasses of the Warriors. Shaken by their fearless attack, you press on. Turn to 99.
 
 75
-Some Aztecs lining the roadway gape in astonishment as you
-turn and unleash a bolt of superheated plasma at the flying
-figure of Baal. Make an Attack Roll.
+Some Aztecs lining the roadway gape in astonishment as you turn and unleash a bolt of superheated plasma at the flying figure of Baal. Make an Attack Roll.
 If you score 6-12, turn to 382
 If you score 2-5, turn to 65
-76
-Soon you are safe in your bay at the Eiger Vault. You call in a
-maintenance team to make the necessary repairs to Falcon's
-Wing whilst you reflect on what could have happened had you
-been wearing your battlesuit in the fight against Baal. Have you
-spoken with Agent Bloodhound during this mission? If you
-have, turn to 20. If you have one piece of the Rack, turn to 9.
-77
-You hit the ground, trying to hug it as if it were a blanket against
-the cold. You can hear the whine of musket balls parting the air
-near your head, but you are unhurt. Will you:
 
-Lie where you are, in the long grass and await
-developments?
+76
+Soon you are safe in your bay at the Eiger Vault. You call in a maintenance team to make the necessary repairs to Falcon's Wing whilst you reflect on what could have happened had you been wearing your battlesuit in the fight against Baal. Have you spoken with Agent Bloodhound during this mission? If you have, turn to 20. If you have one piece of the Rack, turn to 9.
+
+77
+You hit the ground, trying to hug it as if it were a blanket against the cold. You can hear the whine of musket balls parting the air near your head, but you are unhurt. Will you:
+
+Lie where you are, in the long grass and await developments?
+Reverse your jacket so that the blue is on the outside, move away from your present point and then run towards the Union lines?
 Turn to 89
-Reverse your jacket bo t h a t the blue is on the
-outside, move away from your present point
-and then run towards the Union lines?
 Turn to 103
 
 78
-At the sight of each other, they both stiffen. The taller one
-moves closer until they are a few metres apart, both still
-awkwardly close to Falcon's Wing. With an earsplitting bellow
-and remarkable speed for his size, the shorter Rigellian brings
+At the sight of each other, they both stiffen. The taller one moves closer until they are a few metres apart, both still awkwardly close to Falcon's Wing. With an earsplitting bellow and remarkable speed for his size, the shorter Rigellian brings his club across and up at the head of his opponent, who whirls away. In astonishment you watch as they fight, a continuous whirl of glittering steel, feints, lunges, and dodges forming an incredible display of martial skill, almost beautiful to watch if it were not so deadly. Will you:
 
-his club across and up at the head of his opponent, who whirls
-away. In astonishment you watch as they fight, a continuous
-whirl of glittering steel, feints, lunges, and dodges forming an
-incredible display of martial skill, almost beautiful to watch if it
-were not so deadly. Will you:
-Stay where you are and await the outcome of
-the battle?
+Stay where you are and await the outcome of the battle?
+Try to creep around the edge of the glade and get to Falcon's Wing from the rear?
+Thinkstrike one of them before they discover Falcon's Wing?
 Turn to 87
-Try to creep around the edge of the glade and
-get to Falcon's Wing from the rear?
 Turn to 96
-Thinkstrike one of them before they discover
-Falcon's Wing?
 Turn to 109
 
 79
-Captain Nathan suggests you go with the two sailors and load
-your equipment onto the Winged Demon. Some hours later,
-Falcon's Wing is stowed in the hold and the ship sets sail,
-scudding across the dust. The second day out, you are gazing
-out across the heaving red sea when you look behind you to see
-a ring of twenty or more sailors hemming you in, their faces
-staring mercilessly. The captain steps forward and says, 'You
-chose the wrong ship, Offworlder. We are all of the old religion,
-our Lord is he who you would wish to imprison, Baal, Lord of
-the Flies. He sent word to us of your coming and now we will
-exact retribution.' He signals to his men and soon you are
-overpowered. There is nothing you can do against so many. You
-are tied to a block of wood and your heart is cut out and offered
-up to Baal as a sacrifice. You have failed.
+Captain Nathan suggests you go with the two sailors and load your equipment onto the Winged Demon. Some hours later, Falcon's Wing is stowed in the hold and the ship sets sail, scudding across the dust. The second day out, you are gazing out across the heaving red sea when you look behind you to see a ring of twenty or more sailors hemming you in, their faces staring mercilessly. The captain steps forward and says, 'You chose the wrong ship, Offworlder. We are all of the old religion, our Lord is he who you would wish to imprison, Baal, Lord of the Flies. He sent word to us of your coming and now we will exact retribution.' He signals to his men and soon you are overpowered. There is nothing you can do against so many. You are tied to a block of wood and your heart is cut out and offered up to Baal as a sacrifice. You have failed.
 
 80
 Quickly, you leave the warehouse, your blaster hidden in the folds of your clothing. You are on a paved street, lined with dark and brooding buildings, all industrial in some way. It is night on Dustbowl. Looking through the transparent Dome of Refuge you see the night sky, scattered with unfamiliar constellations and strange stars. The street seems deserted except for some large automated hovcars that stop at certain points in the streets, marked with posts fortunately labelled in Fedspeak. The black robed figure is disappearing around a corner at the end of the street. Using your Psychic Awareness to mark his mental pattern, you are able to follow him without having to keep him in sight. You come to a more active area of Refuge. The buildings are still dark and gloomy - it seems all of Refuge has been built in this dark stone. There are seamy shops and drinking houses and the street is lit by a central strip light, running the length of the street. The people seem to be ignoring each other, hurrying along with their eyes fixed on the road ahead of them. You duck down a thin alley until you come to a large door through which your target has just gone. Quietly, you try to push the door open. Suddenly, a panel in the door clicks open and a pair of coal-black eyes glare out at you, looking you up and down. 'Who are you and what do you want?' a voice demands tensely. You can either try to gain entrance and find out who has been monitoring you or you can leave Dustbowl to continue your search elsewhere. Will you:
