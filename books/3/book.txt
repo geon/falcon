@@ -3177,8 +3177,6 @@ Captain Cresap Ord is concerned, when he draws up the
 severed hauser, it will seem that you died in an unfortunate
 accident. Turn to 260.
 
-285
-
 280
 As you run back to the doorway you can hear a burbling shriek
 as the fly being realises who you are. You hurl yourself through
@@ -3216,16 +3214,15 @@ you have not, turn to 407.
 The fireball erupts in the doorway, filling it with yellow flame,
 but you roll safely away. You have a moment to react as Baal
 screams in frustration, seeing you still alive. Will you:
-Fire, your blaster at him, maintaining a five
-second burst and then run out, towards
-Falcon's Wing?
+
+Fire, your blaster at him, maintaining a five second burst and then run out, towards Falcon's Wing?
 Make a run for it immediately?
 Thinkstrike Baal?
-
 Turn to 231
 Turn to 243
 Turn to 257
 
+285
 You have almost reached Falcon's Wing when some black-robed
 priests charge at you from a nearby alleyway, a fanatical gleam
 in their eyes, screaming, 'Death to the enemies of Huitzilopochtli!' However, they stop in disbelief when you disappear
