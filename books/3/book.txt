@@ -3877,25 +3877,15 @@ daggers and left in the street, a red mass of dead meat.
 
 335
 Whose mind will you probe?
+
 Achov's ?
 McReady's?
 Caleb V?
 Braxton Bragg's?
-
-Turn
-Turn
-Turn
-Turn
-
-to
-to
-to
-to
-
-321
-312
-304
-294
+Turn to 321
+Turn to 312
+Turn to 304
+Turn to 294
 
 336
 You dodge aside, but his fist still catches your shoulder a
