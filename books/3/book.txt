@@ -179,212 +179,52 @@ Turn to 11
 Turn to 292
 
 32
-You can feel the rush of beaten air from the wings of the flybeast as its mandibles clash together inches from you. It pulls up
-to avoid what it thinks are crates, but what is in fact the
-hologram disguise. You roll onward and disappear into them and
-are drawn up into Falcon's Wing. The creature seems to guess
-what has happened for a second or two later, it crashes into
-Falcon's Wing, causing it to shudder ominously. However,
-CAIN assures you that Falcon's Wing is easily able to withstand
-the batterings of a mere twelve-foot fly. Muttering darkly about
-personality programmed computers, you settle into your crashcouch. Turn to 23.
+You can feel the rush of beaten air from the wings of the flybeast as its mandibles clash together inches from you. It pulls up to avoid what it thinks are crates, but what is in fact the hologram disguise. You roll onward and disappear into them and are drawn up into Falcon's Wing. The creature seems to guess what has happened for a second or two later, it crashes into Falcon's Wing, causing it to shudder ominously. However, CAIN assures you that Falcon's Wing is easily able to withstand the batterings of a mere twelve-foot fly. Muttering darkly about personality programmed computers, you settle into your crashcouch. Turn to 23.
 
 33
-He seems unaffected and they are almost upon you. You have
-no time to do anything "but Thinkstrike. Turn to 376.
+He seems unaffected and they are almost upon you. You have no time to do anything "but Thinkstrike. Turn to 376.
 
 34
-You set the co-ordinates for North America, Earth 1863 AD,
-and instruct CAIN to engage the Variac Drive. Moments later
-your mind is searching through null-space for the psychic
-pattern that marks the North American timehole. You may
-lie in your Autodoc and restore up to 12 points of lost Endurance
-during the journey. You rematerialise on a wooded hill, with
-good all-round visibility, but your vision is partially obscured
-by clouds of gunsmoke. To the south is a small town wreathed
-in smoke. Dense forest lies to the east, another wooded hill
-rising from it. To the west, you can see a column of men,
-armed with primitive muskets and dressed virtually in rags,
-mostly a butternut brown in colour. A few, mainly officers,
-are wearing grey uniforms. They are marching towards you
-across a road. The air is filled with the sound of volleys of
-musket-fire, the boom of cannon and the sound of many men
-at war. Suddenly a column of men dressed in blue uniforms,
-stream past your hill, near the town, in what can only be
-described as an orderly rout. It appears you have arrived in
-the middle of a battle. You ask CAIN for information. This is
-the field of Gettysburg, a decisive battle in the American Civil
-War fought on the eastern edge of North America, Falcon. It
-was fought over three days, and we have arrived in the late
-afternoon of the first day. The Civil War was between the
-Union and the Confederacy, over reasons too detailed to go
-into here, unless you'd like me to?'
+You set the co-ordinates for North America, Earth 1863 AD, and instruct CAIN to engage the Variac Drive. Moments later your mind is searching through null-space for the psychic pattern that marks the North American timehole. You may lie in your Autodoc and restore up to 12 points of lost Endurance during the journey. You rematerialise on a wooded hill, with good all-round visibility, but your vision is partially obscured by clouds of gunsmoke. To the south is a small town wreathed in smoke. Dense forest lies to the east, another wooded hill rising from it. To the west, you can see a column of men, armed with primitive muskets and dressed virtually in rags, mostly a butternut brown in colour. A few, mainly officers, are wearing grey uniforms. They are marching towards you across a road. The air is filled with the sound of volleys of musket-fire, the boom of cannon and the sound of many men at war. Suddenly a column of men dressed in blue uniforms, stream past your hill, near the town, in what can only be described as an orderly rout. It appears you have arrived in the middle of a battle. You ask CAIN for information. This is the field of Gettysburg, a decisive battle in the American Civil War fought on the eastern edge of North America, Falcon. It was fought over three days, and we have arrived in the late afternoon of the first day. The Civil War was between the Union and the Confederacy, over reasons too detailed to go into here, unless you'd like me to?'
 
 'No, no, CAIN, that's all right,' you interrupt hastily.
-'Well, the Confederacy, the men in grey, had the better of the
-first day, but ultimately they were defeated, despite their
-brilliant commander. General Robert E. Lee. You have
-materialised on Benner's Hill. The hill to the south is Culp's Hill
-and beyond that Cemetery Ridge. The town is, of course,
-Gettysburg. It would be best to disguise you as a Confederate
-soldier for the moment. However, the jacket will be reversible,
-so that the outside is grey, the inside blue, if you should need to
-change sides in a hurry.' Donning the disguise the Molecular
-Converter has given you (your helmet is now a peaked grey
-cap), you take the detector tripod and leave Falcon's Wing. Turn
-to 314.
+
+'Well, the Confederacy, the men in grey, had the better of the first day, but ultimately they were defeated, despite their brilliant commander. General Robert E. Lee. You have materialised on Benner's Hill. The hill to the south is Culp's Hill and beyond that Cemetery Ridge. The town is, of course, Gettysburg. It would be best to disguise you as a Confederate soldier for the moment. However, the jacket will be reversible, so that the outside is grey, the inside blue, if you should need to change sides in a hurry.' Donning the disguise the Molecular Converter has given you (your helmet is now a peaked grey cap), you take the detector tripod and leave Falcon's Wing. Turn to 314.
 
 35
-As you get to your feet, you can see that the Darkhome Noble
-rebels have made a decision, and a stream of Warriors are
-charging towards Baal. He towers above them, three times their
-height, destroying them in droves with blasts of yellow energy
-and great blows of his boulder-like fists. But the Warriors have
-no fear of death and they attack heedlessly. They seem to be
-unable to hurt him seriously, but you have time to act whilst he
-is distracted. You come to the steel door, but there does not
-seem to be any way of opening it. Will you;
-Try to blow the door open with your blaster? Turn
-Try to burn a hole through the rock next to the
-door with your blaster?
-Turn
-Put some magnesite (if you have arty) at the
-base of the door and blast it? Maybe the
-intense heat generated for a few seconds will
-burn a hole through the door?
-Turn
+As you get to your feet, you can see that the Darkhome Noble rebels have made a decision, and a stream of Warriors are charging towards Baal. He towers above them, three times their height, destroying them in droves with blasts of yellow energy and great blows of his boulder-like fists. But the Warriors have no fear of death and they attack heedlessly. They seem to be unable to hurt him seriously, but you have time to act whilst he is distracted. You come to the steel door, but there does not seem to be any way of opening it. Will you;
+
+Try to blow the door open with your blaster?
+Try to burn a hole through the rock next to the door with your blaster?
+Put some magnesite (if you have arty) at the base of the door and blast it? Maybe the intense heat generated for a few seconds will burn a hole through the door?
 Try your microbeam key (if you have one)?
-Turn
-
-to 49
-to 57
-
-to 88
-to 96
+Turn to 49
+Turn to 57
+Turn to 88
+Turn to 96
 
 36
-As you gather yourself to leap, the energy bolt explodes at your
-feet, blasting you into the air and hurling you into a nearby
-building with bone-crunching impact, and you sink into
-unconsciousness. You never wake up. You have failed.
+As you gather yourself to leap, the energy bolt explodes at your feet, blasting you into the air and hurling you into a nearby building with bone-crunching impact, and you sink into unconsciousness. You never wake up. You have failed.
 
 37
-You set co-ordinates for Earth in 3033 AD and you are soon
-
-surrounded by the grey nothingness of null-space. You may lie
-in your Autodoc and regain up to 12 points of lost Endurance during the
-journey. You rematerialise in the Eiger Vault and whilst a TIME
-maintenance team are replenishing Falcon's Wing's supply of
-polybdenum, you instruct CAIN to link up with the Eiger
-Service computer to check for any news. CAIN reports that
-nothing new has occurred during your visit to Gettysburg. You
-will have to continue your search. Which timehole will you
+You set co-ordinates for Earth in 3033 AD and you are soon surrounded by the grey nothingness of null-space. You may lie in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team are replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger Service computer to check for any news. CAIN reports that nothing new has occurred during your visit to Gettysburg. You will have to continue your search. Which timehole will you
 travel to:
-Rigel Prime in 1642 AD, if you have not been
-there already?
+
+Rigel Prime in 1642 AD, if you have not been there already?
+South America, Earth, 1409 AD, the time of the Aztecs, if you have not been there already?
+The colony planet, Dustbowl, in the year 2764 AD, where Bloodhound discovered the timeline disturbance (even if you have been to the Dustbowl once already)?
 Turn to 46
-South America, Earth, 1409 AD, the time of
-the Aztecs, if you have not been there
-already?
 Turn to 22
-The colony planet, Dustbowl, in the year 2764
-AD, where Bloodhound discovered the
-timeline disturbance (even if you have
-been to the Dustbowl once already)?
 Turn to 287
 
 38
-If you already have a segment of the Rack, you must decide
-whether or not to take it with you. Taking the detector tripod,
-you leave Falcon's Wing, and set it up behind a white adobe
-house that is adorned with many bright flowers. As the white
-gem begins to glow brightly you explore its psionic emanations
-with your mind. You find it is registering the presence of a
-segment of the Rack. It is lying in one of the buildings near the
-Great Pyramid. Putting the tripod back in Falcon's Wing, you
-head towards the pyramid. As you near it, the babble of many
-voices grows louder. Rounding a large stone building you are
-presented with an awesome sight. You are at the top of a flight
-of one of the many stone steps leading down to an enormous
-plaza, surrounding the Great Pyramid. The plaza is filled with
-thousands upon thousands, a teeming crowd of Aztecs. Most
-are dressed simply in feathered shirts or robes, others are
-dressed richly in brightly patterned robes and head-dresses. The
-stairs that rise up the centre of the bricked pyramid are filled
-with hundreds of prisoners, almost naked, many covered in
-white down, stuck to their bodies by their own blood. They are
-formed into a long column marching into the plaza itself. Aztec
-Eagle Knights, and Jaguar Knights, dressed in the skins of the
-jaguar from head to foot, are hemming them in. At the top of
-
-the pyramid are many black robed priests as well as what must
-be the Emperor Ahuitzotl, wearing the most incredible finery,
-with his retinue. The sight of what they are doing fills you with
-revulsion. Methodically the priests are laying the prisoners on a
-blood-encrusted stone slab, slashing open their chests with
-obsidian knives, ripping out their hearts and smearing them
-over the carved idols of their gods. From what your Translator
-can pick up, it is a sacrifice to the Sun God, Huitzilopochtli, the
-Lord of War. Then your Psychic Awareness picks up a strange
-psychic disturbance you have never experienced before,
-something akin to the psychic patterns of null-space. Turn to
-125.
-
-final thing - Dustbowl in 2764 had a high level of legislation.
-They were particularly strict on citizens carrying fire arms,
-especially energy weapons, so be careful with your blaster.
-That's all. Good luck, Falcon!' Moments later, the battlesuit is
-delivered to you, along with a selection of equipment, steel
-lances, rotary drums, a mini-lab and the battlesuit. Maintenance
-technicians are working frantically on the hull of Falcon's Wing.
-Painting it in green and gold and adding bits of impressive, but
-useless, equipment to its hulk. An hour or so later, everything is
-ready and you fade into null-space, bound for Dustbowl once
-more. Turn to 48.
+If you already have a segment of the Rack, you must decide whether or not to take it with you. Taking the detector tripod, you leave Falcon's Wing, and set it up behind a white adobe house that is adorned with many bright flowers. As the white gem begins to glow brightly you explore its psionic emanations with your mind. You find it is registering the presence of a segment of the Rack. It is lying in one of the buildings near the Great Pyramid. Putting the tripod back in Falcon's Wing, you head towards the pyramid. As you near it, the babble of many voices grows louder. Rounding a large stone building you are presented with an awesome sight. You are at the top of a flight of one of the many stone steps leading down to an enormous plaza, surrounding the Great Pyramid. The plaza is filled with thousands upon thousands, a teeming crowd of Aztecs. Most are dressed simply in feathered shirts or robes, others are dressed richly in brightly patterned robes and head-dresses. The stairs that rise up the centre of the bricked pyramid are filled with hundreds of prisoners, almost naked, many covered in white down, stuck to their bodies by their own blood. They are formed into a long column marching into the plaza itself. Aztec Eagle Knights, and Jaguar Knights, dressed in the skins of the jaguar from head to foot, are hemming them in. At the top of the pyramid are many black robed priests as well as what must be the Emperor Ahuitzotl, wearing the most incredible finery, with his retinue. The sight of what they are doing fills you with revulsion. Methodically the priests are laying the prisoners on a blood-encrusted stone slab, slashing open their chests with obsidian knives, ripping out their hearts and smearing them over the carved idols of their gods. From what your Translator can pick up, it is a sacrifice to the Sun God, Huitzilopochtli, the Lord of War. Then your Psychic Awareness picks up a strange psychic disturbance you have never experienced before, something akin to the psychic patterns of null-space. Turn to 125.
 
 39
-
-You emerge from Providence Airlock and walk into the city of
-Refuge. Catching a hovbus you head back to the warehouse. A
-quarter of an hour later, you step off the hovbus near the
-warehouse. As your foot hits the ground, four black-robed
-figures, waiting at the entrance to the warehouse, charge at you
-without hesitation and in silence, drawing long, wickedly curved
-daggers. You barely have time to act. Instinctively, you hurl
-yourself, rolling, at their feet, hoping to trip them and run on, to
-the safety of Falcon's Wing. Make an Evasion Roll.
-
-Soon you are back in your bay at the Eiger Vault. You put a call
-through to Jobanque on the holophone, Priority One. He
-answers immediately: 'Falcon, what news?' You tell him what
-has happened and what the situation is on Dustbowl. 'Right, I'll
-authorise the battlesuit,' he says, 'and I'll talk to you soon.' With
-that he breaks contact. You wait while your polybdenum supply
-is replenished. Soon Jobanque holophones through. 'Okay,
-Falcon, Skirrow and I have come up with something. Falcon's
-Wing will be painted in company colours and made to look like a
-scientific research diving bell. You can pretend to be a scientist
-from Earth, sponsored by a fictitious Earth company, say the
-Eiger Coporation, sent to Dustbowl to research the breeding
-habits of the Dustwhale. We'll give you forged credentials and
-money, of course - in this case Dustbowl placs. The battlesuit
-has been modified for high pressure. You won't be able to see
-anything down there, but you'll have your microbeam radar,
-and we've fitted a high resolution graphic delineator. This will
-analyse the radar reading and render it as a visual graphic on
-your battlesuit face plate. It'll be just like seeing normally almost. Anything you see won't actually be there, the graphic
-delineator will just show you what something the radar has
-picked up looks like. You'll have to use the radar to determine
-the position of anything. We'll give you some high-tensile wire
-to lower Falcon's Wing and the like, to make your scientific
-expedition look convincing. You'll have to go back to Dustbowl
-and hire a whaling ship and get it to take you out to where the
-Rack section lies - this kind of expedition was reasonably
-common in those times. I know this is breaking the First Law of
-TIME, but under the circumstances, we have no choice. One
+Soon you are back in your bay at the Eiger Vault. You put a call through to Jobanque on the holophone, Priority One. He answers immediately: 'Falcon, what news?' You tell him what has happened and what the situation is on Dustbowl. 'Right, I'll authorise the battlesuit,' he says, 'and I'll talk to you soon.' With that he breaks contact. You wait while your polybdenum supply is replenished. Soon Jobanque holophones through. 'Okay, Falcon, Skirrow and I have come up with something. Falcon's Wing will be painted in company colours and made to look like a scientific research diving bell. You can pretend to be a scientist from Earth, sponsored by a fictitious Earth company, say the Eiger Coporation, sent to Dustbowl to research the breeding habits of the Dustwhale. We'll give you forged credentials and money, of course - in this case Dustbowl placs. The battlesuit has been modified for high pressure. You won't be able to see anything down there, but you'll have your microbeam radar, and we've fitted a high resolution graphic delineator. This will analyse the radar reading and render it as a visual graphic on your battlesuit face plate. It'll be just like seeing normally almost. Anything you see won't actually be there, the graphic delineator will just show you what something the radar has picked up looks like. You'll have to use the radar to determine the position of anything. We'll give you some high-tensile wire to lower Falcon's Wing and the like, to make your scientific expedition look convincing. You'll have to go back to Dustbowl and hire a whaling ship and get it to take you out to where the Rack section lies - this kind of expedition was reasonably common in those times. I know this is breaking the First Law of TIME, but under the circumstances, we have no choice. One final thing - Dustbowl in 2764 had a high level of legislation. They were particularly strict on citizens carrying fire arms, especially energy weapons, so be careful with your blaster. That's all. Good luck, Falcon!' Moments later, the battlesuit is delivered to you, along with a selection of equipment, steel lances, rotary drums, a mini-lab and the battlesuit. Maintenance technicians are working frantically on the hull of Falcon's Wing. Painting it in green and gold and adding bits of impressive, but useless, equipment to its hulk. An hour or so later, everything is ready and you fade into null-space, bound for Dustbowl once more. Turn to 48.
 
 40
-
+You emerge from Providence Airlock and walk into the city of Refuge. Catching a hovbus you head back to the warehouse. A quarter of an hour later, you step off the hovbus near the warehouse. As your foot hits the ground, four black-robed figures, waiting at the entrance to the warehouse, charge at you without hesitation and in silence, drawing long, wickedly curved daggers. You barely have time to act. Instinctively, you hurl yourself, rolling, at their feet, hoping to trip them and run on, to the safety of Falcon's Wing. Make an Evasion Roll.
 If you score 5-12, turn to 123
 If you score 2-4, turn to 112
 
