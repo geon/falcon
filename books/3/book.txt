@@ -1819,96 +1819,50 @@ If you score 6-12, turn to 209
 If you score 2-5, turn to 221
 
 152
-You unleash a bolt of mental energy at Baal, but he hardly even
-pauses as he hurls the corpse of the Warrior at you with
-punishing force, brushing aside your mental assault almost as
-an afterthought. Caught off guard the body slams into you,
-sending you crashing to the ground. Luckily none of its sharp
-protuberances have cut you, but the impact has cracked one of
-your ribs. Lose 4 Endurance points. If you are still alive, you rise to
-your feet. If you have the severed hand-blade of a Caver
-Warrior in your possession, turn to 163, if not read on. Baal
-grabs another body as if it were a rag doll. You dash for the exit
-as he hurls it at you. Make an Evasion Roll.
+You unleash a bolt of mental energy at Baal, but he hardly even pauses as he hurls the corpse of the Warrior at you with punishing force, brushing aside your mental assault almost as an afterthought. Caught off guard the body slams into you, sending you crashing to the ground. Luckily none of its sharp protuberances have cut you, but the impact has cracked one of your ribs. Lose 4 Endurance points. If you are still alive, you rise to your feet. If you have the severed hand-blade of a Caver Warrior in your possession, turn to 163, if not read on. Baal grabs another body as if it were a rag doll. You dash for the exit as he hurls it at you. Make an Evasion Roll.
 If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
 153
-The burly sailor comes on, completely unaffected. He slams into
-you with his shoulder, bruising you badly. Lose 2 Endurance points.
-If you are still alive, you can see he is slow and you dart out from
-under his groping hands and dash for the gangplank, but one of
-the crew is turning the harpoon gun on you and fires it.
-Instinctively you duck. Make an Evasion Roll.
+The burly sailor comes on, completely unaffected. He slams into you with his shoulder, bruising you badly. Lose 2 Endurance points. If you are still alive, you can see he is slow and you dart out from under his groping hands and dash for the gangplank, but one of the crew is turning the harpoon gun on you and fires it. Instinctively you duck. Make an Evasion Roll.
 If you score 5-12, turn to 354
 If you score 2-4, turn to 364
-154
 
-A bolt of plasma flies from your pistol but McReady drops to the
-floor at the last moment. Achov fires again, the bullet slamming
-into your stomach, and Bragg drills a hole in your temple with
-his laser. You stand unmoving for a second, and then crumple to
-the floor, dead.
+154
+A bolt of plasma flies from your pistol but McReady drops to the floor at the last moment. Achov fires again, the bullet slamming into your stomach, and Bragg drills a hole in your temple with his laser. You stand unmoving for a second, and then crumple to the floor, dead.
 
 155
-You fall flat on the floor, but a sharpened wooden stake bursts
-up out of the slab. Luckily for you it misses your abdomen and
-only slashes your thigh badly, not even impaling it. Lose 7
-Endurance points. If you are still alive, you stagger to the altar.
-Turn to 134.
+You fall flat on the floor, but a sharpened wooden stake bursts up out of the slab. Luckily for you it misses your abdomen and only slashes your thigh badly, not even impaling it. *Lose 7 Endurance points.* If you are still alive, you stagger to the altar. Turn to 134.
 
+156
+You throw yourself off the side of the bed, slamming into your assailants thigh. He throws his arm back, letting go of the knife and crashes to the floor with a cry where he lies winded. You are up on your feet, shouting for help as the others close in on you. Make an Attack Roll.
+If you score 6-12, turn to 136
+If you score 2-5, turn to 145
+
+157
+Make a Power of Will Roll as you try to control the nearest Noble.
+If you score 6-12, turn to 211
+If you score 2-5, turn to 226
+
+158
+A bolt of superheated plasma streaks towards the top of the pyramid, but your aim is off and it hits a priest, hurling him over the altar in a ball of flame. The crowd back away from you in terror, but Baal has spotted you. You feel his mind probing yours. Then an incredibly powerful will invades your mind, psychic power you never imagined possible and against which you have no hope of resisting. You can do nothing as he forces you to mount the pyramid. Your heart is cut out and you are consumed by Baal.
+
+159
+The beam of your Particle Disruptor takes the raging Baal in the chest. He howls, a scream of terrific agony, and jumps back put of the line of fire, pained but essentially unhurt. It is incredible that he can withstand a Particle Disruptor, you think to yourself. Just then, several fly creatures slam into you, hurling you against the steel ceiling with frightening force. Subtract 4 from your battlesuit armour points as it takes a severe battering. If your
 armour score is at 0 or less, turn to 180. Otherwise, will you:
+
 Throw the Rack at Baal?
 Try to fight off the fly creatures?
-
 Turn to 188
 Turn to 139
 
 160
 You draw and fire in one swift motion. Make an Attack Roll.
-
-156
-You throw yourself off the side of the bed, slamming into your
-assailants thigh. He throws his arm back, letting go of the knife
-and crashes to the floor with a cry where he lies winded. You are
-up on your feet, shouting for help as the others close in on you.
-Make an Attack Roll.
-If you score 6-12, turn to 136
-If you score 2-5, turn to 145
-
-157
-Make a Power of Will Roll as you try to control the nearest
-Noble.
-If you score 6-12, turn to 211
-If you score 2-5, turn to 226
-
-158
-A bolt of superheated plasma streaks towards the top of the
-pyramid, but your aim is off and it hits a priest, hurling him over
-the altar in a ball of flame. The crowd back away from you in
-terror, but Baal has spotted you. You feel his mind probing
-yours. Then an incredibly powerful will invades your mind,
-psychic power you never imagined possible and against which
-you have no hope of resisting. You can do nothing as he forces
-you to mount the pyramid. Your heart is cut out and you are
-consumed by Baal.
-
-159
-The beam of your Particle Disruptor takes the raging Baal in the
-chest. He howls, a scream of terrific agony, and jumps back put
-of the line of fire, pained but essentially unhurt. It is incredible
-that he can withstand a Particle Disruptor, you think to
-yourself. Just then, several fly creatures slam into you, hurling
-you against the steel ceiling with frightening force. Subtract 4 from
-your battlesuit armour points as it takes a severe battering. If your
-
 If you score 6-12, turn to 3
 If you score 2-5, turn to 14
 
 161
-You draw your blaster and point it at the Rigellian. He stares in
-puzzlement and then guesses it may be a weapon. Make an
-Attack Roll.
+You draw your blaster and point it at the Rigellian. He stares in puzzlement and then guesses it may be a weapon. Make an Attack Roll.
 If you score 8-12, turn to 216
 If you score 2-7, turn to 227
 
