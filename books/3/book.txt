@@ -591,122 +591,32 @@ Turn to 404
 Turn to 373
 
 98
-Grunting, you force yourself up the side of the glade as it echoes
-to the ring of steel on steel and the guttural cries of the
-combatants. Soon, you are at the edge of the glade. You can see
-that it is part of a large open area, mostly grass, dotted with
-areas of hilly ground, marsh and forest, all mostly squat and in
-shades of blue in sharp contrast with the yellow sky. You can
-just make out some kind of fence or barrier enclosing a few
-square miles of terrain. It appears you were unlucky enough to
-materialise in one of the arenas set aside for ritual combat CAIN
-spoke of. Soon you have worked yourself around to the back of
-Falcon's Wing. Breathing heavily after the effort of walking in
-this gravity, you enter the hologram. Falcon's Wing stands
-undiscovered. You can hear the combat continuing as you
-approach your Time Machine. Suddenly, there is a meaty crash,
-a scream of pain cut short, and the stocky Rigellian careers
-backwards into Falcon's Wing, which shudders with the impact.
-The Rigellian slumps to the ground, a yellowish fluid seeping
-from a great wound in its chest. There is dead silence outside the
-hologram. The other Rigellian must have been shocked at the
-sight of his enemy seeming to disappear. There is a loud shout
+Grunting, you force yourself up the side of the glade as it echoes to the ring of steel on steel and the guttural cries of the combatants. Soon, you are at the edge of the glade. You can see that it is part of a large open area, mostly grass, dotted with areas of hilly ground, marsh and forest, all mostly squat and in shades of blue in sharp contrast with the yellow sky. You can just make out some kind of fence or barrier enclosing a few square miles of terrain. It appears you were unlucky enough to materialise in one of the arenas set aside for ritual combat CAIN spoke of. Soon you have worked yourself around to the back of Falcon's Wing. Breathing heavily after the effort of walking in this gravity, you enter the hologram. Falcon's Wing stands undiscovered. You can hear the combat continuing as you approach your Time Machine. Suddenly, there is a meaty crash, a scream of pain cut short, and the stocky Rigellian careers backwards into Falcon's Wing, which shudders with the impact. The Rigellian slumps to the ground, a yellowish fluid seeping from a great wound in its chest. There is dead silence outside the hologram. The other Rigellian must have been shocked at the sight of his enemy seeming to disappear. There is a loud shout and the other Rigellian leaps in, eyes staring in uncertainty, legs braced for attack as he comes to a halt, obviously expecting a trap. He stares at Falcon's Wing for a moment but then sees you, what he believes to be an apprentice medic. Your Universal Translator renders his guttural speech as close as possible into words you can understand as he bellows at you: Treachery! Dishonour upon the Clan Arocks! So "Strong-in-arm-andbody" had an apothecary hidden nearby to help him in battle! I would not have thought it of him. But now your life is forfeit, as is the claim of the Clan Arocks in this matter.' Slowly he raises the axe, almost as large as you. Will you:
 
-and the other Rigellian leaps in, eyes staring in uncertainty, legs
-braced for attack as he comes to a halt, obviously expecting a
-trap. He stares at Falcon's Wing for a moment but then sees you,
-what he believes to be an apprentice medic. Your Universal
-Translator renders his guttural speech as close as possible into
-words you can understand as he bellows at you: Treachery!
-Dishonour upon the Clan Arocks! So "Strong-in-arm-andbody" had an apothecary hidden nearby to help him in battle! I
-would not have thought it of him. But now your life is forfeit, as
-is the claim of the Clan Arocks in this matter.' Slowly he raises
-the axe, almost as large as you. Will you:
-Try to disable the Rigellian using your skill at
-Turn to 150
-hand-to-hand combat?
-Turn to 161
+Try to disable the Rigellian using your skill at hand-to-hand combat?
 Try to use your blaster on him?
-Try to use your Power of Will even though he
+Try to use your Power of Will even though he is an alien?
+Turn to 150
+Turn to 161
 Turn to 172
-is an alien?
 
 99
-You continue down the shadowed corridor. After a few minutes
-it opens out into a large chamber, and to a grisly brutal sight.
-Large shattered eggs lie everywhere, seeping the glutinous
-remains of many Cavers, heartlessly killed before hatching. It
-looks as if an entire batch has been destroyed. It is indeed a bitter
-internal struggle you think to yourself as you hurry on to a
-tunnel on the other side of the chamber. This leads to another
-cavern, obviously a Caver's 'farm'. Several red-furred Workers,
-ignoring you completely, tend large stone vats filled with
-decaying organic matter. These Workers are two-armed with
-large hands. Your stomach turns as you notice the semi-decayed
-remains of many types of Cavers in the vats. A vast expanse of
-mushroom-like fungus stretches into the darkness. Workers
-carrying some of the rotting sludge in stone jars are spreading it
-over the fungus. The Cavers recycle their dead by feeding them
-to the fungus, presumably their staple diet. Thankful that you
-are wearing your environment suit and cannot smell anything,
-you continue along the tunnel that leads out of the cavern. Turn
-to 107.
+You continue down the shadowed corridor. After a few minutes it opens out into a large chamber, and to a grisly brutal sight. Large shattered eggs lie everywhere, seeping the glutinous remains of many Cavers, heartlessly killed before hatching. It looks as if an entire batch has been destroyed. It is indeed a bitter internal struggle you think to yourself as you hurry on to a tunnel on the other side of the chamber. This leads to another cavern, obviously a Caver's 'farm'. Several red-furred Workers, ignoring you completely, tend large stone vats filled with decaying organic matter. These Workers are two-armed with large hands. Your stomach turns as you notice the semi-decayed remains of many types of Cavers in the vats. A vast expanse of mushroom-like fungus stretches into the darkness. Workers carrying some of the rotting sludge in stone jars are spreading it over the fungus. The Cavers recycle their dead by feeding them to the fungus, presumably their staple diet. Thankful that you are wearing your environment suit and cannot smell anything, you continue along the tunnel that leads out of the cavern. Turn to 107.
 
 100
-Soon you are sitting in the warmth and safety of Falcon's Wing,
-glad to be alive after your hair-raising experience. CAIN says: 'I
-have new information in my databanks, Falcon. It seems the
-mining station on Chill was the subject of some horrible attack
+Soon you are sitting in the warmth and safety of Falcon's Wing, glad to be alive after your hair-raising experience. CAIN says: 'I have new information in my databanks, Falcon. It seems the mining station on Chill was the subject of some horrible attack by a particularly unpleasant alien life form. Only Braxton Bragg, the manager, survived. There is a story about a scout, Lieutenant Falcon, who later the scout service denied all knowledge of. Apparently he saved Bragg's life at the end, but was killed himself, although they never found his body.' You explain the recent events to CAIN, and it remarks, 'Baal must have visited this place many millenia ago, and planted the Rack section and the egg to guard it.' As you listen to CAIN, your attention is drawn to a bright white light behind you. Turning your head, you gasp in astonishment. The four triangles have linked together to form a four-pointed star and it is pulsing rapidly with light that is travelling round and round it. Suddenly, Falcon's Wing begins to dematerialise as your Variac Drive begins to function.
 
-by a particularly unpleasant alien life form. Only Braxton Bragg,
-the manager, survived. There is a story about a scout,
-Lieutenant Falcon, who later the scout service denied all
-knowledge of. Apparently he saved Bragg's life at the end, but
-was killed himself, although they never found his body.' You
-explain the recent events to CAIN, and it remarks, 'Baal must
-have visited this place many millenia ago, and planted the Rack
-section and the egg to guard it.' As you listen to CAIN, your
-attention is drawn to a bright white light behind you. Turning
-your head, you gasp in astonishment. The four triangles have
-linked together to form a four-pointed star and it is pulsing
-rapidly with light that is travelling round and round it.
-Suddenly, Falcon's Wing begins to dematerialise as your Variac
-Drive begins to function.
 'CAIN?' you query.
-'I am not activating it, Falcon.' Somehow the Rack of Baal is
-causing your Machine to travel in time. Your mind is soon tuned
-to the psychic emanations of the Rack and you are able to
-determine that you are headed for the timehole in the Dirkheim
-Void. But there is nothing in the Void, you think to yourself.
-After a while Falcon's Wing materialises in open space. Your
-mind reels as you look around, for there is nothing except
-blackness. Then the cameras reveal a large asteroid hanging in
-the black nothingness of the Void. A steel door, surrounded by
-dull glowing lights like the door in the cavern on Cave, is set into
-the side of the asteroid. 'I would say that the Rack has led us to
-Baal's base. Falcon. You have to take it in there.'Nodding grimly
-you don your battlesuit and, taking the Rack in an assistor arm,
-leave Falcon's Wing and jet towards the doorway. If you have a
-microbeam pencil key, turn to 410. If not, turn to 296.
+
+'I am not activating it, Falcon.' Somehow the Rack of Baal is causing your Machine to travel in time. Your mind is soon tuned to the psychic emanations of the Rack and you are able to determine that you are headed for the timehole in the Dirkheim Void. But there is nothing in the Void, you think to yourself. After a while Falcon's Wing materialises in open space. Your mind reels as you look around, for there is nothing except blackness. Then the cameras reveal a large asteroid hanging in the black nothingness of the Void. A steel door, surrounded by dull glowing lights like the door in the cavern on Cave, is set into the side of the asteroid. 'I would say that the Rack has led us to Baal's base. Falcon. You have to take it in there.'Nodding grimly you don your battlesuit and, taking the Rack in an assistor arm, leave Falcon's Wing and jet towards the doorway. If you have a microbeam pencil key, turn to 410. If not, turn to 296.
+
 101
 Make an Evasion Roll as you try to dash past your attackers.
-
 If you score 6-12, turn to 251
 If you score 2-5, turn to 261
 
 102
-Suddenly there is a sickening, tearing sound and Tsu Tsang's
-chest rips apart loudly, blood and slime spraying everywhere.
-Several tentacles writhe and twist forward, hissing and
-
-bubbling horribly. Her body jerks convulsively, the jaws crack
-open and her tongue, impossibly long, slithers out obscenely,
-splitting like ripe fruit into two pulpy appendages that form into
-stings like a scorpion's tail in front of your very eyes. Organic
-juices spurt and flow in rivulets. Utterly horrified you stand
-transfixed with shock at what you are seeing, as slime ridden
-tentacles reach out for you. Make a Power of Will Roll as you
-try to retain control of your senses.
+Suddenly there is a sickening, tearing sound and Tsu Tsang's chest rips apart loudly, blood and slime spraying everywhere. Several tentacles writhe and twist forward, hissing and bubbling horribly. Her body jerks convulsively, the jaws crack open and her tongue, impossibly long, slithers out obscenely, splitting like ripe fruit into two pulpy appendages that form into stings like a scorpion's tail in front of your very eyes. Organic juices spurt and flow in rivulets. Utterly horrified you stand transfixed with shock at what you are seeing, as slime ridden tentacles reach out for you. Make a Power of Will Roll as you try to retain control of your senses.
 If you score 6-12, turn to 414
 If you score 2-5, turn to 402
 
