@@ -3803,14 +3803,6 @@ it. Make an Evasion Roll.
 If you score 6-12, turn to 309
 If you score 2-5, turn to 289
 
-Flies!' and the sound echoes around the chamber so that you can
-almost feel the floor reverberating. Then he points at you, and a
-yellow bolt of energy forks from his finger, crackling through
-the air towards you. You must try to dodge the attack. Make an
-Evasion Roll.
-If you score 6-12, turn to 418
-If you score 2-5, turn to 24
-
 329
 He is dim-witted and slow. You impose your will upon him and
 force him to run and dive overboard. Quickly you dash for the
@@ -3819,23 +3811,14 @@ you and fires it. Instinctively you duck. Make an Evasion Roll.
 If you score 5-12, turn to 354
 If you score 2-4, turn to 364
 
-332
-Before you can move, one of them has slashed open your
-shoulder, whilst the other, ducking low, drives its horned elbow
-into your side, puncturing your suit and your stomach. They
-follow this up with a blurring flurry of razor sharp attacks,
-slicing you up as if you were butter. You die alone, lost in the
-darkness of an alien world.
-
 330
-
 Suspecting some kind of trap, you carefully edge your way onto
 the slab nearest the left hand wall. Suddenly, you feel the slab
 shift under your feet and there is a sharp click in the wall on
 your left. You have a split second in which to act. Will you:
+
 Drop to the floor?
 Leap backwards?
-
 Turn to 2
 Turn to 12
 
@@ -3857,22 +3840,33 @@ tricked into rebelling against their rightful Mother and they see
 Baal as an intruder now. However, Baal, furious, screams, 'You
 have meddled in my plans too often, mortal. Your puny little
 organisation can never hope to defeat me, Baal, the Lord of
+Flies!' and the sound echoes around the chamber so that you can
+almost feel the floor reverberating. Then he points at you, and a
+yellow bolt of energy forks from his finger, crackling through
+the air towards you. You must try to dodge the attack. Make an
+Evasion Roll.
+If you score 6-12, turn to 418
+If you score 2-5, turn to 24
+
+332
+Before you can move, one of them has slashed open your
+shoulder, whilst the other, ducking low, drives its horned elbow
+into your side, puncturing your suit and your stomach. They
+follow this up with a blurring flurry of razor sharp attacks,
+slicing you up as if you were butter. You die alone, lost in the
+darkness of an alien world.
 
 333
 Moments later you are back in Falcon's Wing. Where will you go
 in search of the Rack?
-Rigel Prime, 1642 AD, if you have not been
-there already?
+
+Rigel Prime, 1642 AD, if you have not been there already?
+Earth in the time of the Aztecs, if you have not been there already?
+The colony planet, Dustbowl, in the year 2764 AD if you have not been there already?
+Return to the Eiger Vault, in case the Monitoring Section has any information for you?
 Turn to 46
-Earth in the time of the Aztecs, if you have not
-been there already?
 Turn to 22
-The colony planet, Dustbowl, in the year 2764
-AD if you have not been there already?
 Turn to 10
-Return to the Eiger Vault, in case the
-Monitoring Section has any information for
-you?
 Turn to 377
 
 334
