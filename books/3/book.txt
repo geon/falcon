@@ -137,108 +137,44 @@ Turn to 34
 Turn to 56
 
 24
-The bolt passes too close to your back as you duck, and it burns
-through your suit and into your flesh, before striking the wall
-with a crash. Lose 6 Endurance points. If you are still alive, you
-scream in pain, which draws malicious laughter from Baal. Turn
-to 35.
+The bolt passes too close to your back as you duck, and it burns through your suit and into your flesh, before striking the wall with a crash. Lose 6 Endurance points. If you are still alive, you scream in pain, which draws malicious laughter from Baal. Turn to 35.
 
 25
-You seize control of his mind and force him to turn and attack
-the man behind him. This catches him completely by surprise
-and the man under your control drives his knife into the other's
-abdomen, who sinks to the ground, retching. The third man
-
-stops, astonished. You hurry on, forcing the man under your
-control to attack the third ambusher until you are well away.
-Turn to 416.
+You seize control of his mind and force him to turn and attack the man behind him. This catches him completely by surprise and the man under your control drives his knife into the other's abdomen, who sinks to the ground, retching. The third man stops, astonished. You hurry on, forcing the man under your control to attack the third ambusher until you are well away. Turn to 416.
 
 26
-Have you spoken to Agent Bloodhound on this mission? If you
-have, turn to 37. If you have not, turn to 58.
+Have you spoken to Agent Bloodhound on this mission?
+
+If you have,
+If you have not,
+turn to 37
+turn to 58
 
 27
-You tell CAIN where the section of the Rack lies, and ask it how
-it could be reached. 'The Sea of Dust is very deep, Falcon, even in
-our own time its depths haven't been fully plumbed. However,
-Falcon's Wing could withstand the pressure and you would need
-a modified battlesuit to move about on the seabed. For that you
-will have to return to the Eiger Vault and ask Section Chief
-Jobanque to issue you with one,' You set co-ordinates for the
-Eiger Vault, 3034 AD and instruct CAIN to engage the Variac
-Drive. Turn to 39.
+You tell CAIN where the section of the Rack lies, and ask it how it could be reached. 'The Sea of Dust is very deep, Falcon, even in our own time its depths haven't been fully plumbed. However, Falcon's Wing could withstand the pressure and you would need a modified battlesuit to move about on the seabed. For that you will have to return to the Eiger Vault and ask Section Chief Jobanque to issue you with one,' You set co-ordinates for the Eiger Vault, 3034 AD and instruct CAIN to engage the Variac Drive. Turn to 39.
 
 28
-You hurl yourself flat on the floor as a volley of small javelins fly
-from the wall to your right and whistle overhead to clatter
-against the far wall. Heaving a sigh of relief, you get to your feet.
-Will you:
-Step on to the slab directly in front of you, still
-close to the right wall?
+You hurl yourself flat on the floor as a volley of small javelins fly from the wall to your right and whistle overhead to clatter against the far wall. Heaving a sigh of relief, you get to your feet. Will you:
+
+Step on to the slab directly in front of you, still close to the right wall?
+Step on to the slab directly to your left, still on the front row?
+Step diagonally to the left, onto the centremost slab of the nine?
 Turn to 383
-Step on to the slab directly to your left, still on
-the front row?
 Turn to 340
-Step diagonally to the left, onto the centremost
-slab of the nine?
 Turn to 373
 
 29
-As you walk onward, in the soft glow of the phosphorescent
-fungus, the unmistakable sound of battle echoes down the
-tunnel. Cautiously edging along the side of the corridor you
-come to a T-junction. Poking your head out you look to the left.
-A group of yellow and black furred Burrowers are waiting
-placidly, a mass of mud and rock at their feet. Turning your head
-to the right, you are greeted by the cause of the sound. The
-tunnel is filled with two lines of what must be Warriors, some
-yellow and black, the others with dull red fur, engaged in a
-vicious death struggle. The Warriors are frightening to look at.
-
-They have two arms ending in what can only be described as
-serrated sword blades, presumably of bone or hardened
-cartilage. Viciously sharp horns protrude from their domed
-heads, their elbows and knees. Their feet resemble the claws of a
-bird, except that they are of sharp cartilage, all talons. Their
-heads are much the same as the Burrowers, except for the
-massive fangs. What is most frightening is their speed and
-ferocity and the feral savagery with which they are ripping each
-other into shreds. Incredibly swift and powerful, they are
-creatures bred for one thing only - killing. Behind each rank of
-Warriors there are two or three Nobles, giving orders. They are
-human in shape, except for their heads. These are much the
-same as the Burrowers, except for a membrane covering a
-circular cavity above the mouth. They communicate by
+As you walk onward, in the soft glow of the phosphorescent fungus, the unmistakable sound of battle echoes down the tunnel. Cautiously edging along the side of the corridor you come to a T-junction. Poking your head out you look to the left. A group of yellow and black furred Burrowers are waiting placidly, a mass of mud and rock at their feet. Turning your head to the right, you are greeted by the cause of the sound. The tunnel is filled with two lines of what must be Warriors, some yellow and black, the others with dull red fur, engaged in a vicious death struggle. The Warriors are frightening to look at. They have two arms ending in what can only be described as serrated sword blades, presumably of bone or hardened cartilage. Viciously sharp horns protrude from their domed heads, their elbows and knees. Their feet resemble the claws of a bird, except that they are of sharp cartilage, all talons. Their heads are much the same as the Burrowers, except for the massive fangs. What is most frightening is their speed and ferocity and the feral savagery with which they are ripping each other into shreds. Incredibly swift and powerful, they are creatures bred for one thing only - killing. Behind each rank of Warriors there are two or three Nobles, giving orders. They are human in shape, except for their heads. These are much the same as the Burrowers, except for a membrane covering a circular cavity above the mouth. They communicate by
 vibrating this membrane to produce sound. Turn to 44.
 
 30
-A musket ball thuds into your shoulder, the impact stops you
-dead in your tracks and you are thrown into the long grass. Lose
-74 Endurance points. If you are still alive Lynx, unhurt, comes to
-your side, crawling through the long grass. Quickly she applies a
-field dressing and a local anaesthetic. The Autodoc will deal
-with the rest, Falcon,' she says. Looking up over the edge of the
-long grass, you see the blue-coats stepping back into the woods.
-The Union have finally occupied Culp's Hill. Suddenly, a section
-of the woods on the left side of Culp's Hill winks out. Yelov has
-escaped in his Time Machine. Lynx drops her head in
-disappointment. 'I'll have to find him again. Thanks anyway,
-Falcon, let's head back to our Machines.' Slowly, you crawl
-through the grass until you are behind the Confederate lines.
-'Well good luck, Falcon, I hope to see you soon. Bet you I get
-Yelov before you get Baal!' Smiling, you climb Benner's Hill and
-soon you are approaching the clump of trees disguising Falcon's
-Wing. Turn to 333.
+A musket ball thuds into your shoulder, the impact stops you dead in your tracks and you are thrown into the long grass. *Lose 74 Endurance points.* If you are still alive Lynx, unhurt, comes to your side, crawling through the long grass. Quickly she applies a field dressing and a local anaesthetic. The Autodoc will deal with the rest, Falcon,' she says. Looking up over the edge of the long grass, you see the blue-coats stepping back into the woods. The Union have finally occupied Culp's Hill. Suddenly, a section of the woods on the left side of Culp's Hill winks out. Yelov has escaped in his Time Machine. Lynx drops her head in disappointment. 'I'll have to find him again. Thanks anyway, Falcon, let's head back to our Machines.' Slowly, you crawl through the grass until you are behind the Confederate lines. 'Well good luck, Falcon, I hope to see you soon. Bet you I get Yelov before you get Baal!' Smiling, you climb Benner's Hill and soon you are approaching the clump of trees disguising Falcon's Wing. Turn to 333.
 
 31
-You try to avoid the attack, but it hits you squarely on the
-shoulder sending up a shower of sparks. Subtract 3 from your
-Battlesuit armour points, but it has protected you from any damage
-this time. Will you:
-Launch a rocket at the thing in Achov's
-powersuit?
-Fire your Particle Disruptor?
+You try to avoid the attack, but it hits you squarely on the shoulder sending up a shower of sparks. Subtract 3 from your Battlesuit armour points, but it has protected you from any damage this time. Will you:
 
+Launch a rocket at the thing in Achov's powersuit?
+Fire your Particle Disruptor?
 Turn to 11
 Turn to 292
 
