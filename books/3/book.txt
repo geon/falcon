@@ -2332,89 +2332,51 @@ can do nothing as you are held there, while Darkhome Warriors
 cut you to shreds.
 
 193
-You pull the trigger and the Particle Disruptor discharges into
-the belly of the creature. The computer graphics show the
-hideous beast dissolving into the dust. Heaving a sigh of relief
-you head back to Falcon's Wing as fast as you can, before your
-battlesuit gives way under the pressure of tons of dust. Quickly
-you fire your Particle Disruptor, severing the hausers
-connected to Falcon's Wing and then get inside it. As far as
-Captain Cresap Ord is concerned, when he draws up the
-severed hauser, you will have been killed in an unfortunate
-accident. Turn to 260.
+You pull the trigger and the Particle Disruptor discharges into the belly of the creature. The computer graphics show the hideous beast dissolving into the dust. Heaving a sigh of relief you head back to Falcon's Wing as fast as you can, before your battlesuit gives way under the pressure of tons of dust. Quickly you fire your Particle Disruptor, severing the hausers connected to Falcon's Wing and then get inside it. As far as Captain Cresap Ord is concerned, when he draws up the severed hauser, you will have been killed in an unfortunate accident. Turn to 260.
 
 194
-You hurl yourself up the stairs but you can see out of the corner
-of your eye that the sailor is about to throw his dagger at you.
-
-Make an Evasion Roll, as you try to dodge the blade.
+You hurl yourself up the stairs but you can see out of the corner of your eye that the sailor is about to throw his dagger at you. Make an Evasion Roll, as you try to dodge the blade.
 If you score 6-12, turn to 217
 If you score 2-5, turn to 229
 
 195
-
+You throw yourself aside and draw your blaster. Bragg opens
+fire and there is a loud report as Achov fires his projectile
+weapon. Make an Evasion Roll.
 If you score 6-12, turn to 184
 If you score 2-5, turn to 175
 
 196
-The Rigellian shakes his head, unsure as to what has happened
-to him. It serves only to increase his puzzled uncertainty. Will
-you:
+The Rigellian shakes his head, unsure as to what has happened to him. It serves only to increase his puzzled uncertainty. Will you:
+
+Attack him from behind?
+Creep round the edge of the glade and into Falcon's Wing from the back?
 Turn to 140
 Turn to 129
 
 197
-Out of the darkness something huge slams into you. You can
-feel its jaws clamp around your right arm and the battlesuit
-instruments go haywire. It is actually biting through the suit!
-Subtract 2 from your armour points. In a few moments your arm will
-be bitten off, armour and all. Fighting down your panic, you
-realise your Particle Disruptor must be halfway down its throat.
-However, the impact may have damaged it. Will you:
+Out of the darkness something huge slams into you. You can feel its jaws clamp around your right arm and the battlesuit instruments go haywire. It is actually biting through the suit! Subtract 2 from your armour points. In a few moments your arm will be bitten off, armour and all. Fighting down your panic, you realise your Particle Disruptor must be halfway down its throat. However, the impact may have damaged it. Will you:
+
 Thinkstrike the creature?
 Launch a rocket at it?
 Try and fire your Particle Disruptor?
-
-Turn to 269
-Turn to 278
-
-199
-
-You throw yourself aside and draw your blaster. Bragg opens
-fire and there is a loud report as Achov fires his projectile
-weapon. Make an Evasion Roll.
-
-Attack him from behind?
-Creep round the edge of the glade and into
-Falcon's Wing from the back?
-
-Flee down the left tunnel?
-Flee down the right tunnel?
-
 Turn to 316
 Turn to 327
 Turn to 338
 
 198
-You run on down the tunnel, the five Warriors close behind.
-Breathing hard as you stretch yourself to the limits to keep
-yourself ahead of your hunters, you come to a fork in the
-tunnel. You can see a small circle of light down the left tunnel,
-the right tunnel is dark and gloomy, as featureless as the rest of
-the complex. Will you:
+You run on down the tunnel, the five Warriors close behind. Breathing hard as you stretch yourself to the limits to keep yourself ahead of your hunters, you come to a fork in the tunnel. You can see a small circle of light down the left tunnel, the right tunnel is dark and gloomy, as featureless as the rest of the complex. Will you:
 
-You are a split second too slow. The yellow fireball explodes
-against your thigh, engulfing you in flame. You fall to the
-ground, charred to a cinder.
+Flee down the left tunnel?
+Flee down the right tunnel?
+Turn to 269
+Turn to 278
+
+199
+You are a split second too slow. The yellow fireball explodes against your thigh, engulfing you in flame. You fall to the ground, charred to a cinder.
 
 200
-You step out into the Control Room. Suddenly, something
-sweeps across your legs, knocking you to the ground. Looking
-around, you see a set of several long human-like arms, charred
-and burnt, heaving a bloated body out from under the lift. It had
-been clinging to the bottom of the lift. A crocodile head, jaws
-snapping, rears up above you, dripping slimy juices. You try to
-roll aside as the head whips down at you. Make an Evasion Roll.
+You step out into the Control Room. Suddenly, something sweeps across your legs, knocking you to the ground. Looking around, you see a set of several long human-like arms, charred and burnt, heaving a bloated body out from under the lift. It had been clinging to the bottom of the lift. A crocodile head, jaws snapping, rears up above you, dripping slimy juices. You try to roll aside as the head whips down at you. Make an Evasion Roll.
 If you score 5-12, turn to 118
 If you score 2-4, turn to 130
 
