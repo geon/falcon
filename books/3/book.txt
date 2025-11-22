@@ -357,7 +357,8 @@ Turn to 287
 Turn to 22
 Turn to 34
 
-59 [Score a G]
+59
+[Score a G]
 You move around to the other ridge and climb up it. As you
 reach the top, you can see Achov lying in the very place you
 were intending to be. The whole thing was a trap! It was hoping
@@ -1288,7 +1289,8 @@ itself. As you come to your feet you can see a translucent white
 triangle on the floor, three small squares embedded in each
 corner, a section of the Rack. Quickly you grab it. Turn to 124.
 
-114 [Score an S]
+114
+[Score an S]
 You draw your blaster and fire at the disciple of Baal. He is
 completely surprised and you cannot miss at this range. A river
 of superheated plasma ploughs into him, burning away his head
@@ -1374,7 +1376,8 @@ mind of the Rigellian warrior. Make a Thinkstrike Roll.
 If you score 6-12, turn to 185
 If you score 2-5, turn to 196
 
-121 [Score a P]
+121
+[Score a P]
 Drawing your blaster, you aim it at Baal. It is a large target, but
 
 You notice that Tsu Tsang is not limping. There seems to be
@@ -2031,7 +2034,8 @@ bellows of rage fill the cavern. You know it will only be a matter
 of minutes before Baal has dealt with the Cavers and is hot on
 your trail. Turn to 204.
 
-172 [Score a B]
+172
+[Score a B]
 You concentrate hard, trying to bend the huge warrior to your
 will. Luckily, his thought patterns are not unlike a human's, and
 you catch him completely unawares; to him you are a young
@@ -2193,7 +2197,8 @@ Fire at Baal?
 Turn to 210
 Turn to 222
 
-183 [Score an E]
+183
+[Score an E]
 You activate one of your homing rockets. It surges up out of
 your back-rack launcher but its retros do not function at all well
 in this dust and your radar tells you it has lodged a few feet away
@@ -2279,7 +2284,8 @@ and jet back to Falcon's Wing. You tell CAIN to set co-ordinates
 for the Eiger Vault in a tired voice, your mission complete. Turn
 to 420.
 
-189 [Score a V]
+189
+[Score a V]
 You concentrate your mind in an attempt to control the mind
 behind the coal black eyes. Make a Power of Will Roll.
 If you score 6-12, turn to 224
@@ -2677,7 +2683,8 @@ Try to get another shot in with your blaster? Turn to 232
 Make a run for the door?
 Turn to 265
 
-219 [Score an E]
+219
+[Score an E]
 Too late, you realise the creature has no mind to control. You
 draw back, your mind in horror, as you touch upon its primitive
 thoughts, an all-consuming desire to kill and feed, frightening in
@@ -3597,7 +3604,8 @@ Endurance. It is not long before Falcon's Wing has materialised.
 Have you visited Dustbowl before? If you have, turn to 7. If you
 have not turn to 16.
 
-288 [Score an E]
+288
+[Score an E]
 You switch on your jetboosters but nothing happens. You
 realise that they cannot ignite properly in all this dust. Turn to
 197.
@@ -3661,7 +3669,8 @@ turn to 320.
 Have you spoken to Agent Bloodhound on this mission? If you
 have, turn to 307. If you have not, turn to 274.
 
-294 [Score an S]
+294
+[Score an S]
 You send a mental probe at Braxton Bragg. His thought
 patterns are human, he is not the creature. He stares at you, his
 eyes narrowing. Then comprehension dawns on his face and he
@@ -3810,7 +3819,8 @@ that may be left of the creature in the mine. Saddened by the
 death of Caleb, who saved your life, you leave the Control
 Room. Turn to 147.
 
-303 [Score an E]
+303
+[Score an E]
 As fast as you can you lay a rocket at your feet and back off.
 When the large blip on your radar display is over the tiny blip of
 your rocket, you send out the detonation signal. There is no
@@ -4115,7 +4125,8 @@ and takes your arm off, your suit collapses under the pressure of
 the dust and you are crushed to death before you can suffer the
 horror of being eaten alive.
 
-328 [Score a V]
+328
+[Score a V]
 You draw your blaster and fire in one smooth motion. A bolt of
 plasma slams into McReady's leg, smashing him against the
 door. He howls, an unearthly, inhuman sound, and his eyes roll
@@ -4924,7 +4935,8 @@ enormous power invades yours; it is completely irresistible and
 you can do nothing whilst you are held as several Warriors slice
 you into sections with their hands.
 
-386 [Score a G]
+386
+[Score a G]
 Together you leave the hill. There is a pause in the battle; both
 sides are tired and the day's fighting is virtually over. You walk
 past groups of exhausted and wounded men, artillery batteries,
@@ -5029,7 +5041,8 @@ Turn to 319
 Try to flamethrow it?
 Thinkstrike it?
 
-393 [Score a J]
+393
+[Score a J]
 Moving onto the slab you are relieved to find that you have not
 set off any trap. You step off the stone grid in front of the altar.
 Turn to 134.
@@ -5393,7 +5406,8 @@ act. Turn to 8.
 The bolt narrowly misses you and strikes the floor of the cavern
 with a loud crash. Turn to 35.
 
-419 [Score a J]
+419
+[Score a J]
 Moving onto the slab you are relieved to find that you have not
 set off any trap. You step off the stone grid in front of the altar.
 Turn to 134.
