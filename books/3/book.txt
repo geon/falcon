@@ -3253,59 +3253,34 @@ Make a Chance Roll.
 If you score 1, 3, 5 or 6, turn to 415
 If you score 2 or 4, turn to 281
 
-in your Autodoc and regain up to 12 points of lost Endurance during the
-journey. You rematerialise in the Eiger Vault and whilst a TIME
-maintenance team is replenishing Falcon's Wing's supply of
-polybdenum, you instruct CAIN to link up with the Eiger
-service computer to check for any news. CAIN reports that
-nothing new has occurred during your visit to Rigel Prime. You
-will have to continue your search. Which timehole will you
-travel to:
-The colony planet, Dustbowl, in the year 2764
-AD?
+263
+You set co-ordinates for Earth in 3033 AD and you are soon surrounded by the grey nothingness of null-space. You may lie in your Autodoc and *regain up to 12 points of lost Endurance during the journey.* You rematerialise in the Eiger Vault and whilst a TIME maintenance team is replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger service computer to check for any news. CAIN reports that nothing new has occurred during your visit to Rigel Prime. You will have to continue your search. Which timehole will you travel to:
+
+The colony planet, Dustbowl, in the year 2764 AD?
+South America, Earth, 1409 AD, the time of the Aztecs?
+North America, Earth, 1863 AD, the time of the American Civil War?
 Turn to 10
-South America, Earth, 1409 AD, the time of
-the Aztecs?
 Turn to 22
-North America, Earth, 1863 AD, the time of
-the American Civil War?
 Turn to 34
 
 264
-As the burly sailor approaches you attempt to seize control of
-his mind. Make a Power of Will Roll.
+As the burly sailor approaches you attempt to seize control of his mind. Make a Power of Will Roll.
 If you score 5-12, turn to 329
 If you score 2-4, turn to 153
 
 265
-You leap for the door, but a lance of ruby light from Bragg's
-pistol burns into your chest and a pellet of lead from Achov's
-gun thuds into your stomach. You hit the floor, hard. The last
-words you ever hear are: 'Damn, it looks like he was human
-after all!'
+You leap for the door, but a lance of ruby light from Bragg's pistol burns into your chest and a pellet of lead from Achov's gun thuds into your stomach. You hit the floor, hard. The last words you ever hear are: 'Damn, it looks like he was human after all!'
 
 266
-As you run for the altar, you can feel one of the slabs shifting
-under foot. There is a click and a volley of small javelins fly out of
-small niches in the wall. One of them slams into your left arm.
-Lose 8 Endurance points. If you are still alive, you ignore the pain and
-race on. Turn to 293.
+As you run for the altar, you can feel one of the slabs shifting under foot. There is a click and a volley of small javelins fly out of small niches in the wall. One of them slams into your left arm. Lose 8 Endurance points. If you are still alive, you ignore the pain and race on. Turn to 293.
 
 267
-You point your flamethrower and squeeze its trigger, trying to
-bathe it in flame. Make an Attack Roll.
-
-263
-You set co-ordinates for Earth in 3033 AD and you are soon
-surrounded by the grey nothingness of null-space. You may lie
-
+You point your flamethrower and squeeze its trigger, trying to bathe it in flame. Make an Attack Roll.
 If you score 6-12, turn to 403
 If you score 2-5, turn to 380
 
 268
-With a thrill of horror you realise too late that it has no means of
-detecting light. In fact your flashlights are completely dampened
-by the dust. Turn to 197.
+With a thrill of horror you realise too late that it has no means of detecting light. In fact your flashlights are completely dampened by the dust. Turn to 197.
 
 269
 You race on, but the Warriors are gaining on you. It is growing
