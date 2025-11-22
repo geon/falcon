@@ -3321,31 +3321,7 @@ are looking for lies behind the door! Do you have a piece of the
 Rack with small circles at each of its three corners with you? If
 you do, turn to 391. If you do not, turn to 385.
 
-small triangles at each corner with you, as well as the one you
-have just picked up? If you have, turn to 305. If you have not,
-turn to 320.
-
 291
-
-Have you spoken to Agent Bloodhound on this mission? If you
-have, turn to 307. If you have not, turn to 274.
-
-294
-[Score an S]
-You send a mental probe at Braxton Bragg. His thought
-patterns are human, he is not the creature. He stares at you, his
-eyes narrowing. Then comprehension dawns on his face and he
-nods imperceptibly at you, he realises you are a psionic and
-wants you to continue. Who will you test now:
-Achov?
-McReady?
-Caleb?
-
-Turn to 321
-Turn to 312
-Turn to 304
-
-295
 You reach out with your mind and try to dominate the will of
 the Cosmic being known as Baal. But all you do is provoke Baal
 to contemptuous laughter as he sweeps aside your mental
@@ -3371,6 +3347,28 @@ through the roof into the room and comes to his feet on the
 floor. His weight sets off a trap and a volley of javelins fly at him,
 but they shatter against his skin as if they were made of sand.
 He hardly notices them. Do you have a piece of the Rack with
+small triangles at each corner with you, as well as the one you
+have just picked up? If you have, turn to 305. If you have not,
+turn to 320.
+
+294
+[Score an S]
+You send a mental probe at Braxton Bragg. His thought
+patterns are human, he is not the creature. He stares at you, his
+eyes narrowing. Then comprehension dawns on his face and he
+nods imperceptibly at you, he realises you are a psionic and
+wants you to continue. Who will you test now:
+
+Achov?
+McReady?
+Caleb?
+Turn to 321
+Turn to 312
+Turn to 304
+
+295
+Have you spoken to Agent Bloodhound on this mission? If you
+have, turn to 307. If you have not, turn to 274.
 
 296
 You have no other way of getting in other than destroying the
@@ -3387,10 +3385,10 @@ towards you up the corridor. You recognise it as it is almost
 identical to the one that attacked you on Dustbowl. It is heading
 straight for you and it speaks, a horrible bubbling sound, human
 words not meant for an alien throat: 'You must die, Intruder!'
+
 Will you:
 Thinkstrike it?
 Launch a rocket at it?
-
 Turn to 398
 Turn to 276
 
