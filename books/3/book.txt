@@ -4613,8 +4613,7 @@ You have misjudged how close your pursuers were. You
 unleash a blast of superheated plasma that virtually vaporises
 two of them but another slams into you, wielding a wickedly
 curved dagger. Acting instinctively, you fall backwards underneath him and use your foot to throw him over your head.
-However, another slashes your arm as you roll to your feet. Lose.
-6 Endurance points. If you are still alive, you despatch him with a
+However, another slashes your arm as you roll to your feet. *Lose 6 Endurance points.* If you are still alive, you despatch him with a
 swift karate kick, driving him back into those behind him. This
 gives you enough time to run on. They seem hesitant to follow
 you now, and soon you have left them behind. A few moments
@@ -4630,8 +4629,6 @@ and run on into the safety of Falcon's Wing. Make an Evasion
 Roll.
 If you score 6-12, turn to 360
 If you score 2-5, turn to 112
-
-396
 
 390
 You draw your blaster and fire in one smooth motion. The
@@ -4654,11 +4651,11 @@ of the burning creature. It shoots up into the air on glistening
 leathery wings, about four foot long, insect-shaped, but with
 six, vaguely humanoid arms and a blunt head with a long
 curving proboscis of sharp bone. It dives down at you. Will you:
-Turn to 337
-Turn to 319
 
 Try to flamethrow it?
 Thinkstrike it?
+Turn to 337
+Turn to 319
 
 393
 [Score a J]
@@ -4678,6 +4675,7 @@ attacker. Make a Power of Will Roll.
 If you score 6-12, turn to 25
 If you score 2-5, turn to 33
 
+396
 You shake yourself out of your shocked horror. You must
 defend yourself as the creature continues to change, the head
 crunching in on itself and forming a huge gaping maw where
@@ -4700,9 +4698,9 @@ detour around their position when a Confederate officer spots
 you and shouts: 'You, get into line there,' gesturing with his
 sabre for you to join the line of infantrymen, some of whom look
 up at you expectantly. Will you:
+
 Run past the stone wall?
 Obey the officer and get in line?
-
 Turn to 55
 Turn to 41
 
