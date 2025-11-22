@@ -2363,43 +2363,19 @@ If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
 216
-The Rigellian tries to twist aside but a white-hot stream of
-plasma takes him in the shoulder and he is bowled to the ground.
-He lies there inert, but still breathing. Soon you are in the crashcouch of Falcon's Wing. Your body feels as light as air now that
-you are in the artificial gravity of Falcon's Wing. After you have
-told CAIN what happened, it chimes: 'You must have landed in a
-Rigellian ritual combat arena. My data banks tell me you have
-changed Rigellian history slightly, Falcon. The defeated warrior
-was of the Arocks clan. They have now been disgraced since you
-were taken to be an Arocks assassin with a new 'dishonourable'
-weapon. This will have to be logged in TIME records of course.'
-Resisting the temptation to turn CAIN off, you prepare for
-another time jump. Where will you search for the Rack now:
+The Rigellian tries to twist aside but a white-hot stream of plasma takes him in the shoulder and he is bowled to the ground. He lies there inert, but still breathing. Soon you are in the crashcouch of Falcon's Wing. Your body feels as light as air now that you are in the artificial gravity of Falcon's Wing. After you have told CAIN what happened, it chimes: 'You must have landed in a Rigellian ritual combat arena. My data banks tell me you have changed Rigellian history slightly, Falcon. The defeated warrior was of the Arocks clan. They have now been disgraced since you were taken to be an Arocks assassin with a new 'dishonourable' weapon. This will have to be logged in TIME records of course.' Resisting the temptation to turn CAIN off, you prepare for another time jump. Where will you search for the Rack now:
 
-Earth in the time of the Aztecs, if you have not
-done so already?
-Turn to
-Earth in the time of the American Civil War, if
-you have not done so already?
-Turn to
-The colony planet, Dustbowl, in the year 2764
-AD, if you have not done so already?
-Turn to
-The Eiger Vault, in case the Monitoring Section
-has any information for you?
-Turn to
-
-22
-34
-10
-52
+Earth in the time of the Aztecs, if you have not done so already?
+Earth in the time of the American Civil War, if you have not done so already?
+The colony planet, Dustbowl, in the year 2764 AD, if you have not done so already?
+The Eiger Vault, in case the Monitoring Section has any information for you?
+Turn to 22
+Turn to 34
+Turn to 10
+Turn to 52
 
 217
-You twist aside and the knife whistles past your shoulder,
-clattering into the steel wall of the cabin. You sprint away up the
-stairs and out onto the deck. Without stopping you dash for the
-gangplank, but one of the crew is turning the harpoon gun on
-you and fires it. Instinctively, you duck. Make an Evasion Roll.
+You twist aside and the knife whistles past your shoulder, clattering into the steel wall of the cabin. You sprint away up the stairs and out onto the deck. Without stopping you dash for the gangplank, but one of the crew is turning the harpoon gun on you and fires it. Instinctively, you duck. Make an Evasion Roll.
 If you score 5-12, turn to 354
 If you score 2-4, turn to 364
 
