@@ -523,214 +523,71 @@ You concentrate hard, but it is surprisingly easy to take control of their tiny 
 Soon you are safe in your bay at the Eiger Vault, You call in a maintenance team to make the necessary repairs to Falcon's Wing whilst you reflect on what could have happened had you been wearing your battlesuit in the fight against Baal. You have two parts of the Rack now, you must search for the third. Your only clue is the timeline disturbances and the death of Kingfisher on the timehole on Cave. After the Maintenance Techs have completed their work, you set co-ordinates for Cave, in the year 432 AD. Turn to 205.
 
 87
-The battle continues for a few minutes more. The stocky
-Rigellian parries an axe cut with his armoured hand and then
-whips his spiked hand across the other's chest, gashing him.
-Encouraged, he redoubles his attack but the other twists aside
-and, his arm a blur, seems to pass the twin-bladed sword across
+The battle continues for a few minutes more. The stocky Rigellian parries an axe cut with his armoured hand and then whips his spiked hand across the other's chest, gashing him. Encouraged, he redoubles his attack but the other twists aside and, his arm a blur, seems to pass the twin-bladed sword across the stocky. Rigellian's thigh, opening up a deep wound. He follows up with a mighty axe blow, and the stocky Rigellian is hurled backwards. Suddenly he disappears into a tree. To your horror you realise he has fallen into the hologram disguising Falcon's Wing! The taller Rigellian stands stock still in utter amazement. You must act quickly. Your Time Machine could be damaged and you must also minimise any effects on Rigellian history its sighting may have. Will you:
 
-the stocky. Rigellian's thigh, opening up a deep wound. He
-follows up with a mighty axe blow, and the stocky Rigellian is
-hurled backwards. Suddenly he disappears into a tree. To your
-horror you realise he has fallen into the hologram disguising
-Falcon's Wing! The taller Rigellian stands stock still in utter
-amazement. You must act quickly. Your Time Machine could be
-damaged and you must also minimise any effects on Rigellian
-history its sighting may have. Will you:
 Thinkstrike the last Rigellian?
+Attack the Rigellian from behind, perhaps you can knock him out without being seen?
+Creep around the edge of the glade and enter Falcon's Wing from the rear?
 Turn to 120
-Attack the Rigellian from behind, perhaps you
-can knock him out without being seen?
 Turn to 140
-Creep around the edge of the glade and enter
-Falcon's Wing from the rear?
 Turn to 129
 
 88
-Cross the magnesite off your Agent Profile. You pack it around
-the door, stand well back and fire a blast of plasma that ignites
-the bluish rock. There is a bright flare of blue light that fills the
-cavern with the light of day for a few seconds. After the reaction
-is over you examine the door, but to your dismay it is left
-without a scratch, and is not even warm. You will have to try
-something else. Return to 35 and choose again.
+Cross the magnesite off your Agent Profile. You pack it around the door, stand well back and fire a blast of plasma that ignites the bluish rock. There is a bright flare of blue light that fills the cavern with the light of day for a few seconds. After the reaction is over you examine the door, but to your dismay it is left without a scratch, and is not even warm. You will have to try something else. Return to 35 and choose again.
 
 89
-A few seconds pass and then there is a ragged cheering,
-accompanied by a strange whooping from behind you. Popping
-your head up over the long grass you can see a horde of
-Confederate Infantry in a full blooded charge at the Union lines.
-They will pass over you in a few moments. You lie still,
-pretending to be dead. You can hear the repeated volleys of
-musketfire from the Union lines and the shrieks of the wounded
-and dying as the Confederates press home their attack. After
-they have gone, you risk a look. A brief hand-to-hand struggle
-ensues and then the blue coats fall back, the Confederates too
-exhausted to pursue for now. Suddenly, a movement catches
-your eye and a section of wood just disappears. Your holodetector no longer registers another Time Machine. It looks like
-Yelov has escaped. You make your way to Benner's Hill where
-you are pleased to see Lynx waiting for you. 'I stopped his
-attempt on Ewell, but I couldn't prevent him reaching his Time
-Machine,' she says despondently. 'I was hoping you'd be there.'
-You tell Lynx what happened. 'Lucky to be alive, as usual, eh,
-
-Falcon? Anyway, I must try to find him again. Thanks and good
-luck with the Baal mission.' Turn to 333.
+A few seconds pass and then there is a ragged cheering, accompanied by a strange whooping from behind you. Popping your head up over the long grass you can see a horde of Confederate Infantry in a full blooded charge at the Union lines. They will pass over you in a few moments. You lie still, pretending to be dead. You can hear the repeated volleys of musketfire from the Union lines and the shrieks of the wounded and dying as the Confederates press home their attack. After they have gone, you risk a look. A brief hand-to-hand struggle ensues and then the blue coats fall back, the Confederates too exhausted to pursue for now. Suddenly, a movement catches your eye and a section of wood just disappears. Your holodetector no longer registers another Time Machine. It looks like Yelov has escaped. You make your way to Benner's Hill where you are pleased to see Lynx waiting for you. 'I stopped his attempt on Ewell, but I couldn't prevent him reaching his Time Machine,' she says despondently. 'I was hoping you'd be there.' You tell Lynx what happened. 'Lucky to be alive, as usual, eh, Falcon? Anyway, I must try to find him again. Thanks and good luck with the Baal mission.' Turn to 333.
 
 90
-The lift functions as an Environment Dome, but is completely
-transparent. You can see out over the Sea of Dust. The sun,
-bright and very white, is rising over the edge of the cliffs, many
-miles distant, illuminating the Sea of Dust with silver light.
-Visibility is not good, the air is filled with fine dust which glitters
-redly in the sun, but you can still make out the vast expanse of
-heaving dust, a deep rusty red, almost like a lake of blood,
-punctuated with small specks of gleaming silver - whaling ships.
-The lift, actually as large as the warehouse you arrived in,
-hurtles down at an incredible pace and soon you are on the
-wharf of the port, breathing through your mask. Several
-massive whaling ships, of steel from bow to stern, and powered
-with sails, are berthed. Some are unloading massive crates of
-whalemeat and oil, others are taking in supplies before going out
-again. Darting behind a large crate you set up the tripod and
-begin searching for any signs of the Rack. You find nothing,
-and, after cursing your wasted journey, head back to the lift.
-Turn to 40.
+The lift functions as an Environment Dome, but is completely transparent. You can see out over the Sea of Dust. The sun, bright and very white, is rising over the edge of the cliffs, many miles distant, illuminating the Sea of Dust with silver light. Visibility is not good, the air is filled with fine dust which glitters redly in the sun, but you can still make out the vast expanse of heaving dust, a deep rusty red, almost like a lake of blood, punctuated with small specks of gleaming silver - whaling ships. The lift, actually as large as the warehouse you arrived in, hurtles down at an incredible pace and soon you are on the wharf of the port, breathing through your mask. Several massive whaling ships, of steel from bow to stern, and powered with sails, are berthed. Some are unloading massive crates of whalemeat and oil, others are taking in supplies before going out again. Darting behind a large crate you set up the tripod and begin searching for any signs of the Rack. You find nothing, and, after cursing your wasted journey, head back to the lift. Turn to 40.
 
 91
-A laser beam cuts into the ice inches just behind you, raising a
-cloud of vaporised steam that freezes again instantly. Will you:
+A laser beam cuts into the ice inches just behind you, raising a cloud of vaporised steam that freezes again instantly. Will you:
+
 Fire your Particle Disruptor again?
 Launch a rocket?
-
 Turn to 381
 Turn to 11
 
 92
-At this. Captain Nathan stares at you thoughtfully for a
-moment. Suddenly he leaps up and points at you, shouting,
-'Quickly men, kill him in the name of Baal, he is the Time
-Traveller, Baal has delivered him to us!' You act instantly,
-driving your fist into the throat of the nearest sailor. He sinks to
-his knees, gurgling in agony, temporarily disabled. The other
-vaults the desk, his dagger gleaming wickedly. Meanwhile
-Captain Nathan picks up a microphone and alerts his crew to
-your presence, it seems the whole ship belongs to the priests of
-Baal! Will you:
+At this, Captain Nathan stares at you thoughtfully for a moment. Suddenly he leaps up and points at you, shouting, 'Quickly men, kill him in the name of Baal, he is the Time Traveller, Baal has delivered him to us!' You act instantly, driving your fist into the throat of the nearest sailor. He sinks to his knees, gurgling in agony, temporarily disabled. The other vaults the desk, his dagger gleaming wickedly. Meanwhile Captain Nathan picks up a microphone and alerts his crew to your presence, it seems the whole ship belongs to the priests of Baal! Will you:
+
 Run for the stairs?
 Thinkstrike the oncoming sailor?
-
 Turn to 194
 Turn to 206
 
 93
-The white triangle is heating up. Examining it, you can see it
-pulsing with white light. Somehow, it knows Baal is here or else
-it is registering the presence of another segment of the Rack
-nearby. Turn to 111.
+The white triangle is heating up. Examining it, you can see it pulsing with white light. Somehow, it knows Baal is here or else it is registering the presence of another segment of the Rack nearby. Turn to 111.
 
 94
-An hour passes as you labour on, and the storm lessens a little.
-Then you come to the top of a gnarled ice ridge, looking down
-into a valley, where a large grey dome rests. Black smoke
-seeping out from an exhaust vent is whipped away in the wind.
-This must be the mining station, and using the tripod again, you
-are able to tell that the item you seek lies far below it. Then you
-notice a figure in an industrial powersuit coming around the
-back of the Dome, making towards the circular air-lock door at
-its base. The figure sees you and stops in its tracks. The body is
-in a posture of surprise. Your battlesuit picks up a radio signal
-from the figure. 'I mean, wow, man, like really ultra! Who are
-you? I mean, I thought this filthy ice-cube was uninhabited,'and
-he breaks into laughter. You send a message back, saying you
-are a Scout whose Explorer Class starship's drive failed.
-'Am I glad to see you!' you say. 'I thought I'd never find the
-mining station.'
-'What a story, man. Hey, that's really ultra! You'd better come
-down, I'll take you to the manager. Ultra warm in the Dome.'
-You'll have to enter the Dome anyway so you go down and join
-the man. Minutes later, you are through the Dome's air-lock.
-The man is stripping off his powersuit, so you do the same,
-stepping out in your environment suit and hanging your
-battlesuit next to a row of the powersuits. They are virtually the
-same as yours save without weaponry, armour, microbeam
-radar, jetpack and the like. He is a tall, thin man, unshaven and
-unwashed, characterised by quick nervous movements of his
-hands. As he leads you down a functional grey corridor, all steel,
-lined with pipes and illuminated by strip-lights, he says, 'I am Sil
-McReady, the Engineer, pleased to meet you.' You introduce
-yourself as Lieutenant Falcon of the Scouts. 'Here's the Rec
-Room, not what you'd call really ultra but it's better'n stinking
-ice!' and he opens a door in the right hand wall. Turn to 359.
+An hour passes as you labour on, and the storm lessens a little. Then you come to the top of a gnarled ice ridge, looking down into a valley, where a large grey dome rests. Black smoke seeping out from an exhaust vent is whipped away in the wind. This must be the mining station, and using the tripod again, you are able to tell that the item you seek lies far below it. Then you notice a figure in an industrial powersuit coming around the back of the Dome, making towards the circular air-lock door at its base. The figure sees you and stops in its tracks. The body is in a posture of surprise. Your battlesuit picks up a radio signal from the figure. 'I mean, wow, man, like really ultra! Who are you? I mean, I thought this filthy ice-cube was uninhabited,'and he breaks into laughter. You send a message back, saying you are a Scout whose Explorer Class starship's drive failed.
+
+'Am I glad to see you!' you say. 'I thought I'd never find the mining station.'
+
+'What a story, man. Hey, that's really ultra! You'd better come down, I'll take you to the manager. Ultra warm in the Dome.' You'll have to enter the Dome anyway so you go down and join the man. Minutes later, you are through the Dome's air-lock. The man is stripping off his powersuit, so you do the same, stepping out in your environment suit and hanging your battlesuit next to a row of the powersuits. They are virtually the same as yours save without weaponry, armour, microbeam radar, jetpack and the like. He is a tall, thin man, unshaven and unwashed, characterised by quick nervous movements of his hands. As he leads you down a functional grey corridor, all steel, lined with pipes and illuminated by strip-lights, he says, 'I am Sil McReady, the Engineer, pleased to meet you.' You introduce yourself as Lieutenant Falcon of the Scouts. 'Here's the Rec Room, not what you'd call really ultra but it's better'n stinking ice!' and he opens a door in the right hand wall. Turn to 359.
 
 95
-In a flash you have your blaster in your hand. Squeezing the
-trigger you bathe your assailant in a stream of hot plasma. His
-dagger stops inches from your side and he is blown back against
-the wall with a loud crash, sinking to the floor, a charred mess.
-The other two, screaming loudly, hurl themselves at you. You
-blast one, burning his leg and are struggling with the other
-when Cresap Ord bursts in with several men. Your attackers
-are pulled off. After questioning you, the captain orders them
-locked in the brig. He asks why you think they attacked you, but
-you pretend ignorance. He examines you suspiciously for a few
-seconds and then says, 'Anyway, carrying an energy weapon is
-illegal. Normally, I'm supposed to arrest you now and return to
-port, but I need the placs you'll pay me. However, I'll have to take
-the weapon and hand you over to the authorities when we
-return. It shouldn't be too bad, you are an Offworlder and you
-were acting in self-defence.' He holds out his hand and you give
-him your blaster, realising it would be more trouble than it's
-worth to refuse it. You have several more in Falcon's Wing
-anyway. You may note you have a new blaster the next time you
-are in Falcon's Wing. The captain thanks you and leaves, telling
-you to lock the door. The rest of the night passes uneventfully.
-Turn to 106.
+In a flash you have your blaster in your hand. Squeezing the trigger you bathe your assailant in a stream of hot plasma. His dagger stops inches from your side and he is blown back against the wall with a loud crash, sinking to the floor, a charred mess. The other two, screaming loudly, hurl themselves at you. You blast one, burning his leg and are struggling with the other when Cresap Ord bursts in with several men. Your attackers are pulled off. After questioning you, the captain orders them locked in the brig. He asks why you think they attacked you, but you pretend ignorance. He examines you suspiciously for a few seconds and then says, 'Anyway, carrying an energy weapon is illegal. Normally, I'm supposed to arrest you now and return to port, but I need the placs you'll pay me. However, I'll have to take the weapon and hand you over to the authorities when we return. It shouldn't be too bad, you are an Offworlder and you were acting in self-defence.' He holds out his hand and you give him your blaster, realising it would be more trouble than it's worth to refuse it. You have several more in Falcon's Wing anyway. You may note you have a new blaster the next time you are in Falcon's Wing. The captain thanks you and leaves, telling you to lock the door. The rest of the night passes uneventfully. Turn to 106.
 
 96
-You point the pencil-like microbeam key at the door and press
-the button. To your pleasure the door slides silently open, and
-you step through. Lying on the floor is a translucent white
-triangle, with three small squares buried at each corner, the
-Rack section. Grabbing it you turn back to the door. Stepping
-out into the cavern you see to your consternation that Baal,
-howling triumphantly, has defeated all of the Caver Warriors
-and is now turning his attention to you. He points at you and a
-flare of energy builds up at his fingertips. You are just about to
-steal yourself to try and avoid the imminent fireball, when the
-segment of the Rack you have just picked up glows hotly in your
-hands. Baal snarls angrily as he tries to send lethal energy
-winging its way towards you across the cavern. He tries again
-and again, but it seems the piece you have just picked up is
-preventing him from using his natural energy. He is still deadly,
-however. Now you will have to try to get to the corridor on the
-other side of the cavern. As you run out across the rocky floor,
-he scoops up the grisly remains of a Warrior and readies himself
+You point the pencil-like microbeam key at the door and press the button. To your pleasure the door slides silently open, and you step through. Lying on the floor is a translucent white triangle, with three small squares buried at each corner, the Rack section. Grabbing it you turn back to the door. Stepping out into the cavern you see to your consternation that Baal, howling triumphantly, has defeated all of the Caver Warriors and is now turning his attention to you. He points at you and a flare of energy builds up at his fingertips. You are just about to steal yourself to try and avoid the imminent fireball, when the segment of the Rack you have just picked up glows hotly in your hands. Baal snarls angrily as he tries to send lethal energy winging its way towards you across the cavern. He tries again and again, but it seems the piece you have just picked up is preventing him from using his natural energy. He is still deadly, however. Now you will have to try to get to the corridor on the other side of the cavern. As you run out across the rocky floor, he scoops up the grisly remains of a Warrior and readies himself to hurl it at you. You will have to distract Baal in some way. Will you:
 
-to hurl it at you. You will have to distract Baal in some way. Will
-you:
 Use your Power of Will on Baal?
 Fire your blaster at Baal?
 Try to Thinkstrike Baal?
-
 Turn to 132
 Turn to 141
 Turn to 152
 
 97
-You jump into the air as a two-foot barbed javelin explodes from
-the wall, six inches from the floor. It hurtles away under your
-feet and thuds into the far wall, thrumming loudly for a
-moment. You land on the slab safely. Wiping the sweat from
-your brow you continue on. Will you:
-Step onto the slab directly ahead of you, in the
-last row?
+You jump into the air as a two-foot barbed javelin explodes from the wall, six inches from the floor. It hurtles away under your feet and thuds into the far wall, thrumming loudly for a moment. You land on the slab safely. Wiping the sweat from your brow you continue on. Will you:
+
+Step onto the slab directly ahead of you, in the last row?
+Step onto the slab diagonally to your right, the middle slab on the last row?
+Step directly to your right, to the centremost of the nine slabs?
 Turn to 393
-Step onto the slab diagonally to your right, the
-middle slab on the last row?
 Turn to 404
-Step directly to your right, to the centremost
-of the nine slabs?
 Turn to 373
 
 98
