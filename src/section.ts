@@ -242,7 +242,7 @@ export function parseDiceRollInstructions(sections: Section[]): Section[] {
 	// TODO: Verify that the scores section indices are consecutive.
 
 	// Insert the dice rolls in the untouched sections.
-	const result = [...sections];
+	const result = sections.slice();
 	const firstSectionIndex = outcomes[0].sectionIndex;
 	result.splice(firstSectionIndex, outcomes.length, {
 		type: "diceRoll",
