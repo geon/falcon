@@ -743,12 +743,12 @@ Turn to 160
 124
 You must try to get out of the cavern. You sprint out of the chamber running as fast as you can for the tunnel opposite. Baal grabs the body of a dead Warrior as if it were a rag doll and prepares to hurl it at you. Desperately, you try to spoil his aim. Will you:
 
-Turn to 152
-Turn to 132
-Turn to 190
 Thinkstrike Baal?
 Use your Power of Will?
 Fire your blaster at him?
+Turn to 152
+Turn to 132
+Turn to 190
 
 125
 The air begins to shimmer above the altar, at the top of the pyramid. A huge twenty-foot figure materialises, hanging in ' space. It is a powerfully muscled man, a deep red in colour, with slitted, reptillian eyes and taloned fingers. A nimbus of yellow energy plays about its form. You recognise Baal. The crowd seems to gasp in astonishment as one, and many fall to their knees, trembling in fear. The priests and the Emperor fall abjectly to the floor and a whisper of 'Huitzilopochtli! It's Huitzilopochtli, the Lord of War,' ripples around the plaza. Turn to 82.
@@ -769,10 +769,10 @@ If you score 2-5, turn to 145
 128
 You disappear unseen, down the tunnel leading away from the scene of bloody carnage. After a while, the tunnel forks. The right hand tunnel is dark and gloomy, as featureless as the rest of Darkhome. However, you can see a faint glimmer of white light down the left tunnel. Which tunnel will you go down:
 
-Turn to 362
-Turn to 374
 The left hand tunnel?
 The right hand tunnel?
+Turn to 362
+Turn to 374
 
 129
 Grunting, you force yourself up the side of the glade, and soon you are at its edge. You can see that it is part of a large open area, mostly grass, dotted with areas of hilly ground, marsh and forest, all mostly squat and in shades of blue in sharp contrast with the maroon sky. You can just make out some kind of fence or barrier enclosing a few square miles of terrain. It appears you were unlucky enough to materialise in one of the arenas set aside for the ritual combat CAIN spoke of. Soon you have worked yourself around to the back of Falcon's Wing. Breathing heavily after the effort of walking in this gravity, you enter the hologram. At the base of Falcon's Wing lies the body of the defeated Rigellian, a yellowish fluid seeping from a great wound in its chest. As you approach Falcon's Wing, there is a loud shout and the other Rigellian leaps in, eyes staring in uncertainty, legs braced for attack as he comes to a halt, obviously expecting a trap. He stares at Falcon's Wing for a moment but then sees you, what he believes to be an apprentice medic. Your Universal Translator renders his guttural speech as close as possible into words you can understand as he bellows at you: Treachery! Dishonour upon the Clan Arocks! So "Strong-in-arm-andbody" had an apothecary hidden nearby to help him in battle? I would not have thought it of him. But now your life is forfeit, as is the claim of the Clan Arocks in this matter.' Slowly he raises the axe, almost as large as you. Will you:
