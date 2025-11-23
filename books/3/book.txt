@@ -1639,77 +1639,32 @@ Turn to 264
 Turn to 275
 
 287
-You set co-ordinates for Dustbowl, 2764 AD, and soon you are
-questing through null-space with your thoughts. You may lie in
-the Autodoc during the journey and regain up to 12 points of lost
-Endurance. It is not long before Falcon's Wing has materialised.
-Have you visited Dustbowl before? If you have, turn to 7. If you
-have not turn to 16.
+You set co-ordinates for Dustbowl, 2764 AD, and soon you are questing through null-space with your thoughts. You may lie in the Autodoc during the journey and regain up to 12 points of lost Endurance. It is not long before Falcon's Wing has materialised.
+Have you visited Dustbowl before?
+
+If you have,
+If you have not,
+Turn to 7
+Turn to 16
 
 288
 [Score an E]
-You switch on your jetboosters but nothing happens. You
-realise that they cannot ignite properly in all this dust. Turn to
-197.
+You switch on your jetboosters but nothing happens. You realise that they cannot ignite properly in all this dust. Turn to 197.
 
 289
-You try to twist aside but the stream of liquid splatters against
-your leg briefly. It smokes and bubbles, burning through your
-suit and eating into your calf. Lose 3 Endurance points. If you are still
-alive, Braxton Bragg fires his laser pistol but the creature,
-lowering its head, smashes through the door and is away.
-Hurriedly you begin washing the acidic liquid off your leg, as
-Bragg and Achov stand momentarily stunned at what has
-happened. Bragg looks at you and says: 'Good work, Lieutenant.
-What made you think it was him?'
+You try to twist aside but the stream of liquid splatters against your leg briefly. It smokes and bubbles, burning through your suit and eating into your calf. Lose 3 Endurance points. If you are still alive, Braxton Bragg fires his laser pistol but the creature, lowering its head, smashes through the door and is away. Hurriedly you begin washing the acidic liquid off your leg, as Bragg and Achov stand momentarily stunned at what has happened. Bragg looks at you and says: 'Good work, Lieutenant. What made you think it was him?'
+
 'He didn't say "ultra" once in ten minutes,' you reply.
-Bragg nods. 'Poor McReady, it must have got to him in the radio
-room. If only I hadn't sent him there alone,' he says, ashenfaced. Turn to 250.
+
+Bragg nods. 'Poor McReady, it must have got to him in the radio room. If only I hadn't sent him there alone,' he says, ashenfaced. Turn to 250.
 
 290
-As you continue on, the twisting corridors carry an echo of
-trilling Noble voices and a much deeper resonant booming trill.
-Eventually, you come to the end of the tunnel without
-encountering anything. Hanging back in the shadows of the
-corridor you are able to survey the scene unseen. It is a large
-cavern, obviously the centre of the rebel territory. Over a
-hundred Warriors are standing in a tight block in the centre of
-the chamber. Burrowers and other Worker types are busying
-themselves with various tasks, digging, feeding the Warriors
-and so on. Several Nobles are conferring with the strangest
-sight of all in the far corner of the cavern. It is a huge pale
-bulbous mass of blubbery flesh. A small head rests atop the
-mass. This must be what a Caver Queen looks like. One of the
-Nobles is speaking: The offensive is going well, Baal-Mother.
-These devices you have given us,' pointing to a laser pistol, 'will
-assure our victory. But we are worried, you have not yet laid a
-Batch, is there something wrong, Mother? We are in need of
-replacements.'
-The huge mass speaks, with the deep resonant sound you heard
+As you continue on, the twisting corridors carry an echo of trilling Noble voices and a much deeper resonant booming trill. Eventually, you come to the end of the tunnel without encountering anything. Hanging back in the shadows of the corridor you are able to survey the scene unseen. It is a large cavern, obviously the centre of the rebel territory. Over a hundred Warriors are standing in a tight block in the centre of the chamber. Burrowers and other Worker types are busying themselves with various tasks, digging, feeding the Warriors and so on. Several Nobles are conferring with the strangest sight of all in the far corner of the cavern. It is a huge pale bulbous mass of blubbery flesh. A small head rests atop the mass. This must be what a Caver Queen looks like. One of the Nobles is speaking: The offensive is going well, Baal-Mother. These devices you have given us,' pointing to a laser pistol, 'will assure our victory. But we are worried, you have not yet laid a Batch, is there something wrong, Mother? We are in need of replacements.'
 
-earlier: 'All in good time, Batch 16-A4-13. All in good time. Just
-ensure my place as rightful Mother of Darkhome.' Your
-attention wanders from this conversation when you notice a
-stack of advanced machinery next to the bloated mass,
-something that should not be here at this time. You also notice,
-almost directly opposite you, a huge door, about eighteen feet in
-height. It is of a shiny metal, and surrounded by domed lights
-glowing dully. It is jarringly out of place in a culture that has not
-yet discovered the wheel. As you look at the door you begin to
-pick up some kind of psionic static from it. After a few minutes'
-concentration, you are able to tell that the piece of the Rack you
-are looking for lies behind the door! Do you have a piece of the
-Rack with small circles at each of its three corners with you? If
-you do, turn to 391. If you do not, turn to 385.
+The huge mass speaks, with the deep resonant sound you heard earlier: 'All in good time, Batch 16-A4-13. All in good time. Just ensure my place as rightful Mother of Darkhome.' Your attention wanders from this conversation when you notice a stack of advanced machinery next to the bloated mass, something that should not be here at this time. You also notice, almost directly opposite you, a huge door, about eighteen feet in height. It is of a shiny metal, and surrounded by domed lights glowing dully. It is jarringly out of place in a culture that has not yet discovered the wheel. As you look at the door you begin to pick up some kind of psionic static from it. After a few minutes' concentration, you are able to tell that the piece of the Rack you are looking for lies behind the door! Do you have a piece of the Rack with small circles at each of its three corners with you? If you do, turn to 391. If you do not, turn to 385.
 
 291
-You reach out with your mind and try to dominate the will of
-the Cosmic being known as Baal. But all you do is provoke Baal
-to contemptuous laughter as he sweeps aside your mental
-attack with ease. His ego is too powerful. However, your
-attention is drawn to the oncoming Warriors. All you can do is
-try to gain some time by using your blaster on them, as they are
-almost upon you. Make an Attack Roll.
+You reach out with your mind and try to dominate the will of the Cosmic being known as Baal. But all you do is provoke Baal to contemptuous laughter as he sweeps aside your mental attack with ease. His ego is too powerful. However, your attention is drawn to the oncoming Warriors. All you can do is try to gain some time by using your blaster on them, as they are almost upon you. Make an Attack Roll.
 If you score 6-12, turn to 315
 If you score 2-5, turn to 323
 
@@ -1719,26 +1674,11 @@ If you score 6-12, turn to 71
 If you score 2-5, turn to 83
 
 293
-You snatch up the glowing triangle, which has a small dark circle
-embedded in each of its corners. Note it on your Agent Profile
-and the fact that it has small circles embedded in it. You dash
-back towards the portal, as bricks and mortar cascade into the
-room. Before you have reached the doorway, Baal crashes
-through the roof into the room and comes to his feet on the
-floor. His weight sets off a trap and a volley of javelins fly at him,
-but they shatter against his skin as if they were made of sand.
-He hardly notices them. Do you have a piece of the Rack with
-small triangles at each corner with you, as well as the one you
-have just picked up? If you have, turn to 305. If you have not,
-turn to 320.
+You snatch up the glowing triangle, which has a small dark circle embedded in each of its corners. Note it on your Agent Profile and the fact that it has small circles embedded in it. You dash back towards the portal, as bricks and mortar cascade into the room. Before you have reached the doorway, Baal crashes through the roof into the room and comes to his feet on the floor. His weight sets off a trap and a volley of javelins fly at him, but they shatter against his skin as if they were made of sand. He hardly notices them. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up? If you have, turn to 305. If you have not, turn to 320.
 
 294
 [Score an S]
-You send a mental probe at Braxton Bragg. His thought
-patterns are human, he is not the creature. He stares at you, his
-eyes narrowing. Then comprehension dawns on his face and he
-nods imperceptibly at you, he realises you are a psionic and
-wants you to continue. Who will you test now:
+You send a mental probe at Braxton Bragg. His thought patterns are human, he is not the creature. He stares at you, his eyes narrowing. Then comprehension dawns on his face and he nods imperceptibly at you, he realises you are a psionic and wants you to continue. Who will you test now:
 
 Achov?
 McReady?
@@ -1748,153 +1688,61 @@ Turn to 312
 Turn to 304
 
 295
-Have you spoken to Agent Bloodhound on this mission? If you
-have, turn to 307. If you have not, turn to 274.
+Have you spoken to Agent Bloodhound on this mission?
+
+If you have,
+If you have not,
+Turn to 307
+Turn to 274
 
 296
-You have no other way of getting in other than destroying the
-door. You lift your Particle Disruptor and open fire. The door
-virtually disappears, a sheen of atomized metals puff outward as
-the air inside rushes out. You jet in, just as an emergency
-bulkhead shuts behind you, sealing the air in. Your battlesuit
-analyses the air, it will bear human life, but not for long as it
-contains toxic substances. You find yourself in a well lit corridor
-of polished steel. Thirty foot square curving away round a
-corner. You jet around the corner to be greeted by a strange
-sight. What can only be described as a twelve foot fly is hurtling
-towards you up the corridor. You recognise it as it is almost
-identical to the one that attacked you on Dustbowl. It is heading
-straight for you and it speaks, a horrible bubbling sound, human
-words not meant for an alien throat: 'You must die, Intruder!'
+You have no other way of getting in other than destroying the door. You lift your Particle Disruptor and open fire. The door virtually disappears, a sheen of atomized metals puff outward as the air inside rushes out. You jet in, just as an emergency bulkhead shuts behind you, sealing the air in. Your battlesuit analyses the air, it will bear human life, but not for long as it contains toxic substances. You find yourself in a well lit corridor of polished steel. Thirty foot square curving away round a corner. You jet around the corner to be greeted by a strange sight. What can only be described as a twelve foot fly is hurtling towards you up the corridor. You recognise it as it is almost identical to the one that attacked you on Dustbowl. It is heading straight for you and it speaks, a horrible bubbling sound, human words not meant for an alien throat: 'You must die, Intruder!' Will you:
 
-Will you:
 Thinkstrike it?
 Launch a rocket at it?
 Turn to 398
 Turn to 276
 
 297
-The sailor grunts in pain but comes on, unaffected and leaps at
-you. Make an Attack Roll.
+The sailor grunts in pain but comes on, unaffected and leaps at you. Make an Attack Roll.
 If you score 7-12, turn to 240
 If you score 2-6, turn to 252
 
 298
-You can hardly miss such a large target. You pour a sustained
-blast of superheated plasma into the pale creature and it roars in
-pain. Then the blubbery mass of the Mother begins to dissolve
-before your very eyes, seemingly metamorphosing. Seconds
-later, Baal stands in the Mother's place, bellowing in anger. With
-a flash of insight, you realise he has been posing as a Cave .
-Mother using his hallucinatory mind-powers, but your
-concentrated blast of plasma, whilst it has not harmed him
-seriously, has prevented him from maintaining the illusion. At
-this, the Nobles order the Warriors to halt and begin trilling
-agitatedly amongst themselves. They know they have been
-tricked into rebelling against their rightful Mother and they see
-Baal as an intruder now. Taking this opportunity, you sprint for
-the door. However, Baal, furious, screams, 'You have meddled
-in my plans too often, mortal. Your puny little organisation can
-never hope to defeat me, Baal, the Lord of Flies!' and the sound
-echoes around the chamber so that you can almost feel the floor
-reverberating. Then he points at you, and a yellow bolt of
-energy forks from his finger, crackling through the air toward
-you. You must try to dodge the attack. Make an Evasion Roll.
+You can hardly miss such a large target. You pour a sustained blast of superheated plasma into the pale creature and it roars in pain. Then the blubbery mass of the Mother begins to dissolve before your very eyes, seemingly metamorphosing. Seconds later, Baal stands in the Mother's place, bellowing in anger. With a flash of insight, you realise he has been posing as a Cave . Mother using his hallucinatory mind-powers, but your concentrated blast of plasma, whilst it has not harmed him seriously, has prevented him from maintaining the illusion. At this, the Nobles order the Warriors to halt and begin trilling agitatedly amongst themselves. They know they have been tricked into rebelling against their rightful Mother and they see Baal as an intruder now. Taking this opportunity, you sprint for the door. However, Baal, furious, screams, 'You have meddled in my plans too often, mortal. Your puny little organisation can never hope to defeat me, Baal, the Lord of Flies!' and the sound echoes around the chamber so that you can almost feel the floor reverberating. Then he points at you, and a yellow bolt of energy forks from his finger, crackling through the air toward you. You must try to dodge the attack. Make an Evasion Roll.
 If you score 6-12, turn to 418
 If you score 2-5, turn to 24
 
 299
-You burst out into the plaza, it is completely deserted. It appears
-the crowds have fled in the face of what has happened. All that
-remain are a few black-robed priests of Huitzilopochtli, whom
-they believe Baal to be. You sprint across the plaza. Glancing
-behind, you can see Baal e r u p t i n g from the building, leaving it a
-mass of broken masonry. He soars into the air and speeds after
-you. You are shocked to see that he has some means of natural
-flight without wings, at his disposal, perhaps some form of
-telekenisis, or mind over matter. He is gaining on you. Will you:
-Turn, kneel and fire your blaster at him?
-Turn to 75
-Run on, hoping to reach Falcon's Wing before
-he does?
-Turn to 372
-300
-You manage to take control of two of their minds with relative
-ease and you force them to attack their fellows. Instantly
+You burst out into the plaza, it is completely deserted. It appears the crowds have fled in the face of what has happened. All that remain are a few black-robed priests of Huitzilopochtli, whom they believe Baal to be. You sprint across the plaza. Glancing behind, you can see Baal e r u p t i n g from the building, leaving it a mass of broken masonry. He soars into the air and speeds after you. You are shocked to see that he has some means of natural flight without wings, at his disposal, perhaps some form of telekenisis, or mind over matter. He is gaining on you. Will you:
 
-carnage ensues. Your two Warriors are cut to shreds, but not
-before they have claimed the life of one other warrior. The last
-two rush at you. You must try to avoid their first attack so you
-can get a shot in with your blaster again. Make an Evasion Roll
-as they slash at you with their natural arsenal of weaponry.
+Turn, kneel and fire your blaster at him?
+Run on, hoping to reach Falcon's Wing before he does?
+Turn to 75
+Turn to 372
+
+300
+You manage to take control of two of their minds with relative ease and you force them to attack their fellows. Instantly carnage ensues. Your two Warriors are cut to shreds, but not before they have claimed the life of one other warrior. The last two rush at you. You must try to avoid their first attack so you can get a shot in with your blaster again. Make an Evasion Roll as they slash at you with their natural arsenal of weaponry.
 If you score 6-12, turn to 326
 If you score 2-5, turn to 332
 
 301
-Knowing you will change the past, you spin, drop to one knee
-and bring your blaster up at your pursuers in one fluid motion.
-You can see their eyes widen in fear at this but you squeeze the
-trigger. Make an Attack Roll.
+Knowing you will change the past, you spin, drop to one knee and bring your blaster up at your pursuers in one fluid motion. You can see their eyes widen in fear at this but you squeeze the trigger. Make an Attack Roll.
 If you score 7-12, turn to 378
 If you score 2-6, turn to 389
 
 302
-You step out into the Control Room. Caleb is waiting for you
-there and he smiles a greeting. Then his eyes widen in surprise.
-Suddenly, something sweeps across your legs, knocking you to
-the ground. Looking around, you see a set of several long
-human like arms, charred and burnt, heaving a bloated body out
-from under the lift. It had been clinging to the bottom of the lift.
-A crocodile head, jaws snapping, rears up above you, dripping
-slimy juices. Caleb rushes in and sprays it with flame, giving you
-time to scramble away. But then another spear of sharpened
-bone lashes out from the creature, even as it burns. Caleb is too
-slow to avoid it and it buries itself in his head, killing him
-instantly. The bony spear detaches itself from the flaming mass
-and begins to disappear into Caleb's body, transforming it.
-Quickly you use your flamethrower. You burn it thoroughly,
-making sure there is nothing left but charcoal. Then you use
-your blaster to reduce the lift to molten metal, sealing anything
-that may be left of the creature in the mine. Saddened by the
-death of Caleb, who saved your life, you leave the Control
-Room. Turn to 147.
+You step out into the Control Room. Caleb is waiting for you there and he smiles a greeting. Then his eyes widen in surprise. Suddenly, something sweeps across your legs, knocking you to the ground. Looking around, you see a set of several long human like arms, charred and burnt, heaving a bloated body out from under the lift. It had been clinging to the bottom of the lift. A crocodile head, jaws snapping, rears up above you, dripping slimy juices. Caleb rushes in and sprays it with flame, giving you time to scramble away. But then another spear of sharpened bone lashes out from the creature, even as it burns. Caleb is too slow to avoid it and it buries itself in his head, killing him instantly. The bony spear detaches itself from the flaming mass and begins to disappear into Caleb's body, transforming it. Quickly you use your flamethrower. You burn it thoroughly, making sure there is nothing left but charcoal. Then you use your blaster to reduce the lift to molten metal, sealing anything that may be left of the creature in the mine. Saddened by the death of Caleb, who saved your life, you leave the Control Room. Turn to 147.
 
 303
 [Score an E]
-As fast as you can you lay a rocket at your feet and back off.
-When the large blip on your radar display is over the tiny blip of
-your rocket, you send out the detonation signal. There is no
-
-effect, and the creature keeps coming. Either it was completely
-unhurt, or, more likely, the weight of the dust contained the
-explosion. Perhaps it did not even go off. It is almost upon you
-now, turn to 197.
+As fast as you can you lay a rocket at your feet and back off. When the large blip on your radar display is over the tiny blip of your rocket, you send out the detonation signal. There is no effect, and the creature keeps coming. Either it was completely unhurt, or, more likely, the weight of the dust contained the explosion. Perhaps it did not even go off. It is almost upon you now, turn to 197.
 
 304
-You reach out to Caleb's mind. You find his thought patterns
-are human, he is not the creature. He grunts and says, staring at
-you. 'What the hell are you doing to my mind? What are you?'
-The rest turn to you, staring. Turn to 272.
+You reach out to Caleb's mind. You find his thought patterns are human, he is not the creature. He grunts and says, staring at you. 'What the hell are you doing to my mind? What are you?' The rest turn to you, staring. Turn to 272.
 
 305
-You can feel that parts of the Rack are growing hot. Examining
-them, you can see they are pulsing with white light, reacting to
-the presence of Baal. Then you can feel an incredibly powerful
-malevolent will, the mind of Baal, invading your mind. You
-cannot stand against such force you realise. Baal smiles evilly.
-But then the Rack segments begin to pulse faster and the power
-of Baal's will lessens. His smile fades and he struggles to seize
-your mind. His attack continues to fade, until you see him
-struggling to use his mind powers, his face contorted with rage.
-He bellows, 'So, you have half of the Rack! But now I will end
-your petty existence, mortal.' His voice reverberates around the
-room, almost deafening you. You realise that the two parts of
-the Rack, acting together, are preventing him from using his
-psychic power! He screams in rage, then he points at you and a
-crackling ball of yellow energy explodes from his hand and
-burns towards you. Thunderstruck by such natural power, you
-hurl yourself out of the door in an attempt to avoid the fireball.
-Make an Evasion Roll.
+You can feel that parts of the Rack are growing hot. Examining them, you can see they are pulsing with white light, reacting to the presence of Baal. Then you can feel an incredibly powerful malevolent will, the mind of Baal, invading your mind. You cannot stand against such force you realise. Baal smiles evilly. But then the Rack segments begin to pulse faster and the power of Baal's will lessens. His smile fades and he struggles to seize your mind. His attack continues to fade, until you see him struggling to use his mind powers, his face contorted with rage. He bellows, 'So, you have half of the Rack! But now I will end your petty existence, mortal.' His voice reverberates around the room, almost deafening you. You realise that the two parts of the Rack, acting together, are preventing him from using his psychic power! He screams in rage, then he points at you and a crackling ball of yellow energy explodes from his hand and burns towards you. Thunderstruck by such natural power, you hurl yourself out of the door in an attempt to avoid the fireball. Make an Evasion Roll.
 If you score 6-12, turn to 271
 If you score 2-5, turn to 284
 
@@ -1904,108 +1752,46 @@ If you score 7-12, turn to 331
 If you score 2-6, turn to 339
 
 307
-You set co-ordinates for Earth in 3033 AD and you are soon
-surrounded by the grey nothingness of null-space. You may lie
+You set co-ordinates for Earth in 3033 AD and you are soon surrounded by the grey nothingness of null-space. You may lie in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team is replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger service computer to check for any news. CAIN reports that nothing new has occurred during your visit to Rigel Prime. You will have to continue your search. Which timehole will you travel to:
 
-in your Autodoc and regain up to 12 points of lost Endurance during the
-journey. You rematerialise in the Eiger Vault and whilst a TIME
-maintenance team is replenishing Falcon's Wing's supply of
-polybdenum, you instruct CAIN to link up with the Eiger
-service computer to check for any news. CAIN reports that
-nothing new has occurred during your visit to Rigel Prime. You
-will have to continue your search. Which timehole will you
-travel to:
-The colony planet, Dustbowl, where
-Bloodhound discovered the timehole
-disturbance, in 2764 AD, even if you have
-been to Dustbowl once already?
+The colony planet, Dustbowl, where Bloodhound discovered the timehole disturbance, in 2764 AD, even if you have been to Dustbowl once already?
+South America, Earth, 1409 AD, the time of the Aztecs, if you have not been there already?
+North America, Earth, 1863 AD, the time of the American Civil War, if you have not been there already?
 Turn to 287
-South America, Earth, 1409 AD, the time of
-the Aztecs, if you have not been there
-already?
 Turn to 22
-North America, Earth, 1863 AD, the time of
-the American Civil War, if you have not been
-there already?
 Turn to 34
 
 308
-You swim powerfully, but you can hold your breath no longer.
-You realise you were swimming down, before panic takes you.
-In a few seconds your lungs are filled. You have drowned in a sea
-of dust.
+You swim powerfully, but you can hold your breath no longer. You realise you were swimming down, before panic takes you. In a few seconds your lungs are filled. You have drowned in a sea of dust.
 
 309
-You twist aside and the stinking spray of liquid splashes into the
-wall behind you, where it streams and bubbles, eating into the
-wall. You turn and fire again, but the creature, putting its head
-down, smashes through the door and is away. Caleb and Achov
-stand, stunned. Bragg looks at you and says: 'Good work,
-Lieutenant. What made you think it Was him?'
-'He didn't say 'ultra' once in ten minutes,' you reply.
-Bragg nods. 'Poor McReady, it must have got him in the radio
-room. I should never have sent him there alone.' Turn to 250.
+You twist aside and the stinking spray of liquid splashes into the wall behind you, where it streams and bubbles, eating into the wall. You turn and fire again, but the creature, putting its head down, smashes through the door and is away. Caleb and Achov stand, stunned. Bragg looks at you and says: 'Good work, Lieutenant. What made you think it Was him?' 'He didn't say 'ultra' once in ten minutes,' you reply. Bragg nods. 'Poor McReady, it must have got him in the radio room. I should never have sent him there alone.' Turn to 250.
 
 310
-You stop, panting heavily, and spin, drawing your blaster, the
-superheated plasma claiming three of them before the last two
-are upon you. You must try to avoid their first attack so you can
-
-get a shot in with your blaster again. Make an Evasion Roll as
-they slash at you with their natural arsenal of weaponry.
+You stop, panting heavily, and spin, drawing your blaster, the superheated plasma claiming three of them before the last two are upon you. You must try to avoid their first attack so you can get a shot in with your blaster again. Make an Evasion Roll as they slash at you with their natural arsenal of weaponry.
 If you score 6-12, turn to 326
 If you score 2-5, turn to 332
 
 311
-The two Jaguar Knights stagger back and fall to the ground
-under the effect of your Thinkstrikes. Their minds were
-elsewhere, on the spectacle on the pyramid. No one notices their
-fate and you dash through the curtained doorway into a
-bewildering mass of corridors and large storerooms containing
-stocks of maize, sculpted gold and so on. Eventually you come to
-a wide corridor, lined with friezes, depicting scenes of Aztec
-mythology. At its end is a richly decorated portal leading into a
-large room. When you are nearer, you can see a large altar at the
-end of the room. Upon it lies a translucent white triangle, small
-circles embedded in each corner, giving off a bright white
-radiance. It is a segment of the Rack. In between you and the
-altar, the floor is a checkerboard of nine, six-foot-square stone
-slabs, laid out in a square. Directly ahead of you lies the first
-three.Will you:
+The two Jaguar Knights stagger back and fall to the ground under the effect of your Thinkstrikes. Their minds were elsewhere, on the spectacle on the pyramid. No one notices their fate and you dash through the curtained doorway into a bewildering mass of corridors and large storerooms containing stocks of maize, sculpted gold and so on. Eventually you come to a wide corridor, lined with friezes, depicting scenes of Aztec mythology. At its end is a richly decorated portal leading into a large room. When you are nearer, you can see a large altar at the end of the room. Upon it lies a translucent white triangle, small circles embedded in each corner, giving off a bright white radiance. It is a segment of the Rack. In between you and the altar, the floor is a checkerboard of nine, six-foot-square stone slabs, laid out in a square. Directly ahead of you lies the first three.Will you:
+
 Step out onto the left hand slab?
 The middle slab?
 The right hand slab?
-
 Turn to 330
 Turn to 340
 Turn to 352
 
 312
-You reach out for McReady's mind, but you cannot find
-anything you would normally consider a mind. His thought
-patterns are alien and strange, driven by simple principles,
-survival, multiplying, growing, eating. With horror you draw
-back as you realise the creature knows you have probed it. 'It's
-McReady!' you shout. Turn to 401.
+You reach out for McReady's mind, but you cannot find anything you would normally consider a mind. His thought patterns are alien and strange, driven by simple principles, survival, multiplying, growing, eating. With horror you draw back as you realise the creature knows you have probed it. 'It's McReady!' you shout. Turn to 401.
 
 313
-You turn and set a mental fix on the leading pursuer. You
-unleash a blast of mental energy and your target goes down like
-a sack of potatoes. Concentrating hard you repeat the process
-several times. Your pursuers come to a halt, almost as one.
-Some lie unconscious, others are holding their heads. Passerbys
-stare in horror and then hurry on. You can hear your pursuers
-muttering amongst themselves about 'sorcery' and 'magic'.
+You turn and set a mental fix on the leading pursuer. You unleash a blast of mental energy and your target goes down like a sack of potatoes. Concentrating hard you repeat the process several times. Your pursuers come to a halt, almost as one. Some lie unconscious, others are holding their heads. Passerbys stare in horror and then hurry on. You can hear your pursuers muttering amongst themselves about 'sorcery' and 'magic'. They are a superstitious group and they seem disinclined to chase you after your display of power. Indeed some of them, unsure as to whether their prone comrades are still alive, are beginning to scuttle away. Seizing your chance, you run onwards and they are soon lost to sight. Moments later you are back in the warehouse containing Falcon's Wing, running to the crates marked 'Eiger Corporation'. Have you seen a man with a tattoo on his forearm here on Dustbowl?
 
-They are a superstitious group and they seem disinclined to
-chase you after your display of power. Indeed some of them,
-unsure as to whether their prone comrades are still alive, are
-beginning to scuttle away. Seizing your chance, you run
-onwards and they are soon lost to sight. Moments later you are
-back in the warehouse containing Falcon's Wing, running to the
-crates marked 'Eiger Corporation'. Have you seen a man with a
-tattoo on his forearm here on Dustbowl? If you have, turn to
-350. If you have not, turn to 399.
+If you have
+If you have not
+Turn to 350
+Turn to 399
 
 314
 You step out onto the wooded surface of Benner's Hill. The
