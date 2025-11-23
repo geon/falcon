@@ -6,14 +6,8 @@ import {
 	existsSync,
 } from "fs";
 import { join } from "path";
-import {
-	checkLineBreaks,
-	checkPageNumbers,
-	getPages,
-	parseIntroPage,
-	parsePage,
-	renderPage,
-} from "./page";
+import { parseIntroPage, renderPage } from "./page";
+import { parseBook } from "./book";
 import { getLines } from "./getLines";
 
 const outputMainDirName = "dist";
@@ -23,11 +17,7 @@ function processBook(bookNumber: number) {
 	const imageFolderPath = join("books", bookNumber.toString(), "images");
 
 	const fileContent = readFileSync(bookFilePath).toString("utf8");
-	const lines = getLines(fileContent);
-	const pages = [...getPages(lines)].map(parsePage);
-
-	checkPageNumbers(pages);
-	checkLineBreaks(pages);
+	const pages = parseBook(fileContent);
 
 	if (!existsSync(outputMainDirName)) {
 		mkdirSync(outputMainDirName);
