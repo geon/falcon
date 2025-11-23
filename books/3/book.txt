@@ -1525,214 +1525,80 @@ If you score 2-5, turn to 380
 With a thrill of horror you realise too late that it has no means of detecting light. In fact your flashlights are completely dampened by the dust. Turn to 197.
 
 269
-You race on, but the Warriors are gaining on you. It is growing
-warmer down this tunnel and the light ahead is growing
-brighter. Soon your suit coolant begins to circulate as the heat
-rises dramatically. Your pursuers are slowing, they are not
-accustomed to such heat, but they are doggedly following.
-Suddenly you burst out into a dim white light, which seems
-painfully bright after the gloomy green-tinged blackness of
-Darkhome. You have emerged into a large natural cavern, silent
-and undisturbed for centuries judging by the dust. Looking up
-you see the roof of the cavern, far above. It is cracked and open
-to the sky in places. Shafts of bright white light trickle down into
-the blackness below, where it loses its intensity. Particles of dust
-drift slowly in the light like planets in the vastness of space. Your
-suit registers high levels of harmful radiation and you move on
-towards another tunnel that leads out of the cavern. The five
-Warriors burst in. Immediately, they cover their eyes, obviously
-in great pain from the light, not only on their eyes, but burning
-their skin too. Desperately they try to locate the tunnel you are
-running into, but they cannot. As they blunder about, you rush
-on. Having been given their orders they will try to follow your
-path until they are dead. Soon the tunnel rejoins another and
-you press onward leaving the Warriors far behind. Turn to 290.
+You race on, but the Warriors are gaining on you. It is growing warmer down this tunnel and the light ahead is growing brighter. Soon your suit coolant begins to circulate as the heat rises dramatically. Your pursuers are slowing, they are not accustomed to such heat, but they are doggedly following. Suddenly you burst out into a dim white light, which seems painfully bright after the gloomy green-tinged blackness of Darkhome. You have emerged into a large natural cavern, silent and undisturbed for centuries judging by the dust. Looking up you see the roof of the cavern, far above. It is cracked and open to the sky in places. Shafts of bright white light trickle down into the blackness below, where it loses its intensity. Particles of dust drift slowly in the light like planets in the vastness of space. Your suit registers high levels of harmful radiation and you move on towards another tunnel that leads out of the cavern. The five Warriors burst in. Immediately, they cover their eyes, obviously in great pain from the light, not only on their eyes, but burning their skin too. Desperately they try to locate the tunnel you are running into, but they cannot. As they blunder about, you rush on. Having been given their orders they will try to follow your path until they are dead. Soon the tunnel rejoins another and you press onward leaving the Warriors far behind. Turn to 290.
 
 270
-The fly being realises who you are and lets out a burbling shriek,
-and rises into the air, wings humming. The high priest turns to
-you points and says: There is the Time Traveller in our very
-midst, slay him!' Your arm is a blur as your blaster appears in
-your hand. You fire, playing the white-hot beam of your plasma
-pistol over the fly beast and the altar. It shrivels up like paper and
-the altar explodes, revealing masses of twisted instrumentation.
-At this, the worshippers go into a frenzy of hatred. You cut
-down several but they seem to be fearless and you are soon
-overwhelmed and ripped limb from limb by the fanatical
-worshippers of Baal.
+The fly being realises who you are and lets out a burbling shriek, and rises into the air, wings humming. The high priest turns to you points and says: There is the Time Traveller in our very midst, slay him!' Your arm is a blur as your blaster appears in your hand. You fire, playing the white-hot beam of your plasma pistol over the fly beast and the altar. It shrivels up like paper and the altar explodes, revealing masses of twisted instrumentation. At this, the worshippers go into a frenzy of hatred. You cut down several but they seem to be fearless and you are soon overwhelmed and ripped limb from limb by the fanatical worshippers of Baal.
 
 271
-The fireball erupts in the doorway, engulfing your legs
-momentarily as you roll away. You are badly singed. Lose 6
-Endurance points. If you are still alive, you have a moment to react
-as Baal screams in frustration, seeing you still alive. Will you:
-Fire your blaster at him, maintaining a five
-second burst and then run out, towards
-Falcon's Wing?
+The fireball erupts in the doorway, engulfing your legs momentarily as you roll away. You are badly singed. Lose 6 Endurance points. If you are still alive, you have a moment to react as Baal screams in frustration, seeing you still alive. Will you:
+
+Fire your blaster at him, maintaining a five second burst and then run out, towards Falcon's Wing?
 Make a run for it immediately?
 Thinkstrike Baal?
-
 Turn to 231
 Turn to 243
 Turn to 257
 
 272
-McReady points at you slowly and speaks: 'Lieutenant Falcon is
-the creature, the creature is psionic. There's no telling what
-powers it has. I examined the battlesuit, it's not a scout issue
-suit, nor did we find any trace of a starship or any drive
-emission. We would have picked it up on the sensors, normally.'
-Bragg points his laser pistol at you, his eyes hard flints, 'Yes, Sil,
-there was no trace of a starship. He could be the creature.' Caleb
-backs away from you, readying his flamethrower. Achov draws
-a short snub pistol, an old bullet-throwing weapon. You will
-have to do some fast talking. What will you do:
-Say, 'No, no, I'm a human psionic, nothing
-more. You know they exist. I can help you
-find out who is really the creature - let me
-mind-probe Sil McReady'?
+McReady points at you slowly and speaks: 'Lieutenant Falcon is the creature, the creature is psionic. There's no telling what powers it has. I examined the battlesuit, it's not a scout issue suit, nor did we find any trace of a starship or any drive emission. We would have picked it up on the sensors, normally.' Bragg points his laser pistol at you, his eyes hard flints, 'Yes, Sil, there was no trace of a starship. He could be the creature.' Caleb backs away from you, readying his flamethrower. Achov draws a short snub pistol, an old bullet-throwing weapon. You will have to do some fast talking. What will you do:
+
+Say, 'No, no, I'm a human psionic, nothing more. You know they exist. I can help you find out who is really the creature - let me mind-probe Sil McReady'?
+Say, 'Okay, if I'm the alien, what the hell was it doing trying to kill me in the lab'?
+Make a run for the door, perhaps you can find the Rack segment and get away?
 Turn to 242
-Say, 'Okay, if I'm the alien, what the hell was
-it doing trying to kill me in the lab'?
 Turn to 253
-Make a run for the door, perhaps you can find
-the Rack segment and get away?
 Turn to 265
 
 273
-You twist away from the hurtling bludgeon but it catches you a
-glancing blow on your forearm. However, such is the force
-behind it, that it breaks your arm. Lose 5 Endurance points. If you are
-still alive, you grimace in agony as you are drawn up into
-Falcon's Wing, screaming at CAIN to engage the Variac Drive as
-you do so. Moments later you are safe in null-space. You never
-believed you would ever welcome the grey nothingness that fills
-
-the camera screens as you do now. You have learnt much about
-the art of avoiding damage in your near fatal brushes with Baal.
-Add 1 to your Evasion Modifier. Turn to 248.
+You twist away from the hurtling bludgeon but it catches you a glancing blow on your forearm. However, such is the force behind it, that it breaks your arm. Lose 5 Endurance points. If you are still alive, you grimace in agony as you are drawn up into Falcon's Wing, screaming at CAIN to engage the Variac Drive as you do so. Moments later you are safe in null-space. You never believed you would ever welcome the grey nothingness that fills the camera screens as you do now. You have learnt much about the art of avoiding damage in your near fatal brushes with Baal. *Add 1 to your Evasion Modifier.* Turn to 248.
 
 274
-You set co-ordinates for Earth in 3033 AD and you are soon
-surrounded by the grey nothingness of null-space. You may lie
-in your Autodoc and regain up to 12 points of lost Endurance during the
-journey. You rematerialise in the Eiger Vault and whilst a TIME
-maintenance team is replenishing Falcon's Wing's supply of
-polybdenum, you instruct CAIN to link up with the Eiger
-service computer to check for any news. CAIN chimes:
-'Incoming holo-message, Falcon.'
-Agent Bloodhound's face seems to come alive inside Falcon's
-Wing. He nods a greeting at you, 'On line, Falcon. How's the
-mission going? A tough one this, eh? Anyway, I have an
-important message for you. We've picked up some strange
-disturbances in the timelines of the timehole on Dustbowl. I've
-just returned from a routine check there. Something appeared
-and then left the Dustbowl timehole within a space of about one
-hour. It caused a disturbance in the Winds of Time that is
-completely unlike anything previously recorded and was of
-great power. Monitoring is sure it was not a Variac Drive
-emission. It could be Baal. That's all for now, Falcon. Good luck.
-I'll hope to see you soon in the Rec Centre.'
-'Thanks Blood,' you reply. You must continue your search.
-Where will you go to next:
-The colony planet, Dustbowl, in the year 2764
-AD (even if you have been there once
-already)?
+You set co-ordinates for Earth in 3033 AD and you are soon surrounded by the grey nothingness of null-space. You may lie in your Autodoc and regain up to 12 points of lost Endurance during the journey. You rematerialise in the Eiger Vault and whilst a TIME maintenance team is replenishing Falcon's Wing's supply of polybdenum, you instruct CAIN to link up with the Eiger service computer to check for any news. CAIN chimes: 'Incoming holo-message, Falcon.'
+
+Agent Bloodhound's face seems to come alive inside Falcon's Wing. He nods a greeting at you, 'On line, Falcon. How's the mission going? A tough one this, eh? Anyway, I have an important message for you. We've picked up some strange disturbances in the timelines of the timehole on Dustbowl. I've just returned from a routine check there. Something appeared and then left the Dustbowl timehole within a space of about one hour. It caused a disturbance in the Winds of Time that is completely unlike anything previously recorded and was of great power. Monitoring is sure it was not a Variac Drive emission. It could be Baal. That's all for now, Falcon. Good luck. I'll hope to see you soon in the Rec Centre.'
+
+'Thanks Blood,' you reply. You must continue your search. Where will you go to next:
+
+The colony planet, Dustbowl, in the year 2764 AD (even if you have been there once already)?
+South America, Earth, 1409 AD, the time of the Aztecs, if you have not been there already?
+North America, Earth, 1863 AD, the time of the American Civil War, if you have not been there already?
 Turn to 287
-South America, Earth, 1409 AD, the time of
-the Aztecs, if you have not been there
-already?
 Turn to 22
-North America, Earth, 1863 AD, the time of
-the American Civil War, if you have not been
-there already?
 Turn to 34
 
 275
-You dart past the outstretched arms of the large sailor and
-launch yourself through the air. The dust is so fine, you sink
-
-into it like a stone. You come to a stop, your breath held. You
-cannot see anything at all, opening your eyes would be useless
-anyway, even if you could. You realise 'you are not rising to the
-surface and that you will have to try to swim upwards, but you
-have no sense of direction in this morass of dust. Make a Chance
-Roll.
+You dart past the outstretched arms of the large sailor and launch yourself through the air. The dust is so fine, you sink into it like a stone. You come to a stop, your breath held. You cannot see anything at all, opening your eyes would be useless anyway, even if you could. You realise 'you are not rising to the surface and that you will have to try to swim upwards, but you have no sense of direction in this morass of dust. Make a Chance Roll.
 If you score 1, 3 or 5, turn to 308
 I£ you score 2, 4 or 6, turn to 318
 
 276
-A rocket surges up from your back-rack, slams into the fly
-creature, and explodes ripping it into tiny glutinous bits. You jet
-onward. The corridor stretches ahead for what seems like an
-eternity. Then you can see a darker patch at its end. You shoot
-out, to find yourself flying near the ceiling of an enormous
-pillared vault. All around you at ceiling level is a circle of dark
-niches, their contents indeterminable. There is an echoing roar
-of rage and you look down. There, seated on an enormous
-throne, cut from a single gigantic diamond over thirty feet in
-size, is the powerfully muscled form of Baal. 'Curse you, mortal,
-will you plague me for ever!' he screams. Then he notices that
-you are holding the Rack. It is throbbing with an incredibly
-bright light, so that it is painful to look on. For the first time, you
-see fear on Baal's face. 'No!' he screams. He tries to hurl a yellow
-fireball and he tries to exert his mental power, but he cannot do
-either. Then he tries to fly up to you but he cannot even do that.
-His face contorts with effort as he tries to travel in time but to
-no avail. The Rack is preventing all his powers from working.
-Quickly he bellows, 'Kill him!' From either side of you giant
-flying creatures burst out of the small niches, filling the air with
-a deafening humming. You recognise the fly-like creatures,
-similar to the one you fought on Dustbowl. Will you:
+A rocket surges up from your back-rack, slams into the fly creature, and explodes ripping it into tiny glutinous bits. You jet onward. The corridor stretches ahead for what seems like an eternity. Then you can see a darker patch at its end. You shoot out, to find yourself flying near the ceiling of an enormous pillared vault. All around you at ceiling level is a circle of dark niches, their contents indeterminable. There is an echoing roar of rage and you look down. There, seated on an enormous throne, cut from a single gigantic diamond over thirty feet in size, is the powerfully muscled form of Baal. 'Curse you, mortal, will you plague me for ever!' he screams. Then he notices that you are holding the Rack. It is throbbing with an incredibly bright light, so that it is painful to look on. For the first time, you see fear on Baal's face. 'No!' he screams. He tries to hurl a yellow fireball and he tries to exert his mental power, but he cannot do either. Then he tries to fly up to you but he cannot even do that. His face contorts with effort as he tries to travel in time but to no avail. The Rack is preventing all his powers from working. Quickly he bellows, 'Kill him!' From either side of you giant flying creatures burst out of the small niches, filling the air with a deafening humming. You recognise the fly-like creatures, similar to the one you fought on Dustbowl. Will you:
+
 Fire your Particle Disruptor at Baal?
 Throw the Rack at Baal?
 Try to fight off the fly-like creatures?
-
 Turn to 159
 Turn to 188
 Turn to 139
 
 277
-Drawing upon your innermost resources of mental power you
-manage to throw off Baal's psychic assault. Then the cavern is
-filled with a low growl of frustration and rage and the mass of
-flesh the rebels call the Baal-Mother screams at the Nobles.
+Drawing upon your innermost resources of mental power you manage to throw off Baal's psychic assault. Then the cavern is filled with a low growl of frustration and rage and the mass of flesh the rebels call the Baal-Mother screams at the Nobles. They trill shrilly and twenty or so of the Warriors begin to charge at you from the other side of the cavern in a column What will you do:
 
-They trill shrilly and twenty or so of the Warriors begin to
-charge at you from the other side of the cavern in a column
-What will you do:
-Launch an assault on Baal yourself, using
-Power of Will?
+Launch an assault on Baal yourself, using Power of Will?
+Fire a concentrated blast from your plasma pistol at the Baal-Mother?
+Use your Power of Will to try and control two of the Nobles, get them to order the Warriors off you and use their laser pistols on the Mother?
 Turn to 291
-Fire a concentrated blast from your plasma
-pistol at the Baal-Mother?
 Turn to 298
-Use your Power of Will to try and control two
-of the Nobles, get them to order the
-Warriors off you and use their laser pistols
-on the Mother?
 Turn to 306
 
 278
-You plummet down the glowing tunnel, illuminated by the
-green phosphorescence of the moss. The Warriors are gaining
-on you as you burst out into another Darkhome farm. You are
-following a path cutting through the middle of two lines of vats
-fungus fields stretching away to either side. Some twenty
-metres ahead is the yawning black hole of the exit. Thick blue
-seams of some mineral line the walls above it. Some of the blue
-mineral has fallen in a small pile of crumbled rock near the
-entrance. Gasping for breath, the Warriors almost upon you,
-you realise you won't make it. You'll have to turn and fight. Will
-you:
-Use your blaster on your pursuers?
-Try to use your Power of Will to control two
-them?
-Fire your blaster at the pile of bluish mineral
-at the exit?
+You plummet down the glowing tunnel, illuminated by the green phosphorescence of the moss. The Warriors are gaining on you as you burst out into another Darkhome farm. You are following a path cutting through the middle of two lines of vats fungus fields stretching away to either side. Some twenty metres ahead is the yawning black hole of the exit. Thick blue seams of some mineral line the walls above it. Some of the blue mineral has fallen in a small pile of crumbled rock near the entrance. Gasping for breath, the Warriors almost upon you, you realise you won't make it. You'll have to turn and fight. Will you:
 
+Use your blaster on your pursuers?
+Try to use your Power of Will to control two of them?
+Fire your blaster at the pile of bluish mineral at the exit?
 Turn to 310
-of
 Turn to 300
 Turn to 317
 
