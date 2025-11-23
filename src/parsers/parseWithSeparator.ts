@@ -1,6 +1,9 @@
 import {
+	createParseError,
 	createParseResult,
+	type ParseError,
 	type Parser,
+	type ParseResult,
 } from "../parser-combinators/combinators/Parser.js";
 
 export function parseWithSeparator<T>(
@@ -10,11 +13,14 @@ export function parseWithSeparator<T>(
 	return (input, fromIndex) => {
 		let consumed = 0;
 		const results: T[] = [];
+		function done(error: ParseError): ParseResult<readonly T[]> {
+			return results.length ? createParseResult(consumed, results) : error;
+		}
 
 		for (; consumed < input.length - fromIndex; ) {
 			const parsed = parser(input, fromIndex + consumed);
 			if (parsed.type === "error") {
-				return createParseResult(consumed, results);
+				return done(parsed);
 			}
 
 			consumed += parsed.consumed;
@@ -22,12 +28,17 @@ export function parseWithSeparator<T>(
 
 			const separatorParsed = separator(input, fromIndex + consumed);
 			if (separatorParsed.type === "error") {
-				return createParseResult(consumed, results);
+				return done(separatorParsed);
 			}
 
-			consumed += parsed.consumed;
+			consumed += separatorParsed.consumed;
 		}
 
-		return createParseResult(consumed, results);
+		return done(
+			createParseError(
+				fromIndex,
+				"Reached eof without matching separated elements.",
+			),
+		);
 	};
 }
