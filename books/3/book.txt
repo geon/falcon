@@ -2391,33 +2391,3 @@ Some hours later, you are rested and sitting in Jobanque's office, relating the 
 Jobanque is standing behind his desk, directing operations. Seeing you he says, 'Falcon, good to see you.' He pauses for a moment, smiling at you'. Then he says, 'I've been kicked upstairs, Falcon. They've selected me to be the Earther Lord of TIME, along with Silvermane, Pilota and R1llk of the Keladi! I've also got something for you, Falcon,' and he hands you a sheet of paper. It is an official TIME document. Your heart leaps as you realise you have been promoted to Section Chief, taking over from Jobanque's position. 'Agents Bloodhound, Lynx, Leopard, Chameleon and the rest are all under your command now, Falcon,' Jobanque says happily. 'Congratulations, Section Chief! Before you go, I've one last surprise for you,' and he opens the door. Standing there, grinning, is Braxton Bragg, looking a little older, but much the same, preserved by life-prolonging drugs. He smiles warmly and grabs your hand, shaking it vigorously.
 
 'Good to see you again, after all these years. Falcon. Jobanque has told me all about it. I've always wondered who you were, a Time Traveller, eh! Never would've guessed it back on Chill in a million years.' You leave the TIME building together. He tells you he owns the Mining Company now and you reminisce about what he calls the 'Old Days' together, That thing certainly gave us a hard time, eh, Falcon.' But, of course, for him it was fifty-eight years ago, whilst for you it has only been a matter of days....
-
-SCORING FOR FALCON 2: MECHANON
-If you have played Falcon 2: Mechanon and would like to rate your
-skill as an Agent of TIME, here are the points equivalent of the
-letters you should have recorded.
-Q = -1 J = -1 A = +1 M = +1 N = +1 G = +1
-T = +l L = - 1 I = -1 Y = -1 F = +l H = +l
-
-If your score was:
--4 or below
-You are offered a job you can't refuse - tying Silvermane's
-bootlaces.
-0 to -3
-Demoted to Cadet - 'Get back to the Academy, Falcon.'
-1-2
-Take a three-week refresher course at the Academy.
-3-5
-Congratulations, you deserve your place in the Special Agent
-Section.
-6-7
-
-Well done, a highly competent performance - your hologram
-has gone up in the Hall of Fame.
-
-8-10
-You're the best agent TIME has ever had - you're on-line for
-promotion.
-15+
-As long as you're alive, Earth is safe.
-
