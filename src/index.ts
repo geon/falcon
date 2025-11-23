@@ -14,13 +14,7 @@ import {
 	parsePage,
 	renderPage,
 } from "./page";
-
-function* getLines(string: string) {
-	const lines = string.split("\n");
-	for (const line of lines) {
-		yield line;
-	}
-}
+import { getLines } from "./getLines";
 
 const outputMainDirName = "dist";
 
