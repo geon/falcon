@@ -6,6 +6,7 @@ FALCON 4: LOST IN TIME
 # Falcon 3: The Rack of Baal
 MARK SMITH AND JAMIE THOMSON
 
+image-000.png
 SPHERE BOOKS LIMITED London and Sydney
 
 First published in Great Britain by
@@ -14,6 +15,7 @@ Sphere Books Ltd 1985
 Copyright © 1985 by Mark Smith and Jamie Thomson
 Illustrations by Geoff Senior and Nic Weeks
 
+image-001.png
 This book is sold subject to the condition that it shall not, by way of trade or otherwise, be lent, re-sold, hired out or otherwise circulated without the publisher's prior consent in any form of binding or cover other than that in which it is published and without a similar condition including this condition being imposed on the subsequent purchaser
 
 Set in Andover
@@ -32,6 +34,8 @@ Earth, using Hyperdrive, faster-than-light travel, has established itself as hea
 Travel through time involves crossing a fourth dimension, 'Null-space' or the 'Void' as it is known. This dimension joins all points in time and space from the beginning of the universe to its end. Imagine time as a cable. Earth's Timeline (or past, present and future) is a single strand of this cable 'stretching from Earth's beginning to the end of time. The Timelines of other planets run alongside this and weave around each other, because events on one planet affect things on another. These strands, or Timelines, are insulated from the fourth dimension in the same way that an electrical wire is insulated. At certain points there are holes in the insulation allowing travel from one point on the wire through this hole to a different point on this or another wire. In this way a Time Machine may move from one 'Timehole' to another and from one point in space to another via Null-space.
 
 The Timeholes are formed when the fabric of time is damaged by unknown forces. They can be larger, but are usually less than five miles across. Timeholes come and go as new damage occurs and older Timeholes close up naturally. The Monitoring Section is responsible for keeping the map of current Timeholes. Your up-to-date map is at the beginning of the book. At least one hole has been there for a long time - the Eiger Vault, near the TIME Building in the Alps. It is thought to be a permanent Timehole and your Time Machine, Falcon's Wing, is kept there along with those of the Lords of TIME and other Agents. Some Timeholes are safer than others and it is possible to go back in time only to find that the hole through which you travelled has closed up, trapping the unfortunate traveller in the past. Time passes at the same rate in all Timeholes as on Earth. If you begin a journey to a Timehole ten minutes after somebody else does you will arrive ten minutes later than them. Only those with Psychic Awareness can navigate across Null-space.
+
+image-002.png
 
 # Game Rules
 
@@ -66,6 +70,7 @@ The action in Falcon 3: The Rack of Baal, carries straight on from Falcon 2: Mec
 During Falcon Book 3, you may be issued with a standard issue battlesuit. It has 10 Defence points. When you take damage in the battlesuit you will be told to lose a certain number of points. Simply cross off the relevant amount in the box provided on your Agent Profile.
 
 # STRIKE FIGHTER
+image-003.png
 
 # Equipment
 # Standard Issue for TIME Special Agents
@@ -104,6 +109,12 @@ This helmet helps your Powers of the Mind by damping all other thoughts. It sens
 # ITEM 10: ENVIRONMENT SUIT [see accompanying specifications]
 A light, pressurised suit for use in vacuum, inhospitable atmospheres and extreme ranges of temperature which monitors your life signals such as pulse and temperature. It is compatible with your Psionic Enhancer.
 
+image-004.png
+image-005.png
+image-007.png
+image-006.png
+image-008.png
+
 # Personal Background
 SpecialAgent(TIME) 
 Codename: Falcon
@@ -116,6 +127,9 @@ The rules are very simple - you could almost play this book without reading them
 In Falcon 1: The Renegade Lord, you, as Falcon, after a desperate chase across time, thwarted the evil plans of the renegade Lord of TIME. Falcon also discovered that the then Section Chief of the Special Agents, Agidy Yelov, was in league with the Renegade Lord and was a traitor. Falcon killed the Renegade Lord and captured Yelov. Jobanque was given Yelov's old post.
 
 In Falcon 2: Mechanon, Yelov escaped and swore revenge against Falcon and the Federation. Using the massed wardroids of the factory planet, Mechanon, Yelov planned to conquer the galaxy. But Falcon penetrated Mechanon and killed Yelov in a titanic battle. However, Yelov's last act was to set into motion a series of events that would completely destroy Earth. The only way Falcon could save Earth from annihilation was by changing the past, thus creating a paradox in time in which prior events never took place. The Earth was saved, but Yelov was alive and still at large - Falcon never killed him. This is where the action begins in Falcon 3: The Rack of Baal.
+
+image-010.png
+image-009.png
 
 # Mission Brief
 Once again you are sitting in the office of your Section Chief, Jobanque, after an urgent summons. He eyes you, his face serious. 'Well Falcon, I've sent Lynx out to trail Yelov. There's something even more urgent for you. Baal has escaped.'
