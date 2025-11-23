@@ -1202,59 +1202,19 @@ Turn to 254
 Turn to 238
 
 211
-You invade the mind of one of the Nobles and wrest control of it.
-You force it to turn its laser on another Noble, burning a neat
-hole through its chest, but the other sees this and, trilling in
-surprise, opens fire and kills the one you are controlling. You
-experience the horror of a death by proxy as the mind under
-your control slips into oblivion. Recovering, it is an easy matter
-to pick off the last confused Noble with your blaster. The rebels
-will soon be overwhelmed, especially as their Warrior reserves
-will be unable to act without orders from the Nobles. You head
-towards the tunnel when your foot nudges something on the
-floor. It is a Warrior's severed hand, more like a short sword
-than anything else. Picking it up, you put it in one of your suit
-pouches. Turn to 128.
+You invade the mind of one of the Nobles and wrest control of it. You force it to turn its laser on another Noble, burning a neat hole through its chest, but the other sees this and, trilling in surprise, opens fire and kills the one you are controlling. You experience the horror of a death by proxy as the mind under your control slips into oblivion. Recovering, it is an easy matter to pick off the last confused Noble with your blaster. The rebels will soon be overwhelmed, especially as their Warrior reserves will be unable to act without orders from the Nobles. You head towards the tunnel when your foot nudges something on the floor. It is a Warrior's severed hand, more like a short sword than anything else. Picking it up, you put it in one of your suit pouches. Turn to 128.
 
 212
-You are halfway to Falcon's Wing when suddenly everything
-goes black. The creature has managed to breach the dome and
-Bragg has been killed. Braxton Bragg was your grandfather's
-friend and it was he who was responsible for your grandfather
-meeting your grandmother. They will never meet now, and
-your father will never be born. It is as if you had never existed.
+You are halfway to Falcon's Wing when suddenly everything goes black. The creature has managed to breach the dome and Bragg has been killed. Braxton Bragg was your grandfather's friend and it was he who was responsible for your grandfather meeting your grandmother. They will never meet now, and your father will never be born. It is as if you had never existed.
 
 213
-There is a grunt of pain and the eyes disappear from view for a
-moment. Then they are back, wide with fear and astonishment,
-and you can hear a muffled curse and: 'Evil sorcery!' It seems
-superstition is rife in Refuge in 2764 AD. Then he is gone. You
-are about to force the door when suddenly the quiet alley is filled
-
-with the harsh, deafening cry of an electronic alarm. A moment
-later and you can hear the sound of many running footsteps.
-You have no choice but to flee. You dash down the alleyway as
-ten or more black robed figures burst out of the doorway. One
-of them points at you and says: 'It is the Time Traveller! Kill him,
-in the name of Baal!' Smothering your shocked surprise, you
-sprint away. Turn to 245.
+There is a grunt of pain and the eyes disappear from view for a moment. Then they are back, wide with fear and astonishment, and you can hear a muffled curse and: 'Evil sorcery!' It seems superstition is rife in Refuge in 2764 AD. Then he is gone. You are about to force the door when suddenly the quiet alley is filled with the harsh, deafening cry of an electronic alarm. A moment later and you can hear the sound of many running footsteps. You have no choice but to flee. You dash down the alleyway as ten or more black robed figures burst out of the doorway. One of them points at you and says: 'It is the Time Traveller! Kill him, in the name of Baal!' Smothering your shocked surprise, you sprint away. Turn to 245.
 
 214
-You whip out your blaster and fire, catching Caleb in the arm,
-but he appears to be human. Before you can do anything else,
-Bragg has drilled a neat hole in your chest with his laser pistol.
-You hit the floor. The last words you ever hear are: 'Damn it, he
-was human after all.'
+You whip out your blaster and fire, catching Caleb in the arm, but he appears to be human. Before you can do anything else, Bragg has drilled a neat hole in your chest with his laser pistol. You hit the floor. The last words you ever hear are: 'Damn it, he was human after all.'
 
 215
-The white-hot lightning takes Baal full in the chest and he
-staggers back as you keep up a steady stream of plasma, whilst
-you charge for the exit. Baal howls in pain, but then your blaster
-stops firing, its safety mechanism cutting in as it heats up
-dangerously. If you have the severed hand-blade of a Caver
-Warrior, turn to 163, if not read on. Baal, essentially unhurt,
-hurls the body of the Warrior at you with punishing force. Make
-an Evasion Roll.
+The white-hot lightning takes Baal full in the chest and he staggers back as you keep up a steady stream of plasma, whilst you charge for the exit. Baal howls in pain, but then your blaster stops firing, its safety mechanism cutting in as it heats up dangerously. If you have the severed hand-blade of a Caver Warrior, turn to 163, if not read on. Baal, essentially unhurt, hurls the body of the Warrior at you with punishing force. Make an Evasion Roll.
 If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
@@ -1276,122 +1236,55 @@ If you score 5-12, turn to 354
 If you score 2-4, turn to 364
 
 218
-You are not fast enough and a bolt of ruby light lances into your
-thigh. Lose 6 Endurance points. If you are still alive, Bragg covers you
-with his pistol, saying, 'Hold it right there!' Quickly you say that
-you heard a strange noise in Achov's room not long ago and
-thought he was the creature. 'I was watching a horror holo-vid,
-you idiot,' Achov quips.
-Then McReady points at you slowly and says: 'Lieutenant
-Falcon's the creature. I examined the battlesuit, it's not a scout
-issue suit, nor did we find any trace of a starship or any drive
-emission. We would have picked it up on the sensors, normally.'
-Bragg says speculatively: 'Yes Sil, there was no trace of his
-starship. The Lieutenant could be the creature.' Caleb backs
-away from you, readying his flamethrower. Achov draws a
-short snub pistol, an old bullet-throwing weapon. Sil goes on,
-'You turn up from nowhere and all this starts to happen.' His
-voice is flat and even.
-'What were you doing in the lab anyway?' Caleb says loudly. 'I
-think we should lock him up until the relief ship gets here,
-Braxton.'
+You are not fast enough and a bolt of ruby light lances into your thigh. Lose 6 Endurance points. If you are still alive, Bragg covers you with his pistol, saying, 'Hold it right there!' Quickly you say that you heard a strange noise in Achov's room not long ago and thought he was the creature. 'I was watching a horror holo-vid, you idiot,' Achov quips.
 
-'Yes, maybe we should,' says Bragg and Caleb moves towards
-you. Will you:
-Try to get another shot in with your blaster? Turn to 232
+Then McReady points at you slowly and says: 'Lieutenant Falcon's the creature. I examined the battlesuit, it's not a scout issue suit, nor did we find any trace of a starship or any drive emission. We would have picked it up on the sensors, normally.'
+
+Bragg says speculatively: 'Yes Sil, there was no trace of his starship. The Lieutenant could be the creature.' Caleb backs away from you, readying his flamethrower. Achov draws a short snub pistol, an old bullet-throwing weapon. Sil goes on, 'You turn up from nowhere and all this starts to happen.' His voice is flat and even.
+
+'What were you doing in the lab anyway?' Caleb says loudly. 'I think we should lock him up until the relief ship gets here, Braxton.'
+
+'Yes, maybe we should,' says Bragg and Caleb moves towards you. Will you:
+
+Try to get another shot in with your blaster?
 Make a run for the door?
+Turn to 232
 Turn to 265
 
 219
 [Score an E]
-Too late, you realise the creature has no mind to control. You
-draw back, your mind in horror, as you touch upon its primitive
-thoughts, an all-consuming desire to kill and feed, frightening in
-its intensity. Turn to 197.
+Too late, you realise the creature has no mind to control. You draw back, your mind in horror, as you touch upon its primitive thoughts, an all-consuming desire to kill and feed, frightening in its intensity. Turn to 197.
 
 220
-Desperately, you try to ward off the power of Baal's Will but he
-is too strong for you, even though he is weakened by the Rack.
-You cannot fight any longer and Baal wrests control of your
-mind from you. Laughing manically, he forces you to walk up to
-him. He tears you limb from limb and feeds off your life force
-with some kind of Psychic Vampirism. You have failed.
+Desperately, you try to ward off the power of Baal's Will but he is too strong for you, even though he is weakened by the Rack. You cannot fight any longer and Baal wrests control of your mind from you. Laughing manically, he forces you to walk up to him. He tears you limb from limb and feeds off your life force with some kind of Psychic Vampirism. You have failed.
 
 221
-You are unable to break out of your terror-stricken apathy. A
-tentacle snakes out, lashing around your ankle and tightening,
-eating into your flesh. Lose 3 Endurance points. If you are still alive,
-the agony shocks you into action. Do you have the severed
-hand-blade of a Caver Warrior? If you have, turn to 368. If you
-have not, turn to 239.
+You are unable to break out of your terror-stricken apathy. A tentacle snakes out, lashing around your ankle and tightening, eating into your flesh. Lose 3 Endurance points. If you are still alive, the agony shocks you into action. Do you have the severed hand-blade of a Caver Warrior?
+
+If you have,
+If you have not,
+Turn to 368
+Turn to 239
 
 222
-You spin and aim your blaster but before you can fire, Baal
-launches a psychic attack. An incredibly powerful will invades
-your mind, psychic power you never imagined possible and
-against which you have no hope of resisting. You can do nothing
-as he forces you to mount the pyramid, where your life force is
-consumed by Baal.
+You spin and aim your blaster but before you can fire, Baal launches a psychic attack. An incredibly powerful will invades your mind, psychic power you never imagined possible and against which you have no hope of resisting. You can do nothing as he forces you to mount the pyramid, where your life force is consumed by Baal.
 
 223
-You have missed, firing as you are on the run. The stream of
-plasma crackles past your target's thigh. If you have a severed
-hand-blade of a Caver Warrior, turn to 163, if not read on. Baal
-smiles evilly and hurls the body at you with punishing force.
-Make an Evasion Roll.
+You have missed, firing as you are on the run. The stream of plasma crackles past your target's thigh. If you have a severed hand-blade of a Caver Warrior, turn to 163, if not read on. Baal smiles evilly and hurls the body at you with punishing force. Make an Evasion Roll.
 If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
 224
-His mind falls under your control. You order him to open the
-door and you step inside. In his hand he holds a thin pen black
-pencil device. You recognise it as a microbeam key, used to open
-doors with locks sensitive to a particular microbeam frequency.
-You take it from him. Note it on your Agent Profile. You are in a
-small alcove, with a dimly lit corridor leading away from it. You
-can hear the sounds of rhythmic chanting coming from down
-the corridor. Forcing the door guard to lead you down the
-corridor you decide to investigate the chanting. Then, pausing
-in the shadows at the end of the corridor, you are greeted by a
-strange sight. Forty to fifty people, all in black robes, are
-kneeling before some kind of altar upon which is manacled a
-young man. Beside him stands a tall hawk-faced figure, also in
-black robes. His hands are raised in supplication skyward, the
-sleeves of his robe falling to reveal a tattoo on his forearm in the
-shape of an insect much like the fly of Earth. He holds an
-obsidian dagger in his hand; it seems some strange religious
-ceremony is taking place. Then the robed man at the altar,
-presumably the high priest, screams, 'Come to us, O Servant of
-Baal,' and with one savage motion plunges the obsidian dagger
-into the man on the altar and carves out his heart. Then, much
-. to your surprise, something begins to materialise in the air
-above the altar. Soon it has resolved itself into what can only be
-described as a twelve-foot fly, its huge compound eyes glittering
-malevolently, its black limbs glistening with mucus and lined
-with cilia. Its mouthparts are working violently, oozing a vile
-greyish saliva. Everything goes quiet as the fly nestles onto the
-altar and begins to feed on the sacrificial victim. It extends a long
-proboscis, inserts it into the body of the victim and, with a
-disgusting slurping sound, begins to suck up the organic juices.
-It seems Baal has been here at some point, converting a group of
-the superstitious dustbowlers to his cause. Turn to 258.
+His mind falls under your control. You order him to open the door and you step inside. In his hand he holds a thin pen black pencil device. You recognise it as a microbeam key, used to open doors with locks sensitive to a particular microbeam frequency. You take it from him. Note it on your Agent Profile. You are in a small alcove, with a dimly lit corridor leading away from it. You can hear the sounds of rhythmic chanting coming from down the corridor. Forcing the door guard to lead you down the corridor you decide to investigate the chanting. Then, pausing in the shadows at the end of the corridor, you are greeted by a strange sight. Forty to fifty people, all in black robes, are kneeling before some kind of altar upon which is manacled a young man. Beside him stands a tall hawk-faced figure, also in black robes. His hands are raised in supplication skyward, the sleeves of his robe falling to reveal a tattoo on his forearm in the shape of an insect much like the fly of Earth. He holds an obsidian dagger in his hand; it seems some strange religious ceremony is taking place. Then the robed man at the altar, presumably the high priest, screams, 'Come to us, O Servant of Baal,' and with one savage motion plunges the obsidian dagger into the man on the altar and carves out his heart. Then, much . to your surprise, something begins to materialise in the air above the altar. Soon it has resolved itself into what can only be described as a twelve-foot fly, its huge compound eyes glittering malevolently, its black limbs glistening with mucus and lined with cilia. Its mouthparts are working violently, oozing a vile greyish saliva. Everything goes quiet as the fly nestles onto the altar and begins to feed on the sacrificial victim. It extends a long proboscis, inserts it into the body of the victim and, with a disgusting slurping sound, begins to suck up the organic juices. It seems Baal has been here at some point, converting a group of the superstitious dustbowlers to his cause. Turn to 258.
 
 225
-You whip out your blaster and fire, catching Achov in the arm.
-He appears to be human! Before you can do anything else, Bragg
-has drilled a neat hole in your chest with his laser pistol. You hit
-the floor. The last words you ever hear are: 'Damn it, he was
-human after all.'
-'
+You whip out your blaster and fire, catching Achov in the arm. He appears to be human! Before you can do anything else, Bragg has drilled a neat hole in your chest with his laser pistol. You hit the floor. The last words you ever hear are: 'Damn it, he was human after all.'
 
 226
-You try to wrest control of the Noble's mind but it shows
-surprising strength and manages to fight off your attack. As it
+You try to wrest control of the Noble's mind but it shows surprising strength and manages to fight off your attack. As it turns, suspicious, will you:
 
-turns, suspicious, will you:
 Sink back into the shadows and hide?
 Make a run for it down the tunnel?
-
 Turn to 234
 Turn to 246
 
@@ -1413,55 +1306,32 @@ Turn to 288
 Turn to 303
 
 229
-You try to twist out of its path, but the long dagger sinks into
-your shoulder, throwing you off the stairs. You land on the
-floor, back to the wall. Lose 8 Endurance points. The sailor launches
-himself at you, teeth bared in a savage snarl. The captain has
-drawn his dagger and is close behind him. Make an Attack Roll.
+You try to twist out of its path, but the long dagger sinks into your shoulder, throwing you off the stairs. You land on the floor, back to the wall. Lose 8 Endurance points. The sailor launches himself at you, teeth bared in a savage snarl. The captain has drawn his dagger and is close behind him. Make an Attack Roll.
 If you score 7-12, turn to 240
 If you score 2-6, turn to 252
 
 230
-You drop to the floor and the lancing ruby light from Bragg's
-pistol flickers out over your head. Then Bragg covers you with
+You drop to the floor and the lancing ruby light from Bragg's pistol flickers out over your head. Then Bragg covers you with his pistol, saying, 'Hold it right there!' Quickly you say that you heard a strange noise in Achov's room not long ago and thought he was the creature. 'I was watching a horror holo-vid, you idiot' Achov quips.
 
-his pistol, saying, 'Hold it right there!' Quickly you say that you
-heard a strange noise in Achov's room not long ago and thought
-he was the creature. 'I was watching a horror holo-vid, you
-idiot/ Achov quips.
-Then McReady points at you slowly and says: The Lieutenant's
-the creature. I examined his battlesuit, it's not a scout issue suit,
-nor did we find any trace of a starship or any drive emission. We
-would have picked it up on the sensors, normally.'
-Bragg says: 'Yes Sil, there was no trace of his starship. He could
-be the creature.' Caleb backs away from you, readying his
-flamethrower. Achov draws a short snub pistol, an old bulletthrowing weapon.
-Sil goes on, 'You turn up from nowhere and all this starts to
-happen.' His voice is flat and even.
-'What were you doing in the lab anyway?' Caleb says loudly. 'I
-think we should lock him up until the relief ship gets here,
-Braxton.'
-'Yes, maybe we should,' says Bragg and Caleb moves towards
-you. Will you:
-Try to get another shot in with your blaster? Turn to 232
+Then McReady points at you slowly and says: The Lieutenant's the creature. I examined his battlesuit, it's not a scout issue suit, nor did we find any trace of a starship or any drive emission. We would have picked it up on the sensors, normally.'
+
+Bragg says: 'Yes Sil, there was no trace of his starship. He could be the creature.' Caleb backs away from you, readying his flamethrower. Achov draws a short snub pistol, an old bulletthrowing weapon. Sil goes on, 'You turn up from nowhere and all this starts to happen.' His voice is flat and even.
+
+'What were you doing in the lab anyway?' Caleb says loudly. 'I think we should lock him up until the relief ship gets here, Braxton.'
+
+'Yes, maybe we should,' says Bragg and Caleb moves towards you. Will you:
+
+Try to get another shot in with your blaster?
 Make a run for the door?
+Turn to 232
 Turn to 265
 
 231
-You trigger a blast of superheated plasma and at this range,
-against such a large target, you cannot miss. He is bathed in a
-stream of white-hot plasma, splashing all over him and
-spluttering away to shatter the walls of the room. He roars in
-pain, and staggers back under the concentrated burst of fire, but
-you can tell, incredibly, that it is but temporary pain to him and
-that he is taking no serious damage. Your blaster energy reading
-is at 50% after the prolonged burst. Realising that you cannot
-stand against him (yet), you run as fast as you can for the plaza.
-There is a pause and then you can hear Baal smashing his way
-through the building in hot pursuit. Turn to 299.
+You trigger a blast of superheated plasma and at this range, against such a large target, you cannot miss. He is bathed in a stream of white-hot plasma, splashing all over him and spluttering away to shatter the walls of the room. He roars in pain, and staggers back under the concentrated burst of fire, but you can tell, incredibly, that it is but temporary pain to him and that he is taking no serious damage. Your blaster energy reading is at 50% after the prolonged burst. Realising that you cannot stand against him (yet), you run as fast as you can for the plaza. There is a pause and then you can hear Baal smashing his way through the building in hot pursuit. Turn to 299.
 
 232
 Who will you fire at?
+
 Achov?
 Caleb?
 Bragg?
@@ -1472,58 +1342,29 @@ Turn to 207
 Turn to 195
 
 233
-You find yourself unable to control the mind of the door guard,
-mainly due to his unusual fear of mental contact. His eyes widen
-with fear and astonishment and you hear a muffled curse and
-'Evil Sorcery'. Suddenly the quiet alley is filled with the harsh,
-deafening cry of an electronic alarm. A moment later and you
-can hear the sound of many running footsteps. You have no
-choice but to flee. You dash down the alleyway as ten or more
-black robed figures burst out of the doorway. One of them
-points at you and says: 'It is the Time Traveller! Kill him, in the
-name of Baal!' Smothering your shocked surprise, you sprint
-away. Turn to 245.
+You find yourself unable to control the mind of the door guard, mainly due to his unusual fear of mental contact. His eyes widen with fear and astonishment and you hear a muffled curse and 'Evil Sorcery'. Suddenly the quiet alley is filled with the harsh, deafening cry of an electronic alarm. A moment later and you can hear the sound of many running footsteps. You have no choice but to flee. You dash down the alleyway as ten or more black robed figures burst out of the doorway. One of them points at you and says: 'It is the Time Traveller! Kill him, in the name of Baal!' Smothering your shocked surprise, you sprint away. Turn to 245.
 
 234
-You fade back into the shadows of the caverns. The Noble
-moves closer and sniffs the air. Suddenly, it trills shrilly and
-shouts an order. Five Warriors peel off from the reserve
-formation and charge towards your position with frightening
-speed. Will you:
-Stay where you are and try to gun them down
-with your blaster?
-Turn to 186
+You fade back into the shadows of the caverns. The Noble moves closer and sniffs the air. Suddenly, it trills shrilly and shouts an order. Five Warriors peel off from the reserve formation and charge towards your position with frightening speed. Will you:
+
+Stay where you are and try to gun them down with your blaster?
 Make a run for the tunnel?
+Turn to 186
 Turn to 101
 
 235
-Your Particle Disruptor is able to function in this sea, and it
-vaporises the dust in its path. You must have hit it as your
-battlesuit sonic sensors are filled with a high pitched screaming
-sound and the large blip on your radar begins to veer away. As
-fast as you can you get back to Falcon's Wing. Quickly you fire
-your Particle Disruptor, severing the hausers connected to
-Falcon's Wing and then get inside it. As far as Captain Cresap
-Ord is concerned, when he draws up the severed hauser, it will
-appear that you have died in an unfortunate accident. Turn to
-260.
+Your Particle Disruptor is able to function in this sea, and it vaporises the dust in its path. You must have hit it as your battlesuit sonic sensors are filled with a high pitched screaming sound and the large blip on your radar begins to veer away. As fast as you can you get back to Falcon's Wing. Quickly you fire your Particle Disruptor, severing the hausers connected to Falcon's Wing and then get inside it. As far as Captain Cresap Ord is concerned, when he draws up the severed hauser, it will appear that you have died in an unfortunate accident. Turn to 260.
 
 236
-Desperately, you throw yourself aside, muscles twitching with
-effort. The axe whistles past your shoulder. The Rigellian,
-wielding the twin-bladed sword as if it were a part of his body, is
-about to slash at you. Will you:
+Desperately, you throw yourself aside, muscles twitching with effort. The axe whistles past your shoulder. The Rigellian, wielding the twin-bladed sword as if it were a part of his body, is about to slash at you. Will you:
+
 Use your blaster again?
+Use your Power of Will to try and control the Rigellian?
 Turn to 256
-Use your Power of Will to try and control the
-Rigellian?
 Turn to 172
 
 237
-You race on through the tunnels of Darkhome, retracing your
-steps. It is completely deserted, save for the bodies of many
-Warriors mostly red-furred, and the oblivious workers still
-toiling away. Soon you are in Falcon's Wing. Turn to 248.
+You race on through the tunnels of Darkhome, retracing your steps. It is completely deserted, save for the bodies of many Warriors mostly red-furred, and the oblivious workers still toiling away. Soon you are in Falcon's Wing. Turn to 248.
 
 238
 You play your blaster across the width of the corridor, cutting down the priests as one. Turning, you sprint on to the portal at the end of the corridor. Looking in you can see a stone altar at the far end of a large room. Upon it lies a translucent white triangle, giving off a faint white light, a part of the Rack. The floor in front of the altar is carved into a chequered grid of nine large stone slabs. Suddenly, there is a crunching sound above you. Looking up you can see the ceiling is being ripped open, and you can hear a snarling howl of ferocious fage - Baal is smashing his way in. You dash out onto the floor, knowing you must try to get the triangle before Baal breaks in. Make a Chance Roll.
@@ -1542,185 +1383,70 @@ Turn to 264
 Turn to 275
 
 241
-As you sit in your crash-couch, your Psychic Awareness begins
-to register some kind of psionic phenomena within Falcon's
-Wing. Turning around you can see that the three pieces of the
-Rack are glowing brightly, radiating a white light that you
-cannot look directly into. They begin to pulse faster and faster,
-emanating waves of psychic energy. Examining these, you are
-overjoyed to discover that they are transmitting the location of
-the fourth piece of the Rack. You are forced to break contact
-hurriedly, however. Being mentally linked to the incomplete
-Rack is very uncomfortable, its psychic power is rooted in some
-kind of machinery imbued with an unnatural half-life. The
-whole feel of the thing is horribly alien. You pause as a wave of
-nausea passes over you. Then, excitedly, you set co-ordinates
-for the timehole on planet Chill, in 2985 AD, where the fourth
-part of the Rack lies. You may lie in your Autodoc during the trip
-and regain up to 12 points of lost Endurance. Turn to 353.
+As you sit in your crash-couch, your Psychic Awareness begins to register some kind of psionic phenomena within Falcon's Wing. Turning around you can see that the three pieces of the Rack are glowing brightly, radiating a white light that you cannot look directly into. They begin to pulse faster and faster, emanating waves of psychic energy. Examining these, you are overjoyed to discover that they are transmitting the location of the fourth piece of the Rack. You are forced to break contact hurriedly, however. Being mentally linked to the incomplete Rack is very uncomfortable, its psychic power is rooted in some kind of machinery imbued with an unnatural half-life. The whole feel of the thing is horribly alien. You pause as a wave of nausea passes over you. Then, excitedly, you set co-ordinates for the timehole on planet Chill, in 2985 AD, where the fourth part of the Rack lies. You may lie in your Autodoc during the trip and regain up to 12 points of lost Endurance. Turn to 353.
 
 242
 McReady says, 'No, no, it could be some kind of mind attack.'
-Caleb says, 'No one else was hurt, Sil. Anyway, I haven't heard
-you say "ultra" for the last ten minutes.'
-'Yeah, you're right,' says Achov. Together they step back from
-McReady, pointing their weapons. 'Let him do the mind probe,
-Sil,' says Achov. Turn to 401.
+
+Caleb says, 'No one else was hurt, Sil. Anyway, I haven't heard you say "ultra" for the last ten minutes.'
+
+'Yeah, you're right,' says Achov. Together they step back from McReady, pointing their weapons. 'Let him do the mind probe, Sil,' says Achov. Turn to 401.
 
 243
-Realising you cannot stand against him (yet), you dash away,
-running as fast as you can for the Plaza outside. Baal gives a deep
-throated rumbling growl, rising to a crescendo of roaring
-thunder, raising the hackles on the back of your neck as you flee,
-almost in abject terror. He smashes through the portal of the
-room behind you, and begins to crash through the building
-towards you. You are sprinting for the curtained entrance when
-he crashes through a nearby wall and, picking up a large chunk
-of rock, hurls it at you as if it were a pebble. Make an Evasion
-Roll
+Realising you cannot stand against him (yet), you dash away, running as fast as you can for the Plaza outside. Baal gives a deep throated rumbling growl, rising to a crescendo of roaring thunder, raising the hackles on the back of your neck as you flee, almost in abject terror. He smashes through the portal of the room behind you, and begins to crash through the building towards you. You are sprinting for the curtained entrance when he crashes through a nearby wall and, picking up a large chunk of rock, hurls it at you as if it were a pebble. Make an Evasion Roll
 If you score 6-12, turn to 61
 If you score 2-5, turn to 322
 
 244
-You walk on up the corridor, further into the Dome, McReady
-commentating as you go. You pass several doors on the left and
-right, the crew's cabins. Then he shows you into a brightly lit
-room with many precision instruments and worktops. A
-primitive Autodoc lies in one corner. Tsu Tsang is working in
-there and she nods as you come in. 'This is the lab,' says
-McReady. 'A really ultra place. Old Tsu is testing a titanium
-sample no doubt. Bet you're sick of the stuff, eh, Tsu?' Tsu
-Tsang smiles weakly and works on. Leaving the lab, you are led
-on down the corridor. It opens out on the right into a large
-floorspace crammed with industrial machinery, and the corridor
-continues on beyond it. Then it branches off into three. 'Down
-there is where we store the titanium. Pretty non-ultra sight,'
-says McReady, pointing to the left-hand corridor. 'Down to the
-right are the generators, life support and that. Pretty ultra-less
-as well. But straight ahead is the Mine Control, ultra man!' and
-he leads you down it. It opens into a large room, lined with
-complex instrument banks, computers and so on, making your
-console in Falcon's Wing look like a toy. In one corner you can
-see a large personal lift, presumably leading down into the mine
-itself. Two men are seated at the console boards, running the
-automated mining operation. 'Our Minetechs,' says McReady.
-'Hey guys, meet our newcomer.' They look around, eyes
-widening in surprise. One of them is a Siriun like Yelov, tall and
-lithe, with long brown hair and golden cat-like eyes. He carries
-himself as if he were thoroughly bored with mining. McReady
-
-introduces him as Kepy Achov. The other is built like a tank,
-about seven foot tall, bull-necked and bearded. His name is
-Caleb. McReady tells you he is from Proxima Centauri, a high
-gravity planet, which accounts for his size. They ask how you
-got here and you chat to them for a while, making your story
-sound convincing. Half an hour later, you are back in your cabin,
-pondering on how you can get hold of the last piece of the Rack
-without causing any disturbances in the timelines when you
-hear a commotion outside. Turn to 365.
+You walk on up the corridor, further into the Dome, McReady commentating as you go. You pass several doors on the left and right, the crew's cabins. Then he shows you into a brightly lit room with many precision instruments and worktops. A primitive Autodoc lies in one corner. Tsu Tsang is working in there and she nods as you come in. 'This is the lab,' says McReady. 'A really ultra place. Old Tsu is testing a titanium sample no doubt. Bet you're sick of the stuff, eh, Tsu?' Tsu Tsang smiles weakly and works on. Leaving the lab, you are led on down the corridor. It opens out on the right into a large floorspace crammed with industrial machinery, and the corridor continues on beyond it. Then it branches off into three. 'Down there is where we store the titanium. Pretty non-ultra sight,' says McReady, pointing to the left-hand corridor. 'Down to the right are the generators, life support and that. Pretty ultra-less as well. But straight ahead is the Mine Control, ultra man!' and he leads you down it. It opens into a large room, lined with complex instrument banks, computers and so on, making your console in Falcon's Wing look like a toy. In one corner you can see a large personal lift, presumably leading down into the mine itself. Two men are seated at the console boards, running the automated mining operation. 'Our Minetechs,' says McReady. 'Hey guys, meet our newcomer.' They look around, eyes widening in surprise. One of them is a Siriun like Yelov, tall and lithe, with long brown hair and golden cat-like eyes. He carries himself as if he were thoroughly bored with mining. McReady introduces him as Kepy Achov. The other is built like a tank, about seven foot tall, bull-necked and bearded. His name is Caleb. McReady tells you he is from Proxima Centauri, a high gravity planet, which accounts for his size. They ask how you got here and you chat to them for a while, making your story sound convincing. Half an hour later, you are back in your cabin, pondering on how you can get hold of the last piece of the Rack without causing any disturbances in the timelines when you hear a commotion outside. Turn to 365.
 
 245
-You burst into the light of the main street, the followers of Baal
-close behind you. People step out of your way, indeed some
-store keepers actually close their shops up at the sight of the
-black-robed figures. You sprint onward, but your pursuers are
-close behind. Will you:
-Ask a passerby for help - there must be some
-kind of police force on Dustbowl?
-Turn to 363
-Spin, drop to one knee and use your blaster on
-your pursuers?
-Turn to 301
-Turn and use a series of Thinkstrikes on
-them?
-Turn to 313
+You burst into the light of the main street, the followers of Baal close behind you. People step out of your way, indeed some store keepers actually close their shops up at the sight of the black-robed figures. You sprint onward, but your pursuers are close behind. Will you:
+
+Ask a passerby for help - there must be some kind of police force on Dustbowl?
+Spin, drop to one knee and use your blaster on your pursuers?
+Turn and use a series of Thinkstrikes on them?
 Try to outrun them?
+Turn to 363
+Turn to 301
+Turn to 313
 Turn to 324
 
 246
-You dash for the tunnel as the Noble turns. Spotting you, it trills
-a command and five of the Warrior reserves peel away from the
-formation and lope after you with frightening speed. Turn to
-198.
+You dash for the tunnel as the Noble turns. Spotting you, it trills a command and five of the Warrior reserves peel away from the formation and lope after you with frightening speed. Turn to 198.
 
 247
-The heavy gravity is too strong for you and the axe slams into
-your shoulder, virtually severing your arm. A gout of blood
-spurts into the air and you pass out with shock. You never wake
-up. You have failed.
+The heavy gravity is too strong for you and the axe slams into your shoulder, virtually severing your arm. A gout of blood spurts into the air and you pass out with shock. You never wake up. You have failed.
 
 248
-You tell CAIN what happened on Cave. It reports that there
-have been substantial changes in the history of Cave, caused by
-Baal. 'In my opinion,' it goes on, 'Baal intended to rule over
-Darkhome and, using advanced technology, extend his control
-over the whole planet. From there he could breed a race of
-genetically engineered star-warriors and make war on the
-
-whole galaxy. But you have prevented that, Falcon, he will
-never win any more support on Cave now. In any case, I would
-compute that Baal is seriously worried about the possibility that
-the Rack may be re-assembled.' If you have three pieces of the
-Rack, turn to 241. If not, you have only one clue left, the
-timehole on Dustbowl where Monitoring reported the timeline
-disturbance. Turn to 287.
+You tell CAIN what happened on Cave. It reports that there have been substantial changes in the history of Cave, caused by Baal. 'In my opinion,' it goes on, 'Baal intended to rule over Darkhome and, using advanced technology, extend his control over the whole planet. From there he could breed a race of genetically engineered star-warriors and make war on the whole galaxy. But you have prevented that, Falcon, he will never win any more support on Cave now. In any case, I would compute that Baal is seriously worried about the possibility that the Rack may be re-assembled.' If you have three pieces of the Rack, turn to 241. If not, you have only one clue left, the timehole on Dustbowl where Monitoring reported the timeline disturbance. Turn to 287.
 
 249
-Your Particle Disruptor is able to function in the sea. It vaporises
-the dust in its path. However, you must have missed it for, to
-your horror, it is almost upon you. Turn to 197.
+Your Particle Disruptor is able to function in the sea. It vaporises the dust in its path. However, you must have missed it for, to your horror, it is almost upon you. Turn to 197.
 
 250
-Bragg speaks, 'Right, it's it or us. We've got to hunt it down and
-kill it, if we just wait it'll come for us in our sleep or individually.'
+Bragg speaks, 'Right, it's it or us. We've got to hunt it down and kill it, if we just wait it'll come for us in our sleep or individually.'
+
 'I'm all for getting it now!' Caleb says aggressively.
-'I agree,' says Bragg. 'Let's go and get the powersuits, Lieutenant
-Falcon's battlesuit will be a great asset.' You all leave together,
-headed for the air-lock strong room. Unfortunately, you
-discover all of the powersuits, including your battlesuit, have
-had their central processing units ripped out. Achov rifles
-through the emergency spares box, 'Damn, the spares are gone
-too!' The suits are useless without their computers to guide
-them. You won't be able to leave the Dome until you find, the
-suits' computer cartridges.
-Bragg says: 'We'll just have to do without them. We'll flush it
-out: Achov you take the right corridor. Lieutenant, you take the
-centre corridor, but don't descend into the mine itself, that
-would be too dangerous if it's there. I'll take the left tunnel. We'll
-each take a short range radio on the same frequency. At the first
-sign of trouble, pull back to the junction and radio for help.
-Caleb can stay at the junction ready to move to anyone's aid.'
-Bragg hands out the radios and you are given a flamethrower to
-use. 'If we don't find it, then it's in the mine itself. We'll all go
-down then and flush it out.' As you all head down the corridor
-you nip into your cabin. Quickly you take out the tripod and
-search for the Rack. You discover that it has been taken back to
-the Cavern at the end of the mineshaft. You will have to go
-down there after all despite Bragg's warning. Turn to 412.
+
+'I agree,' says Bragg. 'Let's go and get the powersuits, Lieutenant Falcon's battlesuit will be a great asset.' You all leave together, headed for the air-lock strong room. Unfortunately, you discover all of the powersuits, including your battlesuit, have had their central processing units ripped out. Achov rifles through the emergency spares box, 'Damn, the spares are gone too!' The suits are useless without their computers to guide them. You won't be able to leave the Dome until you find, the suits' computer cartridges.
+
+Bragg says: 'We'll just have to do without them. We'll flush it out: Achov you take the right corridor. Lieutenant, you take the centre corridor, but don't descend into the mine itself, that would be too dangerous if it's there. I'll take the left tunnel. We'll each take a short range radio on the same frequency. At the first sign of trouble, pull back to the junction and radio for help. Caleb can stay at the junction ready to move to anyone's aid.' Bragg hands out the radios and you are given a flamethrower to use. 'If we don't find it, then it's in the mine itself. We'll all go down then and flush it out.' As you all head down the corridor you nip into your cabin. Quickly you take out the tripod and search for the Rack. You discover that it has been taken back to the Cavern at the end of the mineshaft. You will have to go down there after all despite Bragg's warning. Turn to 412.
 
 251
-You manage to dart past the first few oncoming Warriors and
-hurtle on towards the tunnel on your left. There is a trilled
-command and the Warriors continue after you with murderous
-intent. Turn to 198.
+You manage to dart past the first few oncoming Warriors and hurtle on towards the tunnel on your left. There is a trilled command and the Warriors continue after you with murderous intent. Turn to 198.
 
 252
-You try to throw the sailor aside, but he pins you to the wall.
-Trapped, you can do nothing as Captain Nathan, howling
-triumphantly, plunges his dagger into your throat.
+You try to throw the sailor aside, but he pins you to the wall. Trapped, you can do nothing as Captain Nathan, howling triumphantly, plunges his dagger into your throat.
 
 253
-'Any creature intelligent enough and with those replication
-powers could have arranged that,' says Achov, eyeing you
-closely.
+'Any creature intelligent enough and with those replication powers could have arranged that,' says Achov, eyeing you closely.
 
-Sil goes on, 'You turn up from nowhere and all this starts to
-happen.' His voice is flat and even. 'What were you doing in the lab anyway?'
+Sil goes on, 'You turn up from nowhere and all this starts to happen.' His voice is flat and even. 'What were you doing in the lab anyway?'
 
 Caleb says loudly, 'I think we should lock him up until the relief ship gets here, Braxton.'
 
-'Yes, maybe we should,' says Bragg and Caleb moves towards
-you. Will you:
+'Yes, maybe we should,' says Bragg and Caleb moves towards you. Will you:
 
 Draw your blaster and open fire?
 Make a run for the door?
@@ -1728,58 +1454,22 @@ Turn to 232
 Turn to 265
 
 254
-You hurl several blasts of mental energy, dropping three of
-them, but the others come on. Suddenly, there is a crash of
-splintered stone and Baal comes smashing through the portal
-behind you, shattering rock and brick with great sweeping
-blows. As the priests slam into you, Baal stretches both arms out towards you and twin balls of energy leap from his hands,
-enveloping you and the priests in an inferno of flame. Death is
-almost instantaneous.
+You hurl several blasts of mental energy, dropping three of them, but the others come on. Suddenly, there is a crash of splintered stone and Baal comes smashing through the portal behind you, shattering rock and brick with great sweeping blows. As the priests slam into you, Baal stretches both arms out towards you and twin balls of energy leap from his hands, enveloping you and the priests in an inferno of flame. Death is almost instantaneous.
 
 255
-Thinking quickly, you take the magnesite and hurl it into the
-gaping maw. Then you use the flamethrower. There is a roar
-and the magnesite catches, crackling with bright blue light.
-There is a horrible screaming and the thing explodes into a sheet
-of flame. You watch as it burns, thrashing madly and giving off a
-sickly charred stench. You stagger to the lift, momentarily
-exhausted, heaving a sigh of relief. Turn to 388.
+Thinking quickly, you take the magnesite and hurl it into the gaping maw. Then you use the flamethrower. There is a roar and the magnesite catches, crackling with bright blue light. There is a horrible screaming and the thing explodes into a sheet of flame. You watch as it burns, thrashing madly and giving off a sickly charred stench. You stagger to the lift, momentarily exhausted, heaving a sigh of relief. Turn to 388.
 
 256
-You are unable to move as quickly as you would normally under
-this gravity. Before you can fire the Rigellian hurls a viciously
-barbed sphere from his belt. You are unable to throw yourself
-aside and it slams into your shoulder with superhuman force,
-knocking you to the ground. Desperately, you struggle to your
-feet but he is upon you. In a flash he has struck your head from
-your shoulders. You have failed.
+You are unable to move as quickly as you would normally under this gravity. Before you can fire the Rigellian hurls a viciously barbed sphere from his belt. You are unable to throw yourself aside and it slams into your shoulder with superhuman force, knocking you to the ground. Desperately, you struggle to your feet but he is upon you. In a flash he has struck your head from your shoulders. You have failed.
 
 257
-You hurl a blast of mental energy but, weakened though his
-mental powers may be, it does not effect him and he laughs, a
-deep shuddering sound that fills you with horror. He steps
-forward, saying, 'You pathetic mortal, I will swat you like the
-insect you are,' his voice filling your head, deep and melodious.
-You realise that you cannot stand against him, yet. Seeing his
-intention, you try to dodge the great scything sweep of his
-hammer-like fist. Make an Evasion Roll.
+You hurl a blast of mental energy but, weakened though his mental powers may be, it does not effect him and he laughs, a deep shuddering sound that fills you with horror. He steps forward, saying, 'You pathetic mortal, I will swat you like the insect you are,' his voice filling your head, deep and melodious. You realise that you cannot stand against him, yet. Seeing his intention, you try to dodge the great scything sweep of his hammer-like fist. Make an Evasion Roll.
 If you score 7-12, turn to 336
 If you score 2-6, turn to 349
 
 
 258
-After the hideous monstrosity has slaked its hunger it turns to
-the congregation and, incredibly, speaks/the sound disturbingly
-unnatural, human words not meant for an alien throat: 'The
-words of Baal are these. Go forth and slay the Time Traveller,
-for he would destroy you!' This fly being must be an ally of
-Baal's, in fact your knowledge of ancient Earth history tells you
-that thousands of years ago a demon known as Baal, Lord of the
-Flies, was worshipped on Earth. Presumably the altar is some
-kind of Variac Drive and inter-temporal communication device.
-Then the fly being appears to stiffen. Its head swivels towards
-you and your Psychic Awareness tells you that you are being
-probed mentally. Will you:
+After the hideous monstrosity has slaked its hunger it turns to the congregation and, incredibly, speaks/the sound disturbingly unnatural, human words not meant for an alien throat: 'The words of Baal are these. Go forth and slay the Time Traveller, for he would destroy you!' This fly being must be an ally of Baal's, in fact your knowledge of ancient Earth history tells you that thousands of years ago a demon known as Baal, Lord of the Flies, was worshipped on Earth. Presumably the altar is some kind of Variac Drive and inter-temporal communication device. Then the fly being appears to stiffen. Its head swivels towards you and your Psychic Awareness tells you that you are being probed mentally. Will you:
 
 Draw your blaster and try to kill the fly being and destroy the altar before making a run for it?
 Make a dash for Falcon's Wing immediately?
@@ -1787,33 +1477,18 @@ Turn to 270
 Turn to 280
 
 259
-You twist away from the hurtling bludgeon and ascend into
-Falcon's Wing, screaming at CAIN to engage the Variac Drive as
-you do so. Moments later you are safe in null-space. You never
-believed you would ever welcome the grey nothingness that fills
-the camera screens as you do now. You have learnt much about
-the art of avoiding damage in your near fatal brushes with Baal.
-Add 1 to your Evasion Modifier. Turn to 248.
+You twist away from the hurtling bludgeon and ascend into Falcon's Wing, screaming at CAIN to engage the Variac Drive as you do so. Moments later you are safe in null-space. You never believed you would ever welcome the grey nothingness that fills the camera screens as you do now. You have learnt much about the art of avoiding damage in your near fatal brushes with Baal. Add 1 to your Evasion Modifier. Turn to 248.
 
 260
-In the safety of Falcon's Wing, you clamber out of the battlesuit.
-Note that you have the piece of the Rack with the triangles in its
-corners. If you now have three pieces of the Rack, turn to 241. If
-not, where will you go now:
-The Eiger Vault, to see if there is any new
-information for you?
+In the safety of Falcon's Wing, you clamber out of the battlesuit. Note that you have the piece of the Rack with the triangles in its corners. If you now have three pieces of the Rack, turn to 241. If not, where will you go now:
+
+The Eiger Vault, to see if there is any new information for you?
+Earth at the time of the Aztecs, if you have not been there already?
 Turn to 201
-Earth at the time of the Aztecs, if you have not
-been there already?
 Turn to 22
 
 261
-As you leap up and break into a sprint one of the Warriors leaps
-forward and manages to catch your shoulder with its razor
-sharp hand-blade. Lose 4 Endurance points. If you are still alive, your
-plasnet suit begins to knit together as you hurtle on towards the
-tunnel. There is a trilled command and the Warriors continue
-after you with murderous intent. Turn to 198.
+As you leap up and break into a sprint one of the Warriors leaps forward and manages to catch your shoulder with its razor sharp hand-blade. Lose 4 Endurance points. If you are still alive, your plasnet suit begins to knit together as you hurtle on towards the tunnel. There is a trilled command and the Warriors continue after you with murderous intent. Turn to 198.
 
 262
 Make a Chance Roll.
