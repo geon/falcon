@@ -1794,195 +1794,83 @@ Turn to 350
 Turn to 399
 
 314
-You step out onto the wooded surface of Benner's Hill. The
-trees are obscuring your vision now, but you can hear the sound
-of men taking up a position south-west of you. Nearby are the
-crumpled bodies of several men in blue uniforms, Unionists.
-Quickly you set up the Rack detector and the gem begins to
-glow. Sifting through its psychic emanations you can find no
-trace of the Rack or any parts of it. Disappointed, you are
-packing it up when your Psychic Awareness registers the
-presence of someone with advanced mental powers on the
-north face of Benner's Hill. Will you:
+You step out onto the wooded surface of Benner's Hill. The trees are obscuring your vision now, but you can hear the sound of men taking up a position south-west of you. Nearby are the crumpled bodies of several men in blue uniforms, Unionists. Quickly you set up the Rack detector and the gem begins to glow. Sifting through its psychic emanations you can find no trace of the Rack or any parts of it. Disappointed, you are packing it up when your Psychic Awareness registers the presence of someone with advanced mental powers on the north face of Benner's Hill. Will you:
+
 Investigate this psionic presence?
 Leave for another timehole immediately?
-
 Turn to 325
 Turn to 333
 
 315
-You play your blaster in a sweeping arc across the front of the
-charging column. The first rank are cut down like ripe corn.
-Those behind crash into the tangled mass of bodies and are
-thrown into confusion. You have a few seconds' respite. Will
-you:
-Make a Power of Will assault on the
-Baal-Mother?
-Fire a sustained burst of plasma at the
-Baal-Mother?
-Try to control two of the Nobles?
+You play your blaster in a sweeping arc across the front of the charging column. The first rank are cut down like ripe corn. Those behind crash into the tangled mass of bodies and are thrown into confusion. You have a few seconds' respite. Will you:
 
+Make a Power of Will assault on the Baal-Mother?
+Fire a sustained burst of plasma at the Baal-Mother?
+Try to control two of the Nobles?
 Turn to 346
 Turn to 298
 Turn to 306
 
 316
-You hurl a blast of mental energy but it has no effect, it either
-doesn't have enough of a mind to be affected or is immune to
-Psychic Attack. Its jaw rips through your battlesuit, and takes
-your arm off, your suit collapses under the pressure of the dust
-
-and you are crushed to death before you can suffer the horror of
-being eaten alive.
+You hurl a blast of mental energy but it has no effect, it either doesn't have enough of a mind to be affected or is immune to Psychic Attack. Its jaw rips through your battlesuit, and takes your arm off, your suit collapses under the pressure of the dust and you are crushed to death before you can suffer the horror of being eaten alive.
 
 317
-Hoping the mineral is magnesite, you unleash a blast of superhot plasma onto the pile of rocks. The reaction is instantaneous.
-The rock explodes, crumbling in the heat and producing an
-unbearable incandescent flare of bright blue light. Your face
-plate flash damper protects your eyes, but the Warriors are
-blinded instantly. It is an easy task to finish them with your
-blaster. They try to find you using their sense of smell, but you
-are able to make your escape. You may take some magnesite
-with you, if you wish. You leave the farm and press on down the
-tunnel ahead. Turn to 290.
+Hoping the mineral is magnesite, you unleash a blast of superhot plasma onto the pile of rocks. The reaction is instantaneous. The rock explodes, crumbling in the heat and producing an unbearable incandescent flare of bright blue light. Your face plate flash damper protects your eyes, but the Warriors are blinded instantly. It is an easy task to finish them with your blaster. They try to find you using their sense of smell, but you are able to make your escape. You may take some magnesite with you, if you wish. You leave the farm and press on down the tunnel ahead. Turn to 290.
 
 318
-You swim powerfully for what you hope is the surface. Then
-your head breaks through the dust, into the air. Clinging to a
-nearby iron stanchion that supports the quayside you clear the
-dust from your face. Hiding behind the iron pillars, you make
-your way down the side of the quay, struggling through the
-dust, your filter mask working overtime. When you are out of
-sight of the Winged Demon, you climb up one of the stanchions
-to the harbourside and make your way to Falcon's Wing where
-you decide to wait until the Winged Demon has left on another
-whaling expedition, so you can find another ship. You instruct
-CAIN to disguise Falcon's Wing as a pile of whaling equipment
-to avoid the prying eyes of anyone in search of the scientist's
-diving bell. You may lie in you Autodoc if you wish, and gain up to
-6 points of lost Endurance. Turn to 342.
+You swim powerfully for what you hope is the surface. Then your head breaks through the dust, into the air. Clinging to a nearby iron stanchion that supports the quayside you clear the dust from your face. Hiding behind the iron pillars, you make your way down the side of the quay, struggling through the dust, your filter mask working overtime. When you are out of sight of the Winged Demon, you climb up one of the stanchions to the harbourside and make your way to Falcon's Wing where you decide to wait until the Winged Demon has left on another whaling expedition, so you can find another ship. You instruct CAIN to disguise Falcon's Wing as a pile of whaling equipment to avoid the prying eyes of anyone in search of the scientist's diving bell. You may lie in you Autodoc if you wish, and gain up to 6 points of lost Endurance. Turn to 342.
 
 319
-Your Thinkstrike has no effect at all It has 'nothing you can
-recognise as a mind. Desperately, you lift your flamethrower
-and pull the trigger. The flying creature is wreathed in fire,
-inches from your face. You leap back but your hands are burnt
-as the creature explodes into flames. Lose 2 Endurance points. If you
-are still alive, you rush to the lift door. Turn to 388.
+Your Thinkstrike has no effect at all It has 'nothing you can recognise as a mind. Desperately, you lift your flamethrower and pull the trigger. The flying creature is wreathed in fire, inches from your face. You leap back but your hands are burnt as the creature explodes into flames. Lose 2 Endurance points. If you are still alive, you rush to the lift door. Turn to 388.
 
 320
-You can feel that the section of the Rack is growing hot in your
-hand and, examining it, you see it is pulsing with white light,
-reacting to the presence of Baal. Then you can feel an incredibly
-powerful malevolent will, the mind of Baal, invading your mind.
-
-You cannot stand against such force, you realise, and Baal smiles
-evilly. But then the Rack segment begins to pulse faster and the
-power of Baal's will lessens. His smile fades and he struggles to
-seize your mind. You realise that the rack segment is dampening
-Baal's psychic power. You fight back, his will is strong but so is
-yours. Make a Power of Will Roll.
+You can feel that the section of the Rack is growing hot in your hand and, examining it, you see it is pulsing with white light, reacting to the presence of Baal. Then you can feel an incredibly powerful malevolent will, the mind of Baal, invading your mind. You cannot stand against such force, you realise, and Baal smiles evilly. But then the Rack segment begins to pulse faster and the power of Baal's will lessens. His smile fades and he struggles to seize your mind. You realise that the rack segment is dampening Baal's psychic power. You fight back, his will is strong but so is yours. Make a Power of Will Roll.
 If you score 6-12, turn to 203
 If you score 2-5, turn to 220
 
 321
-You reach out to Achov's mind. You find his thought patterns
-are similar to a human's, obviously he is what he looks to be, a
-Siriun, and not the creature. Achov starts and stares at you:
-'What are you... ? By the gods, you're a psionic!' he exclaims,
-and the rest turn to you in amazement. Turn to 272.
+You reach out to Achov's mind. You find his thought patterns are similar to a human's, obviously he is what he looks to be, a Siriun, and not the creature. Achov starts and stares at you: 'What are you... ? By the gods, you're a psionic!' he exclaims, and the rest turn to you in amazement. Turn to 272.
 
 322
-You throw yourself into the air, but the slab of masonry
-ricochets off your side, sending you hurtling through the
-doorway. Lose 9 Endurance points. If you are still alive, you struggle
-to your feet, Baal close behind, and stagger on. Turn to 299.
+You throw yourself into the air, but the slab of masonry ricochets off your side, sending you hurtling through the doorway. Lose 9 Endurance points. If you are still alive, you struggle to your feet, Baal close behind, and stagger on. Turn to 299.
 
 323
-You open up with the blaster and it claims the lives of several
-Warriors but the rest rush on heedlessly. You are overwhelmed
-and literally cut into pieces.
+You open up with the blaster and it claims the lives of several Warriors but the rest rush on heedlessly. You are overwhelmed and literally cut into pieces.
 
 324
-Desperately, you push yourself on, legs pumping like pistons.
-Soon your vigorous training pays off and you leave your
-pursuers behind. A few moments later and they are lost to sight
-as you turn into the dark foreboding street where the
-warehouse containing Falcon's Wing lies. As you approach the
-entrance four black-robed figures burst from the shadows and
-charge at you in silence, drawing long wickedly curved daggers
-as several more step out of buildings behind you, trapping you in
-the street. Obviously they knew a short cut. Acting instinctively, you hurl yourself, rolling, at the feet of your four
-assailants, hoping to trip them and run on into the safety of
-Falcon's Wing. Make an Evasion Roll.
+Desperately, you push yourself on, legs pumping like pistons. Soon your vigorous training pays off and you leave your pursuers behind. A few moments later and they are lost to sight as you turn into the dark foreboding street where the warehouse containing Falcon's Wing lies. As you approach the entrance four black-robed figures burst from the shadows and charge at you in silence, drawing long wickedly curved daggers as several more step out of buildings behind you, trapping you in the street. Obviously they knew a short cut. Acting instinctively, you hurl yourself, rolling, at the feet of your four assailants, hoping to trip them and run on into the safety of Falcon's Wing. Make an Evasion Roll.
 If you score 6-12, turn to 360
 If you score 2-5, turn to 112
 
 325
-Slowly you creep down to the north side of the hill. As you
-descend, blaster in hand, you can see someone crouching behind
-a tree, their back to you. Whoever it is has a strong psychic
-presence and is hiding from someone or something further
-down at the base of the hill. The crouched figure appears to be a
-young Confederate soldier, dressed in homespun butternut,
-with grey trousers. It seems the Confederates were not able to
-clothe their soldiers properly. Suddenly the figure stiffens and
-then whirls, a blaster in its hand, pointing at you! Will you:
+Slowly you creep down to the north side of the hill. As you descend, blaster in hand, you can see someone crouching behind a tree, their back to you. Whoever it is has a strong psychic presence and is hiding from someone or something further down at the base of the hill. The crouched figure appears to be a young Confederate soldier, dressed in homespun butternut, with grey trousers. It seems the Confederates were not able to clothe their soldiers properly. Suddenly the figure stiffens and then whirls, a blaster in its hand, pointing at you! Will you:
+
 Shoot to kill?
 Wait to see what happens next?
-
 Turn to 344
 Turn to 356
 
 326
-You twist and roll, trying to stay out of reach of their vicious
-attack, but one of them slashes your forearm as you dive
-through the air. Lose 4 Endurance points. If you are still alive, you
-roll to your feet as your suit repairs itself and open fire as the last
-two Warriors charge at you again. Make an Attack Roll.
+You twist and roll, trying to stay out of reach of their vicious attack, but one of them slashes your forearm as you dive through the air. Lose 4 Endurance points. If you are still alive, you roll to your feet as your suit repairs itself and open fire as the last two Warriors charge at you again. Make an Attack Roll.
 If you score 6-12, turn to 341
 If you score 2-5, turn to 351
 
 327
-You activate a rocket but its drive system cannot make any
-headway in this dust. It simply lodges a foot above your head,
-moving slowly. The creature's jaw rips through your battlesuit,
-and takes your arm off, your suit collapses under the pressure of
-the dust and you are crushed to death before you can suffer the
-horror of being eaten alive.
+You activate a rocket but its drive system cannot make any headway in this dust. It simply lodges a foot above your head, moving slowly. The creature's jaw rips through your battlesuit, and takes your arm off, your suit collapses under the pressure of the dust and you are crushed to death before you can suffer the horror of being eaten alive.
 
 328
 [Score a V]
-You draw your blaster and fire in one smooth motion. A bolt of
-plasma slams into McReady's leg, smashing him against the
-door. He howls, an unearthly, inhuman sound, and his eyes roll
-up into his head. Suddenly a small suppurating hole appears in
-his neck, opening and closing spasmodically. His skull splits open
-with a loud wet crack and something large and bulky shudders
-forth, forming into a heavy head, horned and armoured, two
-small pig-like eyes at each side, the whole thing spilling rivulets
-of reddish mucus. Horrified, Achov, Bragg and Caleb hesitate.
-McReady's shoulders split apart and a bony carapace forms over
-
-them. Then a thin jet of dirty white liquid hisses from the hole in
-the neck and streams toward you. Desperately you try to avoid
-it. Make an Evasion Roll.
+You draw your blaster and fire in one smooth motion. A bolt of plasma slams into McReady's leg, smashing him against the door. He howls, an unearthly, inhuman sound, and his eyes roll up into his head. Suddenly a small suppurating hole appears in his neck, opening and closing spasmodically. His skull splits open with a loud wet crack and something large and bulky shudders forth, forming into a heavy head, horned and armoured, two small pig-like eyes at each side, the whole thing spilling rivulets of reddish mucus. Horrified, Achov, Bragg and Caleb hesitate. McReady's shoulders split apart and a bony carapace forms over them. Then a thin jet of dirty white liquid hisses from the hole in the neck and streams toward you. Desperately you try to avoid it. Make an Evasion Roll.
 If you score 6-12, turn to 309
 If you score 2-5, turn to 289
 
 329
-He is dim-witted and slow. You impose your will upon him and
-force him to run and dive overboard. Quickly you dash for the
-gangplank, but one of the crew is turning the harpoon gun on
-you and fires it. Instinctively you duck. Make an Evasion Roll.
+He is dim-witted and slow. You impose your will upon him and force him to run and dive overboard. Quickly you dash for the gangplank, but one of the crew is turning the harpoon gun on you and fires it. Instinctively you duck. Make an Evasion Roll.
 If you score 5-12, turn to 354
 If you score 2-4, turn to 364
 
 330
-Suspecting some kind of trap, you carefully edge your way onto
-the slab nearest the left hand wall. Suddenly, you feel the slab
-shift under your feet and there is a sharp click in the wall on
-your left. You have a split second in which to act. Will you:
+Suspecting some kind of trap, you carefully edge your way onto the slab nearest the left hand wall. Suddenly, you feel the slab shift under your feet and there is a sharp click in the wall on your left. You have a split second in which to act. Will you:
 
 Drop to the floor?
 Leap backwards?
@@ -1990,42 +1878,15 @@ Turn to 2
 Turn to 12
 
 331
-You manage to control the Nobles. Instantly you force them to
-order the Warriors to stop their charge. Then they turn and fire
-their laser-pistols at the Baal-Mother, who is shouting in rage. It
-writhes in pain as you force the Nobles to keep up their lancing
-fire. Then the blubbery mass of the Mother begins to dissolve
-before your very eyes, seemingly metamorphosing. Seconds
-later, Baal stands in the Mother's place, bellowing in anger. With
-a flash of insight, you realise he has been posing as a Cave
-Mother using his hallucinatory mind-powers, but the needlelike pulses of the Noble's lasers, whilst not harming him
-seriously, have shaken him, preventing him from maintaining
-the illusion. Taking this opportunity, you release the Nobles and
-sprint for the door. The Nobles stare at Baal and begin trilling
-agitatedly amongst themselves. They know they have been
-tricked into rebelling against their rightful Mother and they see
-Baal as an intruder now. However, Baal, furious, screams, 'You
-have meddled in my plans too often, mortal. Your puny little
-organisation can never hope to defeat me, Baal, the Lord of
-Flies!' and the sound echoes around the chamber so that you can
-almost feel the floor reverberating. Then he points at you, and a
-yellow bolt of energy forks from his finger, crackling through
-the air towards you. You must try to dodge the attack. Make an
-Evasion Roll.
+You manage to control the Nobles. Instantly you force them to order the Warriors to stop their charge. Then they turn and fire their laser-pistols at the Baal-Mother, who is shouting in rage. It writhes in pain as you force the Nobles to keep up their lancing fire. Then the blubbery mass of the Mother begins to dissolve before your very eyes, seemingly metamorphosing. Seconds later, Baal stands in the Mother's place, bellowing in anger. With a flash of insight, you realise he has been posing as a Cave Mother using his hallucinatory mind-powers, but the needlelike pulses of the Noble's lasers, whilst not harming him seriously, have shaken him, preventing him from maintaining the illusion. Taking this opportunity, you release the Nobles and sprint for the door. The Nobles stare at Baal and begin trilling agitatedly amongst themselves. They know they have been tricked into rebelling against their rightful Mother and they see Baal as an intruder now. However, Baal, furious, screams, 'You have meddled in my plans too often, mortal. Your puny little organisation can never hope to defeat me, Baal, the Lord of Flies!' and the sound echoes around the chamber so that you can almost feel the floor reverberating. Then he points at you, and a yellow bolt of energy forks from his finger, crackling through the air towards you. You must try to dodge the attack. Make an Evasion Roll.
 If you score 6-12, turn to 418
 If you score 2-5, turn to 24
 
 332
-Before you can move, one of them has slashed open your
-shoulder, whilst the other, ducking low, drives its horned elbow
-into your side, puncturing your suit and your stomach. They
-follow this up with a blurring flurry of razor sharp attacks,
-slicing you up as if you were butter. You die alone, lost in the
-darkness of an alien world.
+Before you can move, one of them has slashed open your shoulder, whilst the other, ducking low, drives its horned elbow into your side, puncturing your suit and your stomach. They follow this up with a blurring flurry of razor sharp attacks, slicing you up as if you were butter. You die alone, lost in the darkness of an alien world.
 
 333
-Moments later you are back in Falcon's Wing. Where will you go
-in search of the Rack?
+Moments later you are back in Falcon's Wing. Where will you go in search of the Rack?
 
 Rigel Prime, 1642 AD, if you have not been there already?
 Earth in the time of the Aztecs, if you have not been there already?
@@ -2037,10 +1898,7 @@ Turn to 10
 Turn to 377
 
 334
-As you sprint away, one of your pursuers dives at your legs
-tripping you. Before you can act you are buried under a pile of
-bodies. Within seconds you are slashed to ribbons by their
-daggers and left in the street, a red mass of dead meat.
+As you sprint away, one of your pursuers dives at your legs tripping you. Before you can act you are buried under a pile of bodies. Within seconds you are slashed to ribbons by their daggers and left in the street, a red mass of dead meat.
 
 335
 Whose mind will you probe?
@@ -2055,17 +1913,15 @@ Turn to 304
 Turn to 294
 
 336
-You dodge aside, but his fist still catches your shoulder a
-glancing blow. Lose 2 Endurance points. If you are still alive, he snarls
-furiously at your escape. Will you:
-Fire your blaster and then make a run for it? Turn to 231
+You dodge aside, but his fist still catches your shoulder a glancing blow. Lose 2 Endurance points. If you are still alive, he snarls furiously at your escape. Will you:
+
+Fire your blaster and then make a run for it?
 Flee instantly?
+Turn to 231
 Turn to 243
 
 337
-A stream of fire erupts from your flamethrower, engulfing the
-flying beast. It bursts into flames and drops to the floor. You
-dash to the lift door. Turn to 388.
+A stream of fire erupts from your flamethrower, engulfing the flying beast. It bursts into flames and drops to the floor. You dash to the lift door. Turn to 388.
 
 338
 Make a Chance Roll.
@@ -2073,11 +1929,7 @@ If you score 1 or 6, turn to 347
 If you score 2, 3, 4 or 5, turn to 193
 
 339
-You fail to control them, two at once is too much for you after
-your recent mental battle with Baal. However, your attention is
-drawn to the oncoming Warriors. All you can do is try to gain
-some time by using your blaster on them, as they are almost
-upon you. Make an Attack Roll.
+You fail to control them, two at once is too much for you after your recent mental battle with Baal. However, your attention is drawn to the oncoming Warriors. All you can do is try to gain some time by using your blaster on them, as they are almost upon you. Make an Attack Roll.
 If you score 6-12, turn to 315
 If you score 2-5, turn to 323
 
