@@ -1603,54 +1603,22 @@ Turn to 300
 Turn to 317
 
 279
-You turn your suit volume up to maximum and send out a
-barrage of radio noise, hoping to 'jam' the creature's sonar. To
-your relief it works and you can see the blip on your radar going
-round in circles until it veers off in another direction. Still
-maintaining your radio barrage, you get back to Falcon's Wing.
-Quickly you fire your Particle Disruptor, severing the hausers
-connected to Falcon's Wing and then get inside it. As far as
-Captain Cresap Ord is concerned, when he draws up the
-severed hauser, it will seem that you died in an unfortunate
-accident. Turn to 260.
+You turn your suit volume up to maximum and send out a barrage of radio noise, hoping to 'jam' the creature's sonar. To your relief it works and you can see the blip on your radar going round in circles until it veers off in another direction. Still maintaining your radio barrage, you get back to Falcon's Wing. Quickly you fire your Particle Disruptor, severing the hausers connected to Falcon's Wing and then get inside it. As far as Captain Cresap Ord is concerned, when he draws up the severed hauser, it will seem that you died in an unfortunate accident. Turn to 260.
 
 280
-As you run back to the doorway you can hear a burbling shriek
-as the fly being realises who you are. You hurl yourself through
-the door into the silence of the night outside. You are forced to
-release the guard under your control, but he does manage to
-block the corridor for a brief moment. Suddenly, the quiet alley
-is filled with the harsh, deafening cry of an electronic alarm. A
-moment later and you can hear the sound of many running
-footsteps; You have no choice but to flee. You dash down the
-alleyway as ten or more black robed figures burst out of the
-doorway. One of them points at you and says: 'It is the Time
-Traveller! Kill him, in the name of Baal!' You sprint away. Turn
-to 245.
+As you run back to the doorway you can hear a burbling shriek as the fly being realises who you are. You hurl yourself through the door into the silence of the night outside. You are forced to release the guard under your control, but he does manage to block the corridor for a brief moment. Suddenly, the quiet alley is filled with the harsh, deafening cry of an electronic alarm. A moment later and you can hear the sound of many running footsteps; You have no choice but to flee. You dash down the alleyway as ten or more black robed figures burst out of the doorway. One of them points at you and says: 'It is the Time Traveller! Kill him, in the name of Baal!' You sprint away. Turn to 245.
 
 281
-As you fly, your environment control unit begins to fluctuate
-wildly and you are subjected to brief moments of biting cold.
-You are badly frostbitten. Lose 2 Endurance points. If you are still
-alive, you make it back to the warmth of Falcon's Wing. Turn to
-100.
+As you fly, your environment control unit begins to fluctuate wildly and you are subjected to brief moments of biting cold. You are badly frostbitten. Lose 2 Endurance points. If you are still alive, you make it back to the warmth of Falcon's Wing. Turn to 100.
 
 282
-As you run for the altar, you can feel one of the slabs shifting
-underfoot. There is a click and a volley of small javelins fly out of
-small niches in the wall. You throw yourself to the floor and
-somersault to your feet, and they whistle past you. Turn to 293.
+As you run for the altar, you can feel one of the slabs shifting underfoot. There is a click and a volley of small javelins fly out of small niches in the wall. You throw yourself to the floor and somersault to your feet, and they whistle past you. Turn to 293.
 
 283
-You return to Falcon's Wing where you spend your time
-checking your battlesuit while waiting. Have you ever been in
-the Dustbowl's only city, Refuge? If you have, turn to 342, if
-you have not, turn to 407.
+You return to Falcon's Wing where you spend your time checking your battlesuit while waiting. Have you ever been in the Dustbowl's only city, Refuge? If you have, turn to 342, if you have not, turn to 407.
 
 284
-The fireball erupts in the doorway, filling it with yellow flame,
-but you roll safely away. You have a moment to react as Baal
-screams in frustration, seeing you still alive. Will you:
+The fireball erupts in the doorway, filling it with yellow flame, but you roll safely away. You have a moment to react as Baal screams in frustration, seeing you still alive. Will you:
 
 Fire, your blaster at him, maintaining a five second burst and then run out, towards Falcon's Wing?
 Make a run for it immediately?
@@ -1660,38 +1628,14 @@ Turn to 243
 Turn to 257
 
 285
-You have almost reached Falcon's Wing when some black-robed
-priests charge at you from a nearby alleyway, a fanatical gleam
-in their eyes, screaming, 'Death to the enemies of Huitzilopochtli!' However, they stop in disbelief when you disappear
-into the hologram; it looks to them as if you have passed
-through the wall of a house. Hurriedly, you set course for the
-Eiger Vault. Then the cameras reveal Baal, recovered, hurtling
-directly at you and your screens are filled with yellow flame as
-he unleashes a fireball engulfing Falcon's Wing. You scream at
-CAIN to engage the Variac Drive and, moments later, you
-disappear from the city of Tenochtitlan. Safe in the grey
-nothingness of null-space, you heave a sigh of relief, calming
-your shattered nerves. Soon you are floating on the Winds of
-Time headed for the Eiger Vault. You ask CAIN what has
-happened in the timelines, knowing that the first law of TIME
-has been broken on Tenochtitlan to an unprecedented degree. It
-replies that the society was almost completely wiped out by the
-Spaniards in a few more decades, thus cancelling any serious
-time change. You may lie in your Autodoc and regain up to 12 points
-of lost Endurance on this journey. Have you been given any
-information about the Planet Cave? If you have, turn to 86. If
-you have not turn to 76.
+You have almost reached Falcon's Wing when some black-robed priests charge at you from a nearby alleyway, a fanatical gleam in their eyes, screaming, 'Death to the enemies of Huitzilopochtli!' However, they stop in disbelief when you disappear into the hologram; it looks to them as if you have passed through the wall of a house. Hurriedly, you set course for the Eiger Vault. Then the cameras reveal Baal, recovered, hurtling directly at you and your screens are filled with yellow flame as he unleashes a fireball engulfing Falcon's Wing. You scream at CAIN to engage the Variac Drive and, moments later, you disappear from the city of Tenochtitlan. Safe in the grey nothingness of null-space, you heave a sigh of relief, calming your shattered nerves. Soon you are floating on the Winds of Time headed for the Eiger Vault. You ask CAIN what has happened in the timelines, knowing that the first law of TIME has been broken on Tenochtitlan to an unprecedented degree. It replies that the society was almost completely wiped out by the Spaniards in a few more decades, thus cancelling any serious time change. You may lie in your Autodoc and regain up to 12 points of lost Endurance on this journey. Have you been given any information about the Planet Cave? If you have, turn to 86. If you have not turn to 76.
 
 286
-The sailor grunts and falls senseless to the floor. Captain
-Nathan stands astonished at this, unmoving. You take the
-chance to sprint up the stairs and out onto the deck, almost into
-the arms of a huge hairy sailor, lumbering towards the cabin.
-Wrestling with him is out of the question. Will you:
+The sailor grunts and falls senseless to the floor. Captain Nathan stands astonished at this, unmoving. You take the chance to sprint up the stairs and out onto the deck, almost into the arms of a huge hairy sailor, lumbering towards the cabin. Wrestling with him is out of the question. Will you:
+
 Use your Power of Will on him?
+Cut to the left and dive overboard into the dust near the quayside?
 Turn to 264
-Cut to the left and dive overboard into the dust
-near the quayside?
 Turn to 275
 
 287
