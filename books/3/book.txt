@@ -916,8 +916,7 @@ If you score 2-5, turn to 226
 A bolt of superheated plasma streaks towards the top of the pyramid, but your aim is off and it hits a priest, hurling him over the altar in a ball of flame. The crowd back away from you in terror, but Baal has spotted you. You feel his mind probing yours. Then an incredibly powerful will invades your mind, psychic power you never imagined possible and against which you have no hope of resisting. You can do nothing as he forces you to mount the pyramid. Your heart is cut out and you are consumed by Baal.
 
 159
-The beam of your Particle Disruptor takes the raging Baal in the chest. He howls, a scream of terrific agony, and jumps back put of the line of fire, pained but essentially unhurt. It is incredible that he can withstand a Particle Disruptor, you think to yourself. Just then, several fly creatures slam into you, hurling you against the steel ceiling with frightening force. Subtract 4 from your battlesuit armour points as it takes a severe battering. If your
-armour score is at 0 or less, turn to 180. Otherwise, will you:
+The beam of your Particle Disruptor takes the raging Baal in the chest. He howls, a scream of terrific agony, and jumps back put of the line of fire, pained but essentially unhurt. It is incredible that he can withstand a Particle Disruptor, you think to yourself. Just then, several fly creatures slam into you, hurling you against the steel ceiling with frightening force. Subtract 4 from your battlesuit armour points as it takes a severe battering. If your armour score is at 0 or less, turn to 180. Otherwise, will you:
 
 Throw the Rack at Baal?
 Try to fight off the fly creatures?
