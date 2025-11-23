@@ -2220,63 +2220,26 @@ If you score 2-5, turn to 417
 You can hardly miss at this range and a bolt of plasma takes the first one in the chest, almost vaporising the top half of his body. The other two charge on undeterred, their lips drawn back in a snarl of fanatical hate, but you shoot them both. Looking around to make sure you were not spotted using an illegal energy weapon, you hurry quickly onward. Turn to 416.
 
 388
-You dart into the lift and press the button for the Mining
-Control Room. The lift begins to move. Suddenly it shudders
-for a second but starts to rise upwards quickly again. Then your
-radio crackles and Bragg's voice comes out of it: 'It's clear in the
-storage area. How about you, Lieutenant Falcon?' You tell him
-what's happened, leaving out any mention of the Rack. He
-replies: 'You fool! You could've been killed!'
-Before he can go on, Achov's voice cuts in over the radio. 'I've
-found the suit computer control chips! They were in the main
-generator room. I'm coming out now, I'll meet you at the
-corridor junction.' A few minutes later the lift comes to a stop.
-Do you have Caleb's flamethrower? If you do, turn to 200. If
-you do not, turn to 302.
+You dart into the lift and press the button for the Mining Control Room. The lift begins to move. Suddenly it shudders for a second but starts to rise upwards quickly again. Then your radio crackles and Bragg's voice comes out of it: 'It's clear in the storage area. How about you, Lieutenant Falcon?' You tell him what's happened, leaving out any mention of the Rack. He replies: 'You fool! You could've been killed!' Before he can go on, Achov's voice cuts in over the radio. 'I've found the suit computer control chips! They were in the main generator room. I'm coming out now, I'll meet you at the corridor junction.' A few minutes later the lift comes to a stop. Do you have Caleb's flamethrower? If you do, turn to 200. If you do not, turn to 302.
 
 389
-You have misjudged how close your pursuers were. You
-unleash a blast of superheated plasma that virtually vaporises
-two of them but another slams into you, wielding a wickedly
-curved dagger. Acting instinctively, you fall backwards underneath him and use your foot to throw him over your head.
-However, another slashes your arm as you roll to your feet. *Lose 6 Endurance points.* If you are still alive, you despatch him with a
-swift karate kick, driving him back into those behind him. This
-gives you enough time to run on. They seem hesitant to follow
-you now, and soon you have left them behind. A few moments
-later and they are lost to sight as you turn into the dark,
-foreboding street where the warehouse containing Falcon's
-Wing lies. As you approach the entrance four black-robed
-figures burst from the shadows and charge at you in silence,
-drawing long wickedly curved daggers as several more step out
-of buildings behind you, trapping you in the street. Obviously
-they knew a short cut. Acting instinctively, you hurl yourself,
-rolling, at the feet of your four assailants, hoping to trip them
-and run on into the safety of Falcon's Wing. Make an Evasion
-Roll.
+You have misjudged how close your pursuers were. You unleash a blast of superheated plasma that virtually vaporises two of them but another slams into you, wielding a wickedly curved dagger. Acting instinctively, you fall backwards underneath him and use your foot to throw him over your head. However, another slashes your arm as you roll to your feet. *Lose 6 Endurance points.* If you are still alive, you despatch him with a swift karate kick, driving him back into those behind him. This gives you enough time to run on. They seem hesitant to follow you now, and soon you have left them behind. A few moments later and they are lost to sight as you turn into the dark, foreboding street where the warehouse containing Falcon's Wing lies. As you approach the entrance four black-robed figures burst from the shadows and charge at you in silence, drawing long wickedly curved daggers as several more step out of buildings behind you, trapping you in the street. Obviously they knew a short cut. Acting instinctively, you hurl yourself, rolling, at the feet of your four assailants, hoping to trip them and run on into the safety of Falcon's Wing. Make an Evasion Roll.
 If you score 6-12, turn to 360
 If you score 2-5, turn to 112
 
 390
-You draw your blaster and fire in one smooth motion. The
-plasma takes Braxton Bragg in the throat, almost severing his
-head and killing him instantly. Seconds later you wink out of
-existence. You have killed your grandfather's friend, who was
-responsible for your grandfather meeting your grandmother.
-They will never meet now, and your father will never be born. It
-is as if you had never existed.
+You draw your blaster and fire in one smooth motion. The plasma takes Braxton Bragg in the throat, almost severing his head and killing him instantly. Seconds later you wink out of existence. You have killed your grandfather's friend, who was responsible for your grandfather meeting your grandmother. They will never meet now, and your father will never be born. It is as if you had never existed.
 
 391
-Do you also have a section of the Rack with three small triangles
-at each corner? If you have, turn to 400. If you Have not, turn to
-409.
+Do you also have a section of the Rack with three small triangles at each corner?
+
+If you have,
+If you Have not,
+Turn to 400
+Turn to 409
 
 392
-As you run, there is a loud tearing sound behind you. Turning
-your head you are disgusted to see something new erupting out
-of the burning creature. It shoots up into the air on glistening
-leathery wings, about four foot long, insect-shaped, but with
-six, vaguely humanoid arms and a blunt head with a long
-curving proboscis of sharp bone. It dives down at you. Will you:
+As you run, there is a loud tearing sound behind you. Turning your head you are disgusted to see something new erupting out of the burning creature. It shoots up into the air on glistening leathery wings, about four foot long, insect-shaped, but with six, vaguely humanoid arms and a blunt head with a long curving proboscis of sharp bone. It dives down at you. Will you:
 
 Try to flamethrow it?
 Thinkstrike it?
@@ -2285,45 +2248,25 @@ Turn to 319
 
 393
 [Score a J]
-Moving onto the slab you are relieved to find that you have not
-set off any trap. You step off the stone grid in front of the altar.
-Turn to 134.
+Moving onto the slab you are relieved to find that you have not set off any trap. You step off the stone grid in front of the altar. Turn to 134.
 
 394
-You scream in fear and draw your blaster, probably your fastest
-draw ever and fire in one motion. Make an Attack Roll.
+You scream in fear and draw your blaster, probably your fastest draw ever and fire in one motion. Make an Attack Roll.
 If you score 6-12, turn to 384
 If you score 2-5, turn to 370
 
 395
-You concentrate your mind, trying to control the nearest
-attacker. Make a Power of Will Roll.
+You concentrate your mind, trying to control the nearest attacker. Make a Power of Will Roll.
 If you score 6-12, turn to 25
 If you score 2-5, turn to 33
 
 396
-You shake yourself out of your shocked horror. You must
-defend yourself as the creature continues to change, the head
-crunching in on itself and forming a huge gaping maw where
-the shoulders and neck should be, snapping convulsively. You
-squeeze the trigger of your blaster. Make an Attack Roll.
+You shake yourself out of your shocked horror. You must defend yourself as the creature continues to change, the head crunching in on itself and forming a huge gaping maw where the shoulders and neck should be, snapping convulsively. You squeeze the trigger of your blaster. Make an Attack Roll.
 If you score 6-12, turn to 384
 If you score 2-5, turn to 370
 
 397
-'Okay,' Lynx says. After going back to Falcon's Wing to pick up
-your hologram detector, you use it to check for any signs of a
-Hologram. You find Lynx's machine close to yours, but then you
-detect a hologram, obviously Yelov's stolen model A3, on the
-left bank of Culp's Hill, east of Benner's Hill and make your way
-towards it. You pass a battery of horse artillery straining to pull
-a gun out of some mud, and several groups of soldiers, tired and
-wounded. Soon you come to a body of Confederate infantry,
-behind the cover of a low stone wall. You are just about to
-detour around their position when a Confederate officer spots
-you and shouts: 'You, get into line there,' gesturing with his
-sabre for you to join the line of infantrymen, some of whom look
-up at you expectantly. Will you:
+'Okay,' Lynx says. After going back to Falcon's Wing to pick up your hologram detector, you use it to check for any signs of a Hologram. You find Lynx's machine close to yours, but then you detect a hologram, obviously Yelov's stolen model A3, on the left bank of Culp's Hill, east of Benner's Hill and make your way towards it. You pass a battery of horse artillery straining to pull a gun out of some mud, and several groups of soldiers, tired and wounded. Soon you come to a body of Confederate infantry, behind the cover of a low stone wall. You are just about to detour around their position when a Confederate officer spots you and shouts: 'You, get into line there,' gesturing with his sabre for you to join the line of infantrymen, some of whom look up at you expectantly. Will you:
 
 Run past the stone wall?
 Obey the officer and get in line?
@@ -2331,373 +2274,123 @@ Turn to 55
 Turn to 41
 
 398
-You hurl a blast of mental energy but it has no effect, its mind is
-too different from yours. The fly slams into you, sending you
-hammering into the corridor walls. Subtract 1 from your battlesuit
-armour points. You jet upward and launch a rocket. Turn to 276.
+You hurl a blast of mental energy but it has no effect, its mind is too different from yours. The fly slams into you, sending you hammering into the corridor walls. Subtract 1 from your battlesuit armour points. You jet upward and launch a rocket. Turn to 276.
 
 399
-You are some 200 metres from Falcon's Wing when a loud
-humming fills the air, as if of a thousand bees flying in unison.
-Turning your head you are greeted by a revolting sight. Flying
-into the warehouse is what can only be described as a twelvefoot fly, its huge compound eyes glittering malevolently and its
-black limbs glistening with mucus and lined with cilia. Its
-mouthparts are working violently, oozing a vile greyish saliva.
-Incredibly it speaks, the sound disturbingly unnatural, human
+You are some 200 metres from Falcon's Wing when a loud humming fills the air, as if of a thousand bees flying in unison. Turning your head you are greeted by a revolting sight. Flying into the warehouse is what can only be described as a twelvefoot fly, its huge compound eyes glittering malevolently and its black limbs glistening with mucus and lined with cilia. Its mouthparts are working violently, oozing a vile greyish saliva. Incredibly it speaks, the sound disturbingly unnatural, human words not meant for an alien throat: 'You must die, Time Traveller, Baal has spoken,' it bubbles. A wave of disgust comes over you, even though you have seen many strange life forms. It swoops down, intent on devouring you. Will you:
 
-words not meant for an alien throat: 'You must die, Time
-Traveller, Baal has spoken,' it bubbles. A wave of disgust comes
-over you, even though you have seen many strange life forms. It
-swoops down, intent on devouring you. Will you:
 Thinkstrike it?
 Use your Power of Will?
 Go for your blaster?
-
 Turn to 135
 Turn to 140
 Turn to 160
 
 400
-You must try to get through the door. You are edging around
-the edge of the cavern when your Psychic Awareness tells you
-that someone with mental powers has detected your mind. The
-Mother bellows loudly and the Nobles spin round, ordering
-twenty Warriors to kill you. The Warriors start moving towards
-you. Then a powerful mind attacks yours. You recognise the
-mental power of Baal. Suddenly the pieces of the Rack you are
-holding begin to grow hot and pulse brightly with white light
-and Baal's mind is driven back. Then the blubbery mass of the
-Mother begins to dissolve before your very eyes, seemingly
-metamorphosing. Seconds later, Baal stands in the Mother's
-place, bellowing in anger. With a flash of insight, you realise he
-has been posing as a Cave Mother using his hallucinatory mindpowers, but the two pieces of the Rack, acting together, prevent
-Baal from using his mental ability. At this, the Nobles order the
-Warriors to halt and begin trilling agitatedly amongst themselves. They know they have been tricked into rebelling against
-their rightful Mother and they see Baal as an intruder now.
-Taking this opportunity, you sprint for the door. However,
-Baal, furious, screams: 'You have meddled in my plans too often,
-mortal. Your puny little organisation can never hope to defeat
-me, Baal, the Lord of Flies!' and the sound echoes around the
-chamber so that you can almost feel the floor reverberating.
-Then he points at you, and a yellow bolt of energy forks from his
-finger, crackling through the air toward you. You must try to
-dodge the attack. Make an Evasion Roll.
+You must try to get through the door. You are edging around the edge of the cavern when your Psychic Awareness tells you that someone with mental powers has detected your mind. The Mother bellows loudly and the Nobles spin round, ordering twenty Warriors to kill you. The Warriors start moving towards you. Then a powerful mind attacks yours. You recognise the mental power of Baal. Suddenly the pieces of the Rack you are holding begin to grow hot and pulse brightly with white light and Baal's mind is driven back. Then the blubbery mass of the Mother begins to dissolve before your very eyes, seemingly metamorphosing. Seconds later, Baal stands in the Mother's place, bellowing in anger. With a flash of insight, you realise he has been posing as a Cave Mother using his hallucinatory mindpowers, but the two pieces of the Rack, acting together, prevent Baal from using his mental ability. At this, the Nobles order the Warriors to halt and begin trilling agitatedly amongst themselves. They know they have been tricked into rebelling against their rightful Mother and they see Baal as an intruder now. Taking this opportunity, you sprint for the door. However, Baal, furious, screams: 'You have meddled in my plans too often, mortal. Your puny little organisation can never hope to defeat me, Baal, the Lord of Flies!' and the sound echoes around the chamber so that you can almost feel the floor reverberating. Then he points at you, and a yellow bolt of energy forks from his finger, crackling through the air toward you. You must try to dodge the attack. Make an Evasion Roll.
 
 If you score 6-12, turn to 418
 If you score 2-5, turn to 24
 
 401
-McReady's eyes roll up into his head. Suddenly a small
-suppurating hole appears in his neck, opening and closing
+McReady's eyes roll up into his head. Suddenly a small suppurating hole appears in his neck, opening and closing spasmodically. His skull splits open with a loud wet crack and something large and bulky shudders forth, forming into a heavy head, horned and armoured, two small pig-like eyes at each side, the whole thing spilling rivulets of reddish mucus. Horrified, Achov and Caleb hesitate. McReady's shoulders split apart and a bony carapace forms over them. Then a thin jet of dirty white liquid hisses from the hole in the neck and streams towards you, Bragg and Achov. Almost as one you duck. Caleb raises the flamethrower, but McReady's side bursts open and a length of ridged, slime-ridden bone shoots out with devastating speed and buries itself in Caleb's chest. He howls in agony as, in front of your eyes, the bone begins to fuse with Caleb, retracting slowly, drawing him to the thing. Achov, Braxton and you open fire in horror, but the creature turns and, putting its head down, smashes through the door and is away, taking Caleb's body with it. Turn to 166.
 
-spasmodically. His skull splits open with a loud wet crack and
-something large and bulky shudders forth, forming into a heavy
-head, horned and armoured, two small pig-like eyes at each side,
-the whole thing spilling rivulets of reddish mucus. Horrified,
-Achov and Caleb hesitate. McReady's shoulders split apart and a
-bony carapace forms over them. Then a thin jet of dirty white
-liquid hisses from the hole in the neck and streams towards you,
-Bragg and Achov. Almost as one you duck. Caleb raises the
-flamethrower, but McReady's side bursts open and a length of
-ridged, slime-ridden bone shoots out with devastating speed and
-buries itself in Caleb's chest. He howls in agony as, in front of
-your eyes, the bone begins to fuse with Caleb, retracting slowly,
-drawing him to the thing. Achov, Braxton and you open fire in
-horror, but the creature turns and, putting its head down,
-smashes through the door and is away, taking Caleb's body with
-it. Turn to 166.
 402
-Your breathing becomes rapid and you stare in horror and begin
-to scream wildly. A tentacle lashes through the air, slamming
-into your torso with incredible force and hurling you backwards
-onto the work bench, sending instruments and tools crashing
-everywhere. Lose 4 Endurance points. If you are still alive, the sharp
-pain shocks you back into reality. You must defend yourself as
-the creature continues to change, the head crunching in on itself
-and forming a huge gaping maw where the shoulders and neck
-should be, snapping convulsively. Will you:
+Your breathing becomes rapid and you stare in horror and begin to scream wildly. A tentacle lashes through the air, slamming into your torso with incredible force and hurling you backwards onto the work bench, sending instruments and tools crashing everywhere. Lose 4 Endurance points. If you are still alive, the sharp pain shocks you back into reality. You must defend yourself as the creature continues to change, the head crunching in on itself and forming a huge gaping maw where the shoulders and neck should be, snapping convulsively. Will you:
 
 Thinkstrike the hideous apparition?
 Go for your blaster?
-
 Turn to 405
 Turn to 394
 
 403
-Fire billows out, engulfing the thing and it scuttles backwards,
-sizzling, and giving off an awful stench, making a horrible
-screaming noise. You run as fast as you can to the lift. Turn to
-392.
+Fire billows out, engulfing the thing and it scuttles backwards, sizzling, and giving off an awful stench, making a horrible screaming noise. You run as fast as you can to the lift. Turn to 392.
 
 404
-As cautiously as you can, you steal out onto the slab. A surge of
-adrenalin flows through you as the slab shifts and there is a loud
-click, below your feet. Will you:
+As cautiously as you can, you steal out onto the slab. A surge of adrenalin flows through you as the slab shifts and there is a loud click, below your feet. Will you:
+
 Leap forward?
 Drop to the floor?
-
 Turn to 143
 Turn to 155
 
 405
-Desperately, you throw your most powerful blast of mental
-energy at the creature, but it has no effect, you can sense it has
-no mind at least not what you would call a mind. You utter a
-shriek of revulsion as a tentacle snakes wetly around your thigh.
-Your leg begins to burn agonisingly as you realise the slime that
-coats it is eating into your flesh. Lose 3 Endurance points and subtract 1
-from your Evasion Modifier permanently as the wound will never heal
-properly. If you still live, you whip out your blaster as fast as you
-can and fire at the thing as it writhes in front of you. Make an
-Attack Roll.
+Desperately, you throw your most powerful blast of mental energy at the creature, but it has no effect, you can sense it has no mind at least not what you would call a mind. You utter a shriek of revulsion as a tentacle snakes wetly around your thigh. Your leg begins to burn agonisingly as you realise the slime that coats it is eating into your flesh. Lose 3 Endurance points and subtract 1 from your Evasion Modifier permanently as the wound will never heal properly. If you still live, you whip out your blaster as fast as you can and fire at the thing as it writhes in front of you. Make an Attack Roll.
 If you score 6-12, turn to 384
 If you score 2-5, turn to 357
 
 406
-You twist to the side and the laser beam lances past you, to be
-lost in the uniformly grey expanse of the Chill sky. Your rocket
-surges towards its target. Desperately the creature tries to
-dodge it, but the rocket homes in and explodes, smearing the
-powersuit and its contents across the ridge, where it freezes
-instantly, completely inert. All that is left is a broad red stain,
-frozen solid. Exhausted you pick yourself up and use your jets to
-fly back to Falcon's Wing. Turn to 100.
+You twist to the side and the laser beam lances past you, to be lost in the uniformly grey expanse of the Chill sky. Your rocket surges towards its target. Desperately the creature tries to dodge it, but the rocket homes in and explodes, smearing the powersuit and its contents across the ridge, where it freezes instantly, completely inert. All that is left is a broad red stain, frozen solid. Exhausted you pick yourself up and use your jets to fly back to Falcon's Wing. Turn to 100.
 
 407
-A day later you leave Falcon's Wing in the hope of finding an
-alternative to the Winged Demon. Carefully examining the
-quayside, you are pleased to see that the Winged Demon has left
-and that another ship is moored at the harbour. You are still
-some way from it when your Psychic Awareness picks up the
-presence of somebody nearby. You are prepared when three
-sailors run out at you from behind a large crate, long daggers in
-their hands. One of them hisses, 'May Baal, Lord of Flies, have
-your soul Time Traveller!' You contain your shocked surprise
-and prepare to defend yourself. It seems Baal has managed to
-establish some kind of priesthood on this planet, perhaps the
-very religion that caused their exile from Ascension. As Baal can
-travel at will through time he will have had the opportunity to
-do it. Will you:
+A day later you leave Falcon's Wing in the hope of finding an alternative to the Winged Demon. Carefully examining the quayside, you are pleased to see that the Winged Demon has left and that another ship is moored at the harbour. You are still some way from it when your Psychic Awareness picks up the presence of somebody nearby. You are prepared when three sailors run out at you from behind a large crate, long daggers in their hands. One of them hisses, 'May Baal, Lord of Flies, have your soul Time Traveller!' You contain your shocked surprise and prepare to defend yourself. It seems Baal has managed to establish some kind of priesthood on this planet, perhaps the very religion that caused their exile from Ascension. As Baal can travel at will through time he will have had the opportunity to do it. Will you:
+
 Thinkstrike the nearest assailant?
 Use your blaster?
 Try and control one of your assailants?
-
 Turn to 376
 Turn to 387
 Turn to 395
 
 408
-You twist away from the savage metal blows of his arm and you
-can feel the air move on your "face as his blow whips past you.
-Lynx reacts with lightning speed. She was trained in unarmed
-combat by Yelov, and grabs his arm, using his own impetus to
-throw him into the air. He lands well and, rolling to his feet, is
-running east towards Culp's Hill before you can act. Turn to 8.
+You twist away from the savage metal blows of his arm and you can feel the air move on your "face as his blow whips past you. Lynx reacts with lightning speed. She was trained in unarmed combat by Yelov, and grabs his arm, using his own impetus to throw him into the air. He lands well and, rolling to his feet, is running east towards Culp's Hill before you can act. Turn to 8.
 
 409
-You must try to get through the door. You are edging around
-the edge of the cavern when you Psychic Awareness tells you
-that someone with mental powers has detected your mind.
-Then a powerful mind attacks yours. You recognise the mental
-power of Baal. Somehow he is the Mother. The attack is
-extremely powerful but the piece of the Rack you are holding
-pulses, draining his attack of much of its strength. Once again
-you are locked in a deadly battle of wills with the cosmic being
-known as Baal, Make a Power of Will Roll.
+You must try to get through the door. You are edging around the edge of the cavern when you Psychic Awareness tells you that someone with mental powers has detected your mind. Then a powerful mind attacks yours. You recognise the mental power of Baal. Somehow he is the Mother. The attack is extremely powerful but the piece of the Rack you are holding pulses, draining his attack of much of its strength. Once again you are locked in a deadly battle of wills with the cosmic being known as Baal, Make a Power of Will Roll.
 If you score 6-12, turn to 277
 If you score 2-5, turn to 192
 
 410
-You point the pencil key at the door and it slides open. You jet
-into the asteroid. Your battlesuit analyses the air, it will bear
-human life, but not for long as it contains toxic substances. You
-find yourself in a well lit corridor of polished steel, thirty foot
-square, curving away round a corner. The corridor stretches
-ahead for what seems like an eternity. Then you can see a darker
-patch at its end. You shoot out, to find yourself flying near the
-ceiling of an enormous pillared vault. All around you at ceiling
-level is a circle of dark niches, their contents indeterminable.
-There is an echoing roar of rage and you look down. There,
-seated on an enormous throne, cut from a single gigantic
-diamond over thirty feet in size is the powerfully muscled form
-of Baal. 'Curse you, mortal, will you plague me forever!' he
-screams. Then he notices that you are holding the Rack. It is
-throbbing with an incredibly bright light, so that it is painful to
-look on. For the first time, you see fear on Baal's face. 'No!' he
-screams. He tries to hurl a yellow fireball and he tries to exert his
-mental power, but he cannot do either. Then he tries to fly up to
-you, but he cannot even do that. His face contorts with effort as
-he tries to travel in time but to no avail. The Rack is preventing
+You point the pencil key at the door and it slides open. You jet into the asteroid. Your battlesuit analyses the air, it will bear human life, but not for long as it contains toxic substances. You find yourself in a well lit corridor of polished steel, thirty foot square, curving away round a corner. The corridor stretches ahead for what seems like an eternity. Then you can see a darker patch at its end. You shoot out, to find yourself flying near the ceiling of an enormous pillared vault. All around you at ceiling level is a circle of dark niches, their contents indeterminable. There is an echoing roar of rage and you look down. There, seated on an enormous throne, cut from a single gigantic diamond over thirty feet in size is the powerfully muscled form of Baal. 'Curse you, mortal, will you plague me forever!' he screams. Then he notices that you are holding the Rack. It is throbbing with an incredibly bright light, so that it is painful to look on. For the first time, you see fear on Baal's face. 'No!' he screams. He tries to hurl a yellow fireball and he tries to exert his mental power, but he cannot do either. Then he tries to fly up to you, but he cannot even do that. His face contorts with effort as he tries to travel in time but to no avail. The Rack is preventing all his powers from working. Quickly he bellows, 'Kill him!' From either side of you giant flying creatures burst out of the small niches, filling the air with a deafening humming. You recognise the fly-like creatures, similar to the one you fought on Dustbowl. Will you:
 
-all his powers from working. Quickly he bellows, 'Kill him!'
-From either side of you giant flying creatures burst out of the
-small niches, filling the air with a deafening humming. You
-recognise the fly-like creatures, similar to the one you fought on
-Dustbowl. Will you:
 Fire your Particle Disruptor at Baal?
 Throw the Rack at Baal?
 Try to fight off the fly-like creatures?
-
 Turn to 159
 Turn to 188
 Turn to 139
 
 411
-Concentrating hard, you project the force of your will into the
-mind of the fly being. Its mind is a confusing swirl of alien
-thought patterns, so different that it almost unhinges your
-mind. However, it seems the creature is under some other kind
-of control, nothing like the mental domination you are familiar
-with, rather some kind of binding that has been upon the fly
-being for centuries beyond reckoning, something which you are
-unable to affect. Then its mind invades yours, as its physical
-body settles upon you. The combination of the sight of the
-enormous insectoid head, a greenish proboscis, dripping saliva
-and digestive juices, reeking of decay, descending towards you
-and the mental union with a creature whose mind is unutterably
-alien, sends you stark raving mad and you are unable to feel as it
-slowly sucks your body dry.
+Concentrating hard, you project the force of your will into the mind of the fly being. Its mind is a confusing swirl of alien thought patterns, so different that it almost unhinges your mind. However, it seems the creature is under some other kind of control, nothing like the mental domination you are familiar with, rather some kind of binding that has been upon the fly being for centuries beyond reckoning, something which you are unable to affect. Then its mind invades yours, as its physical body settles upon you. The combination of the sight of the enormous insectoid head, a greenish proboscis, dripping saliva and digestive juices, reeking of decay, descending towards you and the mental union with a creature whose mind is unutterably alien, sends you stark raving mad and you are unable to feel as it slowly sucks your body dry.
 
 412
-You split up at the junction wishing each other good luck. You
-move on down the centremost tunnel cautiously, your
-flamethrower at the ready. You come to the Mining Control
-Centre, scanning it carefully. It is deserted. You cross it to the
-lift to the mines. You pass your hand over a small beam of light,
-and the lift door slides open. You step back, but it is empty. You
-walk in and the door closes noiselessly behind you. Disregarding
-Bragg's warning in your quest for the final segment of the Rack,
-you select the lowest level and the lift begins to drop with gut
-wrenching speed, and after a few minutes it comes to a stop.
-Turn to 151.
+You split up at the junction wishing each other good luck. You move on down the centremost tunnel cautiously, your flamethrower at the ready. You come to the Mining Control Centre, scanning it carefully. It is deserted. You cross it to the lift to the mines. You pass your hand over a small beam of light, and the lift door slides open. You step back, but it is empty. You walk in and the door closes noiselessly behind you. Disregarding Bragg's warning in your quest for the final segment of the Rack, you select the lowest level and the lift begins to drop with gut wrenching speed, and after a few minutes it comes to a stop. Turn to 151.
 
 413
-You wait until the lights have dimmed and a blanket of silence
-has fallen over the Dome, save for the quiet thrum of the
-generators. You creep up the corridor. Light seeps out from
-
-around Achov's door. He is still up. As you pass his room you
-hear a faint sound, as if of a muffled shriek from far away and a
-soft squelching sound. Suppressing your curiosity, you come to
-the lab and, opening the door, you glide in silently. You turn on a
-lamp and search the lab in the dim light. To your consternation
-you cannot find the Rack segment anywhere, but you do find
-the egg. It has split open and a thick reddish mucus has spread
-from it, dripping onto the floor of the lab with a slow, rhythmic
-splatter. You stare at it, fascinated, for several long seconds.
-Suddenly there is a sound behind you and you spin to face it. At
-the doorway stands Tsu Tsang, looking at you sideways, head
-cocked oddly, the light green pinpricks in her eyes. Her posture
-is rather stiff and jerky and an eerie shiver goes up your spine.
-She seems unnatural in some way. She steps towards you. Make
-a Chance Roll.
+You wait until the lights have dimmed and a blanket of silence has fallen over the Dome, save for the quiet thrum of the generators. You creep up the corridor. Light seeps out from around Achov's door. He is still up. As you pass his room you hear a faint sound, as if of a muffled shriek from far away and a soft squelching sound. Suppressing your curiosity, you come to the lab and, opening the door, you glide in silently. You turn on a lamp and search the lab in the dim light. To your consternation you cannot find the Rack segment anywhere, but you do find the egg. It has split open and a thick reddish mucus has spread from it, dripping onto the floor of the lab with a slow, rhythmic splatter. You stare at it, fascinated, for several long seconds. Suddenly there is a sound behind you and you spin to face it. At the doorway stands Tsu Tsang, looking at you sideways, head cocked oddly, the light green pinpricks in her eyes. Her posture is rather stiff and jerky and an eerie shiver goes up your spine. She seems unnatural in some way. She steps towards you. Make a Chance Roll.
 If you score 1, 3, 4 or 6, turn to 102
 If you score 2 or 5, turn to 122
 
 414
-You shake yourself out of your shocked horror. You must
-defend yourself as the creature continues to change, the head
-crunching in on itself and forming a huge gaping maw where
-the shoulders and neck should be, snapping convulsively. Will
-you:
+You shake yourself out of your shocked horror. You must defend yourself as the creature continues to change, the head crunching in on itself and forming a huge gaping maw where the shoulders and neck should be, snapping convulsively. Will you:
+
 Thinkstrike the hideous apparition?
 Go for your blaster?
-
 Turn to 405
 Turn to 394
 
 415
-You watch your suit readout for any changes in the Environment Control function, but it remains stable and you arrive at
-Falcon's Wing safely. Turn to 100.
+You watch your suit readout for any changes in the Environment Control function, but it remains stable and you arrive at Falcon's Wing safely. Turn to 100.
 
 416
-You see the ship moored at the harbour is the Dustskate. You
-walk up the gangplank. A sailor, supposedly on watch, is snoring
-loudly, sitting with his back to one of the harpoon guns. The
-Dustskate carries two on port and starboard. Gently you wake
-him and ask for the captain. Irritably, he points the way to his
-cabin and goes back to sleep. Knocking on the door and entering,
-you see a burly red-bearded man, going to fat, his feet upon the
-desk, talking to another man he calls the Bo'sun. 'What can I do
-
-for you, Offworlder?' he says. You explain to him your
-intention to hire Dustskate for a scientific expedition and the
-details of your fictitious corporation. He nods, turning to the
-Bo'sun he says, These Offworlders are quite mad of course, but
-their money is good, eh? Sure we'll take you. 2,000 placs now,
-5,000 when we return. Deal?' You pay him the money and he
-arranges for your 'diving bell' to be loaded aboard. He introduces
-himself as Captain Cresap Ord, and soon the Dustskate is under
-way, its great sails unfurled, skudding out across the Sea of
-Dust. You notice one or two of the men eyeing you strangely,
-and you resolve to be on your guard. You are shown to your
-cabin, a functional steel room with one low bunk against the far
-wall. Taking no chances, you decide to sleep with your blaster
-under the pillow. Turn to 43.
+You see the ship moored at the harbour is the Dustskate. You walk up the gangplank. A sailor, supposedly on watch, is snoring loudly, sitting with his back to one of the harpoon guns. The Dustskate carries two on port and starboard. Gently you wake him and ask for the captain. Irritably, he points the way to his cabin and goes back to sleep. Knocking on the door and entering, you see a burly red-bearded man, going to fat, his feet upon the desk, talking to another man he calls the Bo'sun. 'What can I do for you, Offworlder?' he says. You explain to him your intention to hire Dustskate for a scientific expedition and the details of your fictitious corporation. He nods, turning to the Bo'sun he says, These Offworlders are quite mad of course, but their money is good, eh? Sure we'll take you. 2,000 placs now, 5,000 when we return. Deal?' You pay him the money and he arranges for your 'diving bell' to be loaded aboard. He introduces himself as Captain Cresap Ord, and soon the Dustskate is under way, its great sails unfurled, skudding out across the Sea of Dust. You notice one or two of the men eyeing you strangely, and you resolve to be on your guard. You are shown to your cabin, a functional steel room with one low bunk against the far wall. Taking no chances, you decide to sleep with your blaster under the pillow. Turn to 43.
 
 417
-You try to twist away, but the shock of seeing Yelov has slowed
-your reactions and his clawed hand smashes into your side,
-cracking a rib and tumbling you to the ground. Lose 9 Endurance
-points. Lynx reacts with lightning speed. She was trained in
-unarmed combat by Yelov, and grabs his arm, using his arm's
-impetus to throw him through the air. He lands well and, rolling
-to his feet, is running east towards Culp's Hill before you can
-act. Turn to 8.
+You try to twist away, but the shock of seeing Yelov has slowed your reactions and his clawed hand smashes into your side, cracking a rib and tumbling you to the ground. Lose 9 Endurance points. Lynx reacts with lightning speed. She was trained in unarmed combat by Yelov, and grabs his arm, using his arm's impetus to throw him through the air. He lands well and, rolling to his feet, is running east towards Culp's Hill before you can act. Turn to 8.
 
 418
-The bolt narrowly misses you and strikes the floor of the cavern
-with a loud crash. Turn to 35.
+The bolt narrowly misses you and strikes the floor of the cavern with a loud crash. Turn to 35.
 
 419
 [Score a J]
-Moving onto the slab you are relieved to find that you have not
-set off any trap. You step off the stone grid in front of the altar.
-Turn to 134.
+Moving onto the slab you are relieved to find that you have not set off any trap. You step off the stone grid in front of the altar. Turn to 134.
 
 420
-Some hours later, you are rested and sitting in Jobanque's office,
-relating the story of your mission to your Section Chief. When
-you have finished he says: 'A remarkable tale, Falcon. You are
-indeed our most resourceful agent. Once again, the Federation indeed all the peoples of the known universe - owe their
-freedom to you. Who knows what crimes Baal would have
-perpetrated in his lust for ultimate power! The Cavers have had
-some unfortunate changes in their past, but they know you
+Some hours later, you are rested and sitting in Jobanque's office, relating the story of your mission to your Section Chief. When you have finished he says: 'A remarkable tale, Falcon. You are indeed our most resourceful agent. Once again, the Federation indeed all the peoples of the known universe - owe their freedom to you. Who knows what crimes Baal would have perpetrated in his lust for ultimate power! The Cavers have had some unfortunate changes in their past, but they know you prevented the situation from getting worse. Much worse. The government of Cave, that is to say, the reigning Mother, has sent her personal thanks to you. However, not all the news is good. Agent Lynx is in hospital; she was on Yelov's trail, but he got the better of her. He's still at large somewhere, but keeping very quiet. Anyway, go and have some rest now Falcon, you've earned it!' A few days later, you receive a message asking you to go and see Jobanque again. When you arrive, you can see maintenance men going in and out of his office. Going in you can see it is being cleared out.
 
-prevented the situation from getting worse. Much worse. The
-government of Cave, that is to say, the reigning Mother, has
-sent her personal thanks to you. However, not all the news is
-good. Agent Lynx is in hospital; she was on Yelov's trail, but he
-got the better of her. He's still at large somewhere, but keeping
-very quiet. Anyway, go and have some rest now Falcon, you've
-earned it!' A few days later, you receive a message asking you to
-go and see Jobanque again. When you arrive, you can see
-maintenance men going in and out of his office. Going in you
-can see it is being cleared out.
-Jobanque is standing behind his desk, directing operations.
-Seeing you he says, 'Falcon, good to see you.' He pauses for a
-moment, smiling at you'. Then he says, 'I've been kicked upstairs,
-Falcon. They've selected me to be the Earther Lord of TIME,
-along with Silvermane, Pilota and R1llk of the Keladi! I've also
-got something for you, Falcon,' and he hands you a sheet of
-paper. It is an official TIME document. Your heart leaps as you
-realise you have been promoted to Section Chief, taking over
-from Jobanque's position. 'Agents Bloodhound, Lynx, Leopard,
-Chameleon and the rest are all under your command now,
-Falcon,' Jobanque says happily. 'Congratulations, Section Chief!
-Before you go, I've one last surprise for you,' and he opens the
-door. Standing there, grinning, is Braxton Bragg, looking a little
-older, but much the same, preserved by life-prolonging drugs.
-He smiles warmly and grabs your hand, shaking it vigorously.
-'Good to see you again, after all these years. Falcon. Jobanque
-has told me all about it. I've always wondered who you were, a
-Time Traveller, eh! Never would've guessed it back on Chill in a
-million years.' You leave the TIME building together. He tells
-you he owns the Mining Company now and you reminisce
-about what he calls the 'Old Days' together, That thing
-certainly gave us a hard time, eh, Falcon.' But, of course, for him
-it was fifty-eight years ago, whilst for you it has only been a
-matter of days....
+Jobanque is standing behind his desk, directing operations. Seeing you he says, 'Falcon, good to see you.' He pauses for a moment, smiling at you'. Then he says, 'I've been kicked upstairs, Falcon. They've selected me to be the Earther Lord of TIME, along with Silvermane, Pilota and R1llk of the Keladi! I've also got something for you, Falcon,' and he hands you a sheet of paper. It is an official TIME document. Your heart leaps as you realise you have been promoted to Section Chief, taking over from Jobanque's position. 'Agents Bloodhound, Lynx, Leopard, Chameleon and the rest are all under your command now, Falcon,' Jobanque says happily. 'Congratulations, Section Chief! Before you go, I've one last surprise for you,' and he opens the door. Standing there, grinning, is Braxton Bragg, looking a little older, but much the same, preserved by life-prolonging drugs. He smiles warmly and grabs your hand, shaking it vigorously.
+
+'Good to see you again, after all these years. Falcon. Jobanque has told me all about it. I've always wondered who you were, a Time Traveller, eh! Never would've guessed it back on Chill in a million years.' You leave the TIME building together. He tells you he owns the Mining Company now and you reminisce about what he calls the 'Old Days' together, That thing certainly gave us a hard time, eh, Falcon.' But, of course, for him it was fifty-eight years ago, whilst for you it has only been a matter of days....
 
 SCORING FOR FALCON 2: MECHANON
 If you have played Falcon 2: Mechanon and would like to rate your
