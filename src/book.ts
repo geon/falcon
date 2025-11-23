@@ -2,10 +2,10 @@ import {
 	checkLineBreaks,
 	checkPageNumbers,
 	getPages,
-	Page,
+	type Page,
 	parsePage,
-} from "./page";
-import { getLines } from "./getLines";
+} from "./page.js";
+import { getLines } from "./getLines.js";
 
 export function parseBook(fileContent: string): readonly Page[] {
 	const lines = getLines(fileContent);

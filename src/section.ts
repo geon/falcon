@@ -1,5 +1,5 @@
-import { DiceRollSubtype, makeDiceRollSubtype } from "./dice-roll";
-import { ScoreLetter } from "./score";
+import { type DiceRollSubtype, makeDiceRollSubtype } from "./dice-roll.js";
+import { type ScoreLetter } from "./score.js";
 
 export interface TextSection {
 	type: "text";
@@ -54,7 +54,7 @@ export function parseTurnInstructions(sections: Section[]): Section[] {
 	let options: number[] = [];
 	let lastSectionIndex = -2;
 	for (let i = 0; i < sections.length; ++i) {
-		const section = sections[i];
+		const section = sections[i]!;
 
 		const match =
 			section.type === "text" && section.line.match(/^Turn to ([\d]+)$/);
@@ -69,7 +69,7 @@ export function parseTurnInstructions(sections: Section[]): Section[] {
 			options = [];
 		}
 
-		options.push(parseInt(match[1]));
+		options.push(parseInt(match[1]!));
 		lastSectionIndex = i;
 	}
 	if (options.length) {
@@ -131,7 +131,7 @@ export function parseTables(sections: Section[]): Section[] {
 	let rows: string[][] = [];
 	let lastSectionIndex = -2;
 	for (let i = 0; i < sections.length; ++i) {
-		const section = sections[i];
+		const section = sections[i]!;
 		if (section.type !== "text") {
 			continue;
 		}
@@ -183,7 +183,7 @@ export function parseDiceRollInstructions(sections: Section[]): Section[] {
 		return sections;
 	}
 
-	const subtype = makeDiceRollSubtype(match[1]);
+	const subtype = makeDiceRollSubtype(match[1]!);
 
 	const outcomes = sections
 		.map(
@@ -243,7 +243,7 @@ export function parseDiceRollInstructions(sections: Section[]): Section[] {
 
 	// Insert the dice rolls in the untouched sections.
 	const result = sections.slice();
-	const firstSectionIndex = outcomes[0].sectionIndex;
+	const firstSectionIndex = outcomes[0]!.sectionIndex;
 	result.splice(firstSectionIndex, outcomes.length, {
 		type: "diceRoll",
 		subtype,

@@ -1,24 +1,27 @@
 {
 	"name": "falcon",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.ts",
-	"scripts": {
-		"start": "ts-node src/index.ts",
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"build:clean": "rm -rf dist",
-		"build": "npm run build:clean && npm run start",
-		"publish": "npm run build && bash ./publish.sh"
-	},
-	"author": "",
-	"license": "ISC",
-	"prettier": {
-		"useTabs": true,
-		"trailingComma": "all"
-	},
-	"dependencies": {
-		"@types/node": "^14.6.2",
-		"ts-node": "^9.0.0",
-		"typescript": "^4.0.2"
-	}
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "vitest",
+    "verify": "tsc && vitest --run",
+    "coverage": "vitest run --coverage",
+    "prettier": "prettier --write \"src/**/*.ts\"",
+    "build:clean": "rm -rf dist",
+    "build:write": "ts-node src/index.ts",
+    "build": "npm run build:clean && npm run build:write",
+    "publish": "npm run build && bash ./publish.sh",
+    "": ""
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^3.2.4",
+    "prettier": "^3.5.3",
+    "typescript": "~5.8.3",
+    "vitest": "^3.2.4"
+  },
+  "prettier": {
+    "useTabs": true
+  }
 }

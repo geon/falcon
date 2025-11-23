@@ -1,4 +1,4 @@
-import { parseScores } from "./score";
+import { parseScores } from "./score.js";
 import {
 	parseDiceRollInstructions,
 	parseHeaders,
@@ -6,8 +6,8 @@ import {
 	parseTables,
 	parseTurnInstructions,
 	renderSection,
-	Section,
-} from "./section";
+	type Section,
+} from "./section.js";
 
 interface PageBase {
 	pageNumber: number;
@@ -78,7 +78,7 @@ export function parsePage(rawLines: readonly string[]): Page {
 		};
 	}
 
-	const lastSection = content[content.length - 1];
+	const lastSection = content[content.length - 1]!;
 
 	if (
 		lastSection.type === "text" &&
@@ -94,7 +94,7 @@ export function parsePage(rawLines: readonly string[]): Page {
 	if (lastSection.type === "text") {
 		const match = lastSection.line.match(/Turn to ([\d]+)/i);
 		if (match) {
-			const link = parseInt(match[1]);
+			const link = parseInt(match[1]!);
 
 			return {
 				pageNumber,

@@ -6,9 +6,9 @@ import {
 	existsSync,
 } from "fs";
 import { join } from "path";
-import { parseIntroPage, renderPage } from "./page";
-import { parseBook } from "./book";
-import { getLines } from "./getLines";
+import { parseIntroPage, renderPage } from "./page.js";
+import { parseBook } from "./book.js";
+import { getLines } from "./getLines.js";
 
 const outputMainDirName = "dist";
 

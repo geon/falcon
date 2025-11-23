@@ -1,4 +1,4 @@
-import { Section } from "./section";
+import { type Section } from "./section.js";
 
 export const scoreLetters = [
 	"B" as const,
