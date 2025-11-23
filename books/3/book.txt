@@ -1144,174 +1144,60 @@ If you score 5-12, turn to 118
 If you score 2-4, turn to 130
 
 201
-You set co-ordinates for the Eiger Vault and soon you are
-moving through null-space. You may rest in your Autodoc
-during the journey and regain up to 12 points of lost Endurance. Soon
-you are in your bay at the Eiger Vault and you ask CAIN to link
-up with the Eiger service computer to check for any new
-information that may be available. CAIN chimes: There is a
-report from the Monitoring section, Falcon. A new timehole has
-appeared on the planet Cave, in 432 AD. As routine, an agent
-was sent to establish a monitoring device. They sent the new
-agent, Kingfisher, thinking it would make a good training run.
-Unfortunately, he never came back. The young novice was
-killed. Also, the present Queen, or Mother, of Cave has asked
-the TIME executive for help. It seems there have been some
-disturbances in their past.' Where will you go to:
+You set co-ordinates for the Eiger Vault and soon you are moving through null-space. You may rest in your Autodoc during the journey and regain up to 12 points of lost Endurance. Soon you are in your bay at the Eiger Vault and you ask CAIN to link up with the Eiger service computer to check for any new information that may be available. CAIN chimes: There is a report from the Monitoring section, Falcon. A new timehole has appeared on the planet Cave, in 432 AD. As routine, an agent was sent to establish a monitoring device. They sent the new agent, Kingfisher, thinking it would make a good training run. Unfortunately, he never came back. The young novice was killed. Also, the present Queen, or Mother, of Cave has asked the TIME executive for help. It seems there have been some disturbances in their past.' Where will you go to:
+
 The planet Cave in the year 432 AD?
 Earth in the time of the Aztecs?
-
 Turn to 205
 Turn to 22
 
 202
-There is a grunt of pain, followed by a muffled thud as the eyes
-disappear from view. You got him. Rather than making a lot of
-
-noise by forcing the door, you set your blaster at its lowest
-intensity and burn the lock and handle away. You push the door
-open. Suddenly, the quiet alley is filled with the harsh, deafening
-cry of an electronic alarm. A moment later and you can hear the
-sound of many running footsteps. You have no choice but to
-flee. You dash down the alleyway as ten or more black robed
-figures burst out of the doorway. One of them points at you and
-says: 'It is the Time Traveller! Kill him, in the name of Baal!'
-Smothering your shocked surprise, you sprint away. Turn to
-245.
+There is a grunt of pain, followed by a muffled thud as the eyes disappear from view. You got him. Rather than making a lot of noise by forcing the door, you set your blaster at its lowest intensity and burn the lock and handle away. You push the door open. Suddenly, the quiet alley is filled with the harsh, deafening cry of an electronic alarm. A moment later and you can hear the sound of many running footsteps. You have no choice but to flee. You dash down the alleyway as ten or more black robed figures burst out of the doorway. One of them points at you and says: 'It is the Time Traveller! Kill him, in the name of Baal!' Smothering your shocked surprise, you sprint away. Turn to 245.
 
 203
-Calling on your reserves of determination and energy, you
-throw off Baal's mental attack and contact is broken. He howls
-in rage and you have a moment in which to act. Will you:
-Fire your blaster at him, maintaining a five
-second burst and then run out, towards
-Falcon's Wing?
+Calling on your reserves of determination and energy, you throw off Baal's mental attack and contact is broken. He howls in rage and you have a moment in which to act. Will you:
+
+Fire your blaster at him, maintaining a five second burst and then run out, towards Falcon's Wing?
 Make a run for it immediately?
 Thinkstrike Baal?
-
 Turn to 231
 Turn to 243
 Turn to 257
 
 204
-You race on through the tunnels of Darkhome, retracing your
-steps. It is completely deserted, save for the bodies of many
-Warriors, mostly red-furred, and the oblivious workers still
-toiling away. You are just leaving the area where you saw the
-brutal battle between the loyalists and the rebels when you can
-hear a rushing of wind and the voice of Baal echoing through the
-tunnels behind you: 'I am coming for you, you little animal, and I
-shall tear you limb from limb and devour your soul!' Desperately
-you push yourself on, until you burst into the Cavern housing
-Falcon's Wing. The Burrowers are still digging. You are almost
-in your Time Machine when Baal flies into the cave, his bulk
-filling the tunnel completely, indeed if he could not have flown
-headfirst, he would not have been able to traverse the corridors
-of Darkhome at all. He holds a long steel girder in one hand
-which he hurls at you like a spear, at the instant he spots you.
-You try to dodge the attack, wishing fervently you had some
-means with which to combat the super-powerful being. Make
-an Evasion Roll.
+You race on through the tunnels of Darkhome, retracing your steps. It is completely deserted, save for the bodies of many Warriors, mostly red-furred, and the oblivious workers still toiling away. You are just leaving the area where you saw the brutal battle between the loyalists and the rebels when you can hear a rushing of wind and the voice of Baal echoing through the tunnels behind you: 'I am coming for you, you little animal, and I shall tear you limb from limb and devour your soul!' Desperately you push yourself on, until you burst into the Cavern housing Falcon's Wing. The Burrowers are still digging. You are almost in your Time Machine when Baal flies into the cave, his bulk filling the tunnel completely, indeed if he could not have flown headfirst, he would not have been able to traverse the corridors of Darkhome at all. He holds a long steel girder in one hand which he hurls at you like a spear, at the instant he spots you. You try to dodge the attack, wishing fervently you had some means with which to combat the super-powerful being. Make an Evasion Roll.
 If you score 6-12, turn to 259
 If you score 2-5, turn to 273
 
 205
-A little later Falcon's Wing is journeying through null-space
-towards the planet Cave, thousands of years in the past. During
-the journey you may rest in your Autodoc and regain up to 12
-points of lost Endurance. Rematerialising, you look at the camera
-screens. You are in a large underground cavern of dull grey rock.
-In places, the rock is lined with seams of some blue mineral. It is
-lit by a dim green glow, emanating from patches of a
-phosphorescent mossy fungus, growing around the cavern. At
-one end you can see a tunnel leading away, at the other you can
-see twenty or so humanoid figures, apparently excavating the
-rock. They are short and stocky, with two stumpy legs and four
-heavily muscled arms. Two of the arms end in massive claws
-that they use to tear at the rock. The other two arms end in four
-fingered hands, used to carry the rock away. They have huge
-eyes, and large ears like that of a bat's. A single nostril lies above
-a small, lipless mouth. Yellow fur with black stripes covers them
-from head to foot. They are tearing into the rock with incredible
-speed and single-mindedness, but seem to you to be unintelligent. You ask CAIN for information. 'Cave in 3033 AD is
-outside of the Federation, but it is a highly advanced society.
-Cave is rich in seams of blue magnestite, a natural mineral that
-acts like magnesium, burning very brightly. It is used by the
-Federation in Starship drives. However, at this time, Cave is at a
-stage of development akin to Earth's neolithic age. The planet's
-barren surface is too hot to bear life and its atmosphere provides
-no protection from the sun's rays. However, beneath the
-surface it is a maze of tunnels. Each tunnel complex is ruled by a
-Mother. The Mother lays eggs in a batch, that hatch into
-specialised individual organisms, broadly divided into Workers,
-Warriors and Nobles. Those you can see now are Burrowers,
-their only function is to build new tunnels. The Nobles are
-intelligent humanoids, the rest are only intelligent enough to
-follow orders. There is a strict caste system, like an insect hive,
-and each batch of eggs usually differ in fur colouring and tend to
-form into what would be called in Earth terms, tribes or clans.
-However, each batch owes complete loyalty to the Mother.
-Different tunnel complexes often make war on each other. The
-Cavers use sound and smell as their primary senses. Although
-their eyes are extremely sensitive to light, there simply isn't
-enough of it to make full use of this sense. We have arrived in
-the Darkhome tunnel complex, where the Cave of 3033 AD has
-reported timeline changes. My databanks tell me we have
-
-arrived in the middle of a civil war, the only one ever recorded in
-Cave history. The atmosphere has oxygen in it, Falcon, but with
-high levels of nitrogen. I'm afraid you will have to use your
-environment suit, in any case, Cavers do not wear clothing, so
-the Molecular Convertor cannot help you. Try not to get
-spotted by any Nobles, Falcon, the response to any nonDarkhome intruder is to attack and destroy at this period in
-Caver history.' Turn to 18.
+A little later Falcon's Wing is journeying through null-space towards the planet Cave, thousands of years in the past. During the journey you may rest in your Autodoc and regain up to 12 points of lost Endurance. Rematerialising, you look at the camera screens. You are in a large underground cavern of dull grey rock. In places, the rock is lined with seams of some blue mineral. It is lit by a dim green glow, emanating from patches of a phosphorescent mossy fungus, growing around the cavern. At one end you can see a tunnel leading away, at the other you can see twenty or so humanoid figures, apparently excavating the rock. They are short and stocky, with two stumpy legs and four heavily muscled arms. Two of the arms end in massive claws that they use to tear at the rock. The other two arms end in four fingered hands, used to carry the rock away. They have huge eyes, and large ears like that of a bat's. A single nostril lies above a small, lipless mouth. Yellow fur with black stripes covers them from head to foot. They are tearing into the rock with incredible speed and single-mindedness, but seem to you to be unintelligent. You ask CAIN for information. 'Cave in 3033 AD is outside of the Federation, but it is a highly advanced society. Cave is rich in seams of blue magnestite, a natural mineral that acts like magnesium, burning very brightly. It is used by the Federation in Starship drives. However, at this time, Cave is at a stage of development akin to Earth's neolithic age. The planet's barren surface is too hot to bear life and its atmosphere provides no protection from the sun's rays. However, beneath the surface it is a maze of tunnels. Each tunnel complex is ruled by a Mother. The Mother lays eggs in a batch, that hatch into specialised individual organisms, broadly divided into Workers, Warriors and Nobles. Those you can see now are Burrowers, their only function is to build new tunnels. The Nobles are intelligent humanoids, the rest are only intelligent enough to follow orders. There is a strict caste system, like an insect hive, and each batch of eggs usually differ in fur colouring and tend to form into what would be called in Earth terms, tribes or clans. However, each batch owes complete loyalty to the Mother. Different tunnel complexes often make war on each other. The Cavers use sound and smell as their primary senses. Although their eyes are extremely sensitive to light, there simply isn't enough of it to make full use of this sense. We have arrived in the Darkhome tunnel complex, where the Cave of 3033 AD has reported timeline changes. My databanks tell me we have arrived in the middle of a civil war, the only one ever recorded in Cave history. The atmosphere has oxygen in it, Falcon, but with high levels of nitrogen. I'm afraid you will have to use your environment suit, in any case, Cavers do not wear clothing, so the Molecular Convertor cannot help you. Try not to get spotted by any Nobles, Falcon, the response to any nonDarkhome intruder is to attack and destroy at this period in Caver history.' Turn to 18.
 
 206
-Make a Thinkstrike Roll as you hurl a bolt of mental energy at
-the sailor.
+Make a Thinkstrike Roll as you hurl a bolt of mental energy at the sailor.
 If you score 6-12, turn to 286
 If you score 2-5, turn to 297
 
 207
-You whip out your blaster and fire, catching Bragg in the leg. He
-appears to be human! Before you can do anything else, Bragg
-has drilled a neat hole in your chest with his laser pistol. You hit
-the floor. The last words you ever hear are: 'Damn it, he was
-human after all.'
+You whip out your blaster and fire, catching Bragg in the leg. He appears to be human! Before you can do anything else, Bragg has drilled a neat hole in your chest with his laser pistol. You hit the floor. The last words you ever hear are: 'Damn it, he was human after all.'
 
 208
-You try to aim your Particle Disruptor, using your radar, as the
-graphic is not too reliable in determining the position of
-something. It will be difficult. Make an Attack Roll.
+You try to aim your Particle Disruptor, using your radar, as the graphic is not too reliable in determining the position of something. It will be difficult. Make an Attack Roll.
 If you score 10-12, turn to 235
 If you score 2-9, turn to 249
 
 209
-You throw off your terrified inertia, leaping back as a tentacle
-snakes out towards you. Then the creature sprouts four
-massive trunk-like legs, raising it off the ground. It folds in on
-itself, metamorphosing into a single huge mouth on legs, two
-lobster-like eyestalks rising above it. Do you have any
-magnesite with you ? If you do, turn to 255. If you do not, turn to
-267.
+You throw off your terrified inertia, leaping back as a tentacle snakes out towards you. Then the creature sprouts four massive trunk-like legs, raising it off the ground. It folds in on itself, metamorphosing into a single huge mouth on legs, two lobster-like eyestalks rising above it. Do you have any magnesite with you ?
+
+If you do,
+If you do not,
+Turn to 255
+Turn to 267
 
 210
-You race for the entrance and through the curtained portal, the
-two Jaguar Knights backing away from you. You can hear Baal
+You race for the entrance and through the curtained portal, the two Jaguar Knights backing away from you. You can hear Baal shouting orders in Aztec to the priests, that your Translator renders as: 'Kill the heretic!' You find yourself in a maze of corridors leading through rooms piled with grain, gold, ornaments and pottery. You are running down a corridor, towards a richly decorated portal when five or six priests appear around a corner behind you, wielding obsidian daggers. Turning, you can see they are without hope and resigned to death. They think you are a god, but are determined to obey what they believe is their patron deity, Baal. Will you:
 
-shouting orders in Aztec to the priests, that your Translator
-renders as: 'Kill the heretic!' You find yourself in a maze of
-corridors leading through rooms piled with grain, gold,
-ornaments and pottery. You are running down a corridor,
-towards a richly decorated portal when five or six priests appear
-around a corner behind you, wielding obsidian daggers.
-Turning, you can see they are without hope and resigned to
-death. They think you are a god, but are determined to obey
-what they believe is their patron deity, Baal. Will you:
-Try to bring them down with a series of
-Thinkstrikes?
+Try to bring them down with a series of Thinkstrikes?
 Cut them down with your blaster?
-
 Turn to 254
 Turn to 238
 
