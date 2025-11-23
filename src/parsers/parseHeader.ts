@@ -15,6 +15,6 @@ export const parseHeader = parseSequenceIndex(1, [
 function parseUntil(endChar: string): Parser<string> {
 	return parseMonad(
 		parseOneOrMore(parseAnyCharBut(endChar)),
-		(parsed, { result }) => result(parsed.join()),
+		(parsed, { result }) => result(parsed.join("")),
 	);
 }
