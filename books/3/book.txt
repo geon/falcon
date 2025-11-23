@@ -438,9 +438,10 @@ You drop to the floor but a single barbed two-foot javelin explodes from the wal
 
 Step onto the slab directly ahead of you, in the last row?
 Step onto the slab diagonally to your right, the middle slab on the last row?
-Step directly to your right, to the centremost of Turn to 373 the nine slabs?
+Step directly to your right, to the centremost of the nine slabs?
 Turn to 393
 Turn to 404
+Turn to 373
 
 73
 Make an Evasion Roll.
