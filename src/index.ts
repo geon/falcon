@@ -28,8 +28,8 @@ function processBook(bookNumber: number) {
 	const bookFilePath = join("books", bookNumber.toString(), "book.txt");
 	const imageFolderPath = join("books", bookNumber.toString(), "images");
 
-	const fileContent = readFileSync(bookFilePath);
-	const lines = getLines(fileContent.toString("utf8"));
+	const fileContent = readFileSync(bookFilePath).toString("utf8");
+	const lines = getLines(fileContent);
 	const pages = [...getPages(lines)].map(parsePage);
 
 	checkPageNumbers(pages);
