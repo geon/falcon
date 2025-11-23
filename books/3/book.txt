@@ -48,6 +48,7 @@ Turn to 38
 You materialise on the world of Dustbowl again. Examining the camera you see that you have not arrived within the domed city of Refuge this time, but at the port, on the edge of the Sea of Dust. This should mean that the priests of Baal will probably be unable to detect your presence. Crates and miscellaneous equipment are stacked nearby and to the left you can see a cluster of buildings. It is day time, and the white sun is directly overhead; the sky is maroon tinged with blue, and the air is filled with clouds of fine dust. Ahead of you stretches an endless red expanse, the Sea of Dust. Behind you and to either side, great rocky cliffs climb high above you, stretching out of sight. Perched somewhere at their top lies the city of Refuge. CAIN runs off the disguise of a Dustbowl whaler in the Molecular Convertor again, along with a filter mask and you step out, detector in hand. You look around, but no one is near. Setting the tripod up, you begin to explore its psychic emanations. You sense that it is registering the presence of a piece of the Rack! Your excitement fades though as you realise that it is lying out at sea, deep in the depths of the crater, buried under tons and tons of dust. It will prove difficult to get hold of. You decide to consult CAIN, and re-enter Falcon's Wing. Turn to 27.
 
 8
+image-011.png
 'Come on,' you shout and you both set off in pursuit of Yelov. He pulls away from you however, his bionic legs giving him an added advantage. Soldiers stare at you as you run past, thinking you are couriers with urgent messages. Soon you are past Benner's Hill, coming to orderly lines of Confederate men, tired but still alert. Lynx tells you this is Early's division, the Confederate troops nearest to Culp's Hill. You veer away from them, not wishing to draw any enquiries as to where you are going. You see Yelov crossing a small river or brook and disappearing into the woods around Culp's Hill, noticing that he is now in a blue uniform. You move forward towards the wood. Suddenly a line of blue jacketed infantrymen step into the open at the edge of the wood. There is a shouted command and a billowing cloud of smoke appears in front of them, they have unleashed a volley of musket fire at you. Desperately you throw yourself to the ground. Make an Evasion Roll.
 If you score 6-12, turn to 19
 If you score 2-5, turn to 30
@@ -164,6 +165,7 @@ Turn to 340
 Turn to 373
 
 29
+image-013.png
 As you walk onward, in the soft glow of the phosphorescent fungus, the unmistakable sound of battle echoes down the tunnel. Cautiously edging along the side of the corridor you come to a T-junction. Poking your head out you look to the left. A group of yellow and black furred Burrowers are waiting placidly, a mass of mud and rock at their feet. Turning your head to the right, you are greeted by the cause of the sound. The tunnel is filled with two lines of what must be Warriors, some yellow and black, the others with dull red fur, engaged in a vicious death struggle. The Warriors are frightening to look at. They have two arms ending in what can only be described as serrated sword blades, presumably of bone or hardened cartilage. Viciously sharp horns protrude from their domed heads, their elbows and knees. Their feet resemble the claws of a bird, except that they are of sharp cartilage, all talons. Their heads are much the same as the Burrowers, except for the massive fangs. What is most frightening is their speed and ferocity and the feral savagery with which they are ripping each other into shreds. Incredibly swift and powerful, they are creatures bred for one thing only - killing. Behind each rank of Warriors there are two or three Nobles, giving orders. They are human in shape, except for their heads. These are much the same as the Burrowers, except for a membrane covering a circular cavity above the mouth. They communicate by vibrating this membrane to produce sound. Turn to 44.
 
 30
@@ -269,6 +271,7 @@ Turn to 74
 You are not quite fast enough. You can feel the rush of beaten air from the wings of the fly beast and then a sharp pain as its mandibles clash together, taking a chunk out of your shoulder. Lose 6 Endurance points. If you are still alive, the fly pulls up to avoid what it thinks are crates, but are in fact the hologram disguise. You roll onward and disappear into them and are drawn up into Falcon's Wing. The creature seems to guess what has happened for, a second or two later, it crashes into Falcon's Wing, causing it to shudder ominously. However, CAIN assures you that Falcon's Wing is easily able to withstand the batterings of a mere twelve-foot fly. Muttering darkly about personality programmed computers, you settle into your crash-couch. Turn to 23.
 
 46
+image-014.png
 You set the co-ordinates for Rigel Prime, 1642 AD and instruct CAIN to use the Variac Drive. Moments later your mind is searching through null-space for the psychic pattern that marks the timehole and soon you are guiding the navigational computers to Rigel Prime. You rematerialise safely and your cameras reveal a strange wooded glade. The sky is a deep yellow colour. The ground is covered in a close knit layer of spongy turquoise grass. There are trees, odd mounds, some two or three feet high, with thick trunks, sprouting heavy branches laden with fat blue leaves. You are in a depression in the ground. The rim of the glade is covered with trees, so that you cannot see beyond it. You ask CAIN for an historical update. It chimes: 'Lord Silvermane of TIME is of course a Rigellian. But Rigel Prime in 1642 AD was a much less civilised place. Technology is low. Politically, the planet is divided into groups of family clans, corresponding to the nations of ancient Earth. The hierarchy of society is almost completely based on a warrior code of physical prowess. Those victorious in combat, male or female, will be the rulers. It is a very violent society. However, sensibly, mass wars are never fought. The concept of the honourable duel is very important to the 17th century Rigellian. Differences between clans are settled in the arena, usually an expanse of land containing many types of terrain in which specially selected teams duel to the death. The atmosphere of Rigel Prime is sufficiently Earth-like for you to breathe, however its gravity is twice that of Earth. I doubt you will be able to withstand the discomfort for long, Falcon. I have disguised Falcon's Wing as a clump of indigenous vegetation.'
 
 'What about a disguise for me, CAIN?' you ask.
@@ -354,6 +357,7 @@ Turn to 34
 
 59
 [Score a G]
+image-015.png
 You move around to the other ridge and climb up it. As you reach the top, you can see Achov lying in the very place you were intending to be. The whole thing was a trap! It was hoping you'd go to the cave where it could pick you off from here. Somehow it senses you and rolls over, a laser rifle in its hand. The face inside the powersuit is not Achov's any more, it is something else, something you are glad not to be able to make out properly. You have the initiative. Will you:
 
 Launch a rocket at the thing in Achov's Power
@@ -401,6 +405,7 @@ Turn to 89
 Turn to 103
 
 67
+image-016.png
 As you leave the artificial gravity of Falcon's Wing you are instantly struck by the heavy weight of twice the gravity you are used to. It is as if your limbs were made of lead and your breathing is heavy and laboured as you stagger into the cover of some nearby trees, half way up the side of the glade. As if in slow motion you set up the detector tripod. The dull whitish gem begins to radiate a translucent light and you use your Psychic Awareness to explore the psionic emanations of the detector. Within moments you realise that there are no traces of the Rack here on Rigel. As you are packing the detector up, a sound alerts you. Turning, you see a large humanoid figure, seven or eight feet tall, entering the glade. The figure is a Rigellian, obviously dressed for war. He looks much like Lord Silvermane save that his long, shoulder-length hair is jet black. He has blue skin, covered in strange designs painted on in yellow and white. His body is heavily muscled, the legs and arms are like tree trunks, the torso a barrel. In one three-fingered hand he holds an enormous club, a long spiked bar ending in a cluster of sharpened blades. His other arm is armoured from shoulder to hand with spiked steel, ending in a vicious dagger-like blade coming from the top of the wrist. From a wide belt hang several wickedly pointed throwing weapons. The eyes, all white, glare balefully around the glade. You sink slowly into the cover of the trees, hoping not to be spotted. Unfortunately, the Rigellian is now between you and Falcon's Wing. Then there is a sound to your left and another enormous figure, less stocky than the other, but with a hint of tigerish grace, enters the glade. His hair is bluey-green, in one hand he holds what would be to a human a halberd, which serves as a one bladed axe to the Rigellian. In his other hand is one long blade, a hand grip in its middle. His abdomen is covered in linked plates of mail with a spike at the front. Turn to 78.
 
 68
@@ -561,6 +566,7 @@ Turn to 206
 The white triangle is heating up. Examining it, you can see it pulsing with white light. Somehow, it knows Baal is here or else it is registering the presence of another segment of the Rack nearby. Turn to 111.
 
 94
+image-017.png
 An hour passes as you labour on, and the storm lessens a little. Then you come to the top of a gnarled ice ridge, looking down into a valley, where a large grey dome rests. Black smoke seeping out from an exhaust vent is whipped away in the wind. This must be the mining station, and using the tripod again, you are able to tell that the item you seek lies far below it. Then you notice a figure in an industrial powersuit coming around the back of the Dome, making towards the circular air-lock door at its base. The figure sees you and stops in its tracks. The body is in a posture of surprise. Your battlesuit picks up a radio signal from the figure. 'I mean, wow, man, like really ultra! Who are you? I mean, I thought this filthy ice-cube was uninhabited,'and he breaks into laughter. You send a message back, saying you are a Scout whose Explorer Class starship's drive failed.
 
 'Am I glad to see you!' you say. 'I thought I'd never find the mining station.'
@@ -616,6 +622,7 @@ If you score 6-12, turn to 251
 If you score 2-5, turn to 261
 
 102
+image-018.png
 Suddenly there is a sickening, tearing sound and Tsu Tsang's chest rips apart loudly, blood and slime spraying everywhere. Several tentacles writhe and twist forward, hissing and bubbling horribly. Her body jerks convulsively, the jaws crack open and her tongue, impossibly long, slithers out obscenely, splitting like ripe fruit into two pulpy appendages that form into stings like a scorpion's tail in front of your very eyes. Organic juices spurt and flow in rivulets. Utterly horrified you stand transfixed with shock at what you are seeing, as slime ridden tentacles reach out for you. Make a Power of Will Roll as you try to retain control of your senses.
 If you score 6-12, turn to 414
 If you score 2-5, turn to 402
@@ -751,6 +758,7 @@ Turn to 132
 Turn to 190
 
 125
+image-019.png
 The air begins to shimmer above the altar, at the top of the pyramid. A huge twenty-foot figure materialises, hanging in ' space. It is a powerfully muscled man, a deep red in colour, with slitted, reptillian eyes and taloned fingers. A nimbus of yellow energy plays about its form. You recognise Baal. The crowd seems to gasp in astonishment as one, and many fall to their knees, trembling in fear. The priests and the Emperor fall abjectly to the floor and a whisper of 'Huitzilopochtli! It's Huitzilopochtli, the Lord of War,' ripples around the plaza. Turn to 82.
 
 126
@@ -935,6 +943,7 @@ If you score 8-12, turn to 216
 If you score 2-7, turn to 227
 
 162
+image-020.png
 A bolt of plasma slams into McReady's leg, smashing him against the door. He howls, an unearthly inhuman sound, and Achov and Bragg lower the weapons that were pointed at you and turn to look at McReady. His eyes roll up into his head. Suddenly a small, suppurating hole appears in his neck, opening and closing spasmodically. His skull splits open with a loud wet crack and something large and bulky shudders forth, forming into a heavy head, horned and armoured, two small pig-like eyes at each side> the whole thing spilling rivulets of reddish mucus. Horrified, Achov and Caleb hesitate. McReady's shoulders split apart and a bony carapace forms over them. Then a thin jet of dirty white liquid hisses from the hole in the neck and streams towards you, Bragg and Achov. Almost as one you duck. Caleb raises the flamethrower, but McReady's side bursts open and a length of ridged, slime-ridden bone shoots out with devastating speed and buries itself in Caleb's chest. He howls in agony as, in front of your eyes, the bone begins to fuse with Caleb, retracting slowly, drawing him to the thing. Achov, Bragg and you open fire in horror, but the creature turns and, putting its head down, smashes through the door and is away, taking Caleb's body with it. Achov and Bragg, thunder-struck, turn to you and apologise for doubting you. Bragg is ashen-faced at the loss of Caleb. Turn to 166.
 
 163
@@ -1002,6 +1011,7 @@ Turn to 205
 You have missed again, but this time the creature's return shot is deadly accurate. A laser beam lances into your battlesuit environment control unit, destroying it. Your suit can no longer maintain any heat and you freeze to death in seconds, helpless against the deadly cold of the planet Chill.
 
 174
+image-021.png
 When you are close you switch on the computer graphic delineator. This interprets your microbeam radar and renders it visually. It is almost as good as the real thing. The rack segment is a large translucent white triangle, with a hole in its middle. Three tiny objects are embedded in its corners. The whole thing is about the size of your head. Reaching down you feel about, using the touch sensors on the fingertips of your battlesuit. At last you have it. You transfer it to the iron grip of your mechanical assistor arm, and begin to walk back to Falcon's Wing. Suddenly your radar picks up a large blip on the edge of your face plate display. It is moving directly towards you at great speed. You realise it will reach you before you can get to Falcon's Wing. Suddenly, the computer graphic delineator cuts in and a hideous sight fills your face plate and you step back involuntarily, horrified. Some creature, utterly alien, is almost upon you. It has a long head, completely smooth, the skull lengthened to hang over the back. It has no eyes, the mouth like that of an Earth shark. The head lies on a long and sinuous body, like a huge snake, but with tentacles. It is enormous and will reach you in a few seconds, what will you do? Will you:
 
 Launch one of your rockets at it?
@@ -1091,6 +1101,7 @@ If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
 191
+image-022.png
 There is a howl of ferocious rage and bricks and mortar tumble into the room. You dash back to the portal but turn to stare at the sight that greets you. A huge twenty-foot figure has smashed its way through the roof. It is a powerfully muscled man, deep red in colour with slitted reptilian eyes and taloned fingers. A nimbus of yellow energy plays about its form. His weight sets off a trap and a volley of javelins fly from the wall, but they shatter against his skin as if they were made of sand. He hardly notices them. You recognise Baal. You guess he comes here to feed off the life forces of the sacrificial victims of the Aztecs, perhaps even masquerading as one of their gods. He glares at you balefully, his lips drawn back in a snarl of anger. You cannot help but tremble in fright, faced as you are with the primordial evil you can see in his eyes. He raises his arms, sweeping them across the ceiling, destroying more of the roof, yellow energy crackling and spitting all about him. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up? If you have, turn to 305. If you have not, turn to 320.
 
 192
@@ -1170,6 +1181,7 @@ If you score 6-12, turn to 259
 If you score 2-5, turn to 273
 
 205
+image-023.png
 A little later Falcon's Wing is journeying through null-space towards the planet Cave, thousands of years in the past. During the journey you may rest in your Autodoc and regain up to 12 points of lost Endurance. Rematerialising, you look at the camera screens. You are in a large underground cavern of dull grey rock. In places, the rock is lined with seams of some blue mineral. It is lit by a dim green glow, emanating from patches of a phosphorescent mossy fungus, growing around the cavern. At one end you can see a tunnel leading away, at the other you can see twenty or so humanoid figures, apparently excavating the rock. They are short and stocky, with two stumpy legs and four heavily muscled arms. Two of the arms end in massive claws that they use to tear at the rock. The other two arms end in four fingered hands, used to carry the rock away. They have huge eyes, and large ears like that of a bat's. A single nostril lies above a small, lipless mouth. Yellow fur with black stripes covers them from head to foot. They are tearing into the rock with incredible speed and single-mindedness, but seem to you to be unintelligent. You ask CAIN for information. 'Cave in 3033 AD is outside of the Federation, but it is a highly advanced society. Cave is rich in seams of blue magnestite, a natural mineral that acts like magnesium, burning very brightly. It is used by the Federation in Starship drives. However, at this time, Cave is at a stage of development akin to Earth's neolithic age. The planet's barren surface is too hot to bear life and its atmosphere provides no protection from the sun's rays. However, beneath the surface it is a maze of tunnels. Each tunnel complex is ruled by a Mother. The Mother lays eggs in a batch, that hatch into specialised individual organisms, broadly divided into Workers, Warriors and Nobles. Those you can see now are Burrowers, their only function is to build new tunnels. The Nobles are intelligent humanoids, the rest are only intelligent enough to follow orders. There is a strict caste system, like an insect hive, and each batch of eggs usually differ in fur colouring and tend to form into what would be called in Earth terms, tribes or clans. However, each batch owes complete loyalty to the Mother. Different tunnel complexes often make war on each other. The Cavers use sound and smell as their primary senses. Although their eyes are extremely sensitive to light, there simply isn't enough of it to make full use of this sense. We have arrived in the Darkhome tunnel complex, where the Cave of 3033 AD has reported timeline changes. My databanks tell me we have arrived in the middle of a civil war, the only one ever recorded in Cave history. The atmosphere has oxygen in it, Falcon, but with high levels of nitrogen. I'm afraid you will have to use your environment suit, in any case, Cavers do not wear clothing, so the Molecular Convertor cannot help you. Try not to get spotted by any Nobles, Falcon, the response to any nonDarkhome intruder is to attack and destroy at this period in Caver history.' Turn to 18.
 
 206
@@ -1231,6 +1243,7 @@ Turn to 10
 Turn to 52
 
 217
+image-024.png
 You twist aside and the knife whistles past your shoulder, clattering into the steel wall of the cabin. You sprint away up the stairs and out onto the deck. Without stopping you dash for the gangplank, but one of the crew is turning the harpoon gun on you and fires it. Instinctively, you duck. Make an Evasion Roll.
 If you score 5-12, turn to 354
 If you score 2-4, turn to 364
@@ -1275,6 +1288,7 @@ If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
 224
+image-025.png
 His mind falls under your control. You order him to open the door and you step inside. In his hand he holds a thin pen black pencil device. You recognise it as a microbeam key, used to open doors with locks sensitive to a particular microbeam frequency. You take it from him. Note it on your Agent Profile. You are in a small alcove, with a dimly lit corridor leading away from it. You can hear the sounds of rhythmic chanting coming from down the corridor. Forcing the door guard to lead you down the corridor you decide to investigate the chanting. Then, pausing in the shadows at the end of the corridor, you are greeted by a strange sight. Forty to fifty people, all in black robes, are kneeling before some kind of altar upon which is manacled a young man. Beside him stands a tall hawk-faced figure, also in black robes. His hands are raised in supplication skyward, the sleeves of his robe falling to reveal a tattoo on his forearm in the shape of an insect much like the fly of Earth. He holds an obsidian dagger in his hand; it seems some strange religious ceremony is taking place. Then the robed man at the altar, presumably the high priest, screams, 'Come to us, O Servant of Baal,' and with one savage motion plunges the obsidian dagger into the man on the altar and carves out his heart. Then, much . to your surprise, something begins to materialise in the air above the altar. Soon it has resolved itself into what can only be described as a twelve-foot fly, its huge compound eyes glittering malevolently, its black limbs glistening with mucus and lined with cilia. Its mouthparts are working violently, oozing a vile greyish saliva. Everything goes quiet as the fly nestles onto the altar and begins to feed on the sacrificial victim. It extends a long proboscis, inserts it into the body of the victim and, with a disgusting slurping sound, begins to suck up the organic juices. It seems Baal has been here at some point, converting a group of the superstitious dustbowlers to his cause. Turn to 258.
 
 225
@@ -1398,6 +1412,7 @@ If you score 6-12, turn to 61
 If you score 2-5, turn to 322
 
 244
+image-026.png
 You walk on up the corridor, further into the Dome, McReady commentating as you go. You pass several doors on the left and right, the crew's cabins. Then he shows you into a brightly lit room with many precision instruments and worktops. A primitive Autodoc lies in one corner. Tsu Tsang is working in there and she nods as you come in. 'This is the lab,' says McReady. 'A really ultra place. Old Tsu is testing a titanium sample no doubt. Bet you're sick of the stuff, eh, Tsu?' Tsu Tsang smiles weakly and works on. Leaving the lab, you are led on down the corridor. It opens out on the right into a large floorspace crammed with industrial machinery, and the corridor continues on beyond it. Then it branches off into three. 'Down there is where we store the titanium. Pretty non-ultra sight,' says McReady, pointing to the left-hand corridor. 'Down to the right are the generators, life support and that. Pretty ultra-less as well. But straight ahead is the Mine Control, ultra man!' and he leads you down it. It opens into a large room, lined with complex instrument banks, computers and so on, making your console in Falcon's Wing look like a toy. In one corner you can see a large personal lift, presumably leading down into the mine itself. Two men are seated at the console boards, running the automated mining operation. 'Our Minetechs,' says McReady. 'Hey guys, meet our newcomer.' They look around, eyes widening in surprise. One of them is a Siriun like Yelov, tall and lithe, with long brown hair and golden cat-like eyes. He carries himself as if he were thoroughly bored with mining. McReady introduces him as Kepy Achov. The other is built like a tank, about seven foot tall, bull-necked and bearded. His name is Caleb. McReady tells you he is from Proxima Centauri, a high gravity planet, which accounts for his size. They ask how you got here and you chat to them for a while, making your story sound convincing. Half an hour later, you are back in your cabin, pondering on how you can get hold of the last piece of the Rack without causing any disturbances in the timelines when you hear a commotion outside. Turn to 365.
 
 245
@@ -1593,6 +1608,7 @@ Turn to 298
 Turn to 306
 
 278
+image-027.png
 You plummet down the glowing tunnel, illuminated by the green phosphorescence of the moss. The Warriors are gaining on you as you burst out into another Darkhome farm. You are following a path cutting through the middle of two lines of vats fungus fields stretching away to either side. Some twenty metres ahead is the yawning black hole of the exit. Thick blue seams of some mineral line the walls above it. Some of the blue mineral has fallen in a small pile of crumbled rock near the entrance. Gasping for breath, the Warriors almost upon you, you realise you won't make it. You'll have to turn and fight. Will you:
 
 Use your blaster on your pursuers?
@@ -1659,6 +1675,7 @@ You try to twist aside but the stream of liquid splatters against your leg brief
 Bragg nods. 'Poor McReady, it must have got to him in the radio room. If only I hadn't sent him there alone,' he says, ashenfaced. Turn to 250.
 
 290
+image-028.png
 As you continue on, the twisting corridors carry an echo of trilling Noble voices and a much deeper resonant booming trill. Eventually, you come to the end of the tunnel without encountering anything. Hanging back in the shadows of the corridor you are able to survey the scene unseen. It is a large cavern, obviously the centre of the rebel territory. Over a hundred Warriors are standing in a tight block in the centre of the chamber. Burrowers and other Worker types are busying themselves with various tasks, digging, feeding the Warriors and so on. Several Nobles are conferring with the strangest sight of all in the far corner of the cavern. It is a huge pale bulbous mass of blubbery flesh. A small head rests atop the mass. This must be what a Caver Queen looks like. One of the Nobles is speaking: The offensive is going well, Baal-Mother. These devices you have given us,' pointing to a laser pistol, 'will assure our victory. But we are worried, you have not yet laid a Batch, is there something wrong, Mother? We are in need of replacements.'
 
 The huge mass speaks, with the deep resonant sound you heard earlier: 'All in good time, Batch 16-A4-13. All in good time. Just ensure my place as rightful Mother of Darkhome.' Your attention wanders from this conversation when you notice a stack of advanced machinery next to the bloated mass, something that should not be here at this time. You also notice, almost directly opposite you, a huge door, about eighteen feet in height. It is of a shiny metal, and surrounded by domed lights glowing dully. It is jarringly out of place in a culture that has not yet discovered the wheel. As you look at the door you begin to pick up some kind of psionic static from it. After a few minutes' concentration, you are able to tell that the piece of the Rack you are looking for lies behind the door! Do you have a piece of the Rack with small circles at each of its three corners with you? If you do, turn to 391. If you do not, turn to 385.
@@ -1714,6 +1731,7 @@ If you score 6-12, turn to 418
 If you score 2-5, turn to 24
 
 299
+image-029.png
 You burst out into the plaza, it is completely deserted. It appears the crowds have fled in the face of what has happened. All that remain are a few black-robed priests of Huitzilopochtli, whom they believe Baal to be. You sprint across the plaza. Glancing behind, you can see Baal e r u p t i n g from the building, leaving it a mass of broken masonry. He soars into the air and speeds after you. You are shocked to see that he has some means of natural flight without wings, at his disposal, perhaps some form of telekenisis, or mind over matter. He is gaining on you. Will you:
 
 Turn, kneel and fire your blaster at him?
@@ -1773,6 +1791,7 @@ If you score 6-12, turn to 326
 If you score 2-5, turn to 332
 
 311
+image-030.png
 The two Jaguar Knights stagger back and fall to the ground under the effect of your Thinkstrikes. Their minds were elsewhere, on the spectacle on the pyramid. No one notices their fate and you dash through the curtained doorway into a bewildering mass of corridors and large storerooms containing stocks of maize, sculpted gold and so on. Eventually you come to a wide corridor, lined with friezes, depicting scenes of Aztec mythology. At its end is a richly decorated portal leading into a large room. When you are nearer, you can see a large altar at the end of the room. Upon it lies a translucent white triangle, small circles embedded in each corner, giving off a bright white radiance. It is a segment of the Rack. In between you and the altar, the floor is a checkerboard of nine, six-foot-square stone slabs, laid out in a square. Directly ahead of you lies the first three.Will you:
 
 Step out onto the left hand slab?
@@ -1843,6 +1862,7 @@ If you score 6-12, turn to 360
 If you score 2-5, turn to 112
 
 325
+image-031.png
 Slowly you creep down to the north side of the hill. As you descend, blaster in hand, you can see someone crouching behind a tree, their back to you. Whoever it is has a strong psychic presence and is hiding from someone or something further down at the base of the hill. The crouched figure appears to be a young Confederate soldier, dressed in homespun butternut, with grey trousers. It seems the Confederates were not able to clothe their soldiers properly. Suddenly the figure stiffens and then whirls, a blaster in its hand, pointing at you! Will you:
 
 Shoot to kill?
@@ -1951,6 +1971,7 @@ Turn to 361
 Your aim is true, reducing the last two Warriors to mounds of smoking flesh. You may pick up some of the rocks by the entrance if you wish. Close up you can identify it as magnesite. Turn to 290.
 
 342
+image-032.png
 A day later you leave Falcon's Wing in the hope of finding an alternative to the Winged Demon. Carefully examining the quayside, you are pleased to see that the Winged Demon has left and that another ship is moored at the harbour. You are still someway from it when your Psychic Awareness picks up the presence of somebody nearby. You are prepared when three sailors run out at you from behind a large crate, long daggers in their hands. One of them hisses: 'This time Baal will have your soul.' Amazed at the persistent fanaticism of the disciples of Baal, you prepare to defend yourself. Will you:
 
 Thinkstrike the nearest assailant?
@@ -2061,6 +2082,7 @@ Caleb grunts, 'Not Lieutenant Falcon anyway,' he says. 'It just tried to kill hi
 'At least we know it can be killed with fire,' says Bragg. 'Right, everyone into the Rec Room, let's get out of this stinking hole,' and he turns to McReady. 'Go to the radio room and contact the communication satellite, tell 'em to get some troopers down here and a relief ship, fast! Achov, go to stores and get the flamethrowers we use for clearing ice off the Dome. See you in the Rec Room in a few minutes.' Turn to 355.
 
 359
+image-033.png
 The Rec Room is where the crew eat, rest and play. Several vidbooths line one wall as does a large nutritional dispenser. Various personal effects and pieces of machinery lie haphazardly about. A holo-viewer is on hold, the small projected figures frozen in place - it looks like some kind of horror-holo feature, possibly a holo-nasty. The machine is labelled 'Kepy Achov's - keep off!'. Absently, you note that the holo-cassette is called 'Night of the Star-Vampires'. Two people, one an oriental of slim build, with the insignia of a medtech on her overalls, the other a heavily built, neat looking man, with a carefully trimmed beard and thick black hair are seated at a long table. They look up in astonishment at the sight of you, they probably haven't seen another human face for weeks. You tell them your story and the bearded man says, 'I see. You're lucky to have survived. I'm Braxton Bragg, the manager, you can call me Brax. This is Tsu Tsang, our Medic and general boffin,' and he indicates the oriental woman next to him. 'It looks like you'll be stuck here until the Relief Ship arrives, I'm afraid. That will be about two weeks from now. It'll cost too much to send a starship just for you! Tsu Tsang will show you your cabin and then you can come back here. We haven't spoken to anyone else for two months you'll be a welcome change,' and he smiles warmly at you.
 
 Tsu Tsang walks over to you, and you notice she is limping. She says tersely, 'Drill bit fell on my foot two weeks ago, broke it badly.' She shows you into a tiny cabin with a single bunk, a few doors on from the Rec Room. It is opposite a large room. 'Make yourself at home,' she says wryly and leaves. A minute later, there is a knock at the door and Sil McReady comes in.' Hi, Brax asked me to show you around if you'd like? Its a pretty ultra place, or it was at first! I'm getting ultra sick of it now.' You decide to agree as you'll need to find out if the Rack is near, despite having to listen to McReady's obsessive use of the word 'ultra'. Turn to 244.
@@ -2213,6 +2235,7 @@ You are examining the door when your mind picks up a mental probe, coming from t
 
 386
 [Score a G]
+image-034.png
 Together you leave the hill. There is a pause in the battle; both sides are tired and the day's fighting is virtually over. You walk past groups of exhausted and wounded men, artillery batteries, field hospitals and so on. It is all very confused as far as you can make out. No one challenges you and soon you are behind Ewell's Command Post, a small building on the outskirts of Gettysburg. Ewell is sitting at its front. He has lost a leg and the stump is obviously paining him. Eventually, a courier on horseback arrives, with orders from General Lee. Both you and Lynx tense expectantly. As soon as General Ewell has read them, your Psychic Awareness tells you that Yelov is exerting his will from inside the house. You both decide to use your Power of Will on Yelov simultaneously. He is taken by surprise, but Yelov recognises that you are with Lynx and his hatred of you gives him added strength of will. He throws your mental attack aside, but Ewell is now unaffected at any rate. Suddenly, Yelov bursts out around the corner of the house. You stand stock still for a moment, a prickly chill of fear running up your spine. As far as you are concerned, the last time you saw Yelov he was dead at your feet. To see him alive like this is disturbing, even though you knew you never really killed him, due to a puzzling time paradox. His cybernetic arm gleams in the falling light as he raises it to smash you, shouting: 'At last Falcon, I'll see you dead!' You must try to dodge the blow. Make an Evasion Roll.
 If you score 6-12, turn to 408
 If you score 2-5, turn to 417
@@ -2294,6 +2317,7 @@ If you score 6-12, turn to 418
 If you score 2-5, turn to 24
 
 401
+image-035.png
 McReady's eyes roll up into his head. Suddenly a small suppurating hole appears in his neck, opening and closing spasmodically. His skull splits open with a loud wet crack and something large and bulky shudders forth, forming into a heavy head, horned and armoured, two small pig-like eyes at each side, the whole thing spilling rivulets of reddish mucus. Horrified, Achov and Caleb hesitate. McReady's shoulders split apart and a bony carapace forms over them. Then a thin jet of dirty white liquid hisses from the hole in the neck and streams towards you, Bragg and Achov. Almost as one you duck. Caleb raises the flamethrower, but McReady's side bursts open and a length of ridged, slime-ridden bone shoots out with devastating speed and buries itself in Caleb's chest. He howls in agony as, in front of your eyes, the bone begins to fuse with Caleb, retracting slowly, drawing him to the thing. Achov, Braxton and you open fire in horror, but the creature turns and, putting its head down, smashes through the door and is away, taking Caleb's body with it. Turn to 166.
 
 402
@@ -2342,6 +2366,7 @@ If you score 6-12, turn to 277
 If you score 2-5, turn to 192
 
 410
+image-036.png
 You point the pencil key at the door and it slides open. You jet into the asteroid. Your battlesuit analyses the air, it will bear human life, but not for long as it contains toxic substances. You find yourself in a well lit corridor of polished steel, thirty foot square, curving away round a corner. The corridor stretches ahead for what seems like an eternity. Then you can see a darker patch at its end. You shoot out, to find yourself flying near the ceiling of an enormous pillared vault. All around you at ceiling level is a circle of dark niches, their contents indeterminable. There is an echoing roar of rage and you look down. There, seated on an enormous throne, cut from a single gigantic diamond over thirty feet in size is the powerfully muscled form of Baal. 'Curse you, mortal, will you plague me forever!' he screams. Then he notices that you are holding the Rack. It is throbbing with an incredibly bright light, so that it is painful to look on. For the first time, you see fear on Baal's face. 'No!' he screams. He tries to hurl a yellow fireball and he tries to exert his mental power, but he cannot do either. Then he tries to fly up to you, but he cannot even do that. His face contorts with effort as he tries to travel in time but to no avail. The Rack is preventing all his powers from working. Quickly he bellows, 'Kill him!' From either side of you giant flying creatures burst out of the small niches, filling the air with a deafening humming. You recognise the fly-like creatures, similar to the one you fought on Dustbowl. Will you:
 
 Fire your Particle Disruptor at Baal?
