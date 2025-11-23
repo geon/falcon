@@ -304,14 +304,19 @@ function parseDiceRollInstructions(sections: Section[]): Section[] {
 				}
 
 				const match = section.line.match(
-					/^If you scored? (a )?(([\d]+)|(([\d]+)(-|( or ))([\d]+))), ((turn to ([\d]+))|(roll again\.))$/,
+					/^If you scored? (a )?(([\d]+)|(([\d]+)(-|( or ))([\d]+))|(([\d]+), ([\d]+) or ([\d]+))), ((turn to ([\d]+))|(roll again\.))$/,
 				);
 				if (!match) {
 					return undefined;
 				}
 
 				let scores: number[] = [];
-				if (match[5] && match[8]) {
+				if (match[10] && match[11] && match[12]) {
+					const a = parseInt(match[10]);
+					const b = parseInt(match[11]);
+					const c = parseInt(match[12]);
+					scores = [a, b, c];
+				} else if (match[5] && match[8]) {
 					const from = parseInt(match[5]);
 					const to = parseInt(match[8]);
 					scores = Array(to - from + 1)
@@ -325,7 +330,7 @@ function parseDiceRollInstructions(sections: Section[]): Section[] {
 					throw new Error("No scores found: " + section.line);
 				}
 
-				const link = match[11] ? parseInt(match[11]) : undefined;
+				const link = match[15] ? parseInt(match[15]) : undefined;
 
 				return { sectionIndex, scores, link };
 			},
