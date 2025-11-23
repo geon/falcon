@@ -2157,13 +2157,7 @@ Turn to 383
 You head down the gloomy tunnels illuminated by the green phosphorescence of the moss. Soon you come out into another Darkhome farm. You are following a path cutting through the middle of two lines of vats, fungus fields stretching away to either side. Some twenty metres ahead is the yawning black hole of the exit. Thick blue seams of some mineral line the walls above it. Some of the blue mineral has fallen in a small pile of crumbled rock near the entrance. Picking the rock up, you are able to identify it as magnesite. You may keep some if you wish. Note it on your Agent Profile. Leaving the farm area you continue on in search of the Rack section. Turn to 290.
 
 375
-You draw and fire in one smooth motion. The bolt of white
-lightning blasts into Caleb's chest, hurling him back, where he
-lies inert and smoking, still human. Achov reacts instantly,
-Bragg close behind him. He pulls out a snub-nosed projectile
-weapon, and Bragg fires his laser pistol. A bullet takes you right
-between the eyes at the same time as the laser beam drills a neat
-hole in your temple. You are killed instantly.
+You draw and fire in one smooth motion. The bolt of white lightning blasts into Caleb's chest, hurling him back, where he lies inert and smoking, still human. Achov reacts instantly, Bragg close behind him. He pulls out a snub-nosed projectile weapon, and Bragg fires his laser pistol. A bullet takes you right between the eyes at the same time as the laser beam drills a neat hole in your temple. You are killed instantly.
 
 376
 Make a Thinkstrike Roll as you let fly a blast of mental energy.
@@ -2171,152 +2165,59 @@ If you score 7-12, turn to 4
 If you score 2-6, turn to 15
 
 377
-If the timehole on Earth at Gettysburg was the first you have
-visited on this mission, turn to 5. If you have been to any other
-timeholes, turn to 26.
+If the timehole on Earth at Gettysburg was the first you have visited on this mission,
+If you have been to any other timeholes,
+Turn to 5
+Turn to 26
 
 378
-A white-hot stream of superheated plasma flies into the mass of
-men pursuing you and you play the beam across them. There
-are cries of agony and pain as the front rank are cut down as if
-they had run into a brick wall. People stop and stare in horror
-backing away from you. You run on leaving the tangled knot of
-men behind you. As you turn into the dark foreboding street
-where the warehouse containing Falcon's Wing lies, you can
-hear the sound of sirens, presumably the local police. Quickly
-you dart into the warehouse and run toward the crates marked
+A white-hot stream of superheated plasma flies into the mass of men pursuing you and you play the beam across them. There are cries of agony and pain as the front rank are cut down as if they had run into a brick wall. People stop and stare in horror backing away from you. You run on leaving the tangled knot of men behind you. As you turn into the dark foreboding street where the warehouse containing Falcon's Wing lies, you can hear the sound of sirens, presumably the local police. Quickly you dart into the warehouse and run toward the crates marked 'Eiger Corporation'. Have you seen a man with a tattoo on his forearm here on Dustbowl?
 
-'Eiger Corporation'. Have you seen a man with a tattoo on his
-forearm here on Dustbowl ? If you have, turn to 350. If you have
-not, turn to 399.
+If you have,
+If you have not,
+Turn to 350
+Turn to 399
 
 379
-Your breathing becomes rapid and you stare in horror and begin
-to scream wildly. A tentacle lashes through the air, slamming
-into your torso with incredible force and hurling you backwards
-onto the work bench, sending instruments and tools crashing
-everywhere. Lose 4 Endurance points. If you are still alive, the sharp
-pain shocks you back into reality. You must defend yourself as
-the creature continues to change, the head crunching in on itself
-and forming a huge gaping maw where the shoulders and neck
-should be, snapping convulsively. Make an Attack Roll.
+Your breathing becomes rapid and you stare in horror and begin to scream wildly. A tentacle lashes through the air, slamming into your torso with incredible force and hurling you backwards onto the work bench, sending instruments and tools crashing everywhere. Lose 4 Endurance points. If you are still alive, the sharp pain shocks you back into reality. You must defend yourself as the creature continues to change, the head crunching in on itself and forming a huge gaping maw where the shoulders and neck should be, snapping convulsively. Make an Attack Roll.
 If you score 6-12, turn to 384
 If you score 2-5, turn to 370
 
 380
-Flame billows out from your thrower, but the creature hops
-grotesquely to one side. However, the flame still engulfs one
-side of it. The thing sizzles, giving off an awful stench. Then a
-long spear of glistening white-bone, tipped with a sharpened
-horn, bursts out of its mouth, extending toward you with the
-speed of an arrow. You must try to dodge it. Make an Evasion
-Roll.
+Flame billows out from your thrower, but the creature hops grotesquely to one side. However, the flame still engulfs one side of it. The thing sizzles, giving off an awful stench. Then a long spear of glistening white-bone, tipped with a sharpened horn, bursts out of its mouth, extending toward you with the speed of an arrow. You must try to dodge it. Make an Evasion Roll.
 If you score 6-12, turn to 345
 If you score 2-5, turn to 366
-381
 
+381
 Make an Attack Roll.
 If you score 7-12, turn to 71
 If you score 2-6, turn to 173
 
 382
-The stream of superheated plasma takes Baal full in the chest.
-At this, the people around you flee in terror, some screaming
-that the gods are doing battle in the streets of Tenochtitlan. You
-maintain the stream of plasma, and it showers over Baal, who
-roars in rage and pain. Then incredibly, Baal begins to move
-through the air towards you, slowly but surely moving against
-
-the white-hot plasma that splashes like lightning across his
-chest. Amazed that anything can withstand such energy you are
-about to run in fear when Baal begins to show signs of strain.
-The plasma is getting through. The nimbus of yellow energy
-begins to flicker on and off. Then he drops out of the sky and
-slams into the floor of the plaza, his impact cracking the
-stonework. He lies there bellowing in rage as he struggles up,
-the yellow nimbus slowly re-forming around him. Awed, you
-realise he is only stunned and you run for Falcon's Wing, noting
-that your blaster energy pack is completely depleted. You will be
-unable to use it until you can fit another energy pack in Falcon's
-Wing. Turn to 285.
+The stream of superheated plasma takes Baal full in the chest. At this, the people around you flee in terror, some screaming that the gods are doing battle in the streets of Tenochtitlan. You maintain the stream of plasma, and it showers over Baal, who roars in rage and pain. Then incredibly, Baal begins to move through the air towards you, slowly but surely moving against the white-hot plasma that splashes like lightning across his chest. Amazed that anything can withstand such energy you are about to run in fear when Baal begins to show signs of strain. The plasma is getting through. The nimbus of yellow energy begins to flicker on and off. Then he drops out of the sky and slams into the floor of the plaza, his impact cracking the stonework. He lies there bellowing in rage as he struggles up, the yellow nimbus slowly re-forming around him. Awed, you realise he is only stunned and you run for Falcon's Wing, noting that your blaster energy pack is completely depleted. You will be unable to use it until you can fit another energy pack in Falcon's Wing. Turn to 285.
 
 383
+Gingerly you edge out onto the slab. A thrill of horror runs up your spine as the slab shifts beneath you. There is a loud snapping click in the ceiling above you. Will you:
 
-Gingerly you edge out onto the slab. A thrill of horror runs up
-your spine as the slab shifts beneath you. There is a loud
-snapping click in the ceiling above you. Will you:
 Leap into the air?
 Throw yourself to the side?
-
 Turn to 108
 Turn to 119
 
 384
-A bolt of superheated plasma shoots into the writhing hole of
-what was Tsu Tsang's chest with a blinding flash, hurling the
-creature backward. It crashes to the floor and erupts into
-flames. Threshing wildly about, it roars in pain, bits of flaming
-flesh popping and spluttering. A leg, still human in form, rolls
-away twitching. You watch incredulously as six jointed
-insectoid legs sprout from either side of the leg, cracking
-outwards to the floor, and the foot mutates, lengthening and
-splitting open to reveal rows of teeth, forming some kind of
-malformed crocodile head. Just then the door slams open and
-the rest of the mining crew, headed by Bragg, come in. They
-stop horrified at what they see, babbling incoherently. McReady
-leans away and is violently sick. The crocodile insect scuttles
-toward you and leaps. You are about to blast it when Bragg fires
-a laser pistol neatly dissecting it. Both halves hit the floor and
-begin to inch together, a tentacle whips out joining the two
-sections. Bragg stands astonished, unable to act. Quickly you
-bathe it in plasma and it starts to burn. The lab begins to fill with
-acidic smoke. Turn to 358.
+A bolt of superheated plasma shoots into the writhing hole of what was Tsu Tsang's chest with a blinding flash, hurling the creature backward. It crashes to the floor and erupts into flames. Threshing wildly about, it roars in pain, bits of flaming flesh popping and spluttering. A leg, still human in form, rolls away twitching. You watch incredulously as six jointed insectoid legs sprout from either side of the leg, cracking outwards to the floor, and the foot mutates, lengthening and splitting open to reveal rows of teeth, forming some kind of malformed crocodile head. Just then the door slams open and the rest of the mining crew, headed by Bragg, come in. They stop horrified at what they see, babbling incoherently. McReady leans away and is violently sick. The crocodile insect scuttles toward you and leaps. You are about to blast it when Bragg fires a laser pistol neatly dissecting it. Both halves hit the floor and begin to inch together, a tentacle whips out joining the two sections. Bragg stands astonished, unable to act. Quickly you bathe it in plasma and it starts to burn. The lab begins to fill with acidic smoke. Turn to 358.
 
 385
-You are examining the door when your mind picks up a mental
-probe, coming from the large mass of flesh. Suddenly a mind of
-enormous power invades yours; it is completely irresistible and
-you can do nothing whilst you are held as several Warriors slice
-you into sections with their hands.
+You are examining the door when your mind picks up a mental probe, coming from the large mass of flesh. Suddenly a mind of enormous power invades yours; it is completely irresistible and you can do nothing whilst you are held as several Warriors slice you into sections with their hands.
 
 386
 [Score a G]
-Together you leave the hill. There is a pause in the battle; both
-sides are tired and the day's fighting is virtually over. You walk
-past groups of exhausted and wounded men, artillery batteries,
-field hospitals and so on. It is all very confused as far as you can
-make out. No one challenges you and soon you are behind
-Ewell's Command Post, a small building on the outskirts of
-Gettysburg. Ewell is sitting at its front. He has lost a leg and the
-stump is obviously paining him. Eventually, a courier on
-horseback arrives, with orders from General Lee. Both you and
-Lynx tense expectantly. As soon as General Ewell has read
-them, your Psychic Awareness tells you that Yelov is exerting
-his will from inside the house. You both decide to use your
-Power of Will on Yelov simultaneously. He is taken by surprise,
-but Yelov recognises that you are with Lynx and his hatred of
-you gives him added strength of will. He throws your mental
-attack aside, but Ewell is now unaffected at any rate. Suddenly,
-Yelov bursts out around the corner of the house. You stand
-stock still for a moment, a prickly chill of fear running up your
-spine. As far as you are concerned, the last time you saw Yelov
-he was dead at your feet. To see him alive like this is disturbing,
-even though you knew you never really killed him, due to a
-puzzling time paradox. His cybernetic arm gleams in the falling
-light as he raises it to smash you, shouting: 'At last Falcon, I'll see
-you dead!' You must try to dodge the blow. Make an Evasion
-Roll.
+Together you leave the hill. There is a pause in the battle; both sides are tired and the day's fighting is virtually over. You walk past groups of exhausted and wounded men, artillery batteries, field hospitals and so on. It is all very confused as far as you can make out. No one challenges you and soon you are behind Ewell's Command Post, a small building on the outskirts of Gettysburg. Ewell is sitting at its front. He has lost a leg and the stump is obviously paining him. Eventually, a courier on horseback arrives, with orders from General Lee. Both you and Lynx tense expectantly. As soon as General Ewell has read them, your Psychic Awareness tells you that Yelov is exerting his will from inside the house. You both decide to use your Power of Will on Yelov simultaneously. He is taken by surprise, but Yelov recognises that you are with Lynx and his hatred of you gives him added strength of will. He throws your mental attack aside, but Ewell is now unaffected at any rate. Suddenly, Yelov bursts out around the corner of the house. You stand stock still for a moment, a prickly chill of fear running up your spine. As far as you are concerned, the last time you saw Yelov he was dead at your feet. To see him alive like this is disturbing, even though you knew you never really killed him, due to a puzzling time paradox. His cybernetic arm gleams in the falling light as he raises it to smash you, shouting: 'At last Falcon, I'll see you dead!' You must try to dodge the blow. Make an Evasion Roll.
 If you score 6-12, turn to 408
 If you score 2-5, turn to 417
 
 387
-You can hardly miss at this range and a bolt of plasma takes the
-first one in the chest, almost vaporising the top half of his body.
-The other two charge on undeterred, their lips drawn back in a
-snarl of fanatical hate, but you shoot them both. Looking
-
-around to make sure you were not spotted using an illegal
-energy weapon, you hurry quickly onward. Turn to 416.
+You can hardly miss at this range and a bolt of plasma takes the first one in the chest, almost vaporising the top half of his body. The other two charge on undeterred, their lips drawn back in a snarl of fanatical hate, but you shoot them both. Looking around to make sure you were not spotted using an illegal energy weapon, you hurry quickly onward. Turn to 416.
 
 388
 You dart into the lift and press the button for the Mining
