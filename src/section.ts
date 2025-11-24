@@ -18,7 +18,7 @@ export interface HeaderSection {
 
 export interface TableSection {
 	type: "table";
-	rows: string[][];
+	rows: readonly (readonly string[])[];
 }
 
 export interface DiceRollSection {

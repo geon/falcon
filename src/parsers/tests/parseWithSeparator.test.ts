@@ -20,4 +20,10 @@ testExamples("parseWithSeparator", [
 		input: "a,b,c",
 		result: createParseResult(5, ["a", "b", "c"]),
 	},
+	{
+		name: "don't match trailing separator",
+		parser: parseWithSeparator(parseAlpha, parseChar(",")),
+		input: "a,b,c,",
+		result: createParseResult(5, ["a", "b", "c"]),
+	},
 ]);

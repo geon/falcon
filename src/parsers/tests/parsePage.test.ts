@@ -45,4 +45,27 @@ testExamples("parsePage", [
 			],
 		}),
 	},
+	{
+		name: "match table",
+		parser: parsePage,
+		input: `123
+Table Header A	Table Header B
+Cell A	Cell B
+
+124
+`,
+		result: createParseResult<FailPage>(49, {
+			type: "FailPage",
+			pageNumber: 123,
+			sections: [
+				{
+					type: "table",
+					rows: [
+						["Table Header A", "Table Header B"],
+						["Cell A", "Cell B"],
+					],
+				},
+			],
+		}),
+	},
 ]);

@@ -12,18 +12,19 @@ export function parseWithSeparator<T>(
 ): Parser<readonly T[]> {
 	return (input, fromIndex) => {
 		let consumed = 0;
+		let consumedSeparator = 0;
 		const results: T[] = [];
 		function done(error: ParseError): ParseResult<readonly T[]> {
 			return results.length ? createParseResult(consumed, results) : error;
 		}
 
 		for (; consumed < input.length - fromIndex; ) {
-			const parsed = parser(input, fromIndex + consumed);
+			const parsed = parser(input, fromIndex + consumed + consumedSeparator);
 			if (parsed.type === "error") {
 				return done(parsed);
 			}
 
-			consumed += parsed.consumed;
+			consumed += consumedSeparator + parsed.consumed;
 			results.push(parsed.parsed);
 
 			const separatorParsed = separator(input, fromIndex + consumed);
@@ -31,7 +32,7 @@ export function parseWithSeparator<T>(
 				return done(separatorParsed);
 			}
 
-			consumed += separatorParsed.consumed;
+			consumedSeparator = separatorParsed.consumed;
 		}
 
 		return done(

@@ -9,6 +9,8 @@ import { parseOptional } from "../parser-combinators/combinators/parseOptional.j
 import { parseScore } from "./parseScore.js";
 import type { FailPage } from "../page.js";
 import type { ScoreSection } from "../section.js";
+import { parseKeyed } from "../parser-combinators/combinators/parseKeyed.js";
+import { parseTable } from "./parseTable.js";
 
 const parseNumber = parseMonad(
 	parseOneOrMore(parseDigit(10)),
@@ -28,13 +30,26 @@ export const parsePage = parseMonad(
 				parseNewline,
 			]),
 		),
+		parseOptional(
+			parseSequenceIndex(0, [
+				parseKeyed({
+					table: parseTable,
+				}),
+				parseNewline,
+			]),
+		),
 		parseNewline,
 		parseLookahead(parsePageNumber),
 	]),
-	([pageNumber, scoreSection], { result }) =>
+	([pageNumber, scoreSection, tableSection], { result }) =>
 		result<FailPage>({
 			type: "FailPage",
 			pageNumber,
-			sections: [...(scoreSection === undefined ? [] : [scoreSection])],
+			sections: [
+				...(scoreSection === undefined ? [] : [scoreSection]),
+				...(tableSection === undefined
+					? []
+					: [{ type: tableSection.type, rows: tableSection.value }]),
+			],
 		}),
 );
