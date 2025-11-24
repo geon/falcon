@@ -26,4 +26,23 @@ testExamples("parsePage", [
 			sections: [],
 		}),
 	},
+	{
+		name: "match score",
+		parser: parsePage,
+		input: `123
+[score a K]
+
+124
+`,
+		result: createParseResult<FailPage>(17, {
+			type: "FailPage",
+			pageNumber: 123,
+			sections: [
+				{
+					letter: "K",
+					type: "score",
+				},
+			],
+		}),
+	},
 ]);

@@ -6,33 +6,33 @@ export interface TextSection {
 	line: string;
 }
 
-interface ScoreSection {
+export interface ScoreSection {
 	type: "score";
 	letter: ScoreLetter;
 }
 
-interface HeaderSection {
+export interface HeaderSection {
 	type: "header";
 	line: string;
 }
 
-interface TableSection {
+export interface TableSection {
 	type: "table";
 	rows: string[][];
 }
 
-interface DiceRollSection {
+export interface DiceRollSection {
 	type: "diceRoll";
 	subtype: DiceRollSubtype;
 	outcomes: { scores: number[]; link: number | undefined }[];
 }
 
-interface ChoicesSection {
+export interface ChoicesSection {
 	type: "choices";
 	options: { choice: string; link: number }[];
 }
 
-interface IllustrationSection {
+export interface IllustrationSection {
 	type: "illustration";
 	fileName: string;
 }
