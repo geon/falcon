@@ -5,6 +5,8 @@ import { parseSequence } from "../parser-combinators/combinators/parseSequence.j
 import { parseOneOrMore } from "../parser-combinators/combinators/parseSome.js";
 import { parseNewline } from "../parser-combinators/combinators/parseNewline.js";
 import { parseLookahead } from "../parser-combinators/combinators/parseLookahead.js";
+import { parseOptional } from "../parser-combinators/combinators/parseOptional.js";
+import { parseScore } from "./parseScore.js";
 import type { FailPage } from "../page.js";
 
 const parseNumber = parseMonad(
@@ -15,7 +17,12 @@ const parseNumber = parseMonad(
 const parsePageNumber = parseSequenceIndex(0, [parseNumber, parseNewline]);
 
 export const parsePage = parseMonad(
-	parseSequence([parsePageNumber, parseLookahead(parsePageNumber)]),
+	parseSequence([
+		parsePageNumber,
+		parseOptional(parseScore),
+		parseNewline,
+		parseLookahead(parsePageNumber),
+	]),
 	([pageNumber], { result }) =>
 		result<FailPage>({
 			type: "FailPage",
