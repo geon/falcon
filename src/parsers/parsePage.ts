@@ -11,6 +11,8 @@ import type { FailPage } from "../page.js";
 import type { ScoreSection } from "../section.js";
 import { parseKeyed } from "../parser-combinators/combinators/parseKeyed.js";
 import { parseTable } from "./parseTable.js";
+import { parseDiceRoll } from "./parseDiceRoll.js";
+import { parseChoices } from "./parseChoices.js";
 
 const parseNumber = parseMonad(
 	parseOneOrMore(parseDigit(10)),
@@ -34,6 +36,8 @@ export const parsePage = parseMonad(
 			parseSequenceIndex(0, [
 				parseKeyed({
 					table: parseTable,
+					diceRoll: parseDiceRoll,
+					choices: parseChoices,
 				}),
 				parseNewline,
 			]),
