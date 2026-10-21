@@ -298,7 +298,13 @@ Turn to 69
 You bathe the door in superheated plasma, but when you examine it afterwards it is not even scratched or warm. Glancing behind, you see Baal is still involved with the Cavers. Return to 35 and choose again. Turn to 35.
 
 50
-Falcon's Wing is hurled through the air but winks out inches from the ground. Safe in the grey nothingness of null-space, you heave a sigh of relief, calming your shattered nerves. Soon you are floating on the Winds of Time headed for the Eiger Vault. You ask CAIN what has happened in the timelines, knowing that the first law of TIME has been broken on Tenochtitlan to an unprecedented degree. It replies that the society was almost completely wiped out by the Spaniards in a few more decades, thus cancelling any serious time damage. You may lie in your Autodoc and regain up to 12 points of lost Endurance on this journey. Have you been given any information about the Planet Cave? If you have, turn to 86. If you have not, turn to 76.
+
+Falcon's Wing is hurled through the air but winks out inches from the ground. Safe in the grey nothingness of null-space, you heave a sigh of relief, calming your shattered nerves. Soon you are floating on the Winds of Time headed for the Eiger Vault. You ask CAIN what has happened in the timelines, knowing that the first law of TIME has been broken on Tenochtitlan to an unprecedented degree. It replies that the society was almost completely wiped out by the Spaniards in a few more decades, thus cancelling any serious time damage. You may lie in your Autodoc and regain up to 12 points of lost Endurance on this journey. Have you been given any information about the Planet Cave?
+
+If you have,
+If you have not,
+Turn to 86
+Turn to 76
 
 51
 The disciple of Baalmakes no move, obviously he doesn't know you have recognised him. Some hours later Falcon's Wing is stowed in the hold and the ship sets sail, scudding across the dust. The second day out, you are gazing out across the heaving red sea when you look behind you to see a ring of twenty or more sailors hemming you in, their faces staring mercilessly. The captain steps forward and says: 'You chose the wrong ship, Offworlder. We are all of the old religion, our Lord is he who you would wish to imprison, Baal, Lord of the Flies. He sent word to us of your coming and now we will exact retribution.' He signals to his men and soon you are overpowered. There is nothing you can do against so many. You are tied up to a block of wood and your heart is cut out and offered up to Baal as a sacrifice. You have failed.
@@ -338,7 +344,9 @@ Turn to 22
 Turn to 34
 
 57
-You step away from the door and then begin to pour a sustained stream of plasma into the rock. The cavern wall crashes and splinters under the assault, some of the rock actually melting under the heat. Soon you have burnt a hole through it and you can see into a small chamber beyond. But there is a triumphant howl behind you and, turning your head, you can see that Baal has completely destroyed the Warriors. He turns his attentions to you. Immediately you hurl yourself through the opening as a great river of burning energy rushes from Baal's outstretched hands, his face contorted with effort. Make an Evasion Roll. If you score 6-12, turn to 104
+
+You step away from the door and then begin to pour a sustained stream of plasma into the rock. The cavern wall crashes and splinters under the assault, some of the rock actually melting under the heat. Soon you have burnt a hole through it and you can see into a small chamber beyond. But there is a triumphant howl behind you and, turning your head, you can see that Baal has completely destroyed the Warriors. He turns his attentions to you. Immediately you hurl yourself through the opening as a great river of burning energy rushes from Baal's outstretched hands, his face contorted with effort. Make an Evasion Roll.
+If you score 6-12, turn to 104
 If you score 2-5, turn to 113
 
 58
@@ -371,8 +379,8 @@ You walk up the gang plank and onto the main deck of the 'Winged Demon'. A sailo
 
 If you have,
 If you have not,
-Turn to 70.
-Turn to 79.
+Turn to 70
+Turn to 79
 
 61
 You throw yourself into the air and somersault through the doorway, as the slab of masonry shatters into a thousand shards close behind you. Turn to 299.
@@ -451,7 +459,7 @@ Turn to 373
 73
 Make an Evasion Roll.
 If you score 6-12, turn to 156
-If you score Z-5, turn to 164
+If you score 2-5, turn to 164
 
 74
 You open fire with your blaster. At such close range you cannot miss and you manage to fry two of them before another darts forward and slashes at your chest with the speed of a striking snake. You are hurled backward, lose 6 Endurance points. If you are still alive, your suit begins to repair itself and you have just enough time to spray a continuous stream of plasma across the width of the tunnel, leaving it dotted with the smoking carcasses of the Warriors. Shaken by their fearless attack, you press on. Turn to 99.
@@ -462,7 +470,13 @@ If you score 6-12, turn to 382
 If you score 2-5, turn to 65
 
 76
-Soon you are safe in your bay at the Eiger Vault. You call in a maintenance team to make the necessary repairs to Falcon's Wing whilst you reflect on what could have happened had you been wearing your battlesuit in the fight against Baal. Have you spoken with Agent Bloodhound during this mission? If you have, turn to 20. If you have one piece of the Rack, turn to 9.
+
+Soon you are safe in your bay at the Eiger Vault. You call in a maintenance team to make the necessary repairs to Falcon's Wing whilst you reflect on what could have happened had you been wearing your battlesuit in the fight against Baal. Have you spoken with Agent Bloodhound during this mission?
+
+If you have,
+If you have one piece of the Rack,
+Turn to 20
+Turn to 9
 
 77
 You hit the ground, trying to hug it as if it were a blanket against the cold. You can hear the whine of musket balls parting the air near your head, but you are unhurt. Will you:
@@ -506,7 +520,13 @@ Turn to 105
 Turn to 114
 
 82
-A hushed silence falls, as Baal hangs there. Then, with a smile of pure evil, Baal gestures at the priests, the passage of his hand leaving a fading trail of crackling yellow energy. They leap up and frantically continue the sacrifice, offering the hearts up to what they believe to be their god. With a thrill of horror, you realise Baal is feeding off the life forces of the victims, using some kind of psychic vampirism. Even as you watch, he seems to grow stronger, raw energy flickering about him in everincreasing intensity. He throws back his head and laughs, a terrible booming sound that echoes around the plaza. If you are carrying a piece of the Rack, turn to 93. If you are not, turn to 111.
+
+A hushed silence falls, as Baal hangs there. Then, with a smile of pure evil, Baal gestures at the priests, the passage of his hand leaving a fading trail of crackling yellow energy. They leap up and frantically continue the sacrifice, offering the hearts up to what they believe to be their god. With a thrill of horror, you realise Baal is feeding off the life forces of the victims, using some kind of psychic vampirism. Even as you watch, he seems to grow stronger, raw energy flickering about him in everincreasing intensity. He throws back his head and laughs, a terrible booming sound that echoes around the plaza.
+
+If you are carrying a piece of the Rack,
+If you are not,
+Turn to 93
+Turn to 111
 
 83
 Your Particle Disruptor beam drills into the ice near the creature. It rolls away and fires its laser rifle. Make an Evasion Roll.
@@ -614,7 +634,12 @@ Soon you are sitting in the warmth and safety of Falcon's Wing, glad to be alive
 
 'CAIN?' you query.
 
-'I am not activating it, Falcon.' Somehow the Rack of Baal is causing your Machine to travel in time. Your mind is soon tuned to the psychic emanations of the Rack and you are able to determine that you are headed for the timehole in the Dirkheim Void. But there is nothing in the Void, you think to yourself. After a while Falcon's Wing materialises in open space. Your mind reels as you look around, for there is nothing except blackness. Then the cameras reveal a large asteroid hanging in the black nothingness of the Void. A steel door, surrounded by dull glowing lights like the door in the cavern on Cave, is set into the side of the asteroid. 'I would say that the Rack has led us to Baal's base. Falcon. You have to take it in there.'Nodding grimly you don your battlesuit and, taking the Rack in an assistor arm, leave Falcon's Wing and jet towards the doorway. If you have a microbeam pencil key, turn to 410. If not, turn to 296.
+'I am not activating it, Falcon.' Somehow the Rack of Baal is causing your Machine to travel in time. Your mind is soon tuned to the psychic emanations of the Rack and you are able to determine that you are headed for the timehole in the Dirkheim Void. But there is nothing in the Void, you think to yourself. After a while Falcon's Wing materialises in open space. Your mind reels as you look around, for there is nothing except blackness. Then the cameras reveal a large asteroid hanging in the black nothingness of the Void. A steel door, surrounded by dull glowing lights like the door in the cavern on Cave, is set into the side of the asteroid. 'I would say that the Rack has led us to Baal's base. Falcon. You have to take it in there.'Nodding grimly you don your battlesuit and, taking the Rack in an assistor arm, leave Falcon's Wing and jet towards the doorway.
+
+If you have a microbeam pencil key,
+If not,
+Turn to 410
+Turn to 296
 
 101
 Make an Evasion Roll as you try to dash past your attackers.
@@ -799,7 +824,14 @@ You are not quick enough and the reptilian jaws close about your neck, virtually
 You concentrate your thoughts, ready to attack the mind of Baal. But suddenly, his head snaps round to stare at you and you feel his mind probing yours - he has sensed your mental power. Then an incredibly powerful will invades your mind, psychic power you never imagined possible and against which you have no hope of resisting. You can do nothing as he forces you to mount the pyramid. Your heart is cut out and your life force is consumed by Baal.
 
 132
-Mentally, you reach out in an attempt to engage Baal in a battle of wills but he hardly even pauses as he hurls the corpse of the Warrior at you with punishing force, brushing aside your mental assault almost as an afterthought. Caught off guard the body slams into you, sending you crashing to the ground. Luckily none of its sharp protuberances have cut you, but the impact has cracked one of your ribs. Lose 4 Endurance points. If you are still alive, you rise to your feet. If you have the severed handblade of a Caver Warrior in your possession, turn to 163, if not read on. Baal grabs another body as if it were a rag doll. You dash for the exit as he hurls it at you. Make an Evasion Roll.
+
+Mentally, you reach out in an attempt to engage Baal in a battle of wills but he hardly even pauses as he hurls the corpse of the Warrior at you with punishing force, brushing aside your mental assault almost as an afterthought. Caught off guard the body slams into you, sending you crashing to the ground. Luckily none of its sharp protuberances have cut you, but the impact has cracked one of your ribs. Lose 4 Endurance points. If you are still alive, you rise to your feet.
+
+If you have the severed handblade of a Caver Warrior in your possession,
+Turn to 163
+
+If not read on. Baal grabs another body as if it were a rag doll. You dash for the exit as he hurls it at you. Make an Evasion Roll.
+
 If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
@@ -836,7 +868,13 @@ If you score 2-6, turn to 177
 You drop into the long grass crying out in mock agony. You lie still, pretending to be dead. You can hear the repeated volleys of musketfire from the Union lines and the shrieks of the wounded and dying as the Confederates press home their attack. After they have gone, you risk a look. A brief hand-to-hand struggle ensues and then the blue coats fall back, the Confederates too exhausted to pursue for now. Suddenly, a movement catches your eye and a section of wood just disappears. Your holodetector no longer registers another Time Machine. It looks like Yelov has escaped. You make your way to Benner's Hill where, you are pleased to see Lynx waiting for you. 'I stopped his attempt on Ewell, but I couldn't prevent him reaching his Time Machine,' she says despondently. 'I was hoping you'd be there.' You tell Lynx what happened. 'Lucky to be alive, as usual, eh, Falcon? Anyway I must try to find him again. Thanks and good luck with the Baal mission.' Turn to 333.
 
 139
-You launch all your rockets and fire your Particle Disruptor several times, destroying many of the fly-creatures. But there are too many of them and they crash into you from all sides, ripping and tearing at your battlesuit, wreaking terrible damage to it. Subtract 4 from your armour score. If it is at 0, turn to 180. If it is still functional, you boost your jets and surge up out of their reach. Will you:
+
+You launch all your rockets and fire your Particle Disruptor several times, destroying many of the fly-creatures. But there are too many of them and they crash into you from all sides, ripping and tearing at your battlesuit, wreaking terrible damage to it. Subtract 4 from your armour score.
+
+If it is at 0,
+Turn to 180
+
+If it is still functional, you boost your jets and surge up out of their reach. Will you:
 
 Throw the Rack at Baal?
 Fire your Particle Disruptor at him?
@@ -896,7 +934,14 @@ If you score 6-12, turn to 209
 If you score 2-5, turn to 221
 
 152
-You unleash a bolt of mental energy at Baal, but he hardly even pauses as he hurls the corpse of the Warrior at you with punishing force, brushing aside your mental assault almost as an afterthought. Caught off guard the body slams into you, sending you crashing to the ground. Luckily none of its sharp protuberances have cut you, but the impact has cracked one of your ribs. Lose 4 Endurance points. If you are still alive, you rise to your feet. If you have the severed hand-blade of a Caver Warrior in your possession, turn to 163, if not read on. Baal grabs another body as if it were a rag doll. You dash for the exit as he hurls it at you. Make an Evasion Roll.
+
+You unleash a bolt of mental energy at Baal, but he hardly even pauses as he hurls the corpse of the Warrior at you with punishing force, brushing aside your mental assault almost as an afterthought. Caught off guard the body slams into you, sending you crashing to the ground. Luckily none of its sharp protuberances have cut you, but the impact has cracked one of your ribs. Lose 4 Endurance points. If you are still alive, you rise to your feet.
+
+If you have the severed hand-blade of a Caver Warrior in your possession,
+Turn to 163
+
+If not read on. Baal grabs another body as if it were a rag doll. You dash for the exit as he hurls it at you. Make an Evasion Roll.
+
 If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
@@ -925,7 +970,13 @@ If you score 2-5, turn to 226
 A bolt of superheated plasma streaks towards the top of the pyramid, but your aim is off and it hits a priest, hurling him over the altar in a ball of flame. The crowd back away from you in terror, but Baal has spotted you. You feel his mind probing yours. Then an incredibly powerful will invades your mind, psychic power you never imagined possible and against which you have no hope of resisting. You can do nothing as he forces you to mount the pyramid. Your heart is cut out and you are consumed by Baal.
 
 159
-The beam of your Particle Disruptor takes the raging Baal in the chest. He howls, a scream of terrific agony, and jumps back put of the line of fire, pained but essentially unhurt. It is incredible that he can withstand a Particle Disruptor, you think to yourself. Just then, several fly creatures slam into you, hurling you against the steel ceiling with frightening force. Subtract 4 from your battlesuit armour points as it takes a severe battering. If your armour score is at 0 or less, turn to 180. Otherwise, will you:
+
+The beam of your Particle Disruptor takes the raging Baal in the chest. He howls, a scream of terrific agony, and jumps back put of the line of fire, pained but essentially unhurt. It is incredible that he can withstand a Particle Disruptor, you think to yourself. Just then, several fly creatures slam into you, hurling you against the steel ceiling with frightening force. Subtract 4 from your battlesuit armour points as it takes a severe battering.
+
+If your armour score is at 0 or less,
+Turn to 180
+
+Otherwise, will you:
 
 Throw the Rack at Baal?
 Try to fight off the fly creatures?
@@ -1038,7 +1089,13 @@ Turn to 186
 Turn to 198
 
 178
-Somehow Baal has detected your presence near the Rack segment. There is a snarl of ferocious rage as he continues his onslaught on the roof. You dash back towards the portal, as bricks and mortar cascade into the room. Before you have reached the doorway, Baal crashes through the roof into the room and comes to his feet on the floor. His weight sets off a trap and a volley of javelins fly at him, but they shatter against his skin as if they were made of sand. He hardly notices them. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up? If you have, turn to 305. If you have not, turn to 320.
+
+Somehow Baal has detected your presence near the Rack segment. There is a snarl of ferocious rage as he continues his onslaught on the roof. You dash back towards the portal, as bricks and mortar cascade into the room. Before you have reached the doorway, Baal crashes through the roof into the room and comes to his feet on the floor. His weight sets off a trap and a volley of javelins fly at him, but they shatter against his skin as if they were made of sand. He hardly notices them. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up?
+
+If you have,
+If you have not,
+Turn to 305
+Turn to 320
 
 179
 You hurl a blast of mental energy at the mind behind the coal black eyes. Make a Thinkstrike Roll.
@@ -1096,13 +1153,26 @@ If you score 6-12, turn to 224
 If you score 2-5, turn to 233
 
 190
-You squeeze the trigger and a stream of plasma shoots towards Baal, but suddenly your blaster cuts out. To your horror you realise it has been depleted when you used it to burn a hole through the rock. You will have to do without it until you are in Falcon's Wing when you can fit another energy pack to your blaster. The plasma splashes off Baal's chest but he barely notices it, he hardly even pauses as he hurls the corpse of the Warrior at you with punishing force. Caught off guard the body slams into you, sending you crashing to the ground. Luckily none of its sharp protuberances have cut you, but the impact has cracked one of your ribs. Lose 4 Endurance points. If you are still alive, you rise to your feet. If you have the severed hand-blade of a Caver Warrior in your possession, turn to 163, if not read on. Baal grabs another body as if it were a rag doll. You dash for the exit as he hurls it at you. Make an Evasion Roll.
+
+You squeeze the trigger and a stream of plasma shoots towards Baal, but suddenly your blaster cuts out. To your horror you realise it has been depleted when you used it to burn a hole through the rock. You will have to do without it until you are in Falcon's Wing when you can fit another energy pack to your blaster. The plasma splashes off Baal's chest but he barely notices it, he hardly even pauses as he hurls the corpse of the Warrior at you with punishing force. Caught off guard the body slams into you, sending you crashing to the ground. Luckily none of its sharp protuberances have cut you, but the impact has cracked one of your ribs. Lose 4 Endurance points. If you are still alive, you rise to your feet.
+
+If you have the severed hand-blade of a Caver Warrior in your possession,
+Turn to 163
+
+If not read on. Baal grabs another body as if it were a rag doll. You dash for the exit as he hurls it at you. Make an Evasion Roll.
+
 If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
 191
 image-022.png
-There is a howl of ferocious rage and bricks and mortar tumble into the room. You dash back to the portal but turn to stare at the sight that greets you. A huge twenty-foot figure has smashed its way through the roof. It is a powerfully muscled man, deep red in colour with slitted reptilian eyes and taloned fingers. A nimbus of yellow energy plays about its form. His weight sets off a trap and a volley of javelins fly from the wall, but they shatter against his skin as if they were made of sand. He hardly notices them. You recognise Baal. You guess he comes here to feed off the life forces of the sacrificial victims of the Aztecs, perhaps even masquerading as one of their gods. He glares at you balefully, his lips drawn back in a snarl of anger. You cannot help but tremble in fright, faced as you are with the primordial evil you can see in his eyes. He raises his arms, sweeping them across the ceiling, destroying more of the roof, yellow energy crackling and spitting all about him. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up? If you have, turn to 305. If you have not, turn to 320.
+
+There is a howl of ferocious rage and bricks and mortar tumble into the room. You dash back to the portal but turn to stare at the sight that greets you. A huge twenty-foot figure has smashed its way through the roof. It is a powerfully muscled man, deep red in colour with slitted reptilian eyes and taloned fingers. A nimbus of yellow energy plays about its form. His weight sets off a trap and a volley of javelins fly from the wall, but they shatter against his skin as if they were made of sand. He hardly notices them. You recognise Baal. You guess he comes here to feed off the life forces of the sacrificial victims of the Aztecs, perhaps even masquerading as one of their gods. He glares at you balefully, his lips drawn back in a snarl of anger. You cannot help but tremble in fright, faced as you are with the primordial evil you can see in his eyes. He raises his arms, sweeping them across the ceiling, destroying more of the roof, yellow energy crackling and spitting all about him. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up?
+
+If you have,
+If you have not,
+Turn to 305
+Turn to 320
 
 192
 Mentally exhausted after your recent endeavours, your strength of will collapses under Baal's awesome attack and you can do nothing as you are held there, while Darkhome Warriors cut you to shreds.
@@ -1226,7 +1296,14 @@ There is a grunt of pain and the eyes disappear from view for a moment. Then the
 You whip out your blaster and fire, catching Caleb in the arm, but he appears to be human. Before you can do anything else, Bragg has drilled a neat hole in your chest with his laser pistol. You hit the floor. The last words you ever hear are: 'Damn it, he was human after all.'
 
 215
-The white-hot lightning takes Baal full in the chest and he staggers back as you keep up a steady stream of plasma, whilst you charge for the exit. Baal howls in pain, but then your blaster stops firing, its safety mechanism cutting in as it heats up dangerously. If you have the severed hand-blade of a Caver Warrior, turn to 163, if not read on. Baal, essentially unhurt, hurls the body of the Warrior at you with punishing force. Make an Evasion Roll.
+
+The white-hot lightning takes Baal full in the chest and he staggers back as you keep up a steady stream of plasma, whilst you charge for the exit. Baal howls in pain, but then your blaster stops firing, its safety mechanism cutting in as it heats up dangerously.
+
+If you have the severed hand-blade of a Caver Warrior,
+Turn to 163
+
+If not read on. Baal, essentially unhurt, hurls the body of the Warrior at you with punishing force. Make an Evasion Roll.
+
 If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
@@ -1283,7 +1360,14 @@ Turn to 239
 You spin and aim your blaster but before you can fire, Baal launches a psychic attack. An incredibly powerful will invades your mind, psychic power you never imagined possible and against which you have no hope of resisting. You can do nothing as he forces you to mount the pyramid, where your life force is consumed by Baal.
 
 223
-You have missed, firing as you are on the run. The stream of plasma crackles past your target's thigh. If you have a severed hand-blade of a Caver Warrior, turn to 163, if not read on. Baal smiles evilly and hurls the body at you with punishing force. Make an Evasion Roll.
+
+You have missed, firing as you are on the run. The stream of plasma crackles past your target's thigh.
+
+If you have a severed hand-blade of a Caver Warrior,
+Turn to 163
+
+If not read on. Baal smiles evilly and hurls the body at you with punishing force. Make an Evasion Roll.
+
 If you score 6-12, turn to 181
 If you score 2-5, turn to 171
 
@@ -1434,7 +1518,13 @@ You dash for the tunnel as the Noble turns. Spotting you, it trills a command an
 The heavy gravity is too strong for you and the axe slams into your shoulder, virtually severing your arm. A gout of blood spurts into the air and you pass out with shock. You never wake up. You have failed.
 
 248
-You tell CAIN what happened on Cave. It reports that there have been substantial changes in the history of Cave, caused by Baal. 'In my opinion,' it goes on, 'Baal intended to rule over Darkhome and, using advanced technology, extend his control over the whole planet. From there he could breed a race of genetically engineered star-warriors and make war on the whole galaxy. But you have prevented that, Falcon, he will never win any more support on Cave now. In any case, I would compute that Baal is seriously worried about the possibility that the Rack may be re-assembled.' If you have three pieces of the Rack, turn to 241. If not, you have only one clue left, the timehole on Dustbowl where Monitoring reported the timeline disturbance. Turn to 287.
+
+You tell CAIN what happened on Cave. It reports that there have been substantial changes in the history of Cave, caused by Baal. 'In my opinion,' it goes on, 'Baal intended to rule over Darkhome and, using advanced technology, extend his control over the whole planet. From there he could breed a race of genetically engineered star-warriors and make war on the whole galaxy. But you have prevented that, Falcon, he will never win any more support on Cave now. In any case, I would compute that Baal is seriously worried about the possibility that the Rack may be re-assembled.'
+
+If you have three pieces of the Rack,
+If not, you have only one clue left, the timehole on Dustbowl where Monitoring reported the timeline disturbance.
+Turn to 241
+Turn to 287
 
 249
 Your Particle Disruptor is able to function in the sea. It vaporises the dust in its path. However, you must have missed it for, to your horror, it is almost upon you. Turn to 197.
@@ -1495,7 +1585,13 @@ Turn to 280
 You twist away from the hurtling bludgeon and ascend into Falcon's Wing, screaming at CAIN to engage the Variac Drive as you do so. Moments later you are safe in null-space. You never believed you would ever welcome the grey nothingness that fills the camera screens as you do now. You have learnt much about the art of avoiding damage in your near fatal brushes with Baal. Add 1 to your Evasion Modifier. Turn to 248.
 
 260
-In the safety of Falcon's Wing, you clamber out of the battlesuit. Note that you have the piece of the Rack with the triangles in its corners. If you now have three pieces of the Rack, turn to 241. If not, where will you go now:
+
+In the safety of Falcon's Wing, you clamber out of the battlesuit. Note that you have the piece of the Rack with the triangles in its corners.
+
+If you now have three pieces of the Rack,
+Turn to 241
+
+If not, where will you go now:
 
 The Eiger Vault, to see if there is any new information for you?
 Earth at the time of the Aztecs, if you have not been there already?
@@ -1631,7 +1727,13 @@ As you fly, your environment control unit begins to fluctuate wildly and you are
 As you run for the altar, you can feel one of the slabs shifting underfoot. There is a click and a volley of small javelins fly out of small niches in the wall. You throw yourself to the floor and somersault to your feet, and they whistle past you. Turn to 293.
 
 283
-You return to Falcon's Wing where you spend your time checking your battlesuit while waiting. Have you ever been in the Dustbowl's only city, Refuge? If you have, turn to 342, if you have not, turn to 407.
+
+You return to Falcon's Wing where you spend your time checking your battlesuit while waiting. Have you ever been in the Dustbowl's only city, Refuge?
+
+If you have,
+If you have not,
+Turn to 342
+Turn to 407
 
 284
 The fireball erupts in the doorway, filling it with yellow flame, but you roll safely away. You have a moment to react as Baal screams in frustration, seeing you still alive. Will you:
@@ -1644,7 +1746,13 @@ Turn to 243
 Turn to 257
 
 285
-You have almost reached Falcon's Wing when some black-robed priests charge at you from a nearby alleyway, a fanatical gleam in their eyes, screaming, 'Death to the enemies of Huitzilopochtli!' However, they stop in disbelief when you disappear into the hologram; it looks to them as if you have passed through the wall of a house. Hurriedly, you set course for the Eiger Vault. Then the cameras reveal Baal, recovered, hurtling directly at you and your screens are filled with yellow flame as he unleashes a fireball engulfing Falcon's Wing. You scream at CAIN to engage the Variac Drive and, moments later, you disappear from the city of Tenochtitlan. Safe in the grey nothingness of null-space, you heave a sigh of relief, calming your shattered nerves. Soon you are floating on the Winds of Time headed for the Eiger Vault. You ask CAIN what has happened in the timelines, knowing that the first law of TIME has been broken on Tenochtitlan to an unprecedented degree. It replies that the society was almost completely wiped out by the Spaniards in a few more decades, thus cancelling any serious time change. You may lie in your Autodoc and regain up to 12 points of lost Endurance on this journey. Have you been given any information about the Planet Cave? If you have, turn to 86. If you have not turn to 76.
+
+You have almost reached Falcon's Wing when some black-robed priests charge at you from a nearby alleyway, a fanatical gleam in their eyes, screaming, 'Death to the enemies of Huitzilopochtli!' However, they stop in disbelief when you disappear into the hologram; it looks to them as if you have passed through the wall of a house. Hurriedly, you set course for the Eiger Vault. Then the cameras reveal Baal, recovered, hurtling directly at you and your screens are filled with yellow flame as he unleashes a fireball engulfing Falcon's Wing. You scream at CAIN to engage the Variac Drive and, moments later, you disappear from the city of Tenochtitlan. Safe in the grey nothingness of null-space, you heave a sigh of relief, calming your shattered nerves. Soon you are floating on the Winds of Time headed for the Eiger Vault. You ask CAIN what has happened in the timelines, knowing that the first law of TIME has been broken on Tenochtitlan to an unprecedented degree. It replies that the society was almost completely wiped out by the Spaniards in a few more decades, thus cancelling any serious time change. You may lie in your Autodoc and regain up to 12 points of lost Endurance on this journey. Have you been given any information about the Planet Cave?
+
+If you have,
+If you have not
+Turn to 86
+Turn to 76
 
 286
 The sailor grunts and falls senseless to the floor. Captain Nathan stands astonished at this, unmoving. You take the chance to sprint up the stairs and out onto the deck, almost into the arms of a huge hairy sailor, lumbering towards the cabin. Wrestling with him is out of the question. Will you:
@@ -1678,7 +1786,12 @@ Bragg nods. 'Poor McReady, it must have got to him in the radio room. If only I 
 image-028.png
 As you continue on, the twisting corridors carry an echo of trilling Noble voices and a much deeper resonant booming trill. Eventually, you come to the end of the tunnel without encountering anything. Hanging back in the shadows of the corridor you are able to survey the scene unseen. It is a large cavern, obviously the centre of the rebel territory. Over a hundred Warriors are standing in a tight block in the centre of the chamber. Burrowers and other Worker types are busying themselves with various tasks, digging, feeding the Warriors and so on. Several Nobles are conferring with the strangest sight of all in the far corner of the cavern. It is a huge pale bulbous mass of blubbery flesh. A small head rests atop the mass. This must be what a Caver Queen looks like. One of the Nobles is speaking: The offensive is going well, Baal-Mother. These devices you have given us,' pointing to a laser pistol, 'will assure our victory. But we are worried, you have not yet laid a Batch, is there something wrong, Mother? We are in need of replacements.'
 
-The huge mass speaks, with the deep resonant sound you heard earlier: 'All in good time, Batch 16-A4-13. All in good time. Just ensure my place as rightful Mother of Darkhome.' Your attention wanders from this conversation when you notice a stack of advanced machinery next to the bloated mass, something that should not be here at this time. You also notice, almost directly opposite you, a huge door, about eighteen feet in height. It is of a shiny metal, and surrounded by domed lights glowing dully. It is jarringly out of place in a culture that has not yet discovered the wheel. As you look at the door you begin to pick up some kind of psionic static from it. After a few minutes' concentration, you are able to tell that the piece of the Rack you are looking for lies behind the door! Do you have a piece of the Rack with small circles at each of its three corners with you? If you do, turn to 391. If you do not, turn to 385.
+The huge mass speaks, with the deep resonant sound you heard earlier: 'All in good time, Batch 16-A4-13. All in good time. Just ensure my place as rightful Mother of Darkhome.' Your attention wanders from this conversation when you notice a stack of advanced machinery next to the bloated mass, something that should not be here at this time. You also notice, almost directly opposite you, a huge door, about eighteen feet in height. It is of a shiny metal, and surrounded by domed lights glowing dully. It is jarringly out of place in a culture that has not yet discovered the wheel. As you look at the door you begin to pick up some kind of psionic static from it. After a few minutes' concentration, you are able to tell that the piece of the Rack you are looking for lies behind the door! Do you have a piece of the Rack with small circles at each of its three corners with you?
+
+If you do,
+If you do not,
+Turn to 391
+Turn to 385
 
 291
 You reach out with your mind and try to dominate the will of the Cosmic being known as Baal. But all you do is provoke Baal to contemptuous laughter as he sweeps aside your mental attack with ease. His ego is too powerful. However, your attention is drawn to the oncoming Warriors. All you can do is try to gain some time by using your blaster on them, as they are almost upon you. Make an Attack Roll.
@@ -1691,7 +1804,13 @@ If you score 6-12, turn to 71
 If you score 2-5, turn to 83
 
 293
-You snatch up the glowing triangle, which has a small dark circle embedded in each of its corners. Note it on your Agent Profile and the fact that it has small circles embedded in it. You dash back towards the portal, as bricks and mortar cascade into the room. Before you have reached the doorway, Baal crashes through the roof into the room and comes to his feet on the floor. His weight sets off a trap and a volley of javelins fly at him, but they shatter against his skin as if they were made of sand. He hardly notices them. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up? If you have, turn to 305. If you have not, turn to 320.
+
+You snatch up the glowing triangle, which has a small dark circle embedded in each of its corners. Note it on your Agent Profile and the fact that it has small circles embedded in it. You dash back towards the portal, as bricks and mortar cascade into the room. Before you have reached the doorway, Baal crashes through the roof into the room and comes to his feet on the floor. His weight sets off a trap and a volley of javelins fly at him, but they shatter against his skin as if they were made of sand. He hardly notices them. Do you have a piece of the Rack with small triangles at each corner with you, as well as the one you have just picked up?
+
+If you have,
+If you have not,
+Turn to 305
+Turn to 320
 
 294
 [Score an S]
@@ -2144,7 +2263,13 @@ Turn to 386
 Turn to 397
 
 368
-Moving fast, you take the sharpened bone and hack the tentacles in two, cutting it away from your foot before it can take hold and leap back out of range from the suppurating beast. Then the creature sprouts four massive trunk-like legs, raising it off the ground. It folds in on itself, metamorphosing into a single huge mouth on legs, two lobster-like eyestalks rising above it. Do you have any magnesite with you? If you do, turn to 255. If you do not, turn to 267.
+
+Moving fast, you take the sharpened bone and hack the tentacles in two, cutting it away from your foot before it can take hold and leap back out of range from the suppurating beast. Then the creature sprouts four massive trunk-like legs, raising it off the ground. It folds in on itself, metamorphosing into a single huge mouth on legs, two lobster-like eyestalks rising above it. Do you have any magnesite with you?
+
+If you do,
+If you do not,
+Turn to 255
+Turn to 267
 
 369
 You slam into the legs of three of them and they fly over you, crashing to the ground. In an instant you are up, but the fourth whips his dagger across, gashing your shoulder as he shouts, 'Die, in the name of Baal!' Lose 2 Endurance points. Controlling your shocked surprise at this, you unleash a Thinkstrike and he staggers back, holding his head. Barging past him you dart into the warehouse, running for the crate marked 'Eiger Corporation'. Turn to 350.
@@ -2244,7 +2369,13 @@ If you score 2-5, turn to 417
 You can hardly miss at this range and a bolt of plasma takes the first one in the chest, almost vaporising the top half of his body. The other two charge on undeterred, their lips drawn back in a snarl of fanatical hate, but you shoot them both. Looking around to make sure you were not spotted using an illegal energy weapon, you hurry quickly onward. Turn to 416.
 
 388
-You dart into the lift and press the button for the Mining Control Room. The lift begins to move. Suddenly it shudders for a second but starts to rise upwards quickly again. Then your radio crackles and Bragg's voice comes out of it: 'It's clear in the storage area. How about you, Lieutenant Falcon?' You tell him what's happened, leaving out any mention of the Rack. He replies: 'You fool! You could've been killed!' Before he can go on, Achov's voice cuts in over the radio. 'I've found the suit computer control chips! They were in the main generator room. I'm coming out now, I'll meet you at the corridor junction.' A few minutes later the lift comes to a stop. Do you have Caleb's flamethrower? If you do, turn to 200. If you do not, turn to 302.
+
+You dart into the lift and press the button for the Mining Control Room. The lift begins to move. Suddenly it shudders for a second but starts to rise upwards quickly again. Then your radio crackles and Bragg's voice comes out of it: 'It's clear in the storage area. How about you, Lieutenant Falcon?' You tell him what's happened, leaving out any mention of the Rack. He replies: 'You fool! You could've been killed!' Before he can go on, Achov's voice cuts in over the radio. 'I've found the suit computer control chips! They were in the main generator room. I'm coming out now, I'll meet you at the corridor junction.' A few minutes later the lift comes to a stop. Do you have Caleb's flamethrower?
+
+If you do,
+If you do not,
+Turn to 200
+Turn to 302
 
 389
 You have misjudged how close your pursuers were. You unleash a blast of superheated plasma that virtually vaporises two of them but another slams into you, wielding a wickedly curved dagger. Acting instinctively, you fall backwards underneath him and use your foot to throw him over your head. However, another slashes your arm as you roll to your feet. *Lose 6 Endurance points.* If you are still alive, you despatch him with a swift karate kick, driving him back into those behind him. This gives you enough time to run on. They seem hesitant to follow you now, and soon you have left them behind. A few moments later and they are lost to sight as you turn into the dark, foreboding street where the warehouse containing Falcon's Wing lies. As you approach the entrance four black-robed figures burst from the shadows and charge at you in silence, drawing long wickedly curved daggers as several more step out of buildings behind you, trapping you in the street. Obviously they knew a short cut. Acting instinctively, you hurl yourself, rolling, at the feet of your four assailants, hoping to trip them and run on into the safety of Falcon's Wing. Make an Evasion Roll.

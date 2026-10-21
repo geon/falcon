@@ -85,7 +85,7 @@ interface TableSection {
 
 interface DiceRollSection {
 	type: "diceRoll";
-	subtype: DiceRollSubtype;
+	subtype: DiceRollSubtype | undefined;
 	outcomes: { scores: number[]; link: number | undefined }[];
 }
 
@@ -270,22 +270,37 @@ function parseTables(sections: Section[]): Section[] {
 	return result;
 }
 
+function parseDiceScores(scoresString: string): number[] {
+	// Scores are listed like "7-12", "5 or 6", "1, 2, 3 or 4" or "a 1 or a 6".
+	return scoresString
+		.replace(/\ba /g, "")
+		.split(/, | or /)
+		.flatMap((part) => {
+			const match = part.match(/^(\d+)(-(\d+))?$/);
+			if (!match) {
+				throw new Error("Bad score: " + scoresString);
+			}
+			const from = parseInt(match[1]);
+			const to = match[3] ? parseInt(match[3]) : from;
+			return Array(to - from + 1)
+				.fill(0)
+				.map((_, i) => from + i);
+		});
+}
+
 function parseDiceRollInstructions(sections: Section[]): Section[] {
 	const match = sections
 		.map(
 			(section) =>
 				section.type === "text" &&
 				section.line.match(
-					/Make an? ((Evasion)|(Attack)|(Chance)|(Thinkstrike)|(Power of Will)) Roll/,
+					/[Mm]ake (?:an? |another )?((Evasion)|(Attack)|(Chance)|(Thinkstrike)|(Power of Will)) Roll/,
 				),
 		)
 		.find((x) => !!x);
 
-	if (!match) {
-		return sections;
-	}
-
-	const subtype = makeDiceRollSubtype(match[1]);
+	// Some sections leave out the roll instruction, so the subtype may be unknown.
+	const subtype = match ? makeDiceRollSubtype(match[1]) : undefined;
 
 	const outcomes = sections
 		.map(
@@ -304,33 +319,14 @@ function parseDiceRollInstructions(sections: Section[]): Section[] {
 				}
 
 				const match = section.line.match(
-					/^If you scored? (a )?(([\d]+)|(([\d]+)(-|( or ))([\d]+))|(([\d]+), ([\d]+) or ([\d]+))), ((turn to ([\d]+))|(roll again\.))$/,
+					/^If you scored? (.+?), ((turn to ([\d]+))|(roll again\.))$/,
 				);
 				if (!match) {
 					return undefined;
 				}
 
-				let scores: number[] = [];
-				if (match[10] && match[11] && match[12]) {
-					const a = parseInt(match[10]);
-					const b = parseInt(match[11]);
-					const c = parseInt(match[12]);
-					scores = [a, b, c];
-				} else if (match[5] && match[8]) {
-					const from = parseInt(match[5]);
-					const to = parseInt(match[8]);
-					scores = Array(to - from + 1)
-						.fill(0)
-						.map((_, i) => from + i);
-				} else if (match[3]) {
-					scores = [parseInt(match[3])];
-				}
-
-				if (!scores.length) {
-					throw new Error("No scores found: " + section.line);
-				}
-
-				const link = match[15] ? parseInt(match[15]) : undefined;
+				const scores = parseDiceScores(match[1]);
+				const link = match[4] ? parseInt(match[4]) : undefined;
 
 				return { sectionIndex, scores, link };
 			},
@@ -338,19 +334,37 @@ function parseDiceRollInstructions(sections: Section[]): Section[] {
 		.filter(isTruthy);
 
 	if (!outcomes.length) {
-		console.log(sections);
-		throw new Error("Found no roll instructions. ");
+		if (match) {
+			console.log(sections);
+			throw new Error("Found no roll instructions. ");
+		}
+		return sections;
 	}
-	// TODO: Verify that the scores section indices are consecutive.
+
+	// Group consecutive outcome lines, since a section can offer more than one roll.
+	const rolls: (typeof outcomes)[] = [];
+	for (const outcome of outcomes) {
+		const lastRoll = rolls[rolls.length - 1];
+		if (
+			lastRoll &&
+			lastRoll[lastRoll.length - 1].sectionIndex + 1 === outcome.sectionIndex
+		) {
+			lastRoll.push(outcome);
+		} else {
+			rolls.push([outcome]);
+		}
+	}
 
 	// Insert the dice rolls in the untouched sections.
 	const result = [...sections];
-	const firstSectionIndex = outcomes[0].sectionIndex;
-	result.splice(firstSectionIndex, outcomes.length, {
-		type: "diceRoll",
-		subtype,
-		outcomes,
-	});
+	// Do it in reverse to avoid messing up the unspliced part of the array while splicing it.
+	for (const roll of rolls.reverse()) {
+		result.splice(roll[0].sectionIndex, roll.length, {
+			type: "diceRoll",
+			subtype,
+			outcomes: roll.map(({ scores, link }) => ({ scores, link })),
+		});
+	}
 
 	return result;
 }
@@ -389,19 +403,11 @@ function parsePage(rawLines: readonly string[]): Page {
 
 	const lastSection = content[content.length - 1];
 
-	if (
-		lastSection.type === "text" &&
-		[
-			/You have failed/i,
-			/Your failure is spectacular/i,
-			/You are just a memory/i,
-		].some((deathPhrase) => lastSection.line.match(deathPhrase))
-	) {
-		return { pageNumber, sections: content, type: "FailPage" };
-	}
-
 	if (lastSection.type === "text") {
-		const match = lastSection.line.match(/Turn to ([\d]+)/i);
+		// The exit is the last turn instruction. Earlier ones are notes for later.
+		const match = [
+			...lastSection.line.matchAll(/\bTurn (?:back )?to ([\d]+)/gi),
+		].pop();
 		if (match) {
 			const link = parseInt(match[1]);
 
@@ -412,6 +418,17 @@ function parsePage(rawLines: readonly string[]): Page {
 				link,
 			};
 		}
+	}
+
+	if (
+		lastSection.type === "text" &&
+		[
+			/You have failed/i,
+			/Your failure is spectacular/i,
+			/You are just a memory/i,
+		].some((deathPhrase) => lastSection.line.match(deathPhrase))
+	) {
+		return { pageNumber, sections: content, type: "FailPage" };
 	}
 
 	return {
@@ -648,7 +665,7 @@ function processBook(bookNumber: number) {
 	}
 }
 
-for (const bookNumber of [1, 2, 3, 4]) {
+for (const bookNumber of [1, 2, 3, 4, 5, 6]) {
 	processBook(bookNumber);
 }
 

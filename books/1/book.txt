@@ -99,7 +99,12 @@ Turn to 387
 You instruct CAIN to examine the Eiger Service Computer and type your Epsilon Security Clearance Code at the terminal, before asking for information relating to a cydroid, serial number SAT17YV. Moments later, CAIN responds. 'SAT Section Security Cydroid 17YV, built 3027, assigned to Section Chief Agidy Yelov. Reported missing 3031, prior to discontinuation of this model due to faults in Central Processing unit. Armed: Particle Disrupter, Sensors: Infra-red, ultra-violet and radar. Appearance: man-like. Intelligence unit: Fordec 5000. Power Plant -'
 'Reported missing' You interrupt the list of specifications.
 'Yes, Falcon. SAT Section Chief Agidy Yelov reported that it tried to kill him before escaping into Old Geneva. No witnesses. Some damage to Yelov's office, certainly caused by a Particle Disrupter. No further information.'
-If you wish to call up Yelov's file, note the number 15 on your Agent Profile. Whenever you are in your Time Machine and wish to access Yelov's file from CAIN, turn to paragraph 15 after noting the paragraph you are already at, as no options will begiven at the end of it. When you are ready, turn to 243.
+If you wish to call up Yelov's file, note the number 15 on your Agent Profile. Whenever you are in your Time Machine and wish to access Yelov's file from CAIN, note the paragraph you are already at first, as no options will be given at the end of it.
+
+Access Yelov's file,
+When you are ready,
+Turn to 15
+Turn to 243
 
 18
 Your opponent's reactions are even faster than yours. He catches your leg in his hand and then, with amazing strength, begins to crush it slowly. Pain overcomes you and you pass out, never to come round. You have failed, Falcon.
@@ -490,7 +495,10 @@ Before you can pull your arm down from your head to your blaster. Bloodhound's f
 Pilota responds, her voice high-pitched in the thin air, 'I noticed yesterday that someone has spent much time researching the history of Earth around the Timehole of 1241 AD. A very great deal of time, according to the Central Library Log. I suggest you make it your first mission to investigate that Timehole, just in case someone is doing something they shouldn't be. I know that there isn't much to go on here; call it a hunch if you like, but I would appreciate it if you would move quickly and check that all is well.'
 You decide to keep your real mission secret and return to Earth for further information. Saluting Pilota and taking your leave, you are back at the console of your Time Machine within thirty minutes. CAIN confirms that what Pilota says about the library is true and that Pilota herself is not the one who has researched this part of Earth history.
 
-If you have seen a man in golden armour called Iskander, turn to 114. If you have seen a Phocian pirate, turn to 34.
+If you have seen a man in golden armour called Iskander,
+If you have seen a Phocian pirate,
+Turn to 114
+Turn to 34
 
 If you have seen neither of these, will you:
 
@@ -789,8 +797,12 @@ This is an ex-SAT security droid, a banned model, apparently they were unpredict
 138
 image-029.png
 You float down from the Access Hatch, lowered by invisible Tractor Beams. You can smell ozone in the air of the Spaceport. Rounding a bulkhead you come across a refuelling bay and your holo-detector indicates that the Keladi scout ship in front of you is in fact a Time Machine. Judging by its size it could only be that of Lord Kirik. There is no trace of Lord Speke's machine. As you walk through the hologram you are surprised to see water underfoot. Kirik's machine is normally water-filled, a much larger model than your own. Clearly all is not well for, as you look up, you see that his Access Hatch is open and on automatic, for his Mind Scan is not operating and you are drawn up into his machine. The grotesque body of Lord Kirik lies inert across his crash couch, the disc which is his Psionic Enhancer lies in a pool of water at his side. The usually bloated brain-sacs are flaccid and his jointed legs curled unnaturally. Looking more closely you notice a neat circular wound in the middle of one of his brain sacs, still pouring purplish fluid. There is no sign of the weapon that was used to do this. He has been killed quite recently by someone whom he had allowed into his Time Machine. There is no helping Lord Kirik. Do you:
-Leave the scene of the crime before you can be discovered there? Turn to 262
-Send Kirik's Machine into null-space? Turn to 382
+
+Leave the scene of the crime before you can be discovered there?
+Turn to 262
+
+Send Kirik's Machine into null-space?
+Turn to 382
 
 139
 The plasma from your blaster claims the lives of several of the guards and their clamour increases, believing you to be a spirit. Some overcome their fear, however, determined to protect their Khan, and you are peppered with arrows, some from an unseen vantage point above. Your heart is pierced and you die. You have failed and the Space Federation will never be.
@@ -1050,8 +1062,11 @@ If you score 6, roll again.
 187
 You try to twist aside from the wicked thrust but are caught under the arm. Flailing wildly you fall backwards off the ladder to the ground below. Lose 14 Endurance points. If you are still alive you bind your wound with a piece of your cloak, to staunch the blood. Do you:
 
-Wait outside the city leaving Alexander to his fate? Turn to 200
-Try again to scale the wall? Turn to 147
+Wait outside the city leaving Alexander to his fate?
+Turn to 200
+
+Try again to scale the wall?
+Turn to 147
 
 188
 The Creche fall onto the tree carpet and you move forward to make sure of your victory. Suddenly, Agidy Yelov, wearing Psionic Damper Circlet on his head, that gives protection from mental attacks, appears from behind the Creche's Time Machine. You hesitate in surprise as he turns to you, his blaster pointing at the ground. 'Well done Falcon, Bloodhound. Of course you know that I had set up a trap for the Renegade Lord, but I really must congratulate you for a truly outstanding performance against the Creche.' Bloodhound looks at you to see what you will do. Will you:
@@ -1193,7 +1208,7 @@ If you score a 7 roll again.
 Twin laser pulses cut through space from your ship to the Phocian's. You can see parts breaking away from the hull in the dazzling red light of your lasers. Suddenly, the scanner screen lights up fiercely; you have scored a direct hit on his Power Plant and the Phocian has been vapourised with his ship. You can only hope that his descendants were not to be shapers of history and that changes in the Timelines will be small. You have, however, saved Korakiik, the Keladi envoy and thwarted the Renegade Lord. You try to turn your ship back to the Starport but she is badly damaged. Make a Chance Roll.
 
 If you score 3-6, turn to 231
-If you score l-2,turn to 242
+If you score 1-2, turn to 242
 
 214
 You try to throw him over your hip but he is solid and immovable, his powerful blue-skinned frame is many times more powerful than yours, as his race evolved on a high-gravity world. He grunts in indignation and cuffs you to the ground. Lose 2 Endurance points. 'I am in a hurry,' he says, controlling his anger, 'on important diplomatic business, but I will make sure you arc demoted for this outrageous assault.' He enters his Time Machine, and then storms back past you with a message capsule which he has retrieved from inside, and strides bullishly towards the exit of the Eiger Vault. Will you:
@@ -1299,7 +1314,13 @@ Turn to 119
 Turn to 142
 
 231
-You manage to turn the stricken ship back towards the Starport. As you do so you notice on the rear scanner an asteroid mining ship appear from behind the Asteroid Belt, and your Psychic Awareness registers the presence of a being with great powers of the mind, probably the Renegade Lord. You catch a thought, Golden Horde and then, self destruct. To your surprise the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? It takes all of your skill to land the under-powered Corsair ship which groans and shudders during re-entry but, thankfully, gains the safety of the Starport, after a very hard landing. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. Do you have a nuclear bomb? If you do, turn to 415. If you do not, turn to 306.
+
+You manage to turn the stricken ship back towards the Starport. As you do so you notice on the rear scanner an asteroid mining ship appear from behind the Asteroid Belt, and your Psychic Awareness registers the presence of a being with great powers of the mind, probably the Renegade Lord. You catch a thought, Golden Horde and then, self destruct. To your surprise the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? It takes all of your skill to land the under-powered Corsair ship which groans and shudders during re-entry but, thankfully, gains the safety of the Starport, after a very hard landing. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. Do you have a nuclear bomb?
+
+If you do,
+If you do not,
+Turn to 415
+Turn to 306
 
 232
 [score a G]
@@ -1315,7 +1336,13 @@ Turn to 5
 Turn to 18
 
 234
-You regain control for a moment but the Renegade Lord tries to subdue your will once again. Do you have a Psionic Damper? If you do, turn to 288. If you do not, turn to 282.
+
+You regain control for a moment but the Renegade Lord tries to subdue your will once again. Do you have a Psionic Damper?
+
+If you do,
+If you do not,
+Turn to 288
+Turn to 282
 
 235
 Cautiously you descend onto the ooze of the forest floor which is covered with rolling ferns. You cast around with your holo- detector for some time, picking your way across the treacherous ground. Within minutes you have scanned the area of the Timehole without finding anything more than a few giant, black centipedes, a metre long or more. As you return to Falcon's Wing your attention is caught when the surface of the swamp ripples slightly. You cannot see beneath the floating green scum, but decide to hurry the last few steps to the Access Hatch. Suddenly, the surface parts and huge jaws surge towards you. A fifty-foot prehistoric crocodile is lumbering towards you with startling pace. Will you:
@@ -1337,7 +1364,13 @@ Turn to 86
 
 237
 A nearby outcrop of rock proves to be a hologram. Lord Speke or another traveller in time is here. You walk through the hologram and see a Model B Time Machine, that of one of the human or humanoid Lords of TIME. From the markings you guess it to be that of Lord Speke and, surprisingly, he has left the Access Hatch on automatic, an extraordinarily careless mistake. You are drawn up into the machine and come to rest on the Access Disc. Lord Speke, dressed as a Macedonian soldier, is sitting in his crash couch, examining a Macedonian sword of unusually fine craftsmanship. He has not noticed you. The floor of his machine is strewn with maps, charts and texts in the languages of the period. There is a beautiful wooden display cabinet full of ancient Greek weapons, including a fine collection of swords which appear to be originals, showing no sign of age, as if they had been cast quite recently. His Molecular Converter has not been used recently, despite Speke's clothes. Then he looks up and sees you. You remove your helmet and he recognises you.
-'Falcon, you have caught me in the act,' he says despondently. He says he will give himself up and he explains that for some time he has been breaking the First Law of TIME and living as an ancient Greek. He has always been careful not to upset the Timelines seriously, but he knows he has been acting wrongly. His collection of ancient Greek weapons is authentic and he has even buried ancient artifacts in places where he could 'discover' them as archaeological finds in the 31st century. You look into his mind, with his consent, and see that it is all true - Speke is not the Renegade Lord. Tears run down his face as he realises his hobby is over. 'At least,' he says, 'I can say I saw the man whose people thought he was a god.' He asks you how you discovered him and you tell him about your mission. He is shocked by the news of a traitor Lord but offers a few words of advice. 'It is not likely to be either Pilota, or myself - we are both Earther stock and interference with Earth's past might mean that we had never existed!' You thank Speke, but feel obliged to order him to return to 3033 AD and give himself up. Downcast, he assents. You leave and return to Falcon's Wing to continue with your mission. Have you spoken with Special Agent Bloodhound since your mission began? If you have, turn to 338. If you have not, turn to 52.
+
+'Falcon, you have caught me in the act,' he says despondently. He says he will give himself up and he explains that for some time he has been breaking the First Law of TIME and living as an ancient Greek. He has always been careful not to upset the Timelines seriously, but he knows he has been acting wrongly. His collection of ancient Greek weapons is authentic and he has even buried ancient artifacts in places where he could 'discover' them as archaeological finds in the 31st century. You look into his mind, with his consent, and see that it is all true - Speke is not the Renegade Lord. Tears run down his face as he realises his hobby is over. 'At least,' he says, 'I can say I saw the man whose people thought he was a god.' He asks you how you discovered him and you tell him about your mission. He is shocked by the news of a traitor Lord but offers a few words of advice. 'It is not likely to be either Pilota, or myself - we are both Earther stock and interference with Earth's past might mean that we had never existed!' You thank Speke, but feel obliged to order him to return to 3033 AD and give himself up. Downcast, he assents. You leave and return to Falcon's Wing to continue with your mission. Have you spoken with Special Agent Bloodhound since your mission began?
+
+If you have,
+If you have not,
+Turn to 338
+Turn to 52
 
 238
 He ducks and the white-hot bolt of plasma scores a furrow in the shoulder of his Power Armour without penetrating. He fires another cutting streak from his laser rifle but his aim is slightly off, and he only catches you in the leg, though this almost parts company with your body - lose 8 Endurance points. You collapse to the floor. If you are still alive, turn to 277.
@@ -1487,7 +1520,10 @@ Turn to 261
 image-022.png
 You tell Bloodhound that the Phocian pirate guarding the nearest Corsair ship is under mind control. Bloodhound suggests that you look into this while he returns to Earth in 3033 AD, and reports to Yelov that he has successfully killed you, so that you can operate without fear of further trouble from your comrades. When he has done that, he will explore the Timelines and help you with your mission. You thank him. 'Good luck and look after yourself, my friend,' he calls, and with that he returns to his machine, Hunter, which winks out suddenly. You look towards the sleek Phocian ships and see the pirate enter one and seal the hatch. As you watch, the Corsair's Fusion Drive fires up and the ship hurtles out of the Starport, breaking the noise and launch regulations as it does so.
 
-If you wish to examine Yelov's file on CAIN's records, when you return to Falcon's Wing, turn to 15. You may look at Yelov's file whenever you are in your machine, but don't forget to remember the paragraph you are at before going to 15, as no further options are given there. When you are ready, do you:
+If you wish to examine Yelov's file on CAIN's records, when you return to Falcon's Wing,
+Turn to 15
+
+You may look at Yelov's file whenever you are in your machine, but don't forget to remember the paragraph you are at before going to 15, as no further options are given there. When you are ready, do you:
 
 Return to Falcon's Wing and follow Bloodhound in order to confront Agidy Yelov?
 Investigate the second Corsair ship?
@@ -1623,7 +1659,12 @@ You control the leader's mind and he calls his men back just before they strike 
 I he stricken hulk is a sitting duck, your computer is able to target your lasers automatically and you open fire. Twin laser pulses cut through space from your ship to the Phocian's. You can see parts breaking away from the hull in the dazzling red light of your lasers. Suddenly, the scanner screen lights up fiercely; you have scored a direct hit on his Power Plant and the Phocian has been vapourised with his ship. You can only hope that his descendants were not to be shapers of history and that changes in the Timelines will be small. You have, however, saved Korakiik, the Keladi envoy, and thwarted the Renegade Lord.
 You turn your ship back to the Starport. As you do so you notice on the rear scanner an asteroid mining ship appear from behind the Asteroid Belt, and your Psychic Awareness registers the presence of a being with great powers of the mind, probably the Renegade Lord. You catch a thought: Golden Horde and then,self destruct. To your surprise the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? You manage to land the Corsair back at the Starport without too much trouble. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship, just before it blew up. Whoever it was used their Time Machine to wink out to safety.
 
-Do you have a Thermo-nuclear device? If you do, turn to 415. If you do not, turn to 306.
+Do you have a Thermo-nuclear device?
+
+If you do,
+If you do not,
+Turn to 415
+Turn to 306
 
 277
 The assassin walks calmly towards you, his voice hissing through the air escape ducts in his armour, 'What a pity, Falcon you seem to have dropped your blaster.' You are in too much pain to concentrate your mental powers, and you realise as he places his laser-rifle in front of your face that he is going to finish the job. This is the first time I've completed a commission given to me by a Lord of TIME,' he hisses. As he gloats a security droid appears, hovering soundlessly behind him, and discharge, its stun-lance. The assassin is bathed in blue light and jerks back suddenly as the circuits in his Power Armour begin to short out Unable to control the armour, which is too heavy to be moved without the assistance of its power pack, he falls on the floor. body arched like a crab, as the armour begins to steam. Sparks fly, and the power pack explodes, ripping his body apart. You may never find out who sent him to kill you. The security droid checks your ID and you drag yourself to Falcon's Wing before it can summon a Medtech. Turn to 336.
@@ -1673,7 +1714,10 @@ Your attempt to control his will fails and you are cut down by sword and lance. 
 You instruct CAIN to turn on the Variac Drive to shift you into null-space and to re-engage the Drive as soon as you have finished inputting the navigational co-ordinates for the Timehole on present day Kelados (3033 AD). Your scalp tingles slightly as the Time Machine moves out of phase, and everything around you seems grey and insubstantial. You know that should you turn on the outside camera the screen would remain blank, not even blackness exists in null-space. You cast your thoughts into the void and,using your Psychic Awareness, locate the Timehole of present day Kelados. When you have translated this location into co-ordinates for CAIN, the Variac Drive engages once more. The process of re-emerging in real time is immediate, but seems to take about an hour for you. You may spend this time in the Autodoc, if you wish and gain up to 12 Endurance points.
 The feeling of disorientation when you rematerialise persists longer than is usual. Flipping the switch for the outside camera you are dismayed to see nothing in the floodlight but green fog The machine rocks gently as if the stabilising legs were malfunctioning. With a start you remember that the surface of Kelados is one great ocean. Your altimeter tells you that the machine is floating to the surface, the hull can easily withstand the pressure of water at your depth of fifty metres. CAIN sends a TIME recognition signal to a nearby research station.
 
-If you have seen a nuclear bomb, a man in golden armour named Iskander, or visited Spiro's Ringworld, turn to 300. If you have encountered none of these, turn to 264.
+If you have seen a nuclear bomb, a man in golden armour named Iskander, or visited Spiro's Ringworld,
+If you have encountered none of these,
+Turn to 300
+Turn to 264
 
 285
 Your Thinkstrike works. The hussar clutches his forehead and then tumbles gracefully from the saddle into the brook with a splash. As he lies there, spluttering, you seem to see an uncanny resemblance to the portraits of your early ancestors. An uneasy feeling comes over you as you spur your horse on, out of the hollow. Looking back you see the hussar emptying water out of his shako. Picking your way through the fog of battle you f i n a l l y come across Bloodhound again, who is pretending to fix the girth of his horse. Breathlessly, you tell him that you have detected the presence of a being with mental powers, probably the Renegade Lord. He suggests that you remain near Napoleon together and wait to see what happens. Turn to 82.
@@ -1848,7 +1892,8 @@ As unobtrusively as you can you wander through the camp, casting around with you
 [score a T]
 Knowing what must be done and hoping to make his death seem natural, you place a silken cushion over Ogedai's face and press down. His hands scrabble feebly at yours, but he is too weak to resist. The guards' wills seem to grow stronger, battling with yours, at the sight of you murdering their Khan. You must make another Power of Will Roll to see if you can maintain your control.
 
-If you score 7-12, turn to 329 - If you score 2-6, turn to 317
+If you score 7-12, turn to 329
+If you score 2-6, turn to 317
 
 310
 You concentrate on the mongol wearing the most armour. Make a Power of Will Roll.
@@ -1865,7 +1910,13 @@ If you score 4-6, turn to 127
 312
 [score a C]
 Since the Phocian is not in control of his own mind he is defenceless against your Thinkstrike and he starts to float unconscious, in his free-fall harness. You free him from the couch and tie him up with the harness before pushing his weightless body back into your ship. By the time he comes round you are on your way back to the starport. As you head back you notice, on the rear scanner, an asteroid mining ship appear from behind the Asteroid Belt, and your Psychic Awareness registers the presence of a being with great powers of the mind, probably the Renegade Lord. You catch a thought: Golden Horde and then, self destruct. To your surprise the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? Then you notice the Phocian coming round and you interrogate him. Your voice is mechanical, using the Universal Translator, and he readily informs you that his mind was taken over by a very alien and powerful mind, obviously neither Keladi, Phocian nor Earther. He had been instructed to destroy the envoy's vessel. He asks what is happening, but following the First Law of TIME, you ignore him.
-You land safely and leave the pirate Phocian tied up in the ship. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. CAIN informs you that you have made history here, but that his memory banks remain essentially unchanged. Do you have a nuclear bomb? If you do, turn to 415. If you do not, turn to 306.
+
+You land safely and leave the pirate Phocian tied up in the ship. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. CAIN informs you that you have made history here, but that his memory banks remain essentially unchanged. Do you have a nuclear bomb?
+
+If you do,
+If you do not,
+Turn to 415
+Turn to 306
 
 313
 You throw yourself towards Falcon's Wing. Luckily the fern before you is a hologram. Turning, you pull out your blaster, as the jaws snap shut inches from you. Turn to 326.
@@ -1918,8 +1969,10 @@ Turn to 209
 320
 CAIN links to the Eiger Vault Service Computer and reports that Lord Silvermane is leaving the Vault and heading for the hovrail embarkation point. Will you:
 
-Use your Time Machine and follow Lord Silvermane? Turn to 142
+Use your Time Machine and follow Lord Silvermane?
 If you prefer not to follow him, return to 336 and choose again.
+Turn to 142
+Turn to 336
 
 321
 You pick your way through the mass of soldiery towards the large white tent, and are tall enough to crane your neck and see the figure of Alexander, resplendent in golden armour with a battered helmet which sports a white crest. He is a short man, but very athletic, his curly reddish-blond hair framing a deter- mined face with piercing blue eyes. Nearby, a white-robed priest is fiddling with the entrails of a sheep. He looks towards Alexander whom he calls King Iskander and strongly advises him not to attack the town, saying that the omens are bad. The soldiers mutter, but Alexander replies, 'My business is to conquer cities. I do not have time to study the entrails of sheep. Leave me alone to finish my business.' Turning to his advisers he gives the word to prepare to storm the city. The army organises as if by magic, and siege ladders are brought forward on carts. There is still no sign of Speke and you are curtly ordered to join a phalanx of men near the city gates. Hoping not to be noticed, you take your place in one of the columns. Sensing that his men, war weary and far from home, are reluctant to storm another city after the bad omens, Alexander exhorts them to attack. They hesitate and he grabs a ladder and thrusts it against the wall. He scales it quickly, followed by his shield bearer and a member of his bodyguard, and is soon atop the wall. Seeing this, the Macedonians bring up ladders and crying, 'Iskander, Iskander!' they rush up the ladders, breaking them in their eagerness. Alexander, an obvious target, is pelted with missiles and jumps down inside the city, almost alone. Do you:
@@ -1947,7 +2000,13 @@ image-025.png
 You blast the doors of the ambulance away, but whoever was inside was ready for you. Two blasters open fire and you are hit and killed instantly. You may have no idea whether you have killed the Renegade Lord or not, but history has been changed and you have failed.
 
 325
-You suddenly find yourself locked in mental battle with a powerful alien will, the controller of the Phocian. It is too much for you to resist and you will be completely under its influence within seconds. Do you have a Psionic Damper? If you do, turn to 363. If you do not, turn to 371.
+
+You suddenly find yourself locked in mental battle with a powerful alien will, the controller of the Phocian. It is too much for you to resist and you will be completely under its influence within seconds. Do you have a Psionic Damper?
+
+If you do,
+If you do not,
+Turn to 363
+Turn to 371
 
 326
 At this range you can hardly miss the huge monster that is lunging at you. Make an Attack Roll.
@@ -1959,8 +2018,13 @@ You press the button and the red star clicks forward one line.
 The dials look like this:
 image-026.png
 Which button do you press next:
-The top button? The centre button? The bottom button?
-Turn to 402 to 358 Turn to 342
+
+The top button?
+The centre button?
+The bottom button?
+Turn to 402
+Turn to 358
+Turn to 342
 
 328
 Ripping the ambulance doors open reveals a bizarre sight, six creatures like giant ants, mandibles clicking in agitation, are backing into a honeycomb structure, their dull, red, compound eyes menacing. One collapses as the combined force of your Thinkstrike hits home. The honeycomb is on top of a flyer, similar in design to your own and you both throw yourselves back to the ground outside to avoid the Ion Drive exhaust as the flyer explodes from the front of the ambulance. You sense that the six Hiver beings who together are Lord Creche, the Renegade Lord, are flying back to their Time Machine, with one exception. The victim of your Thinkstrike had not reached his seat in the honeycomb. Toppling backward as the flyer took off, it was vapourised by the Ion Drive. Quickly you search the ambulance and find a small capsule. It is in Interstellar Code - a message from Agidy Yelov to the Creche suggesting that if the mission is aborted, they should effect a rendezvous on planet Hel. As quickly as you can, after checking that the Emperor's Imperial Guard are not advancing, you return to your Time Machine. Turn to 161.
@@ -2053,7 +2117,10 @@ Turn to 348
 340
 She laughs, 'That's ridiculous, are you insane? I asked you here to tell you that someone had been using the Central Library to investigate Earth history in 1241 AD, the time of the mongol hordes. Think again, Falcon. If Earth's past were changed, we Lastlanders would never have existed, or had you forgotten that we are Earther colonials? I don't know how you ever managed to pass the tests of the Academy. Escort Falcon back to the shuttle please, Remo.' Her assistant switches on his jet-pack and crashes into you while Pilota moves to the other rim. Two red dots appear ahead of you, growing in size until you recognise their security uniforms,'The guards obey Remo's instructions to return you to your shuttle or terminate you if you resist, and you decide to obey since you are at a severe disadvantage in free fall. Minutes later you are in the shuttle en route for the Eiger Vault once more and soon back in your Time Machine.
 
-If you have seen a man in golden armour called Iskander, turn to 114. If you have seen a Phocian pirate, turn to 34.
+If you have seen a man in golden armour called Iskander,
+If you have seen a Phocian pirate,
+Turn to 114
+Turn to 34
 
 If you have seen neither of these, do you:
 
@@ -2314,7 +2381,10 @@ If you score 2-6, turn to 345
 380
 You are forced backwards against the bulkhead behind you as your blaster discharges a bolt of superheated plasma. The Phocian appears to fuse into his free-fall couch, his body distorting horribly; the forward scanner screen is covered with a red film. You quickly leave the scene and return to your ship. You can only hope that his descendants were not to be shapers of history and that changes in the Timelines will be small. You have, however, saved Korakiik, the Keladi envoy and thwarted the Renegade Lord. You turn your ship back to the Starport. As you do so you notice, on the rear scanner, an asteroid mining ship appear from behind the Asteroid Belt and your Psychic Awareness registers the presence of a being with great power of the mind, probably the Renegade Lord. You catch a thought: Golden Hordes and then, self destruct. To your surprise, the mining ship blossoms into a flowering white light, like a star gone nova, as it explodes. Is the Renegade Lord dead, you wonder? You land safely at the Starport a little while later. Wasting no time, you run to Falcon's Wing before Starport Security come to question you. CAIN tells you that he registered a Variac Drive emission from the centre of the asteroid mining ship just before it blew up. Whoever it was used their Time Machine to wink out to safety. Do you have a nuclear bomb?
 
-If you do, turn to 415. If you do not, turn to 306.
+If you do,
+If you do not,
+Turn to 415
+Turn to 306
 
 381
 You walk along the edge of the forest towards the village; curls of smoke wind up from the holes in the roofs of the cottages and huts. As you approach it, your holo-detector picks up a hologram - a Time Machine has been disguised as trees. Your Psychic Awareness catches a thought as if you have discovered somebody doing something they shouldn't. Abort reconnaissance you sense next. There is a click and a hiss as of a hatch opening and closing and a group of nearby trees wink out abruptly. A metre-long metal canister rolls down from the bank on which the Time Machine had stood. You run towards it and recognise it as a nuclear bomb. The digits on the timer are ticking past, like an old-fashioned 20th century fruit machine. The symbols an foreign but you guess that all of the red stars will be in line within about thirty seconds. The nuclear device appears to be of standard design and is capable of destroying Vienna and most life-forms within twenty miles of this spot. This would change history beyond recognition. As you watch, another of the red stars clicks into place on the DETONATE line. The dials click forward one space at a time and when the middle star has clicked forward three times the three stars will be lined up on the DETONATE line and the bomb will explode. Each of the three dials has three buttons above it with which you can manually move the dials 1, 2 or 3 positions onward but you don't know which button is which. You press the buttons above the two dials whose stars are on the DETONATE line, but they are locked. You will have to move the star on the middle dial to the DISARM position without pressing a button that will make it stop on the DETONATE line. Which button do you press:
@@ -2347,8 +2417,11 @@ Turn to 230
 384
 You walk through the hologram and see a model B Time Machine, that of one of the human or humanoid Lords of TIME. From the markings you guess it to be that of Lord Speke and, surprisingly, you see that the Access Hatch has been left on automatic, an extraordinarily careless mistake. Will you:
 
-Enter Lord Speke's machine? Turn to 366
-Follow Lord Speke to the Greek encampment? Turn to 393
+Enter Lord Speke's machine?
+Turn to 366
+
+Follow Lord Speke to the Greek encampment?
+Turn to 393
 
 385
 You bring the soldier under your control and force him to discharge his musket through a crack in the ambulance's side planking. Bloodhound suddenly tenses, controlled by the Renegade Lord and, drawing his blaster, takes aim at you. You are about to dive onto the ground when the musket goes off and Bloodhound regains control of himself. You run up to the ambulance, but before you arrive the front explodes and a flyer accelerates out of it. Six beings like giant ants, their red, compound eyes glaring at you balefully, are clinging on inside the honeycomb-like seats. One of them appears to have been killed by a musket ball. You realise it is the Hivers, Lord Creche 82282. The Creche skim low through the smoke of the battlefield, almost faster than the eye can see, making a sonic boom like the explosion of a powder magazine, the ammunition stores for the cannon. As they go you catch the thought that they are heading for the planet Hel. Do you:
@@ -2402,8 +2475,11 @@ You reply calmly, 'No, you are not my prime suspect', your voice similarly disto
 It is difficult to tell under these conditions, but Pilota's dilated pupils suggest she may be using a mild relaxant drug. She continues, however, 'I noticed yesterday that somebody with a high Security Clearance has spent much time researching the history of Earth around the Timehole of 1241 AD. A very great deal of time, according to the Central Library tog.'
 Remo, Pilota's assistant intervenes, saying,'Lord Pilota has been under stress, the failed attempt to travel in the future...' He indicates that the audience is at an end. You thank Pilota for her help and return to the shuttle. Within thirty minutes you are back in front of the console of your Time Machine.
 
-If you have seen a man in golden armour called Iskander, turn to 114.
-If you have seen a Phocian pirate, turn to 34.
+If you have seen a man in golden armour called Iskander,
+Turn to 114
+
+If you have seen a Phocian pirate,
+Turn to 34
 
 If you have seen neither of these, do you:
 

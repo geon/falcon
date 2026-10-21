@@ -10,7 +10,13 @@ If you score 7-12, turn to 40
 Some hours later you are sitting in the Central Office of the Siriun Enforcement Agency. It seems that Sparrowhawk used her powers as a Special Agent of TIME to smuggle Yelov into the black solar racer, then she kidnapped you and forced you to take part in the mistaken belief that Yelov would be able to kill you. The ship which rescued Yelov was a high speed freighter controlled by CYBERNET, and Sparrowhawk followed it soon afterwards in a hijacked scoutship from the Siriun navy. The Siriun commissioner of Enforcers is very apologetic and ashamed that Sparrowhawk was able to beat his security so easily, but she was a trusted part of it. The Siriun navy tracked the course of her ship and the CYBERNET freighter and it is 97.797% likely that they are heading for the exile-planet Barbarossa. The Siriun commissioner places his fastest deep-space fighter at your disposal with which to follow them. As it is probable that they have a Time Machine on Barbarossa, you decide to travel to that dangerous planet. Turn to 9.
 
 4
-Yelov looks up and spots you just as you level your blaster at him. His reactions are like lightning and he spins back into the Control Room out of harm's way. You couldn't help noticing the hate and loathing in his eyes, the eyes of a madman. 'Curse you, Falcon, you have come to plague me again, but this time I will be revenged. I have changed the course of the Ark and even if you manage to redirect it, you will be marooned here forever!'With that he opens fire with his laser pistol, criss-crossing the entrance to the Control Room with streaks of ruby light, making it impossible for you to get in. A minute later you can see two large metal legs materialising in the room in front of you. You recognise them as belonging to a Model A3 Time Machine, the rest of it blocked from view by the small corridor. There is a shout of triumph from Yelov, but he keeps up his laser fire, delaying you further. Then he ceases. You charge in only to be greeted by the sight of the Time Machine phasing out again, disappearing into null-space. Add another X to your list. If you have eleven Xs, turn to 190. If not, turn to 26.
+
+Yelov looks up and spots you just as you level your blaster at him. His reactions are like lightning and he spins back into the Control Room out of harm's way. You couldn't help noticing the hate and loathing in his eyes, the eyes of a madman. 'Curse you, Falcon, you have come to plague me again, but this time I will be revenged. I have changed the course of the Ark and even if you manage to redirect it, you will be marooned here forever!'With that he opens fire with his laser pistol, criss-crossing the entrance to the Control Room with streaks of ruby light, making it impossible for you to get in. A minute later you can see two large metal legs materialising in the room in front of you. You recognise them as belonging to a Model A3 Time Machine, the rest of it blocked from view by the small corridor. There is a shout of triumph from Yelov, but he keeps up his laser fire, delaying you further. Then he ceases. You charge in only to be greeted by the sight of the Time Machine phasing out again, disappearing into null-space. Add another X to your list.
+
+If you have eleven Xs,
+If not,
+Turn to 190
+Turn to 26
 
 5
 The jetcar's airshield has been blown off and, standing up, you see Sparrowhawk squinting down the sights of a lightweight percussion rifle that could blow your head off at a thousand paces. She is dressed in a scarlet uniform similar to that of a hussar of Napoleonic times on Earth. Her long black hair is held up by a psionic damper circlet which you recognise as that given to Agidy Yelov by the Hivers when he conspired with the Renegade Lord to conquer the Federation. 'So you're in league with Yelov?' you ask.
@@ -40,10 +46,22 @@ END OF FILE
 Turn to 31.
 
 8
-You breathe a sigh of relief when the plexiform couch in your office moulds around your form. If you are wounded, you order 3 TIME medtech orderly to apply some field first aid to your wound, whilst you call your secretary, Ameena, for an update on the current situation. If you were wounded you may restore up to 2 lost Endurance points. If you went to 1194 BC, turn to 18. If you went to the timehole in space, turn to 42.
+
+You breathe a sigh of relief when the plexiform couch in your office moulds around your form. If you are wounded, you order 3 TIME medtech orderly to apply some field first aid to your wound, whilst you call your secretary, Ameena, for an update on the current situation. If you were wounded you may restore up to 2 lost Endurance points.
+
+If you went to 1194 BC,
+If you went to the timehole in space,
+Turn to 18
+Turn to 42
 
 9
-If you are to seek Yelov and Sparrowhawk on Barbarossa, a planet whose denizens make the criminals of the Earth jail, Chicago, look like volunteer Medtechs, you will need some support from your team of Special Agents. If the CYBERNET raid on a starport warehouse was successful, turn to 23. If not, turn to 29.
+
+If you are to seek Yelov and Sparrowhawk on Barbarossa, a planet whose denizens make the criminals of the Earth jail, Chicago, look like volunteer Medtechs, you will need some support from your team of Special Agents.
+
+If the CYBERNET raid on a starport warehouse was successful,
+If not,
+Turn to 23
+Turn to 29
 
 10
 Note down who you decide to send to the spaceport and to the timehole in space. You can send Chameleon and your new agent to one and Leopard and Sparrowhawk to the other. You also have time to pick up three of the Weptech items in your office for instance two of the grenades and one mini-laser. Refer back to paragraph 100 if you wish to re-read the description) before heading to the Eiger vault and Falcon's Wing, your Time Machine. Within half an hour you have issued your orders to your Speical Agents and are sitting in Falcon's Wing. You tell CAIN to set co-ordinates for the timehole in 1194 BC. There is a familiar tingle up your spine as you shift into null-space. Soon it is rematerialising in real space but nearly 4,000 years in the past. CAIN tells you he has disguised the ship with a hologram of a clump of trees, and switches on the external cameras. You are on a range of hills, looking down. On your left is a broad plain leading to the sea with sandy beaches. Set back from the beach and on your right is a hill on top of which lies an ancient city, its adobe walls bright in the sunlight. Between the city and the sea lies a raised mound with a tall pillar on top of it. Beached at the sea's edge are three rows of wooden ships with lateen sails, long and low. They have been there for some time, huts have been built around them and tents are stretched between them. The ships are surrounded by a wooden stockade with gates set in it at intervals. In the encampment are men and women going about their business, cooking and so on. At the furthest end of the encampment from you, a large group of men are playing dice or lying about, their armour and weapons by their side. This strikes you as odd, for near the pillared mound a battle is raging. Two lines of warriors face each other and sections join together to fight briefly, then draw back. The warriors wear bronze breastplates, greaves, and bronze crested helmets, many full faced with curving cheekguards. Their thighs seem unprotected. Most of them carry shields, swords and thrusting spears. Some are slingers and others archers. Some, generally nobles and their picked men, or so it seems, ride light chariots of wood and bronze, with sides of wickerwork. Each carries a driver and one other. Some fight from their chariots, others dismount to fight.
@@ -62,7 +80,7 @@ APPEARANCE: Classified Access Code ORANGE END OF FILE
 Turn to 31.
 
 12
-You hit the ground shoulder first and roll, losing your body's velocity and come to a stop, breathless and shaken but unhurt. You look up to see the Symbiont running on. Nobody is nearby so you aim your blaster and fire. Make an Attack R o l l .
+You hit the ground shoulder first and roll, losing your body's velocity and come to a stop, breathless and shaken but unhurt. You look up to see the Symbiont running on. Nobody is nearby so you aim your blaster and fire. Make an Attack Roll.
 If you score 2-6, turn to 24
 If you score 7-12, turn to 40
 
@@ -97,7 +115,11 @@ He staggers back momentarily, but your Thinkstrike has failed. He raises his las
 The Silver Dart rotates slowly as you try to dive towards the sun, but you are too slow. Horror fills you as you catch sight of the object hurtling towards your sail - it is a contact mine and you are powerless to stop it destroying your lightsail. The blast rocks the Silver Dart and it wrenches free from the debris of the sail, but you haven't enough fuel to escape the gravity of the giant sun. The ship accelerates until the hull begins to shudder. Your skin blisters and begins to smoke, then the heat shields overload and you are vapourised.
 
 18
-If you sent Agents Sparrowhawk and Leopard to the timehole in space, turn to 54. If you sent them to deal with the CYBERNET raid on the polybdenum warehouse, turn to 68.
+
+If you sent Agents Sparrowhawk and Leopard to the timehole in space,
+If you sent them to deal with the CYBERNET raid on the polybdenum warehouse,
+Turn to 54
+Turn to 68
 
 19
 Your plexiform couch moulds itself to the contours of your body as you enter your security clearance code THETA into the TIME Executive Computer. Will you:
@@ -110,7 +132,12 @@ Turn to 49
 Turn to 63
 
 20
-[Score an X] Concentrating your mental faculties, you hurl a blast of psychic power at the raging predatory mind of the Thaccoid. There is a moment's hesitation but it seems unhurt, either its mind is of too alien a nature or it is invulnerable to Thinkstriking. The Web is hurtling towards you and time is running out. Decide whether you will fire at the Thaccoid (turn to 352) or fire at the web itself (turn to 32), but subtract two from your Attack modifier for that attack only because you are hurried.
+[Score an X] Concentrating your mental faculties, you hurl a blast of psychic power at the raging predatory mind of the Thaccoid. There is a moment's hesitation but it seems unhurt, either its mind is of too alien a nature or it is invulnerable to Thinkstriking. The Web is hurtling towards you and time is running out. Decide whether you will fire at the Thaccoid or fire at the web itself, but subtract two from your Attack modifier for that attack only because you are hurried.
+
+Fire at the Thaccoid?
+Fire at the web itself?
+Turn to 352
+Turn to 32
 
 21
 Once you are crammed inside the cockpit of the solar racer, Sparrowhawk begins to explain. The authorities are just beginning to worry about you, Falcon. I controlled the mind of the Enforcers sent to collect you from the sterilisation dome and brought you here. Agent Leopard tried to stop me, he had a nasty accident.' She pauses to look around, then continues: 'As you can see, you are in a solar racer. You're going to take part in the Grand Prix tomorrow, Falcon, and so is Agidy Yelov. If you are skilful enough to survive the race Agidy will make sure you die. I'd kill you myself, but Agidy wants the pleasure. Your racer has as good a chance as any. Oh, yes ... I nearly forgot. The lascom unit doesn't work. You will be just another casualty of the most dangerous sport in the galaxy, burnt up in the dying sun, nobody will ever know what happened to Falcon, the saviour of Earth.' She activates the airlock and you are entombed in darkness. Turn to 79.
@@ -243,7 +270,11 @@ A bolt of plasma hurtles towards him and strikes the ground, inches from his fee
 Squirrel is insane - meeting the Symbiont was too much for her to take. So you must send your only remaining Agent, Chameleon, to track down the polybdenum stolen from the starport. You will have to travel alone. Your sojourn on the exile-planet, Barbarossa, is but brief. You land in a quiet corner of Smugglers port, but step into a cunningly disguised mantrap designed to catch Earther Enforcers. With no-one there to release you, a painful death claims you as metal spikes slowly but inexorably inch together through your stomach and back.
 
 42
-If you sent Sparrowhawk and Leopard to deal with the Cybernet raid on the polybdenum warehouse, turn to 140. If you sent them to the timehole in 1194 BC, turn to 152.
+
+If you sent Sparrowhawk and Leopard to deal with the Cybernet raid on the polybdenum warehouse,
+If you sent them to the timehole in 1194 BC,
+Turn to 140
+Turn to 152
 
 43
 Your blast slices through Sparrowhawk's legs as she spins to fire at you and she falls, lifeless, to the floor. Dark Star knocks Squirrel onto her back, but Chameleon finishes the job which Squirrel started and Dark Star breathes no more. You look past the scene of carnage to the Time Machine. Yelov and the Symbiont are being drawn up inside it together. You open fire but it is too late. Seconds later the machine dematerialises. Once more Agidy Yelov has slipped through your grasp. He has jumped to a different timehole. There is nothing you can do but dash back to Falcon's Wing and chase him across time and space. Squirrel is too badly wounded to accompany you - you will have to leave her behind. You lose no time and within minutes arrive safely back at the spaceport where Falcon's Wing awaits. Turn to 89.
@@ -259,7 +290,14 @@ Turn to 76
 Turn to 52
 
 45
-If you ordered the Ardann agent, Squirrel, to Troy, turn to 41. If not, she can track down the polybdenum from the starport. You order Chameleon to board an Earther navy ship which will dock with the Siriun craft and will carry you in orbit above the exile planet. Turn to 129.
+
+If you ordered the Ardann agent, Squirrel, to Troy,
+Turn to 41
+
+If not, she can track down the polybdenum from the starport.
+
+You order Chameleon to board an Earther navy ship which will dock with the Siriun craft and will carry you in orbit above the exile planet.
+Turn to 129
 
 46
 You are at the door of the hovcar when a stream of energy pulses slam into you. Your thigh, back and shoulder erupt with explosive force and the hovcar bursts into flames. Your battered body is hurled into it and you are burnt alive.
@@ -390,7 +428,13 @@ END OF FILE
 Turn to 53.
 
 60
-You roll aside as a streak of ruby light lances past you. Yelov curses and aims again. Just then a shape begins to materialise between you and him. It is a model A3. You recognise it as Yelov's stolen Time Machine. Yelov gives a shout of triumph, The Symbiont! At last.' As you move to open a line of sight between you and Yelov, he begins firing his laser pistol indiscriminately in your direction, forcing you to keep your head down. He continues firing wildly as he is drawn up into the Time Machine. Moments later, it dematerialises, phasing out into null-space. Add another X to your list. If you have reached eleven Xs, turn to 190. Otherwise turn to 26.
+
+You roll aside as a streak of ruby light lances past you. Yelov curses and aims again. Just then a shape begins to materialise between you and him. It is a model A3. You recognise it as Yelov's stolen Time Machine. Yelov gives a shout of triumph, The Symbiont! At last.' As you move to open a line of sight between you and Yelov, he begins firing his laser pistol indiscriminately in your direction, forcing you to keep your head down. He continues firing wildly as he is drawn up into the Time Machine. Moments later, it dematerialises, phasing out into null-space. Add another X to your list.
+
+If you have reached eleven Xs,
+Otherwise
+Turn to 190
+Turn to 26
 
 61
 As you settle into your new course and Sirius glows redly before you, one of the racers begins to drop back towards you. Will you:
@@ -463,7 +507,12 @@ Turn to 63.
 68
 A report on the polybdenum raid is flashed up on the screen for you. It seems the Dark Star and her pet led a team of CYBERNET agents on a raid about an hour ago. Dark Star used her teleportation powers to break into the warehouse, despite extensive security. About twenty CYBERNET agents, extensively equipped and well trained, an elite squad, raced into the warehouse. The Enforcer squad were overwhelmed and a battle ensued between the Dark Star and agents Sparrowhawk and Leopard. Leopard began to get the upper hand, stunning her pet, but the Dark Star teleported behind Leopard and blew his leg away. Leopard is currently undergoing repairs and will be operational again very soon, once his new bionic leg has been fitted. Sparrowhawk reports that she launched a powerful mental attack, but was repulsed by strong psychic defences. Interestingly, Leopard has left an unofficial message for you in which he says he felt Sparrowhawk did not try hard enough with the Dark Star. However, the official Enforcer report states she was responsible for getting several of their men out of the warehouse alive, and that she caused many casualties among the CYBERNET team. However the survivors escaped with twenty-four rods of polybdenum. Note down that the polybdenum raid was successful.
 
-If you sent Agent Chameleon and Agent Squirrel (Sosquilla) to the timehole in space, turn to 78 If you sent Agent Chameleon and Agent Blade (Yellowblades) to the timehole in space, turn to 88 If you sent Agent Chameleon and Agent Cobra (the Bounty Hunter) to the timehole in space, turn to 98
+If you sent Agent Chameleon and Agent Squirrel (Sosquilla) to the timehole in space,
+If you sent Agent Chameleon and Agent Blade (Yellowblades) to the timehole in space,
+If you sent Agent Chameleon and Agent Cobra (the Bounty Hunter) to the timehole in space,
+Turn to 78
+Turn to 88
+Turn to 98
 
 69
 FILE TIME EXECUTIVE Personnel File Library Security Access Code: THETA SUBJECT: Sydney, Harlo (Agent Lynx) POSITION: Agent First Class, Special Agent Section, TIME SPECIES: Earther Human BORN:
@@ -475,7 +524,13 @@ TIME Headquarters, Alpolis, Earth PERSONALITY Cool and efficient, quick-thinking
 Turn to 63.
 
 70
-You roll away to the side, but Yelov is too accurate. A streak of I ruby light lances into the side of your abdomen, burning a neat hole straight through your body, but cauterising the wound as it I does so. You gasp in agony. Lose 16 Endurance points. If you are still alive, Yelov laughs mockingly as he aims again. Just then a shape materialises between you and Yelov. You recognise Yelov's stolen Model A3 Time Machine. The Symbiont!' he cries, 'It is time to leave, but perhaps, Falcon, you will never make it back to your Time Machine before the Ark leaves this timehole!' With that he begins firing indiscriminately, forcing you to keep your head down whilst he is drawn up into the Model A3. Soon it dematerialises, phasing out into null-space. You stagger to your feet, fighting back the pain of your wound. Yelov has escaped again, indeed he almost killed you. Add another X to your list. If you have eleven Xs turn to 190. Otherwise, turn to 26.
+
+You roll away to the side, but Yelov is too accurate. A streak of I ruby light lances into the side of your abdomen, burning a neat hole straight through your body, but cauterising the wound as it I does so. You gasp in agony. Lose 16 Endurance points. If you are still alive, Yelov laughs mockingly as he aims again. Just then a shape materialises between you and Yelov. You recognise Yelov's stolen Model A3 Time Machine. The Symbiont!' he cries, 'It is time to leave, but perhaps, Falcon, you will never make it back to your Time Machine before the Ark leaves this timehole!' With that he begins firing indiscriminately, forcing you to keep your head down whilst he is drawn up into the Model A3. Soon it dematerialises, phasing out into null-space. You stagger to your feet, fighting back the pain of your wound. Yelov has escaped again, indeed he almost killed you. Add another X to your list.
+
+If you have eleven Xs
+Otherwise,
+Turn to 190
+Turn to 26
 
 71
 FILE TIME EXECUTIVE Personnel File Library Security Access Code: THETA SUBJECT:
@@ -545,7 +600,13 @@ If you score 2-6, turn to 104
 If you score 7-12, turn to 86
 
 77
-You order Cobra to track down the polybdenum from the starport and Chameleon to accompany you to Barbarossa, telling him to board an Earther navy ship which will dock with the Sirian craft carrying you in orbit above the exile planet. Cobra replies, 'Listen Section Chief, I've been hunting CYBERNET agents for years. I know Barbarossa. If the polybdenum is anywhere it's there. I can be of use, let me go with you.' If you confirm your order for Cobra to start his search from the Starport, turn to 129. If you deckle to let Cobra come to Barbarossa with you and Chameleon, turn to 115.
+
+You order Cobra to track down the polybdenum from the starport and Chameleon to accompany you to Barbarossa, telling him to board an Earther navy ship which will dock with the Sirian craft carrying you in orbit above the exile planet. Cobra replies, 'Listen Section Chief, I've been hunting CYBERNET agents for years. I know Barbarossa. If the polybdenum is anywhere it's there. I can be of use, let me go with you.'
+
+If you confirm your order for Cobra to start his search from the Starport,
+If you deckle to let Cobra come to Barbarossa with you and Chameleon,
+Turn to 129
+Turn to 115
 
 78
 Suddenly everything goes black before your eyes and you blink out of existence. It was as if you had never existed. Chameleon and Squirrel (Sosquilla) have failed to deal with whatever situation they found at the timehole in space and the past has been changed so that you were never born.
@@ -554,7 +615,12 @@ Suddenly everything goes black before your eyes and you blink out of existence. 
 As you wait in your dark tomb you turn over in your mind all you know about the sport of solar racing. The small vessel you are in will be towed to the start near the red giant, of a sun, Sirius, and set free with those of the other competitors at one tenth of light speed. Then you will have to jockey for position using the small amount of fissionable fuel carried in your solar racer and fly into the middle of a huge lightsail. When you have docked, with the enormous span of silver panels like a great spider's web in space, you will have turned your small ship into an immense sailing galleon, curving around terrifyingly close to the sun and then accelerating away towards Sirius Secundus once more, blown by the solar wind of photons or particles of light from the sun. If you sail too close to Sirius you will risk being enveloped in a solar flare, a tongue of burning hydrogen flung up from the surface of the sun thousands of miles into space which would reduce you to atoms. If you sail too faraway from the sun, it will take too long to make the orbit, the racer's neutron shields will overload and you will suffer a painful radiation death. If you fail to dock with a lightsail you will hurtle or to die in deep space for the racer does not carry enough fissionable fuel for a return to Sirius Secundus. Turn to 87.
 
 80
-You type in the most direct route to the M43 Cluster. immediately the computer flashes up a message on the screen: COURSE REJECTED ARK FUEL INSUFFICIENT Unable to maintain Ark systems after 750 years Add another X to the list. If you have now noted eleven Xs, turn 190. If not, return to paragraph 26 and choose again.
+You type in the most direct route to the M43 Cluster. immediately the computer flashes up a message on the screen: COURSE REJECTED ARK FUEL INSUFFICIENT Unable to maintain Ark systems after 750 years Add another X to the list.
+
+If you have now noted eleven Xs,
+If not, return to paragraph 26 and choose again.
+Turn to 190
+Turn to 26
 
 81
 The black-suited Siriun falls to the floor and his laser pistol skims across the glasteel towards you. Fielding it you aim at the medtech. She looks completely surprised and scared by the sudden violence and when you probe her mind using your Psychic Awareness, you can tell that she is entirely innocent Anxious to begin your search for Yelov you force her to let you out of the sterilisation dome, swearing her to secrecy. Turn to 251.
@@ -578,7 +644,13 @@ You instruct CAIN to set co-ordinates for the timehole on Earth in 1881 AD.
 You may lie in your Autodoc and regain up to 12 points of lost Endurance. Unfortunately the Autodoc in Falcon's Wing is specific to humanoids and if Chameleon is wounded, as an Illusion Master he will be unable to receive any treatment. Soon you have materialised on Earth and CAIN switches on the external cameras saying that Falcon's Wing has been disguised as a ramshackle disused barn. The view shows a town about a mile away, baking in the glare of a hot summer's day. The town consists of many wooden buildings, some grand, others simply dirty warehouses and stables. It looks odd to your eyes - all around it stretches an empty expanse of parched grass, as if the town has been dropped randomly from the skies. You are used to vast sprawling cities. An ancient-looking steam locomotive is puffing towards the town, following two iron rails. It is pulling several brightly painted carriages and dull dirty cattle wagons. You ask CAIN for an historical update. This is the town of Tombstone in the state of Arizona, in the United States of America, Falcon. In a month's time the famous"Gunfight at OK Corral" will be fought between the Earp gang and the Clanton gang. Virgil Earp is currently the Marshal of the town and will soon deputise his brothers Wyatt and Morgan, and Doc Holliday. No doubt you will have seen old 20th Century entertainment vids on the subject. I will run off some suitable clothing for you in the Molecular Convertor, including some of the local money, which may be of use to you. I advise against taking any hi-tech weapons, Falcon, as the danger of them being seen or falling into the hands of anyone in this time period is far more likely to force changes in the future than in most time-periods you have visited.' Turn to 179.
 
 85
-If you ordered the Ardann agent, Squirrel, to Troy she is insane - meeting the Symbiont was too much for her and Chameleon will be your only companion. You order him to board an Earther navy ship which will dock with the Siriun craft which is to carry you in orbit above the exile planet. Turn to 123. If you did not order Squirrel to Troy, she too can accompany you, turn to 139.
+
+If you ordered the Ardann agent, Squirrel, to Troy she is insane - meeting the Symbiont was too much for her and Chameleon will be your only companion.
+
+You order him to board an Earther navy ship which will dock with the Siriun craft which is to carry you in orbit above the exile planet.
+If you did not order Squirrel to Troy, she too can accompany you,
+Turn to 123
+Turn to 139
 
 86
 A lancing white bolt of superheated plasma takes the Thaccoid's leg at one of the chitinous joints. There is a burning flash, but somehow its leg withstands the plasma. However, the Thaccoid shrieks, scuttling back and its leg twitches reflexively, releasing its hold on you. You drop to the floor, gasping in pain as your environment Suit begins sealing itself. Wishing you had the same ability you turn to the Thaccoid ready to attack. Do you:
@@ -626,7 +698,12 @@ The medtech is completely startled by the appearance of the black-suited figure 
 92
 You type in the course. The computer flashes up a message after a second or two:
 
-COURSE REJECTED ARK FUEL INSUFFICIENT Slingshot acceleration insufficient Unable to maintain Ark systems after 600 years Add another X to the list. If you have now noted eleven Xs, turn to 190. If not, return to paragraph 26 and choose again.
+COURSE REJECTED ARK FUEL INSUFFICIENT Slingshot acceleration insufficient Unable to maintain Ark systems after 600 years Add another X to the list.
+
+If you have now noted eleven Xs,
+If not, return to paragraph 26 and choose again.
+Turn to 190
+Turn to 26
 
 93
 Desperately you turn towards the sun to avoid the death-dealing laser. Yelov must have had it fitted, for it can only be he who is cutting your sails to ribbons. Great sections of silver mesh shear away from the Silver Dart and plunge towards the sun. Yelov is still too far away to be affected by the powers of your mind and as he turns away towards space you realise you haven't enough fuel left to escape from the giant sun's gravity. The hull begins to shudder, your skin blisters, the heat shields overload and you are vapourised.
@@ -847,7 +924,13 @@ When the two ships have docked above the orange, gas-wreathed planet Barbarossa,
 Falcon's Wing rematerialises in its bay at the Eiger Vault. You step out and catch the hovrail to the centre of Alpolis and your office in the TIME building. Sitting in the hovrail car, the breathtaking panorama of the sprawling mega-city is spread below you. You are high above the city. After a half hour you arrive at the Alpolis terminus. From here you will have to take a lift to one of the lower levels and take a city hovrail car to the TIME building. Much to your disgust you find that the lift has just broken down. You will have to take the stairs. Turn to 138.
 
 131
-As you watch, the huge silver sail of the black racer begins to rotate. Its pilot, whoever it is in there, has given up the race. Instead, the black craft with red flames is heading straight for you. Suddenly a red beam unites it with the Silver Dart, the beam of a military laser. It has done little damage as yet at this range but the two ships are closing fast. If you have a Siriun Enforcer's laser pistol, turn to 105. Otherwise, turn to 93.
+
+As you watch, the huge silver sail of the black racer begins to rotate. Its pilot, whoever it is in there, has given up the race. Instead, the black craft with red flames is heading straight for you. Suddenly a red beam unites it with the Silver Dart, the beam of a military laser. It has done little damage as yet at this range but the two ships are closing fast.
+
+If you have a Siriun Enforcer's laser pistol,
+Otherwise,
+Turn to 105
+Turn to 93
 
 132
 Your mind reaches out in attempt to control the Thaccoid but all that you find is a single consuming thought - to kill and eat you. You find nothing to control although you do find some form of reasoning mind but its prime motive seems to be to eat and survive, no other considerations enter into its thought processes. It seems to understand what is happening however, for it conjures up images of yourself being devoured alive, screaming and kicking, by it. You draw back, horrified. Suddenly the Thaccoid whips up the two longest of its legs and, to your horror, you notice a silvery web stretched between them like a net. With a swift stabbing motion it whips its legs forward trying to trap you in the net-like web. Make an Evasion Roll as you try to dodge its attack.
@@ -937,7 +1020,13 @@ If you score 2-6, turn to 194
 If you score 7-12, turn to 208
 
 145
-Your fire slices through Sparrowhawk's legs and she falls lifeless to the floor. Chameleon's attack on Dark Star is similarly successful and you race past the scene of carnage into the warehouse. Sparrowhawk's dying act was to think a warning to Yelov, her lover, and you arrive to see the other Siriun, Yelov, and the Symbiont being drawn up inside the Time Machine together. You open fire but it is too late. Seconds later the machine dematerialises. Once more Agidy Yelov has slipped through your grasp. He has jumped to a different timehole. There is nothing you can do but dash back to Falcon's Wing and chase him across time and space. You lose no time and within minutes arrive safely back at the Spaceport where Falcon's Wing awaits. If you brought Cobra to Barbarossa, turn to 113. If not, turn to 89.
+
+Your fire slices through Sparrowhawk's legs and she falls lifeless to the floor. Chameleon's attack on Dark Star is similarly successful and you race past the scene of carnage into the warehouse. Sparrowhawk's dying act was to think a warning to Yelov, her lover, and you arrive to see the other Siriun, Yelov, and the Symbiont being drawn up inside the Time Machine together. You open fire but it is too late. Seconds later the machine dematerialises. Once more Agidy Yelov has slipped through your grasp. He has jumped to a different timehole. There is nothing you can do but dash back to Falcon's Wing and chase him across time and space. You lose no time and within minutes arrive safely back at the Spaceport where Falcon's Wing awaits.
+
+If you brought Cobra to Barbarossa,
+If not,
+Turn to 113
+Turn to 89
 
 146
 You whip out your Colt as fast as you can and all hell breaks loose. Chameleon drops to one knee and aims his rifle at the Symbiont. Yelov's speed is legendary and he beats you to the draw and fires, the sound reverberating like a thunderclap. You feel a hammer-like impact in your thigh and you are spun round. Lose 5 Endurance points. Desperately you turn to face your opponents as Yelov prepares to fire again. Your mind registers the fact that the Symbiont has not moved - Chameleon has dropped his rifle and is writhing on the ground in agony, a victim of the Ego Whip. Will you:
@@ -1082,7 +1171,13 @@ Turn to 187
 Yelov grunts in pain but he is strong willed and he manages to resist your Thinkstrike. You whip out your Colt as fast as you can and all hell breaks loose. Chameleon drops to one knee and aims his rifle at the Symbiont. Yelov's speed is legendary and he seats you to the draw and fires, the sound reverberating like a thunderclap. You feel a hammer-like impact in your leg and you are spun around. Lose 5 Endurance points. Your mind registers the fact that the Symbiont has not moved - Chameleon has dropped his rifle and is writhing on the ground in agony, a victim of the Ego Whip. Turn to 214.
 
 171
-Your fire slices through Sparrowhawk's legs and she falls lifeless to the floor. Chameleon's attack on Dark Star is similarly successful and you look past the scene of carnage to the Time Machine. Yelov and the Symbiont are being drawn up inside it together. You open fire but it is too late. Seconds later the machine dematerialises. Once more Agidy Yelov has slipped through your grasp. He has jumped to a different timehole. There is nothing you can do but dash back to Falcon's Wing and chase him across time and space. You lose no time and within minutes arrive safely back at the Spaceport where Falcon's Wing waits. If you brought Cobra to Barbarossa, turn to 113. If not, turn to 89.
+
+Your fire slices through Sparrowhawk's legs and she falls lifeless to the floor. Chameleon's attack on Dark Star is similarly successful and you look past the scene of carnage to the Time Machine. Yelov and the Symbiont are being drawn up inside it together. You open fire but it is too late. Seconds later the machine dematerialises. Once more Agidy Yelov has slipped through your grasp. He has jumped to a different timehole. There is nothing you can do but dash back to Falcon's Wing and chase him across time and space. You lose no time and within minutes arrive safely back at the Spaceport where Falcon's Wing waits.
+
+If you brought Cobra to Barbarossa,
+If not,
+Turn to 113
+Turn to 89
 
 172
 A bolt of white lightning streaks from your pistol. Shadows flicker and flare as the Engineering Deck is lit by the flash. But the stream of plasma hurtles past the thread to be lost in the vastness beyond. The Thaccoid brings its bloated body sac around, impossibly contorted, and produces from its end a thin stream of web-like thread, which hurtles towards you. Desperately you try to dive aside. Make an Evasion Roll.
@@ -1102,12 +1197,25 @@ The Silver Dart lances through space towards the second line of sails and the de
 Diomedes throws his head back and keels over, hitting the ground with a ringing crash. Diomedes' charioteer stares in amazement and Odysseus looks around for the slinger whom he believes to be responsible for this. A cry goes up amongst Diomedes' men: 'Diomedes is dead! Diomedes is dead!' and losing heart they begin to fall back. Odysseus stays to help Diomedes' charioteer. They lift the body of Diomedes into the chariot. Odysseus bravely fends off the revitalised attacks of the Trojans, but takes a spear thrust in his side. However, they manage to escape in their light, fast-moving chariot. The tide of battle is turning against the Achaeans now and they are being slowly forced back to their wooden ramparts. A large-looking warrior with a magnificent horsehair crest leads the Trojan assault, but a last-ditch defence focuses around another large Achaean warrior who carries a great shield, almost as large as he is, giving time for the Achaeans to fall back in order. Turn to 404.
 
 177
-Your Thinkstrike does not fell the Symbiont but it does free Chameleon from the Ego Whip which had held him helpless. you both open fire together. If you are using ultralasers, turn to 171. Otherwise make an Attack Roll.
+
+Your Thinkstrike does not fell the Symbiont but it does free Chameleon from the Ego Whip which had held him helpless. you both open fire together.
+
+If you are using ultralasers,
+Turn to 171
+
+Otherwise make an Attack Roll.
+
 If you score 8-12, turn to 171
 If you score 2-7, turn to 153
 
 178
-You slither over the wall as quickly as you can as another laser-shot drills into the wall beside you. The maintenance walkway is only five feet wide; looking down fills you with vertigo. Carefully you peer over the edge of the wall. A flash of light catches your eye up in the Communication Tower on Highway 1232. It is a reflection off a laser rifle. You can see your assassin but it is too far to make out his features. Unfortunately, he is out of effective range of your plasma pistol. It is also too far to target a hunter/seeker, if you have one. The man in the Tower fires again and you duck down, the laser beam boring into the wall. Suddenly there is an explosion and the stairwell is filled with a blinding flash. You recognise the effects of a portable laser cannon. You can hear the sound of pounding footsteps, another man is running up the stairs, presumably the wielder of the laser cannon. If you have a harpoon/grapple gun and wish to use it, turn to 188. Otherwise will you:
+
+You slither over the wall as quickly as you can as another laser-shot drills into the wall beside you. The maintenance walkway is only five feet wide; looking down fills you with vertigo. Carefully you peer over the edge of the wall. A flash of light catches your eye up in the Communication Tower on Highway 1232. It is a reflection off a laser rifle. You can see your assassin but it is too far to make out his features. Unfortunately, he is out of effective range of your plasma pistol. It is also too far to target a hunter/seeker, if you have one. The man in the Tower fires again and you duck down, the laser beam boring into the wall. Suddenly there is an explosion and the stairwell is filled with a blinding flash. You recognise the effects of a portable laser cannon. You can hear the sound of pounding footsteps, another man is running up the stairs, presumably the wielder of the laser cannon.
+
+If you have a harpoon/grapple gun and wish to use it,
+Turn to 188
+
+Otherwise will you:
 
 Stay where you are?
 Run across the maintenance walkway to the hospital?
@@ -1199,7 +1307,13 @@ Turn to 230
 As the lightsail looms towards you at frightening velocity you brake together and Pilota's craft cannons into your own before tearing through the flimsy lightsail and on into space. The hull of the Silver Dart has been cracked and the air seeps out to be replaced with vacuum at absolute zero temperature, -273°C. You are chilled to death before your body can be sucked out through the narrow crack.
 
 196
-[Score XX] All is quiet. If you have marked eleven or more Xs, turn to 190. Otherwise, turn to 200.
+
+[Score XX] All is quiet.
+
+If you have marked eleven or more Xs,
+Otherwise,
+Turn to 190
+Turn to 200
 
 197
 As soon as you probe the mind of one of the six identical Hivers, beings like giant black ants, you realise your mistake. Together they make up a group or Creche which share a mind-link. They have powers of the mind and you are locked in a battle of wills with all six of them as they try to dominate you. Make a Power of Will Roll.
@@ -1228,7 +1342,13 @@ Turn to 4
 Turn to 14
 
 201
-If you have not yet interviewed the Rigellian, you decide to talk to him next: turn to 137. If you have not yet interviewed Sosquilla, turn to 205. If you have already interviewed Yellowblades and Sosquilla, turn to 301.
+
+If you have not yet interviewed the Rigellian, you decide to talk to him next:
+If you have not yet interviewed Sosquilla,
+If you have already interviewed Yellowblades and Sosquilla,
+Turn to 137
+Turn to 205
+Turn to 301
 
 202
 Note down who you decide to send to Troy and to the space port. You can send Chameleon and your new agent to one and Leopard and Sparrowhawk to the other. You also have time to pick up three of the Weptech items in your office (for instance two of the grenades and one mini laser- refer back to paragraph 100 if you wish to re-read the description) before heading to the Eiger Vault and Falcon's Wing, your Time Machine. Within half an hour you have issued your orders to your Special Agents and are sitting in Falcon's Wing. You tell CAIN to set co-ordinates for the timehole in the Galactic fringe.
@@ -1394,7 +1514,13 @@ Turn to 239
 Turn to 245
 
 230
-You surge up and vault the trough, running as fast as you can for the sheds, whilst Cobra leans out of the cabin door and fires several times at the corner of the stables. You leap over the body of the Symbiont and reach the sheds without hindrance. You dart into one and take up a position by a shattered window, looking out at the stable opposite. You can see Yelov has moved from behind the corner of the stable. Then your eye is drawn by a sudden movement at the log cabin. Cobra suddenly slumps unconscious and Yelov appears from the cabin, his gun pointed at the old water trough, a malevolent grin on his face. He hesitates in surprise when he sees that you are no longer there. If you still have your Winchester, turn to 384. If not, turn to 392.
+
+You surge up and vault the trough, running as fast as you can for the sheds, whilst Cobra leans out of the cabin door and fires several times at the corner of the stables. You leap over the body of the Symbiont and reach the sheds without hindrance. You dart into one and take up a position by a shattered window, looking out at the stable opposite. You can see Yelov has moved from behind the corner of the stable. Then your eye is drawn by a sudden movement at the log cabin. Cobra suddenly slumps unconscious and Yelov appears from the cabin, his gun pointed at the old water trough, a malevolent grin on his face. He hesitates in surprise when he sees that you are no longer there.
+
+If you still have your Winchester,
+If not,
+Turn to 384
+Turn to 392
 
 231
 As soon as Chameleon opens the door and waddles into the warehouse, the two Siriuns and the Cybernet operatives are instantly alert, drawing their weapons. The Symbiont smiles and says in an unnatural, tired voice, 'Ah, food.' Chameleon suddenly clutches his three arms to his face. There is a frown of intense concentration on the Symbiont's face and Sparrowhawk is looking at him with ill-concealed revulsion. Will you:
@@ -1647,7 +1773,13 @@ Turn to 328
 Do not choose an option you have already tried.
 
 269
-Inside is an object nine inches across. The first thing that you notice is an eye surrounded by melted flesh, which looks unnervingly familiar. Underneath is melted circuitry and slightly scorched and floating in a sack of bloody fluid, is a raw human brain. Suddenly recognition overwhelms you. The eye is a bionic eye, the eye of Agent Leopard. If you have a nerve gas grenade and wish to use it, turn to 281. Alternatively you can:
+
+Inside is an object nine inches across. The first thing that you notice is an eye surrounded by melted flesh, which looks unnervingly familiar. Underneath is melted circuitry and slightly scorched and floating in a sack of bloody fluid, is a raw human brain. Suddenly recognition overwhelms you. The eye is a bionic eye, the eye of Agent Leopard.
+
+If you have a nerve gas grenade and wish to use it,
+Turn to 281
+
+Alternatively you can:
 
 Go for your blaster,
 Try to use your Power of Will on the Pilot,
@@ -1714,7 +1846,14 @@ If you score 2-5, turn to 256
 If you score 6-12, turn to 364
 
 279
-You wait outside in the disused hovrail tunnel as Chameleon makes pitiful burbling noises before turning back into the form of a human. The warehouse door opens and you are suddenly face to face with Dark Star and Sparrowhawk, both armed with blasters. Their first shot knocks Sosquilla onto her back. She is incapacitated, you will have to continue the mission without her. If you are using ultralasers, turn to 145. Otherwise, make an Attack Roll.
+
+You wait outside in the disused hovrail tunnel as Chameleon makes pitiful burbling noises before turning back into the form of a human. The warehouse door opens and you are suddenly face to face with Dark Star and Sparrowhawk, both armed with blasters. Their first shot knocks Sosquilla onto her back. She is incapacitated, you will have to continue the mission without her.
+
+If you are using ultralasers,
+Turn to 145
+
+Otherwise, make an Attack Roll.
+
 If you score 5-12, turn to 145
 If you score 2-4, turn to 153
 
@@ -1900,7 +2039,13 @@ Turn to 342
 You choose one of the nearest Barbarossi and, using your Psychic Awareness, probe his mind. He starts as he feels the touch of your thoughts, but is soon cowed by a veiled thought threat. He knows where two Siriuns have recently hidden a large container in a CYBERNET warehouse and you can read the location from his mind. You Thinkstrike him to stop him talking until you are well on your way and you leave with Chameleon and Blade before anyone realises anything is amiss. Turn to 409.
 
 310
-Which hunter/seeker will you use? If you use the Reptilian knock out drug, turn to 394. If you use the Insectoid one, turn to 402.
+
+Which hunter/seeker will you use?
+
+If you use the Reptilian knock out drug,
+If you use the Insectoid one,
+Turn to 394
+Turn to 402
 
 311
 The Bounty Hunter's voice is surprisingly soft but the tone is brusque. 'It's simple, I'm one of the best there is. I've been in situations that would have scared even you and I've won out. I've tangled with CYBERNET and lived. I can buy anything I want, but what I want, with all my heart, is to be a Special Agent.'
@@ -1945,7 +2090,13 @@ Turn to 403
 Turn to 413
 
 318
-[Score an X] You unleash a blast of superheated plasma at the bulkhead behind the Thaccoid. There is a blinding flash and a small hole appears in the wall. Instantly it is torn wide open by the force of the air in the Ark rushing out into the vacuum of space. There is a clicking cry of distress from the Thaccoid as it is lifted up and sucked towards the hole. You find yourself ripped off the ground by the escaping air hurtling after the Thaccoid. You watch horrified as it sweeps into space and then bursts like a ripe melon as the gases inside it rush out into open space. Black ichor and glistening grey viscera balloon outward into space. If you have the harpoon/grapple backpack, turn to 376. If not, turn to 386.
+
+[Score an X] You unleash a blast of superheated plasma at the bulkhead behind the Thaccoid. There is a blinding flash and a small hole appears in the wall. Instantly it is torn wide open by the force of the air in the Ark rushing out into the vacuum of space. There is a clicking cry of distress from the Thaccoid as it is lifted up and sucked towards the hole. You find yourself ripped off the ground by the escaping air hurtling after the Thaccoid. You watch horrified as it sweeps into space and then bursts like a ripe melon as the gases inside it rush out into open space. Black ichor and glistening grey viscera balloon outward into space.
+
+If you have the harpoon/grapple backpack,
+If not,
+Turn to 376
+Turn to 386
 
 319
 'Well, I see it mainly as a deterrent job. When we go into action we've gotta be seen to be good or too many people will be stealing machines and disappearing. Of course when-we're in another time we have to keep a low profile, but I've lain low as a stowaway often enough.'
@@ -2041,7 +2192,13 @@ Turn to 343
 Turn to 351
 
 336
-You surge up and vault the trough, running as fast as you can for the sheds, jumping over the body of the Symbiont. You reach them a few seconds later, safely. You dart into one and take up a position by a shattered window, looking out at the stable opposite. Yelov is not behind the stable corner anymore. Your eye is drawn to a movement in the log cabin, behind the water trough where you were moments ago. Yelov appears in the doorway, his gun pointed at the trough, a malevolent grin on his face. He hesitates in surprise when he sees that you are no longer there. If you still have your Winchester rifle, turn to 384, if not, turn to 392.
+
+You surge up and vault the trough, running as fast as you can for the sheds, jumping over the body of the Symbiont. You reach them a few seconds later, safely. You dart into one and take up a position by a shattered window, looking out at the stable opposite. Yelov is not behind the stable corner anymore. Your eye is drawn to a movement in the log cabin, behind the water trough where you were moments ago. Yelov appears in the doorway, his gun pointed at the trough, a malevolent grin on his face. He hesitates in surprise when he sees that you are no longer there.
+
+If you still have your Winchester rifle,
+If not,
+Turn to 384
+Turn to 392
 
 337
 As you walk into the chamber which is in fact a small white dome, your body is sluiced in jets of water. Next, there is a spoken command to close your eyes, which you do, followed by a flash that glows white even through your closed eyelids. When you open them you see that the outer layer of your skin has turned to a fine powdery white ash. You are sluiced once more and then the dome begins to fill with gas which is intended to sterilise your lungs. You detect the unpleasant smell of ammonia. Will you:
@@ -2244,7 +2401,14 @@ Turn to 328
 Do not choose an option you have chosen before.
 
 365
-You wait outside in the disused hovrail tunnel as Chameleon makes pitiful burbling noises before turning back into the form of a human. The warehouse door opens and you are suddenly face to face with Dark Star and Sparrowhawk, both armed with blasters. If you are using ultralasers, turn to 145. Otherwise make an Attack Roll.
+
+You wait outside in the disused hovrail tunnel as Chameleon makes pitiful burbling noises before turning back into the form of a human. The warehouse door opens and you are suddenly face to face with Dark Star and Sparrowhawk, both armed with blasters.
+
+If you are using ultralasers,
+Turn to 145
+
+Otherwise make an Attack Roll.
+
 If you score 2-6, turn to 153
 If you score 7-12, turn to 145
 
@@ -2293,7 +2457,14 @@ When you inform Sosquilla of your decision to make her a member of the TIME poli
 You aim your Peacemaker as carefully as you can, while Yelov looks uncertainly about. You squeeze the trigger and the pistol bucks and roars. It takes him in the chest and he gives a strangled cry of pain and slumps backwards into the cabin, his pistol firing harmlessly into the sky. You can see his booted feet protruding motionless from the doorway. Carefully, you approach him, ready for any tricks, but he makes no move. Looking down you can see that he is dead, you have shot him in the heart. You can hardly believe your eyes as you look down at his body. Finally, you have killed Yelov. The Federation will, at last, be safe from his depredations. An enormous sense of relief comes over you and you turn and walk out into the sun. You notice a pulpy mass, a purplish blob of protoplasm, some feet away from the body of the Symbiont. It is still and its outer edge is cracked and dry. It is the parasite from Hel, having crawled from its host body. It has dehydrated and died in the open sun. You notice that Coin Helm's face is peaceful and calm in death as it never was in life. You gather up the dead and wounded, leaving no trace that this gunfight ever occurred and return to the Eiger Vault, 3034 AD. Turn to 420.
 
 375
-You shoulder charge the door to the warehouse together and run in blasting. If you are using ultralasers, turn to 171. Otherwise, make an Attack Roll.
+
+You shoulder charge the door to the warehouse together and run in blasting.
+
+If you are using ultralasers,
+Turn to 171
+
+Otherwise, make an Attack Roll.
+
 If you score 6-12, turn to 171
 If you score 2-5, turn to 153
 
@@ -2449,7 +2620,16 @@ If you score 2-6, turn to 2
 If you score 7-12, turn to 12
 
 401
-Now that you have interviewed the three candidates you must make your choice. If you wish to consult a computer to examine their files, note down this paragraph number then turn to 53. Remember to return to this paragraph when you have finished with the files. When you have all the information you need and are ready to make your choice, turn to 411.
+
+Now that you have interviewed the three candidates you must make your choice.
+
+If you wish to consult a computer to examine their files, note down this paragraph number then
+Turn to 53
+
+Remember to return to this paragraph when you have finished with the files.
+
+When you have all the information you need and are ready to make your choice,
+Turn to 411
 
 402
 You aim and activate the hunter/seeker and toss it into the air. Cross it off your Agent Profile. It hovers for a moment, orientating itself on the Thaccoid and then, with a whirring hum, streaks towards it, slamming into its body sac with a wet slap. The Thaccoid hops back, rearing up on its back legs, threshing at the air in obvious pain. Then it drops to the ground and backs up. Then to your surprise it bounds forward and whips its two clawed front legs at you, trying to grab you again. It is obviously not seriously affected by the drug and you must try to avoid its attack, as you curse the research technicians of the weptech Section. Make an Evasion Roll.
@@ -2530,7 +2710,13 @@ You force him to turn and fire the laser cannon. It is a direct hit and the jetc
 The Silver Dart launches through space towards the second line of sails and the deep radar display shows that all of the other racers, with the exception of one, have docked with lightsails in the first row and have turned towards the sun, now bearing a two mile span of silver mesh with them, like space-faring Portuguese Men O'War. The exception is just ahead of you, the snub-nosed green racer of Greta Erikson, the navy pilot. You watch as she uses her retros to slow her down and docks with one of the sails. You manage to copy her and there is a grinding and a jolt as the nose of your ship slides into place in the hub of the sail, then you follow in Greta's wake, towards the great red orb of the sun. Turn to 299.
 
 418
-[Score an X] You twist aside, barely managing to fend off its fangs, which crash into the gridded floor. It rears up to strike once again at its trapped victim. If you have a mini-laser on your wrist, turn to 346. If not you can only try to avoid its fangs once again. Turn to 408.
+
+[Score an X] You twist aside, barely managing to fend off its fangs, which crash into the gridded floor. It rears up to strike once again at its trapped victim.
+
+If you have a mini-laser on your wrist,
+If not you can only try to avoid its fangs once again.
+Turn to 346
+Turn to 408
 
 419
 You lose time as the Silver Dart sways majestically out of the path of Lord Pilota's racer and out onto a higher orbit. You catch sight of the Clyss insectoid's racer which floats along in her wake as she corrects her course to fly the path that you would have flown. By the time you are on your new course two other racers have overtaken you and one of them seems to slacken speed, dropping back towards you. As the racer drops back towards you, you see it is black with red flames licking backwards from its nose as if Sirius itself has kindled it. Will you:

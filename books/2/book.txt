@@ -324,8 +324,8 @@ Turn to 379
 Did you destroy the dish-shaped radar beacon as soon as you left Falcon's Wing?
 If you did,
 If you did not,
-turn to 68
-turn to 80
+Turn to 68
+Turn to 80
 
 60
 As you wait the raildroid halts abruptly and then accelerates back towards you reaching about 100 mph in three seconds. It opens fire again with its high intensity particle disruptor. Make an Evasion Roll.
@@ -340,7 +340,13 @@ You regain the safety of Falcon's Wing, suffering no more than the mockery of so
 The pebbles beneath your feet start to shift but you keep your balance and duck the flying rock just in time before you fall onto your back. The huge boulder-like Thrix rolls towards you as the whole ground beneath you seems to turn to a palpitating mud- bath. In desperation you concentrate your mind and try to dominate the mind of the alien, using your Power of Will. Turn to 33.
 
 63
-You catch the knight's lance firmly in the centre of your shield and are jolted backwards. He drops the lance and begins to draw his sword. Will you step away from his plunging horse, turn to 139? or if you would prefer to attack him with your sword, you may make an Attack Roll. In this case:
+
+You catch the knight's lance firmly in the centre of your shield and are jolted backwards. He drops the lance and begins to draw his sword.
+
+Will you step away from his plunging horse,
+Turn to 139
+
+Or if you would prefer to attack him with your sword, you may make an Attack Roll. In this case:
 
 If you score 7-12, turn to 128
 If you score 2-6, turn to 51
@@ -358,7 +364,13 @@ If you score 5-12, turn to 194
 If you score 2-4, turn to 175
 
 66
-You are caught by the beam from the android's stunner and stagger, fighting to regain your senses. A man almost trips as he comes out of a hut labelled 'Gentlemen' and stands, swaying, his mouth open in surprise. The droid turns his stunner on him and he crumples to the ground, belching. You may use the moment's respite to climb the courtyard wall and cut the cable which leads to the telephone booth, turn to 188, or if you wish to use your blaster, make an Attack Roll.
+
+You are caught by the beam from the android's stunner and stagger, fighting to regain your senses. A man almost trips as he comes out of a hut labelled 'Gentlemen' and stands, swaying, his mouth open in surprise. The droid turns his stunner on him and he crumples to the ground, belching.
+
+You may use the moment's respite to climb the courtyard wall and cut the cable which leads to the telephone booth,
+Turn to 188
+
+Or if you wish to use your blaster, make an Attack Roll.
 
 If you score 4-12, turn to 92
 If you score 2-3, turn to 101
@@ -370,13 +382,29 @@ You dive for the shelter of the rock outcropping but you have misjudged the stre
 You tell them that you have useful information to be analysed at the Eiger Vault and agree to leave Mechanon before you are all destroyed. The Time Machines of Bloodhound and Lynx are not far from Falcon's Wing; you make your way back at a run. Your combined firepower is enough to dispose of the two wardroids which cross your path, but Bloodhound is wounded when you are 'buzzed' by three strafing Atmospheric Interceptors. The three Time Machines wink out together and you head straight for your Autodoc for a relaxant and to recuperate. You may restore up to 12 points of lost Endurance points. Turn to 91.
 
 69
-Your fusion beam flashes past the missile but lances into the missile base, destroying it totally. Its last missile is almost upon you - your hand whips out to the ECM controls, but it is too late. the missile completely fills the scanner screen as it hits you head on and there is a great blast that rocks the ship, stopping it almost dead in its tracks. Lose 2 points of Shields or 3 points of Armour. If your ship's defences are at zero or below all of the circuits overload, turn to 276. If they are not, you accelerate away. Turn to 20.
+
+Your fusion beam flashes past the missile but lances into the missile base, destroying it totally. Its last missile is almost upon you - your hand whips out to the ECM controls, but it is too late. the missile completely fills the scanner screen as it hits you head on and there is a great blast that rocks the ship, stopping it almost dead in its tracks. Lose 2 points of Shields or 3 points of Armour.
+
+If your ship's defences are at zero or below all of the circuits overload,
+If they are not, you accelerate away.
+Turn to 276
+Turn to 20
 
 70
-The sound of the Strike Fighter's drive is deafening inside the huge tunnel which echoes the whining scream of the Interceptors. The Battle computer has failed to target your aft lasers and your defences are taking a battering. Lose 2 Shields or 3 Armour from your ship defence points. If they are at zero or below, turn to 90. Otherwise, turn to 109.
+
+The sound of the Strike Fighter's drive is deafening inside the huge tunnel which echoes the whining scream of the Interceptors. The Battle computer has failed to target your aft lasers and your defences are taking a battering. Lose 2 Shields or 3 Armour from your ship defence points.
+
+If they are at zero or below,
+Otherwise,
+Turn to 90
+Turn to 109
 
 71
-If you blasted your way through the communications vault, turn to 207. If you blasted your way through the Main Access portal or used the code to come through it, turn to 231.
+
+If you blasted your way through the communications vault,
+If you blasted your way through the Main Access portal or used the code to come through it,
+Turn to 207
+Turn to 231
 
 72
 You duck into the new tunnel and run on. It leads to an electronic communications networking centre. You decide to investigate as two flying droids appear in the tunnel behind you. Turn to 404.
@@ -408,7 +436,13 @@ Turn to 64
 Turn to 50
 
 77
-You dodge the stun-blast and the android is fiddling with the strange device once more. Will you climb the courtyard walls and cut the cable which leads to the telephone booth, turn to 188? or if you wish to use your blaster, make an Attack Roll.
+
+You dodge the stun-blast and the android is fiddling with the strange device once more.
+
+Will you climb the courtyard walls and cut the cable which leads to the telephone booth,
+Turn to 188
+
+Or if you wish to use your blaster, make an Attack Roll.
 
 If you score 4-12, turn to 92
 If you score 2-3, turn to 101
@@ -533,7 +567,13 @@ Before you have time to fire your blaster the android fires again and you fall s
 
 102
 As soon as you arrive back in the Eiger Vault CAIN tells you that Jobanque is waiting in the research section to debrief you. With Bloodhound and Lynx you walk briskly to meet him. He is in the office of the head of the research section of TIME, Skirrow, the man who, in his younger days as a space rover, discovered Planet Hel and Skirrow's World. He is a stocky man with red gold hair and he welcomes you cordially. You make a full report to Jobanque who nods pensively throughout. Then he looks you in the eye and asks you if you appreciate that CAIN alone cost more than the medical welfare of twenty million people. You reply that of course you appreciate the cost, but that there was little time in which to think. 'Very well, let's see what information you have brought back at such cost,' says Jobanque brusquely. Skirrow takes your Universal Interface to un scramble the information it now holds. By the time you have finished telling your story of the horrors of Mechanon, a story which Lynx and Bloodhound confirm, Skirrow has returned with a holo-readout. He confers with Jobanque and they swiftly reach agreement as to the next course of action. Skirrow tells you that you have successfully tapped the data-banks of the Command Computer on Mechanon. 'It is named after Zordekai, the Danikoi who designed it. It seems that, since you have stopped Yelov and the wardroids moving through time to attack the Space Federation in 3033 AD, they are planning to attack Earth, using starship droids, in 1986 AD.'
-Jobanque says, 'You, and you alone, must stop them before they take off, Falcon. Skirrow will explain why you must go on without support.' You follow Skirrow to the top secret research laboratory, which is in total darkness. If you have changed history at Crecy to the extent that the inventor of deflector shields never lived, turn to 130. Otherwise, turn to 119.
+
+Jobanque says, 'You, and you alone, must stop them before they take off, Falcon. Skirrow will explain why you must go on without support.' You follow Skirrow to the top secret research laboratory, which is in total darkness.
+
+If you have changed history at Crecy to the extent that the inventor of deflector shields never lived,
+Otherwise,
+Turn to 130
+Turn to 119
 
 103
 image-020.png
@@ -615,7 +655,13 @@ You stare mesmerised at the controls. 'It's all colour coded,' says Skirrow. 'Yo
 Jobanque says, 'She's all yours, Falcon. Use her to destroy the CentralComputer on Mechanon before the war-fleet blasts off. Our information is that the Central Command Computer can be found within the section you penetrated earlier, but deeper within. It will take us several hours to complete tests on the Variac Drive. We can fit her with Zeiss deflector shields instead of her armour, or leave the Titanium hull in place. It's your decision.' You make your decision. Note whether or not your Strike Fighter has shields or hull armour on your agent profile. Turn to 143.
 
 120
-Have you destroyed the rack of Polybdenum rods? If you have, turn to 131. If you have not, turn to 141.
+
+Have you destroyed the rack of Polybdenum rods?
+
+If you have,
+If you have not,
+Turn to 131
+Turn to 141
 
 121
 You manage to dominate the will of the Disputer, but the others sense what you are doing and shun you. Controlling one mind on the free world of Danikos, which needs no enforcers or weapons, will not help you. They file out one by one. There is nothing that you can do now which will stop the Danikoi using time travel to mould history to their own decadent whims. Suddenly, everything goes dark. The Danikoi have changed history and it is as if you and the Space Federation had never existed.
@@ -780,7 +826,13 @@ If you score 2-6, turn to 183
 You blast just in time, hitting the power plant of the wardroid. Your faceplate reacts instantly, cutting in the flash damper, and it darkens as a bright explosion lights up the interior of the machinery of the refining plant. Carborundum is not so lucky. The armour-piercing missile shatters his rocky shell, pouring molten copper into his sound chambers which then explode. A terrible keening fills the air as the Thrix dies and the sonic vibrations crack your faceplate. The acid gas of the Thrixian atmosphere invades your suit and you die horribly as it dissolves your eyes and face. You have failed.
 
 147
-You hurtle downwards, at a 90 degree angle to the ground, trying to pass between the two flaring balls of plasma, but you have misjudged it and one of them slams into your forward hull, engulfing your ship in boiling plasma. Lose 2 Shield defence points or 1 Armour point. If your ship's defences have fallen below zero turn to 90. If you have survived, the ship bucks wildly but the gyros, whining shrilly, manage to right it. The plasma dissipates. You engage the booster thruster and surge forward over the fortress, but a missile launcher has been tracking you and three sleek and deadly dart-shaped missiles fly from the launchers. Turning in unison, they streak towards you, hot on your trail, and closing fast, only metres away. Will you:
+
+You hurtle downwards, at a 90 degree angle to the ground, trying to pass between the two flaring balls of plasma, but you have misjudged it and one of them slams into your forward hull, engulfing your ship in boiling plasma. Lose 2 Shield defence points or 1 Armour point.
+
+If your ship's defences have fallen below zero
+Turn to 90
+
+If you have survived, the ship bucks wildly but the gyros, whining shrilly, manage to right it. The plasma dissipates. You engage the booster thruster and surge forward over the fortress, but a missile launcher has been tracking you and three sleek and deadly dart-shaped missiles fly from the launchers. Turning in unison, they streak towards you, hot on your trail, and closing fast, only metres away. Will you:
 
 Use your electronic counter measures?
 Try to pick them off with your aft lasers?
@@ -800,7 +852,13 @@ The French knight can do nothing but surrender in the hope that he will be ranso
 
 150
 You run out of time before you have trained the lasers onto their target. The image of the missile completely fills the rear scanner screen as it hits you. There is a sickening lurch and a horrifying explosion, but you cannot believe it when, a second later, you are still alive. Evidently the defences of your Weeks/Senior Strike Fighter almost defy belief. The Atmospheric Interceptors fly through the blast and are destroyed.
-I here is damage, however. You have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour. If your ship's defences are at zero or below, all of the circuits overload, turn to 276. If you are above this figure, turn to 28.
+
+I here is damage, however. You have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour.
+
+If your ship's defences are at zero or below, all of the circuits overload,
+If you are above this figure,
+Turn to 276
+Turn to 28
 
 151
 This act of bravery is your last and it does nothing to save the , population of Earth in 1986 AD. The planet killer will obliterate them all tomorrow but the fighters have breached your ship's defences and you are consumed with your Strike Fighter in a great ball of flame.
@@ -889,7 +947,11 @@ The missile is protected against your ECM and it comes steadily on as you scream
 
 165
 The lasers of two of the interceptor droids play havoc with the control surfaces of your Flyer and you can only switch to reverse thrust as you speed towards the ground, out of control. Sparks fly as you hit the metal floor of the huge complex and the flyer skids at breakneck speed into a bank of machinery. The crash-couch webbing absorbs much of the impact but the whiplash is severe and you have broken a collar bone. Lose 8 Endurance points. If you are still alive, you extricate yourself from the mangled ruin of your Flyer and look around. The interceptors climbed steeply at the last moment to avoid the complex. You have lost them. The rim of the hangar boasts great space-artillery pieces like the cavernous maw of a prehistoric monster. The inside of the building stretches into the distance, like a giant hovrail tunnel. To your left a much smaller access tunnel, perhaps thirty metres wide, stretches for a hundred metres, towards an illuminated display board. Will you:
-Run down the access tunnel? Turn to 280 Continue on down the main tunnel? Turn to 256
+
+Run down the access tunnel?
+Continue on down the main tunnel?
+Turn to 280
+Turn to 256
 
 166
 Whilst you have been on Mechanon, a nuclear holocaust has ravaged Earth in 1986 AD. The nuclear winter caused by the dust which was flung into Earth's atmosphere was so severe that the whole world was covered in ice. Mankind was wiped out and you never existed. You have failed.
@@ -923,7 +985,13 @@ If you score 1-3, turn to 154
 If you score 4-6, turn to 182
 
 171
-The interceptor is nimble and it swerves just enough to cause your fission beams to miss before gunning its pulse lasers into you. If your Strike Fighter carries Zeiss Deflector Shields they withstand the pulse laser, unharmed. If not your Titanium Hull Armour has taken 1 point of damage. If your Hull Armour is at zero points, turn to 208. If not, you manage to bring the interceptor into your sights once again. Turn to 159.
+
+The interceptor is nimble and it swerves just enough to cause your fission beams to miss before gunning its pulse lasers into you. If your Strike Fighter carries Zeiss Deflector Shields they withstand the pulse laser, unharmed. If not your Titanium Hull Armour has taken 1 point of damage.
+
+If your Hull Armour is at zero points,
+If not, you manage to bring the interceptor into your sights once again.
+Turn to 208
+Turn to 159
 
 172
 They are very close behind you. Will the ECM make any difference you consider as you jab the button? Make an Attack Roll.
@@ -938,7 +1006,13 @@ If you score 6-12, turn to 187
 If you score 2-5, turn to 44
 
 174
-It is more difficult to dodge in the battlesuit than without it and the grab latches onto you, the four metal plates of its claw each as large as you. It crushes you and even your armoured power suit begins to buckle. Subtract 2 from your battlesuit armour points and 4 Endurance points as your ribs crack in several places. If your battlesuit armour is at zero or less, turn to 161. If not, and you are still alive, luckily you have your arms free and you blast the grab with your disruptor and fall to your feet as it crumbles to dust. You must try to dodge again - Yelov has wrenched a huge girder from the floor with his bionic arm and is swinging its end at you. Make an Evasion Roll.
+
+It is more difficult to dodge in the battlesuit than without it and the grab latches onto you, the four metal plates of its claw each as large as you. It crushes you and even your armoured power suit begins to buckle. Subtract 2 from your battlesuit armour points and 4 Endurance points as your ribs crack in several places.
+
+If your battlesuit armour is at zero or less,
+Turn to 161
+
+If not, and you are still alive, luckily you have your arms free and you blast the grab with your disruptor and fall to your feet as it crumbles to dust. You must try to dodge again - Yelov has wrenched a huge girder from the floor with his bionic arm and is swinging its end at you. Make an Evasion Roll.
 
 If you score 6-12, turn to 93
 If you score 2-5, turn to 108
@@ -951,7 +1025,8 @@ You seize a part of the twisted rack and hurl it at Yelov, before sprinting off 
 
 Blast at one of them?
 Turn the temperature control on your suit to freezing?
-Turn to 186 Turn to 198
+Turn to 186
+Turn to 198
 
 177
 You move to a new point on the grid, but it is not far enough away from Mechanon. The atomic mine arrives at the same instant as you and hits your Strike Fighter, obliterating you.
@@ -998,7 +1073,13 @@ If you score 2-5, turn to 29
 
 
 185
-Your ship swamps the missiles with electronic jamming signals and they all explode simultaneously. They were too close and your ship rocks with the force of the blast. Lose 1 Shield point or 2 Armour points. If your ship's defences have fallen below zero, turn to 276. If you have survived, you leave the fortress far behind. Turn to 71.
+
+Your ship swamps the missiles with electronic jamming signals and they all explode simultaneously. They were too close and your ship rocks with the force of the blast. Lose 1 Shield point or 2 Armour points.
+
+If your ship's defences have fallen below zero,
+If you have survived, you leave the fortress far behind.
+Turn to 276
+Turn to 71
 
 186
 Your first shot misses but the wardroids sense it and turn to attack you from either side. You will be lucky to survive the onslaught of their powerful weaponry. Make a Chance Roll.
@@ -1035,7 +1116,13 @@ Turn to 334
 You move to a new point on the grid, but it is not far enough away from Mechanon. The atomic mine arrives at the same instant as you and hits your Strike Fighter, obliterating you.
 
 191
-Yelov misses you with the plasma pistol, but he rushes you with a speed that shows that both of his legs are bionic. He is having himself transformed into a walking death machine. He punches you with his bionic arm which is twenty times as powerful as any man's. You hurtle backwards and smash into a computer terminal. Subtract 1 from your Suit Armour. If your armour is at zero or less, turn to 161. Otherwise, the computer screams at Yelov not to hurt it as you leap up and drive your powered fist towards Yelov's face. Make an Attack Roll.
+
+Yelov misses you with the plasma pistol, but he rushes you with a speed that shows that both of his legs are bionic. He is having himself transformed into a walking death machine. He punches you with his bionic arm which is twenty times as powerful as any man's. You hurtle backwards and smash into a computer terminal. Subtract 1 from your Suit Armour.
+
+If your armour is at zero or less,
+Turn to 161
+
+Otherwise, the computer screams at Yelov not to hurt it as you leap up and drive your powered fist towards Yelov's face. Make an Attack Roll.
 
 If you score 7-12, turn to 52
 If you score 2-6, turn to 152
@@ -1115,7 +1202,7 @@ There is a great ringing of steel, and sparks fly as the swords of Count Louis a
 Use your Power of Will on the Black Knight?
 Attack the Black Knight with your sword?
 Use your blaster on the Black Knight?
-turn to 213
+Turn to 213
 Turn to 226
 Turn to 235
 
@@ -1188,10 +1275,22 @@ Turn to 226
 Turn to 235
 
 214
-Yelov's plasma pistol rips into your battlesuit, twisting and rupturing its armour, and you lose 10 Endurance points as the plasma gets through to your midriff. If you are still alive, you recover, but the speed with which Yelov now rushes you shows that both of his legs are bionic. He is having himself transformed into a walking death machine. He punches you with his bionic arm which is twenty times as powerful as any man's. You hurtle backwards and smash into a computer terminal. Subtract \ from your Suit Armour. If your armour is at zero or less, turn to 161. Otherwise, the computer screams at Yelov not to hurt it. Turn to 56.
+
+Yelov's plasma pistol rips into your battlesuit, twisting and rupturing its armour, and you lose 10 Endurance points as the plasma gets through to your midriff. If you are still alive, you recover, but the speed with which Yelov now rushes you shows that both of his legs are bionic. He is having himself transformed into a walking death machine. He punches you with his bionic arm which is twenty times as powerful as any man's. You hurtle backwards and smash into a computer terminal. Subtract \ from your Suit Armour.
+
+If your armour is at zero or less,
+Otherwise, the computer screams at Yelov not to hurt it.
+Turn to 161
+Turn to 56
 
 215
-Desperately you target the lasers and let fly. You slice two in half and they fall harmlessly away, but try as you might, you are unable to hit the other one and it slams into the underside of your ship and explodes. Lose 1 Shield point or 2 Armour points. If your ship's defences have fallen below zero, turn to 276. If you have survived, your ship rocks upward but the gyros right it, and you flash onward past the fortress, lucky to be alive. Turn to 71.
+
+Desperately you target the lasers and let fly. You slice two in half and they fall harmlessly away, but try as you might, you are unable to hit the other one and it slams into the underside of your ship and explodes. Lose 1 Shield point or 2 Armour points.
+
+If your ship's defences have fallen below zero,
+If you have survived, your ship rocks upward but the gyros right it, and you flash onward past the fortress, lucky to be alive.
+Turn to 276
+Turn to 71
 
 216
 You regain the safety of Falcon's Wing, suffering no more than the mockery of some camp followers who think that you are fleeing the battle in fear. CAIN tells you that his scanners registered the fact that the Black Knight was a droid from Mechanon, and that it must have been programmed to kill Sir Thomas Chandos who is probably your ancestor. 'Be careful, Falcon, Yelov is trying to kill you.' If you didn't know that electronic brains are not programmed to register emotion, CAIN's tone would have you believe he was worried on your behalf. You can see on the console screen that the English are losing the battle, but it is too late for you to do anything about it. You ask CAIN to evaluate the extent to which history has been changed. CAIN purrs quietly for some moments before reporting that, whilst the Black Prince lives, most of the French leaders have been killed, with the exception of Count Louis de Nevers who will now kill the ancestor of the man who invented the energy deflector shields for Federation warships, at the battle of Poitiers. Note down on your Adventure Sheet that Count Louis survived the battle of Crecy and Zeiss, the inventor of deflector shields, never lived. Luckily, King Edward will still manage to take Calais from the French and the changes of history will largely be cancelled out by the awful plague, the Black Death, that will sweep Europe in two years' time. Turn to 294.
@@ -1280,7 +1379,11 @@ Turn to 320
 
 230
 Desperately you target the lasers and let fly. You slice one in two and it falls harmlessly away, but try as you might, you are unable to hit the other two and they slam into the underside of your ship, exploding simultaneously. Lose 2 Shield points or 3 Armour points.
-If your ship's defences have fallen below zero, turn to 276. If you have survived, your ship rocks upward but the gyros right it and you flash onward past the fortress, lucky to be alive. Turn to 71.
+
+If your ship's defences have fallen below zero,
+If you have survived, your ship rocks upward but the gyros right it and you flash onward past the fortress, lucky to be alive.
+Turn to 276
+Turn to 71
 
 231
 You are at a T-junction. The tunnel continues straight ahead and another branches off to the right. You can see something blue glowing at its end. Will you:
@@ -1433,7 +1536,11 @@ Turn to 289
 
 257
 image-029.png
-If you have not landed on Earth in 1986, then turn to 166. If you have, read on. As the yawning mouth of the hangar entrance looms towards you, you slow down to decide how to enter the complex. Suddenly a missile as large as your Strike Fighter flashes out of the dark opening. It is so close you can actually . make out a huge array of electronic sensors at its tip. Will you:
+
+If you have not landed on Earth in 1986, then
+Turn to 166
+
+If you have, read on. As the yawning mouth of the hangar entrance looms towards you, you slow down to decide how to enter the complex. Suddenly a missile as large as your Strike Fighter flashes out of the dark opening. It is so close you can actually . make out a huge array of electronic sensors at its tip. Will you:
 
 Bank the Strike Fighter and gun it skywards?
 Use electronic counter measures?
@@ -1568,7 +1675,13 @@ Turn to 229
 The blast of Yelov's unhinged hatred is too much for you and you fall unconscious. You never wake up.
 
 275
-CAIN replies that Yelov's Time Machine carried the usual amount of Polybdenum, enough for eight trips through time. If you would like- to enquire whether there is Polybdenum to be found on Mechanon, turn to 250. If you wish to chase Yelov immediately, will you set coordinates for the timehole on:
+
+CAIN replies that Yelov's Time Machine carried the usual amount of Polybdenum, enough for eight trips through time.
+
+If you would like- to enquire whether there is Polybdenum to be found on Mechanon,
+Turn to 250
+
+If you wish to chase Yelov immediately, will you set coordinates for the timehole on:
 
 Mechanon?
 Thrix?
@@ -1607,7 +1720,13 @@ Turn to 7
 Turn to 20
 
 281
-You pull up and roll the Strike Fighter 90 degrees, presenting as little of it as possible, but you are too slow and it slams into you, filling your forward screens with a great ball of burning plasma The force of the explosion almost shakes the ship apart and you lose control of her for a moment. Incredibly, she withstands the blast itself. Lose 2 Shield or \ Armour point. If y o u r ship defence points have fallen below zero, turn to 90. If not , you streak on over the fortress. Turn to 71.
+
+You pull up and roll the Strike Fighter 90 degrees, presenting as little of it as possible, but you are too slow and it slams into you, filling your forward screens with a great ball of burning plasma The force of the explosion almost shakes the ship apart and you lose control of her for a moment. Incredibly, she withstands the blast itself. Lose 2 Shield or \ Armour point.
+
+If y o u r ship defence points have fallen below zero,
+If not , you streak on over the fortress.
+Turn to 90
+Turn to 71
 
 282
 The damage wreaked on your ship's defences has got through at last. There is a massive explosion as you and the Strike Fighter are consumed in a raging ball of flame. You have failed.
@@ -1670,7 +1789,13 @@ Your thumb presses down on the joystick firing buttons, but you acted too soon a
 The android has turned its blaster to maximum and its beam sears into you. Lose 9 Endurance points. If you are still alive, you roll out of the beam and then unleash the energy of your blaster, taking even the superhuman android by surprise. You play the beam across it until it is completely vapourised and then set off across the countryside in search of your Strike Fighter. Turn to 135.
 
 293
-Your fission beams do not find their target until it is already too late. The huge missile completely fills the scanner screen as it hits you head on. There is a sickening lurch and a horrifying explosion but you cannot believe it when, a second later, you are still alive. Evidently the defences of your Weeks/Senior Strike Fighter almost defy belief. There is damage, however. You have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour. If your ship's defences are at zero or below, all of the circuits overload, turn to 282. If they are not you accelerate away, the impact has stopped you dead, turn to 351.
+
+Your fission beams do not find their target until it is already too late. The huge missile completely fills the scanner screen as it hits you head on. There is a sickening lurch and a horrifying explosion but you cannot believe it when, a second later, you are still alive. Evidently the defences of your Weeks/Senior Strike Fighter almost defy belief. There is damage, however. You have lost 4 points from your Energy Shields or 7 points from your Titanium Hull Armour.
+
+If your ship's defences are at zero or below, all of the circuits overload,
+If they are not you accelerate away, the impact has stopped you dead,
+Turn to 282
+Turn to 351
 
 294
 In the safety of Falcon's Wing you reconsider the situation. The disturbances in the timelines of the two planets, Thrix and Mechanon, are clearly related. As time is pressing and Yelov has bought himself several hours by tying you up here at Crecy you decide to ask for just one more item of information. Will you ask CAIN:
@@ -1713,7 +1838,13 @@ Turn to 226
 Turn to 235
 
 298
-There wasn't enough time for your electronic counter measures to take effect and all three of the missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose3 Energy Shield points or 5 Hull Armour points. If your ship defences have fallen below zero, turn to 276. If you have survived, the ship is rocked upward with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive. Turn to 71.
+
+There wasn't enough time for your electronic counter measures to take effect and all three of the missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose3 Energy Shield points or 5 Hull Armour points.
+
+If your ship defences have fallen below zero,
+If you have survived, the ship is rocked upward with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive.
+Turn to 276
+Turn to 71
 
 299
 CAIN reports that a French victory at the battle of Crecy might have ended the Hundred Years War before it had begun but that he is unable to compute the likely effects of such a change in Earth's timeline. The battle is about to begin in the Crecy timehole. Will you:
@@ -1738,7 +1869,13 @@ You roll and then unleash the energy of your blaster, taking even the superhuman
 The faceplate of your helmet darkens automatically as the fluid reacts with the crystals to compensate for the glare of your exploding grenade which landed right next to the Polybdenum. The rods of ore are destroyed but one of the wardroids has locked onto you and it reacts with the speed that only a robot boasts. A pulse of energy leaves its weapon bank and you are hurled backwards. Lose 10 Endurance points. If you are still alive, your suit repairs itself before the acid atmosphere of Thrix can enter. As quick as thought, you send another grenade hurtling towards the droid. Turn to 263.
 
 304
-Your fusion beams set the missile off but it explodes too close to you for comfort. The forward scanner screen is filled with rolling jets of flame and the ship rocks, its gyros whining. Your ship's defences have lost another 2 points (Armour or Shields). If they are at zero or below, turn to 282. If they are not you fly on. Turn to 351.
+
+Your fusion beams set the missile off but it explodes too close to you for comfort. The forward scanner screen is filled with rolling jets of flame and the ship rocks, its gyros whining. Your ship's defences have lost another 2 points (Armour or Shields).
+
+If they are at zero or below,
+If they are not you fly on.
+Turn to 282
+Turn to 351
 
 305
 At last you knock his sword aside and cleave the air with a mighty cut that embeds your sword in his side. He tumbles from his horse, snapping his neck as he hits the ground just as the sword of Sir Thomas Chandos whistles through the air where he would have been but for your blow. A chill feeling of fear takes you in case you have changed history but as you wait and nothing happens you guess that perhaps Chandos killed Louis de Nevers in history. Before you can breathe you see an English knight in black armour whose shield bears no device but is as black as sable. He is raising his mace to strike Sir Thomas Chandos and it seems to crackle with a blue aura. You cannot detect any thought at all inside the great black helm. Will you:
@@ -1814,7 +1951,13 @@ The policemen have had only a little training in unarmed combat and you manage t
 The lasers rake across its nose, destroying the sensitive equipment that the missile carried, but it does not explode. You try electronic counter measures as it closes in on you and it suddenly falls out of the sky. You turn and dive to watch as it screams into a fuel refinery. The explosion flattens factories for a mile around, the shock wave throws you across the sky and a pillar of flame, smoking blackly, reaches far into the atmosphere above you. You fly back towards the gaping maw of the hangar. Turn to 351.
 
 316
-You slam the Fighter into a dive but a plasma shell smashes into the hull, rocking the ship with an awful blast of exploding plasma. Lose 2 Deflector Shield points or 1 Armour point. If your ship defence score is below zero, turn to 90. If you survive, the gyros stabilise the ship and you hurtle downward as the second plasma shell passes overhead and explodes in the tunnel behind you filling it with burning white plasma. You pull up, hugging the ground. The fortress lies directly ahead and three sleek and deadly dart-shaped missiles fly from one of its bases, launch up behind, and dive in unison towards you. Instinctively you fire fission beams which lance out across the surface and into the fortress, destroying its plasma turrets. You gun the ship into a steep climb as the missiles streak in your direction, filling your forward screen. Desperately you engage the electronic counter measures. Make an Attack Roll.
+
+You slam the Fighter into a dive but a plasma shell smashes into the hull, rocking the ship with an awful blast of exploding plasma. Lose 2 Deflector Shield points or 1 Armour point.
+
+If your ship defence score is below zero,
+Turn to 90
+
+If you survive, the gyros stabilise the ship and you hurtle downward as the second plasma shell passes overhead and explodes in the tunnel behind you filling it with burning white plasma. You pull up, hugging the ground. The fortress lies directly ahead and three sleek and deadly dart-shaped missiles fly from one of its bases, launch up behind, and dive in unison towards you. Instinctively you fire fission beams which lance out across the surface and into the fortress, destroying its plasma turrets. You gun the ship into a steep climb as the missiles streak in your direction, filling your forward screen. Desperately you engage the electronic counter measures. Make an Attack Roll.
 
 If you score 7-12, turn to 362
 If you score 2-6, turn to 352
@@ -2023,7 +2166,13 @@ Turn to 219
 Turn to 366
 
 352
-There wasn't enough time for your electronic counter measures to take effect completely and only one of the missiles detonates prematurely as the electronic jamming signals envelop it. The other two missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose 2 Energy Shield points or 3 Hull Armour points. If your ship's defences have fallen below zero, turn to 276. If you have survived, the ship is rocked upwards with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive. Turn to 71.
+
+There wasn't enough time for your electronic counter measures to take effect completely and only one of the missiles detonates prematurely as the electronic jamming signals envelop it. The other two missiles cannon into the underside of the Strike Fighter, exploding simultaneously. Lose 2 Energy Shield points or 3 Hull Armour points.
+
+If your ship's defences have fallen below zero,
+If you have survived, the ship is rocked upwards with the force of the explosion, but the gyros right it and you hurtle on, past the fortress, lucky to be alive.
+Turn to 276
+Turn to 71
 
 353
 As you step onto the disc CAIN tells you that the radar beacon has detected Falcon's Wing and is relaying a message beyond the range of the Time Machine's scanners. Will you:
@@ -2155,7 +2304,16 @@ Turn to 416
 You crouch in the trench, along which a heavy opaque green gas pours like a stream. To your surprise the great rock begins to roll along past you and is swallowed up in the yellow fog. You leave the trench and walk warily in the direction from which it came. There is a slight movement in the heavy air and the fog lifts slightly to reveal the most enormous mechanical contraption shaped like a long armadillo. Dust rises from its form and it rumbles slowly across the surface of the planet towards you on caterpillar tracks. Its body is composed of overlapping segments of metal like a woodlouse, which glow dully in the dull rays of the Thrixian sun, which barely penetrates the thick atmosphere. Thrix is cold. Turn to 395.
 
 373
-Your thumbs press down on the joystick firing buttons and twin fission beams leap from the Fighter's wing tips, nearly vapourising the launcher and causing the missiles to explode, destroying much of the fortress' sensor banks. Before you can do anything further, two plasma shells slam into the hull of your ship with a crackling roar and you are engulfed in a ball of burning white plasma. Lose 2 Shield points or 3 Armour. If your defence points are below zero, turn to 90. If you have survived, your Strike Fighter bucks wildly but the gyros, whining shrilly, manage to right it. You are brought to a standstill but engage the booster thrusters and surge forward over the fortress, the G-force dampers working overtime. Turn to 71.
+
+Your thumbs press down on the joystick firing buttons and twin fission beams leap from the Fighter's wing tips, nearly vapourising the launcher and causing the missiles to explode, destroying much of the fortress' sensor banks. Before you can do anything further, two plasma shells slam into the hull of your ship with a crackling roar and you are engulfed in a ball of burning white plasma. Lose 2 Shield points or 3 Armour.
+
+If your defence points are below zero,
+Turn to 90
+
+If you have survived, your Strike Fighter bucks wildly but the gyros, whining shrilly, manage to right it.
+
+You are brought to a standstill but engage the booster thrusters and surge forward over the fortress, the G-force dampers working overtime.
+Turn to 71
 
 374
 The arrogant Danikoi are not interested in a future in which they are not the most powerful beings. The Disputer says, 'If we can no longer protect ourselves then let it all end. Our species will no longer be fit for survival.' They turn their backs on you and you cannot make them listen. There is nothing that you can do now which will stop the Danikoi using time travel to mould history to their own decadent whims. Suddenly, everything goes dark. The Danikoi have changed history and it is as if you and the Space Federation had never existed.
@@ -2197,8 +2355,8 @@ Turn to 170
 You must decide which wardroid to attack:
 The immobilised droid?
 The undamaged one?
-Turn to 79.
-Turn to 393.
+Turn to 79
+Turn to 393
 
 383
 A strange swirling pattern forms in the yellow mist, between you and the Thrix. A wave of sonic vibrations shakes your suit and you begin to feel as if you must vomit. Will you:
@@ -2206,7 +2364,7 @@ Try to communicate with the alien?
 Use your blaster on the rock-like being?
 Use your Power of Will to control it?
 Turn to 360
-Turn to 13 
+Turn to 13
 Turn to 25
 
 384

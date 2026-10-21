@@ -97,7 +97,11 @@ Turn to 386
 Turn to 288
 
 17
-If you have been dragging the sword along behind you, using a piece of red and white cloth, turn to 37. If you have been carrying it, turn to 47.
+
+If you have been dragging the sword along behind you, using a piece of red and white cloth,
+If you have been carrying it,
+Turn to 37
+Turn to 47
 
 18
 Make an Attack Roll as you level your blaster and unleash a lightning strike of plasma at the reptilian beast.
@@ -290,7 +294,13 @@ Turn to 83
 Your reactions are slack, and the creature's long fist crashes into your head with awful force, snapping it back and breaking your neck. Death is instantaneous.
 
 55
-What looks, in the gloom, like a large flying walrus screeches as it dives to attack. Do you have your blaster? If you do, turn to 65. If not, turn to 75.
+
+What looks, in the gloom, like a large flying walrus screeches as it dives to attack. Do you have your blaster?
+
+If you do,
+If not,
+Turn to 65
+Turn to 75
 
 56
 You send a blast of psionic energy at the guard. He was not expecting this and his defences are down. With a grunt he throws back his head and slumps to the ground. A second later you hurl another mental attack at the man in the Security Dome, but it only serves to reveal something about the Eiger Vault Security that you never knew before - the dome housing Security Control acts in some way as a psychic shield - no mental force can pass through. The man inside it shouts, 'Mental attack!' and as he activates the Security Droid, continues, I'm sorry Sir, orders is orders.' The Security Droid wheels towards you and raises its stun lance. You try to throw yourself aside just as it fires. Make an Evasion Roll.
@@ -304,10 +314,22 @@ After half an hour you pass a tank's caterpillar track lying in the dust. The wi
 You level the Cold Lance and squeeze the triggering device - the air shimmers, condensation forming in a cone between the lance and its target. The reptile is struck by the force of the strange device and drops its weapon in surprise. Then it begins to shudder as you maintain the ray. It seems to be leeching the Saurian of its body heat. Its eyes droop shut and it buckles at the knees, falling to the ground. It has fallen into a torpid stupor - a cold blooded creature, it cannot function at low temperature levels. You dart forward towards the archway. Around one of the forearms of the beast is a band of polished metal, brightly painted with three bars of colour - red, green and yellow. You pause at the entrance but all is quiet. Silently you glide into the dome. Turn to 316.
 
 59
-Meyer starts in fear. 'Yes sir, immediately sir!' and he signals to two of the guards. You are frog-marched out of the cottage with Meyer ahead of you. They take you out of the camp to an open area of sandy ground one hundred yards from the entrance, whilst you concentrate on maintaining your control over Fromm. They force you to your knees and prepare to shoot you in the back of the neck. To use your mind powers you will have to release Fromm from your control. It you wish to do this, turn to 190. If you wish to attack your would be murderers and have Fromm run out and help you, turn to 216.
+
+Meyer starts in fear. 'Yes sir, immediately sir!' and he signals to two of the guards. You are frog-marched out of the cottage with Meyer ahead of you. They take you out of the camp to an open area of sandy ground one hundred yards from the entrance, whilst you concentrate on maintaining your control over Fromm. They force you to your knees and prepare to shoot you in the back of the neck. To use your mind powers you will have to release Fromm from your control.
+
+It you wish to do this,
+If you wish to attack your would be murderers and have Fromm run out and help you,
+Turn to 190
+Turn to 216
 
 60
-After a time you come to another low hill. At its top you are able to survey the ground ahead of you. Straight on lies the tower. To its left you can just make out several dome-like structures in a depression on a plain of hard flat ground, of bluish slate. If you wish to investigate the tower, turn to 105. If you would like to investigate the domelike structures, turn to 338.
+
+After a time you come to another low hill. At its top you are able to survey the ground ahead of you. Straight on lies the tower. To its left you can just make out several dome-like structures in a depression on a plain of hard flat ground, of bluish slate.
+
+If you wish to investigate the tower,
+If you would like to investigate the domelike structures,
+Turn to 105
+Turn to 338
 
 61
 For a long time you struggle across the sand without being aware of moving until you enter the band of green mist. When instantly, it seems, you return to normal size and stride confidently through into a whirlpool of yellow. After a few more steps, you stop to get your bearings and doubts assail you. You realise you are hopelessly lost, the cloud closed in around you without any wind and as far as you know it could move with you so that you would never see the red moon of this world again. Though you have only yourself to blame for your predicament, you start to blame the Lords of TIME, and in particular Jobanque for not sending help for Bloodhound. Turn to 281.
@@ -351,7 +373,11 @@ After half an hour you pass a tank's caterpillar track lying in the dust. The wi
 Their combined minds are too much for you and they both gasp in surprise and outrage. 'Mind tricks, like the last one,' shouts the commander. Suddenly there is a sharp pain and everything goes blank. Turn to 276.
 
 69
-If you are wearing your environment suit, you can use its yellow lubricating fluid to draw in the mud, turn to 79. Otherwise, prepare to slit your own wrist, turn to 89.
+
+If you are wearing your environment suit, you can use its yellow lubricating fluid to draw in the mud,
+Otherwise, prepare to slit your own wrist,
+Turn to 79
+Turn to 89
 
 70
 'Only one man, sir?' queries Meyer. 'But you know this timefarer's mental powers ...' Then he looks at you suspiciously and shouts at the guards: 'It is mind trickery! Disable the prisoner!' You leap to your feet but there are too many of them - one of them drives his rifle into your solar plexus and you double up in pain. The physical shock causes you to lose control of Ernst Fromm. He jumps up and shouts in rage, 'You will pay for this, Schweinhund,' he cries. Take the filth away and reduce it to a mewling dog, Hauptsturmfuhrer - I want the dog obedient and willing, and under close guard, not least to prevent escape, but also to prevent a repeat of the Dragonmen's last bloody raid. We must not lose this one. Heil!'
@@ -359,7 +385,16 @@ If you are wearing your environment suit, you can use its yellow lubricating flu
 'Heil Hitler!' shouts the Hauptsturmfuhrer and the guards grab you and carry you bodily out of the wooden cottage, taking great pains to ensure you are uncomfortable. Turn to 400.
 
 71
-The purple glow soon gives way to a deep warm redness. If this is the second time you have visited the red mist, turn to 159. Otherwise, read on. As you approach the eerie red glow it seems to welcome you and the red vapours swirl about you, seeming to sooth you in a warm caress. You begin to feel better than you have yet felt on this cold and barren planet. You breathe the red mist in deeply, then blow little rings of red smoke out of your nostrils. Suddenly you begin to laugh - the red mist is affecting you like laughing gas. It occurs to you to make a painting on the sandy ground, but the only thing you can think of to use as paint is blood. Turn to 69.
+
+The purple glow soon gives way to a deep warm redness.
+
+If this is the second time you have visited the red mist,
+Turn to 159
+
+Otherwise, read on. As you approach the eerie red glow it seems to welcome you and the red vapours swirl about you, seeming to sooth you in a warm caress. You begin to feel better than you have yet felt on this cold and barren planet. You breathe the red mist in deeply, then blow little rings of red smoke out of your nostrils. Suddenly you begin to laugh - the red mist is affecting you like laughing gas.
+
+It occurs to you to make a painting on the sandy ground, but the only thing you can think of to use as paint is blood.
+Turn to 69
 
 72
 As you touch the gate, a terrible shock jolts through you. Lose 2 Endurance points. If you are still alive, you see that the gate has started to slide open, enough for you to slip through into a lit passageway beyond. The boom-boom of the machinery buffets your eardrums. You decide to step inside.
@@ -421,7 +456,13 @@ Turn to 168
 Turn to 350
 
 81
-There is a strange croaking roar from the Gra'aki and another howl of agony from the poor devil they are tormenting. Thankful that their grisly attentions are directed elsewhere, you make good your escape from the domes of the Gra'ak. If you have heard of a black pyramid, or of a Time Destabiliser, turn to 320. If not, turn to 226.
+
+There is a strange croaking roar from the Gra'aki and another howl of agony from the poor devil they are tormenting. Thankful that their grisly attentions are directed elsewhere, you make good your escape from the domes of the Gra'ak.
+
+If you have heard of a black pyramid, or of a Time Destabiliser,
+If not,
+Turn to 320
+Turn to 226
 
 82
 Your blow dents the man-things skull and it retreats back to the manhole, mewling in pain before disappearing from view. You move towards the gateway. Turn to 185.
@@ -495,7 +536,13 @@ Turn to 127
 You wait for a few seconds, sweating with fear, as the tank 5 filled with an awful whining sound. Then the commander grunts in pain, he has been hit in the shoulder. The shock galvanises his mind and you lose control of him. The gunner leaps upon you, to be joined by the rest of the crew and within moments you have been clubbed into unconsciousness. Turn to 276.
 
 99
-The orange glow of the mist seems to flicker strangely as if spark flies had been caught in its silken folds, then you are swathed in a deep golden pall of mist once more. It shimmers around you and your mind is strangely afflicted. If you have been surrounded by the yellow mist before, turn to 169. If not, turn to 281.
+
+The orange glow of the mist seems to flicker strangely as if spark flies had been caught in its silken folds, then you are swathed in a deep golden pall of mist once more. It shimmers around you and your mind is strangely afflicted.
+
+If you have been surrounded by the yellow mist before,
+If not,
+Turn to 169
+Turn to 281
 
 100
 The reptile grunts, throws back its head and collapses in a heap. You dart forward towards the archway. Around one of the forearms of the beast is a band of polished metal, brightly painted with three bars of colour - red, green and yellow. You pause at the entrance but all is quiet. Silently you glide into the dome. Turn to 316.
@@ -547,10 +594,22 @@ Turn to 137
 Turn to 307
 
 108
-Thinking fast, you set a plasplode pack to detonate in five minutes and toss it into the dome, knowing it will set off the rest of the explosives when it goes off. You both spring for the edge of the bowl-like depression housing the Gra'ak domes. You scramble up the sides and throw yourselves flat, hugging the ground. Scant seconds later, there is a massive roar and the ground shudders beneath you. The shock wave almost tears you off the ground but the depression has contained most of the force of the explosion. Looking back, you see that the destruction is enormous. There is no sign of your pursuers and all of the domes have been flattened except for one or two at the far end of the bowl... 'Well, I'm not sorry to see that,' says Bloodhound. 'They were a vicious group of beings.' If you have heard of a Black Monolith or a TIME de-stabiliser, turn to 320. If not, turn to 226.
+
+Thinking fast, you set a plasplode pack to detonate in five minutes and toss it into the dome, knowing it will set off the rest of the explosives when it goes off. You both spring for the edge of the bowl-like depression housing the Gra'ak domes. You scramble up the sides and throw yourselves flat, hugging the ground. Scant seconds later, there is a massive roar and the ground shudders beneath you. The shock wave almost tears you off the ground but the depression has contained most of the force of the explosion. Looking back, you see that the destruction is enormous. There is no sign of your pursuers and all of the domes have been flattened except for one or two at the far end of the bowl... 'Well, I'm not sorry to see that,' says Bloodhound. 'They were a vicious group of beings.'
+
+If you have heard of a Black Monolith or a TIME de-stabiliser,
+If not,
+Turn to 320
+Turn to 226
 
 109
-You step lightheartedly towards the purple haze, but as soon as you enter it, you pass into an altogether less heartwarming environment. You are now cocooned in a chill blue glow. A strange impression of peaceful serenity floods your mind and then you shrink. Your size dwindles rapidly - and the ground surges up towards you until you are no larger than an ant perched between two grains of sand as large as small boulders. Uncannily the transformation barely perturbs you. The thought of scrambling across the sea of sand grain boulders seems too much trouble to contemplate. You settle down to rest. Turn to 31, unless this is the second time you have shrunk, in which case, turn to 149.
+
+You step lightheartedly towards the purple haze, but as soon as you enter it, you pass into an altogether less heartwarming environment. You are now cocooned in a chill blue glow. A strange impression of peaceful serenity floods your mind and then you shrink. Your size dwindles rapidly - and the ground surges up towards you until you are no larger than an ant perched between two grains of sand as large as small boulders. Uncannily the transformation barely perturbs you. The thought of scrambling across the sea of sand grain boulders seems too much trouble to contemplate.
+
+You settle down to rest.
+Unless this is the second time you have shrunk, in which case,
+Turn to 31
+Turn to 149
 
 110
 The driver, an unintelligent man used to following orders, falls easily under your control. Will you:
@@ -629,7 +688,13 @@ Turn to 104
 Turn to 114
 
 123
-You gingerly grip the flat sword blade with both hands and wrench it backwards and forwards. The skull topples off and falls to the ground where it splits apart. Inside is a piece of red and white cloth. You try to let go of the sword to examine it but your hands have gone numb and the sword sticks to them. If you are wearing your environment suit, turn to 153. If not, turn to 163.
+
+You gingerly grip the flat sword blade with both hands and wrench it backwards and forwards. The skull topples off and falls to the ground where it splits apart. Inside is a piece of red and white cloth. You try to let go of the sword to examine it but your hands have gone numb and the sword sticks to them.
+
+If you are wearing your environment suit,
+If not,
+Turn to 153
+Turn to 163
 
 124
 As soon as you are through the gate it slides shut once more with a whir of heavy machinery cutting your assailants off from you. There is a spate of sound like a blaster discharge, perhaps they are trying to open the gate once more and suffering electric shocks. You run down a featureless corridor into what is evidently a lift. Turn to 214.
@@ -757,10 +822,22 @@ A low drone and the steady thump thump of a machine so large that the noise it p
 You wait for a few seconds, sweating with fear, as the tank is filled with an awful whining sound. Then the bullet slams into the commander's chest and he collapses. Whilst the driver covers the other two crewmen, you remove the blindfold. Quickly you tie them up and then order the driver to turn the tank around and drive away at full speed. Moments later, the radio crackles into life, 'Otto, this is Meyer - what are you doing? Stop, I order you!' Poking your head out of the hatch you can see the other Tiger tanks in pursuit. One of them fires - a geyser of dust erupts with a dull crump nearby. Your tank begins to climb a ridge. You reach the top when there is an explosion and a flash of flames. The tank shudders and slews to a stop, one of its tracks blown off. You leap out of the turret and scramble down the ridge. Turn to 396.
 
 147
-Stepping from the yellow light you are momentarily bathed in an orange glow that makes your skin look grey and hollow, like a cadaver, but your next step plunges you into the layers of red mist which lies beyond. Evidently the mist turns orange where red and yellow meet. If you have already been smothered in the red mist, turn to 159. Otherwise, turn to 337.
+
+Stepping from the yellow light you are momentarily bathed in an orange glow that makes your skin look grey and hollow, like a cadaver, but your next step plunges you into the layers of red mist which lies beyond. Evidently the mist turns orange where red and yellow meet.
+
+If you have already been smothered in the red mist,
+Otherwise,
+Turn to 159
+Turn to 337
 
 148
-Frantically you press the buttons. For a moment nothing happens; but then the capsule around Bloodhound cracks and opens up like a blossoming flower. You heave a sigh of relief. 'Come on Blood, we've little time,' you shout, and grabbing his arm rush back into the dome and outside. About three hundred yards away, a pack of reptiles, howling and slavering menacingly, are hurtling toward you. If you have some plasplode, turn to 108. If not, turn to 38.
+
+Frantically you press the buttons. For a moment nothing happens; but then the capsule around Bloodhound cracks and opens up like a blossoming flower. You heave a sigh of relief. 'Come on Blood, we've little time,' you shout, and grabbing his arm rush back into the dome and outside. About three hundred yards away, a pack of reptiles, howling and slavering menacingly, are hurtling toward you.
+
+If you have some plasplode,
+If not,
+Turn to 108
+Turn to 38
 
 149
 All will to survive leaves you. The effort of will which was required for you to leave last time is now beyond you. The strange cloud is settled all around and your life force is drawn inexorably into the chill incandescent mist.
@@ -975,7 +1052,15 @@ If you score 2-7, turn to 166
 If you score 8-12, turn to 186
 
 189
-You struggle to summon up the strength to resist the yellow waves of paranoia which threaten to engulf you, but the strain of this strange environment is turning you insane. If you break and run in panic, turn to 209. If you continue to exert your will, turn to 229. Or do you:
+
+You struggle to summon up the strength to resist the yellow waves of paranoia which threaten to engulf you, but the strain of this strange environment is turning you insane.
+
+If you break and run in panic,
+If you continue to exert your will,
+Turn to 209
+Turn to 229
+
+Or do you:
 
 Call for help?
 Try a desperate Thinkstrike?
@@ -1038,7 +1123,13 @@ If you score 7-12, turn to 376
 If you score 2-6, turn to 408
 
 199
-You cry out for aid, strong pleas which belie your helplessness to begin with, but the mist deadens your voice, you are imprisoned in a soft tomb of soundlessness. Despairing that your pleas will go unheard, you cry again, your voice cracking with fear and effort; but there is no answer. The mist seems to close in around you, like the tendrils of some awful marsh eater plant from the Siltworlds. If you break and run in panic, turn to 209. If you try to fight on against the madness, turn to 239.
+
+You cry out for aid, strong pleas which belie your helplessness to begin with, but the mist deadens your voice, you are imprisoned in a soft tomb of soundlessness. Despairing that your pleas will go unheard, you cry again, your voice cracking with fear and effort; but there is no answer. The mist seems to close in around you, like the tendrils of some awful marsh eater plant from the Siltworlds.
+
+If you break and run in panic,
+If you try to fight on against the madness,
+Turn to 209
+Turn to 239
 
 200
 You come to your feet, blaster at the ready, as bolts of green energy fly past you, criss-crossing the air around you. They slam into the walls with a hiss. You unleash a blast of plasma at one of the droids, reducing it to its component parts with an incandescent flash. Molten metal sputters and bubbles. The other continues to fire at you, but another well-placed shot from your blaster burns it away. Falcon's Wing stands in its bay, its bright red and silver markings gleaming in the lights of the Eiger Vault. Turn to 46.
@@ -1057,7 +1148,13 @@ Turn to 104
 Turn to 114
 
 203
-If you decide to open fire with your blaster at 1,000 yards, turn to 223. If you decide to await developments, turn to 213. If instead you decide to run away, down the hillock, turn to 396.
+
+If you decide to open fire with your blaster at 1,000 yards,
+If you decide to await developments,
+If instead you decide to run away, down the hillock,
+Turn to 223
+Turn to 213
+Turn to 396
 
 204
 As soon as you step away from the control platform a klaxon sounds and the air begins to shimmer all around it. It looks like a highly advanced force field. Before you can investigate your attention is claimed by a horde of misshapen humans, glowing a vile pale green, who run towards you. They have bloated heads and heavy, many-jointed hands, which they are waving about in a war-like fashion. You decide to hide in the lift. Immediately you step into it the door shuts and it hums upward. Turn to 234.
@@ -1082,7 +1179,11 @@ Turn to 237
 There is a deafening report as the pistol goes off and the rest of the crew jump in fright. But the driver has missed and the bullet lodges in the commander's padded seat. He cries out, 'Mind trickery!' and there is a sudden sharp pain in the back of your head. Everything goes black. Turn to 276.
 
 209
-If you have used your blaster to make a work of art in the dust, turn to 249. If you still have your blaster, turn to 259.
+
+If you have used your blaster to make a work of art in the dust,
+If you still have your blaster,
+Turn to 249
+Turn to 259
 
 210
 'Are you sure, sir - shouldn't we try to beat the timefarer into submission?' Meyer asks. Will you:
@@ -1110,7 +1211,13 @@ The tanks draw together and stop thirty yards from you. Hatches are thrown back 
 The lift door hums shut behind you and you are bathed in the glow of lights of every conceivable colour. The entire walls of the lift capsule are covered in lighted buttons - the lift must have thousands upon thousands of possible destinations. Suddenly all go dark save one flashing white light and the lift whooshes into motion. For a time you can hear the steady boom-boom of the piston, but the lift twists and turns through many shafts before coming to rest at least a mile up the tower. Turn to 224.
 
 215
-Did you replace the manhole cover? If you did, turn to 225. If you did not, turn to 366.
+
+Did you replace the manhole cover?
+
+If you did,
+If you did not,
+Turn to 225
+Turn to 366
 
 216
 You twist around and grab the rifle of the nearest soldier as Fromm begins to run out of his office, pistol in hand. However, Meyer and the guards expected you to resist and the other guard fires his rifle, taking you in the leg. Lose 5 Endurance points. If you are still alive, the shock causes you to lose control of Fromm. Just as Meyer and the guards are about to shoot you, Fromm shouts from the compound gate, 'No, Meyer, wait,' and he runs up. The Schweinhund was using mind tricks on me!' More soldiers run out from the compound to stand around you. The prisoner is to be taken away and reduced to a mewling simpleton. Break the timefarer's will! That is my final order and you are to do nothing else, even if I order it, until it is broken!' You are grabbed by several soldiers and carried back to the camp. Turn to 400.
@@ -1167,7 +1274,13 @@ Turn to 254
 As you slide the manhole cover back into place, two luminous points appear in the tunnel below. Not stopping to look you slide the cover home, but a strange cry - or was it just the wind whistling? - as you walk away prompts you to wonder whether those pale lights were eyes, or simply drops of phosphorescence you had not perceived at first. Turn to 185.
 
 226
-You will have to get back to Falcon's Wing and hope that you find a way of operating the Variac Drive successfully. Do you have a compass given to you by a Lieutenant Kowalski? If so, turn to 88. If not, turn to 374.
+
+You will have to get back to Falcon's Wing and hope that you find a way of operating the Variac Drive successfully. Do you have a compass given to you by a Lieutenant Kowalski?
+
+If so,
+If not,
+Turn to 88
+Turn to 374
 
 227
 As you summon up your will to subdue the mind of Lord Leopold, the sword whines again, and frost is shivered from it, dropping to the floor. The purple beams of several particle disruptors play over you, your body is atomised and spread across the fallen steeple of their church. It is the end of the timeline for you, Falcon.
@@ -1218,7 +1331,13 @@ He shouts in rage as he pushes aside your mental attack. 'You will pay for this,
 'Heil Hitler!' shouts the Hauptsturmfuhrer, and the guards grab you and carry you bodily out of the wooden cottage, taking great pains to ensure you are uncomfortable. Turn to 400.
 
 237
-You are soon securely tied up and any efforts you make to use your mental powers prove fruitless. The Sacred Sword of Valois shines each time you try and you are pelted with stones for your pains. They harness you to a yoke pulled by a large carthorse and you are dragged towards the meandering grey-green river. A carnival mood seems to have gripped them all and the twin heads of the girl-child begin to laugh hysterically. You are pushed into a primitive round boat like a coracle and a sack full of rocks is tied to your feet. You struggle helplessly as they pole the boat out to the middle of the river and, to a cheer from the onlookers, throw you in. If you are wearing your environment suit, turn to 247. If you are not, turn to 257.
+
+You are soon securely tied up and any efforts you make to use your mental powers prove fruitless. The Sacred Sword of Valois shines each time you try and you are pelted with stones for your pains. They harness you to a yoke pulled by a large carthorse and you are dragged towards the meandering grey-green river. A carnival mood seems to have gripped them all and the twin heads of the girl-child begin to laugh hysterically. You are pushed into a primitive round boat like a coracle and a sack full of rocks is tied to your feet. You struggle helplessly as they pole the boat out to the middle of the river and, to a cheer from the onlookers, throw you in.
+
+If you are wearing your environment suit,
+If you are not,
+Turn to 247
+Turn to 257
 
 238
 You pause, unsure as to the intention of the pilot of this strange plane. From your holovids it looks to you like a Starfighter from the early twenty-first century, actually an Atmospheric Interceptor Jet that could operate at the limits of the atmosphere. The cockpit canopy slides back and a man dressed in something not unlike your environment suit climbs out and approaches you. 'Hi there,' he says in English, with an American accent. 'I'm Lieutenant Kowalski of the United States Air Force,' and he extends a hand. You shake it.'I'm from 2012 AD. I was on a routine mission when I suddenly ended up here. Some kind of time flux. Anyhow, you're in trouble, man! Those Nazi guys are mean. And so are the Knights of Saint John. I could help you ...' and he gazes at you through narrowed eyes. 'I mean my Starfighter could really waste those guys, you know. But you gotta make it worth my while. It's not a good idea for me to mess with them - I'm on my own and they're a whole battalion! So you gotta promise to get me outta here. If I help you, you've gotta take me to your time, maybe even back to mine. Deal?' He smiles winningly. Will you:
@@ -1243,7 +1362,11 @@ After nodding a welcome at Hauptsturmfuhrer Meyer, he orders the guards to strik
 'What do you want with me?' you ask. Turn to 16.
 
 241
-If you are wearing your environment suit, turn to 251. If not, turn to 261.
+
+If you are wearing your environment suit,
+If not,
+Turn to 251
+Turn to 261
 
 242
 Your balance on the steel runged ladder is precarious and your normal striking hand is held in the monster's teeth, but you drive your other fist towards the luminescent spots of green that must be its eyes. Make an Attack Roll.
@@ -1541,7 +1664,11 @@ If you score 2-6, turn to 410
 You stumble upright, having dragged your body up off the sharp cone of glass which had impaled you, and stagger on. It is impossible to see where you are going, but fear impels you to spring across the uneven sand. Red mist washes warmly around you. Soon the mist is white again, but as fast as you run so the rolling bank of mist like a great breaker flows on, threatening to engulf you. As you are nearing a slight depression, it floods around you. You sprint on desperately, but there is nothing but whiteness and then you are falling. Turn to 309.
 
 300
-If you spoke with the pilot and told him you were a time traveller, turn to 39. If not, or if you didn't speak to him, turn to 80.
+
+If you spoke with the pilot and told him you were a time traveller,
+If not, or if you didn't speak to him,
+Turn to 39
+Turn to 80
 
 301
 The universal translator will translate your words into English but they will sound mechanical and grating. Will you:
@@ -1584,7 +1711,13 @@ He manages to throw off your mental attack and then cries out in surprise and ou
 The tank rumbles onward, and the journey passes uneventfully. The crew talk amongst themselves a little, but none of them say a word to you. You do overhear someone saying, 'Perhaps this one can take us home to the Fatherland,' and another replying: 'If the Dragonmen don't raid and take him away along with a score of the rest of us. Curse their filthy hides.' After a while there is a brusque, 'Come on, move,' and you are manhandled out of the tank into the dull red light. Turn to 6.
 
 309
-For what seems like an eternity, you fall from the whiteness of the cloud into the blackness of a deep crevasse, but in reality it is scant seconds before you nose dive into a mound of bird droppings, collected over the uncounted centuries. If you are wearing you environment suit, turn to 319. If you are not, turn to 329.
+
+For what seems like an eternity, you fall from the whiteness of the cloud into the blackness of a deep crevasse, but in reality it is scant seconds before you nose dive into a mound of bird droppings, collected over the uncounted centuries.
+
+If you are wearing you environment suit,
+If you are not,
+Turn to 319
+Turn to 329
 
 310
 There is a deafening report as the pistol goes off, but the bullet whistles past the commander's head. 'Down!' the commander shouts, as the bullet begins to ricochet dangerously around the interior of the truck. Make another Chance Roll.
@@ -1721,7 +1854,13 @@ Once more you are shocked to the core. Lose 2 Endurance points. If you are still
 A sudden shrill whinny surprises you. Turning, you see a knight on horseback, wearing a white surcoat with a broad red cross on it, looking down on you. He is carrying what looks like a very advanced particle disruptor. The German Senior Officer motions forward one of his men, a young fellow wearing glasses with round lenses and narrow metal rims. Turn to 353.
 
 334
-Together with Bloodhound you jump over the edge of the crater and slide down the bank of dust, burying yourself up to your middle. It is hard going, sinking into the dust at every step, but after half an hour you stand before the black unreflecting monolith. Do you have some plasplode? If you do, turn to 344. If not, turn to 354.
+
+Together with Bloodhound you jump over the edge of the crater and slide down the bank of dust, burying yourself up to your middle. It is hard going, sinking into the dust at every step, but after half an hour you stand before the black unreflecting monolith. Do you have some plasplode?
+
+If you do,
+If not,
+Turn to 344
+Turn to 354
 
 335
 Its huge hands are contracted into gourd-like fists, ready to smash your head. Make an Attack Roll.
@@ -1784,7 +1923,12 @@ As you touch the gate, a terrible shock jolts through you. Lose 2 Endurance poin
 343
 Your translator enables you to understand a curt series of orders from the senior German Officer, as he points at you. 'Looks like another one of those from the future in the strange machines. Blindfold, shoot to kill on the slightest provocation and if any of you collapse suddenly or act strangely, shoot as well. Beware mind trickery.'
 
-'Yes Hauptsturmfuhrer.' Suddenly the Knight begins to speak and the young German stops in his tracks. Your translator works normally but you can recognise the language yourself as mediaeval Latin. If you have a sword with a freezing blade with you, turn to 363, if not, turn to 373.
+'Yes Hauptsturmfuhrer.' Suddenly the Knight begins to speak and the young German stops in his tracks. Your translator works normally but you can recognise the language yourself as mediaeval Latin.
+
+If you have a sword with a freezing blade with you,
+If not,
+Turn to 363
+Turn to 373
 
 344
 Bloodhound sets the charge and when he is safely out of the way you detonate it. Shards of unreflective black crystal shower the crater, the pieces burying themselves. When the dust settles, every last trace of the monolith has disappeared. Nothing is left of the artefact that could rob great galleons from all places in all times. Feeling a tremendous sense of awe and achievement you begin the climb back to the rim of the crater. If you have:
@@ -1836,12 +1980,21 @@ Turn to 213
 Turn to 396
 
 352
-If you wish to use your Power of the Mind against this human beast, turn to 372. If not, you must fight on, turn to 382.
+
+If you wish to use your Power of the Mind against this human beast,
+If not, you must fight on,
+Turn to 372
+Turn to 382
 
 353
 Your translator enables you to understand a curt series of orders from the senior German Officer as he points at you: 'Looks like another one of those from the future in the strange machines. Blindfold, shoot to kill on the slightest provocation and if any of you collapse suddenly or act strangely, shoot as well. Beware mind trickery.'
 
-'Yes Hauptsturmfuhrer.' Suddenly the Knight begins to speak and the young German stops in his tracks. Your translator works normally but you can recognise the language yourself as mediaeval Latin. If you have a sword with a freezing blade with you, turn to 383, if not, turn to 373.
+'Yes Hauptsturmfuhrer.' Suddenly the Knight begins to speak and the young German stops in his tracks. Your translator works normally but you can recognise the language yourself as mediaeval Latin.
+
+If you have a sword with a freezing blade with you,
+If not,
+Turn to 383
+Turn to 373
 
 354
 The unreflecting black monolith denies all of your attempts to destroy it. Bloodhound's blaster makes no impression. In the end you are forced to scour the planet for explosives. When you reach the rim of the crater again, the black monolith slides gently out of sight below the dust, as if it knew your purpose. The dust ocean reaches five hundred feet to the floor of the crater and you know you can never reach the monolith. Falcon's Wing cannot jump back. You are doomed to a twilight life at the end of time.
@@ -1965,7 +2118,13 @@ Turn to 347
 Turn to 357
 
 378
-You depress the buttons. Nothing happens for a moment. Then there is a humming sound and the capsule around Bloodhound splits and opens up like a blossom. Bloodhound steps out. 'I knew you could do it,' Bloodhound says. Supporting him with one arm, you re-enter the dome proper. You may open the door, now on your right, before leaving the dome, if you have not done so already. If so, turn to 218. If you want to leave the dome immediately, turn to 326.
+
+You depress the buttons. Nothing happens for a moment. Then there is a humming sound and the capsule around Bloodhound splits and opens up like a blossom. Bloodhound steps out. 'I knew you could do it,' Bloodhound says. Supporting him with one arm, you re-enter the dome proper. You may open the door, now on your right, before leaving the dome, if you have not done so already.
+
+If so,
+If you want to leave the dome immediately,
+Turn to 218
+Turn to 326
 
 379
 In response to your question, the Sossorros replies: 'Such nonbeings as yourself exist there, they are thinking sub-life forms but their instruments of making and doing lie idle.' You ask it to describe further these life forms, and a series of mental images flood your brain. They are human like you, and yet different, some grotesquely malformed or mutated, but the Sossorros does not think of them as imperfect, merely highly adapted. They appear to be members of an advanced civilisation. Will you:
@@ -1978,19 +2137,35 @@ Turn to 5
 Turn to 359
 
 380
-Then the air is filled with a loud roar and a silvery jet fighter with the letters USAF on its side hurtles across the sky, banking sharply to fly overhead. It screams in low towards you as if on a strafing run and then decelerates fast. Sleek and very manouverable, it starts to hover before slowly descending to the rocky flat, only a hundred yards from you. If you have seen this plane before, turn to 300. If not, turn to 238.
+
+Then the air is filled with a loud roar and a silvery jet fighter with the letters USAF on its side hurtles across the sky, banking sharply to fly overhead. It screams in low towards you as if on a strafing run and then decelerates fast. Sleek and very manouverable, it starts to hover before slowly descending to the rocky flat, only a hundred yards from you.
+
+If you have seen this plane before,
+If not,
+Turn to 300
+Turn to 238
 
 381
 As fast as you run, so the cloud seems to move with you. The uneven ground causes you to pitch forward suddenly and you slither down the steep side of a gully, hitting jagged rocks at its bottom with bone cracking force. Lose 4 Endurance points. If you are still alive turn to 403.
 
 382
-If you still have your blaster turn to 392. If not, turn to 402.
+
+If you still have your blaster
+If not,
+Turn to 392
+Turn to 402
 
 383
 This prisoner I claim in the name of Leopold the Great and the Knights of St John.' The Knight's words carry the ring of firm resolve. The spectacled soldier translates the Latin for the Hauptsturmfuhrer and is instructed to reply that: 'He, the Hauptsturmfuhrer Meyer, claims the prisoner for the glory of the Fourth Reich,' on the basis that the tanks spotted you first. The Knight disagrees, saying that he has tracked you for some miles and he goes on, 'The stranger carries the sacred sword and has profaned the Lord.' He points the particle disruptor at the Hauptsturmfuhrer's head. The German officer does not flinch. He orders the young soldier to say that you must be punished for attacking men of the First Starlight SS battalion and that even if he dies the Knight will be killed by his men. The Knight's face grows as red as the moon's. The Hauptsturmfuhrer ducks as the particle disruptor emits a purple beam that burns a hole into the ground. The Knight sweeps the area with the beam and the soldiers scream as parts of their flesh are atomised, but a shot from a Luger pistol startles the Knight's horse. In the mayhem you decide to make good your escape and charge down the other side of the hillock. Turn to 396.
 
 384
-After a long trek the compass leads you back to the dunghills near Falcon's Wing, and then you spot the Time Machine itself. Beyond it stands a gleaming USAF starfighter, and Kowalski smiles in greeting. If you are happy to take him back with you to 3034 AD, turn to 394. If you order Bloodhound to Thinkstrike the pilot, turn to 404.
+
+After a long trek the compass leads you back to the dunghills near Falcon's Wing, and then you spot the Time Machine itself. Beyond it stands a gleaming USAF starfighter, and Kowalski smiles in greeting.
+
+If you are happy to take him back with you to 3034 AD,
+If you order Bloodhound to Thinkstrike the pilot,
+Turn to 394
+Turn to 404
 
 385
 You dodge too late - the strange human's co-ordination is good and the knotted tangle of knuckles crashes onto your cranium, denting it somewhat. Lose 4 Endurance points. If you are still alive you are so dazed that you can but try feebly to dodge its next blow. Turn to 2.
@@ -1999,7 +2174,13 @@ You dodge too late - the strange human's co-ordination is good and the knotted t
 Fromm smiles expansively and says, 'Excellent, excellent, I'm so glad you're being sensible, so glad. Meyer, place the timefarer in solitary confinement under close guard.' Turning to you he continues, 'It is for your own safety, of course. The last time the Dragonmen came and plucked Bloodhound from our midst, leaving a trail of death and destruction as they did so, I might add. It will take a few hours to ready my men - once that is done, you will take us to your Time Machine and take us home. Goodbye for now, Falcon.' You are taken to another wooden cottage, a square hut with a single door. It is spartanly furnished inside with a wooden bed, table and chairs - no windows. An electric bulb gives light. The guards push you in and lock the door. You are alone. Turn to 416.
 
 387
-For what seems like an eternity, you fall from the whiteness of the cloud, into the blackness of a deep crevasse, but in reality it is scant seconds before you nose dive into a mound of bird droppings, collected over the uncounted centuries. If you are wearing your environment suit, turn to 397. If you are not, turn to 407.
+
+For what seems like an eternity, you fall from the whiteness of the cloud, into the blackness of a deep crevasse, but in reality it is scant seconds before you nose dive into a mound of bird droppings, collected over the uncounted centuries.
+
+If you are wearing your environment suit,
+If you are not,
+Turn to 397
+Turn to 407
 
 388
 Legs pounding like pistons you dash towards the rocky ground. Looking behind you can see a tank cresting the ridge. It topples forward and slews down the slope to the bottom, where it turns towards you, throwing up a spray of sand. Another comes over the top. You can see a truck close behind it, but this does not come down - the slope is too steep for it. Instead, soldiers boil out of it and scramble down the ridge. You are only yards from the cover of some low misshapen boulders, eroded and weatherworn, when the tanks open fire, shells exploding nearby as they try to find your range. Make an Evasion Roll as you dive for the safety of the boulders.
@@ -2146,7 +2327,13 @@ The Sossorros fills your mind with the instantly recognisable image of a person.
 Kowalski crumples but regains consciousness just as the hatch seals Bloodhound and yourself inside Falcon's Wing. The camera shows the jet take off as you are reaching back across the aeons for the Eiger Vault, Earth in 3034 AD. Kowalski begins an attack run, his jet fighter screaming across the sky, but at last you locate the timehole and the Variac Drive sucks you into the nothingness of the void. Turn to 420.
 
 415
-You hurry quickly into the embrace of the green flame-like mists and, before you know where you are, you are cocooned in a chill blue glow, where the blue and yellow mist meets the green glow is produced, you are now beyond it, cocooned in blue. A strange impression of peaceful serenity floods your mind and then you shrink. Your size dwindles rapidly - and the ground surges up towards you until you are no larger than an ant perched between two grains of sand as large as small boulders. Uncannily the transformation barely perturbs you. The thought of scrambling across the sea of sand grain boulders seems too much trouble to contemplate. You settle down to rest. Turn to 31, unless this is the second time you have shrunk, in which case, turn to 149.
+
+You hurry quickly into the embrace of the green flame-like mists and, before you know where you are, you are cocooned in a chill blue glow, where the blue and yellow mist meets the green glow is produced, you are now beyond it, cocooned in blue. A strange impression of peaceful serenity floods your mind and then you shrink. Your size dwindles rapidly - and the ground surges up towards you until you are no larger than an ant perched between two grains of sand as large as small boulders. Uncannily the transformation barely perturbs you. The thought of scrambling across the sea of sand grain boulders seems too much trouble to contemplate.
+
+You settle down to rest.
+Unless this is the second time you have shrunk, in which case,
+Turn to 31
+Turn to 149
 
 416
 After a time, the door opens, flooding the hut with dull red light, and a strange figure steps in. He is not dressed in regulation SS uniform but in a hotch potch of strange clothing and whatever else he has been able to get hold of. His head and face is heavily muffled by a red scarf, presumably to keep out the dust and he wears a forage cap. He offers you a bowl of steaming vegetable broth. It tastes indifferent, consisting of various beans and barley. He says he has come to feed you and that his name is Rudolf Schindler and that he does all the trading with the other groups marooned here. Will you:
