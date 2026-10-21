@@ -132,7 +132,8 @@ Turn to 49
 Turn to 63
 
 20
-[Score an X] Concentrating your mental faculties, you hurl a blast of psychic power at the raging predatory mind of the Thaccoid. There is a moment's hesitation but it seems unhurt, either its mind is of too alien a nature or it is invulnerable to Thinkstriking. The Web is hurtling towards you and time is running out. Decide whether you will fire at the Thaccoid or fire at the web itself, but subtract two from your Attack modifier for that attack only because you are hurried.
+[Score an X]
+Concentrating your mental faculties, you hurl a blast of psychic power at the raging predatory mind of the Thaccoid. There is a moment's hesitation but it seems unhurt, either its mind is of too alien a nature or it is invulnerable to Thinkstriking. The Web is hurtling towards you and time is running out. Decide whether you will fire at the Thaccoid or fire at the web itself, but subtract two from your Attack modifier for that attack only because you are hurried.
 
 Fire at the Thaccoid?
 Fire at the web itself?
@@ -280,7 +281,8 @@ Turn to 152
 Your blast slices through Sparrowhawk's legs as she spins to fire at you and she falls, lifeless, to the floor. Dark Star knocks Squirrel onto her back, but Chameleon finishes the job which Squirrel started and Dark Star breathes no more. You look past the scene of carnage to the Time Machine. Yelov and the Symbiont are being drawn up inside it together. You open fire but it is too late. Seconds later the machine dematerialises. Once more Agidy Yelov has slipped through your grasp. He has jumped to a different timehole. There is nothing you can do but dash back to Falcon's Wing and chase him across time and space. Squirrel is too badly wounded to accompany you - you will have to leave her behind. You lose no time and within minutes arrive safely back at the spaceport where Falcon's Wing awaits. Turn to 89.
 
 44
-[Score an X] The jet of superheated plasma cuts through the net, the intense heat shrivels it like burning hair and in a few seconds it has completely gone. Your translator renders the Thaccoid's strange clicking as an expression of frustrated rage. However it still has you pinioned between two of its massive legs and it begins to draw you down to its hideous gaping maw, its eyes black pools fixing you in a seemingly blank, expressionless stare. Will you:
+[Score an X]
+The jet of superheated plasma cuts through the net, the intense heat shrivels it like burning hair and in a few seconds it has completely gone. Your translator renders the Thaccoid's strange clicking as an expression of frustrated rage. However it still has you pinioned between two of its massive legs and it begins to draw you down to its hideous gaping maw, its eyes black pools fixing you in a seemingly blank, expressionless stare. Will you:
 
 Fire your blaster at the Thaccoid mouth area?
 Fire at one of the legs that hold you?
@@ -813,7 +815,8 @@ Turn to 121
 Turn to 133
 
 112
-[Score an X] A bolt of white-hot plasma crashes into it, shadows flicker and flare as the Engineering Deck is lit by the flash. The Thaccoid shrieks ear-splittingly and shudders but then it brings its bloated body sac around, impossibly contorted, and produces from its end a thin stream of web-like thread, which hurtles towards you. Desperately you try to dive aside. Make an Evasion Roll.
+[Score an X]
+A bolt of white-hot plasma crashes into it, shadows flicker and flare as the Engineering Deck is lit by the flash. The Thaccoid shrieks ear-splittingly and shudders but then it brings its bloated body sac around, impossibly contorted, and produces from its end a thin stream of web-like thread, which hurtles towards you. Desperately you try to dive aside. Make an Evasion Roll.
 If you score 2-6, turn to 148
 If you score 7-12, turn to 136
 
@@ -892,7 +895,8 @@ A report is flashed up on your holoscreen. It appears the agents materialised in
 When the two ships have docked above the orange, gas-wreathed planet Barbarossa, Agent Chameleon, looking like a handsome Earther in a green costume with blue circles, meets you on the bridge. You confer together and come up with a plan. Chameleon will change his appearance to look like a member of the criminal underworld of Barbarossa and together you can penetrate a public gathering place to search for information as to where, near the starport, Yelov's Time Machine is hidden. You decide to make disabling the machine your top priority. The area surrounding the starport is called Smugglers Port and it contains many warehouses in which a Time Machine could be easily hidden. Your own Time Machine, Falcon's Wing has been freighted to Barbarossa under Chameleon's directive and will be kept on the Siriun ship under armed guard. Sparrowhawk and Yelov arrived on Barbarossa some hours earlier but the TIME beacon has not registered any disturbance of the time flux so Yelov's machine is still nearby. Turn to 215.
 
 124
-[Score an X] You lean in to the hole and fire at the web-like thread up which the Thaccoid is crawling. Make an Attack Roll.
+[Score an X]
+You lean in to the hole and fire at the web-like thread up which the Thaccoid is crawling. Make an Attack Roll.
 If you score 2-6, turn to 172
 If you score 7-12, turn to 160
 
@@ -947,7 +951,8 @@ Diomedes' spear hurtles past you to skitter along the rough ground ahead of you.
 The Silver Dart changes course towards the second line of sails and the deep radar display shows that all of the other racers, with the exception of one, are moving to dock with lightsails in the first row and they turn towards the sun, now bearing a two-mile span of silver mesh with them, like spacefaring Portuguese Men O'War. The craft near you is in visual range; it is a snub-nosed green ship, that of Greta Erikson, the navy pilot. You stake your claim to one of the glittering spans of wire mesh and the green racer chooses a different one. You turn on the retros to brake the ship and dock neatly with the sail, then turn towards the great red orb of the sun. Turn to 299.
 
 136
-[Score an X] You throw yourself back and the thread rushes past you to hit the ceiling of the corridor where it sticks with a slap. You pick yourself up as the Thaccoid crawls out of the hole, its jointed legs moving with remarkable speed for something of such bulk. you prepare to attack again as its roving eyes orientate on you and it spins around to face you on its eight legs. Will you:
+[Score an X]
+You throw yourself back and the thread rushes past you to hit the ceiling of the corridor where it sticks with a slap. You pick yourself up as the Thaccoid crawls out of the hole, its jointed legs moving with remarkable speed for something of such bulk. you prepare to attack again as its roving eyes orientate on you and it spins around to face you on its eight legs. Will you:
 
 Draw your blaster and fire at it?
 Blast a hole in the bulkhead of the ship, opening the B Deck up to space?
@@ -1308,7 +1313,8 @@ As the lightsail looms towards you at frightening velocity you brake together an
 
 196
 
-[Score XX] All is quiet.
+[Score XX]
+All is quiet.
 
 If you have marked eleven or more Xs,
 Otherwise,
@@ -1417,7 +1423,8 @@ Turn to 219
 Turn to 225
 
 212
-[Score an X] You turn left, walking on between banks of cryogenic tanks. Then the corridor turns right and you follow it. On your left is a bulkhead, beyond that, empty space. After a while the corridor turns right again. Straight ahead and to your left lies the steel door. You have simply come round in a square to approach it from another direction. Make a Chance Roll.
+[Score an X]
+You turn left, walking on between banks of cryogenic tanks. Then the corridor turns right and you follow it. On your left is a bulkhead, beyond that, empty space. After a while the corridor turns right again. Straight ahead and to your left lies the steel door. You have simply come round in a square to approach it from another direction. Make a Chance Roll.
 If you score 2-6, turn to 224
 If you score 7-12, turn to 244
 
@@ -1480,7 +1487,8 @@ If you score 7-12, turn to 250
 Ahead of you is the glittering silver mesh of the lightsail filling your vision as the two ships converge on the central hub of the sail and you wait to see if Remo will concede defeat, but his ship hurtles on, ever closer to your own. Looking at the scarlet racer you can see his black hair and aquiline features as the danger increases. Your nerve fails first and you are forced to swerve suddenly aside to duck beneath the sail and head off towards the second line of lightsails as the Scarlet Bullet docks safely and then turns towards the great red orb of the sun. Turn to 417.
 
 224
-[Score an X] You walk on towards the door. Suddenly, without warning, there is a terrible crash and a section of the floor buckles up in front of you. A massive, hairy, black insectoid leg thrusts up out of it. There is another resounding crash and an enormous spider-like creature, with a reptilian head rising up from the front of its enormous bloated sac-like body, bursts out from under the floor. Two eyes, like black glistening pools, rest on stalks and its mouth is surrounded by palps and mandibles working spasmodically. With the speed of a striking trap-spider, it darts forward, two of its eight legs reaching for you with barb-tipped, hook claws. With a scream of horror you recognise the Thaccoid, so much more horrible than reading its file could ever have led you to believe. Your mind picks up strong mental emanations from the Thaccoid, virtually blind raging lust for your blood with a frightening predatory singlemindedness that fills you with terror, the ancient fear of the prey for the predator. Desperately you try to avoid its grasping limbs. Make an Evasion Roll.
+[Score an X]
+You walk on towards the door. Suddenly, without warning, there is a terrible crash and a section of the floor buckles up in front of you. A massive, hairy, black insectoid leg thrusts up out of it. There is another resounding crash and an enormous spider-like creature, with a reptilian head rising up from the front of its enormous bloated sac-like body, bursts out from under the floor. Two eyes, like black glistening pools, rest on stalks and its mouth is surrounded by palps and mandibles working spasmodically. With the speed of a striking trap-spider, it darts forward, two of its eight legs reaching for you with barb-tipped, hook claws. With a scream of horror you recognise the Thaccoid, so much more horrible than reading its file could ever have led you to believe. Your mind picks up strong mental emanations from the Thaccoid, virtually blind raging lust for your blood with a frightening predatory singlemindedness that fills you with terror, the ancient fear of the prey for the predator. Desperately you try to avoid its grasping limbs. Make an Evasion Roll.
 If you score 2-6, turn to 256
 If you score 7-12, turn to 268
 
@@ -1556,7 +1564,8 @@ Turn to 239
 Turn to 245
 
 236
-[Score an X] You turn right, walking on between banks of cryogenic tanks. then the corridor turns left and you follow it. On your right isa bulkhead, beyond that, empty space. After a while the corridor turns left again. Straight ahead and to your right lies the steel door. You have simply come round in a square to approach it from another direction. Make a Chance Roll.
+[Score an X]
+You turn right, walking on between banks of cryogenic tanks. then the corridor turns left and you follow it. On your right isa bulkhead, beyond that, empty space. After a while the corridor turns left again. Straight ahead and to your right lies the steel door. You have simply come round in a square to approach it from another direction. Make a Chance Roll.
 If you score 2-6, turn to 224
 If you score 7-12, turn to 244
 
@@ -1585,7 +1594,8 @@ If you score 7-12, turn to 209
 If you score 2-6, turn to 199
 
 242
-[Score an X] The door opens into a small alcove with a hole in the floor. Running up and down through the hole is a simple iron ladder. Presumably down leads to the Engineering Deck, but you know you must go up to the Systems Control Deck. You climb up the Ladder as quietly as possible - certainly the Thaccoid could not nave come here alone, it requires someone with psychic ability to pilot a Time Machine, as well as the knowhow to re-program the Navigation Computers. You come out in another small alcove. A thin circular corridor, padded and lit with flickering instrument panels, travels for about ten feet and then opens out into a bright white area, lined with consoles, screens and instrumentation of all kinds - the Systems Control room. But is the Thaccoid's companion, possibly Yelov himself, still in there, or has he returned to 3034 AD? How much time have you before the Ark leaves the timehole? Will you:
+[Score an X]
+The door opens into a small alcove with a hole in the floor. Running up and down through the hole is a simple iron ladder. Presumably down leads to the Engineering Deck, but you know you must go up to the Systems Control Deck. You climb up the Ladder as quietly as possible - certainly the Thaccoid could not nave come here alone, it requires someone with psychic ability to pilot a Time Machine, as well as the knowhow to re-program the Navigation Computers. You come out in another small alcove. A thin circular corridor, padded and lit with flickering instrument panels, travels for about ten feet and then opens out into a bright white area, lined with consoles, screens and instrumentation of all kinds - the Systems Control room. But is the Thaccoid's companion, possibly Yelov himself, still in there, or has he returned to 3034 AD? How much time have you before the Ark leaves the timehole? Will you:
 
 Run forward, dive into the Control room and roll to your feet?
 Stay where you are and wait a few minutes to see if anyone is there?
@@ -1667,7 +1677,8 @@ Turn to 375
 Turn to 365
 
 256
-[Score an X] Before you can move the pincer-like claws of the Thaccoid drive into your sides, piercing your Environment Suit and your flesh. Lose 6 Endurance points. You are lifted into the air in front of the Thaccoid's gaping maw. Suddenly the Thaccoid whips up the two longest of its legs and, to your horror, you notice a silvery web stretched between them like a net. With a swift stabbing motion it whips its legs forward trying to trap you. Will you:
+[Score an X]
+Before you can move the pincer-like claws of the Thaccoid drive into your sides, piercing your Environment Suit and your flesh. Lose 6 Endurance points. You are lifted into the air in front of the Thaccoid's gaping maw. Suddenly the Thaccoid whips up the two longest of its legs and, to your horror, you notice a silvery web stretched between them like a net. With a swift stabbing motion it whips its legs forward trying to trap you. Will you:
 
 Thinkstrike the Thaccoid?
 Use your blaster to blast at it?
@@ -1717,7 +1728,8 @@ If you score 5-12, turn to 257
 If you score 2-4, turn to 241
 
 264
-[Score an X] You only just have time to throw yourself backward as the net sweeps over your head inches away from you. The Thaccoid pulls back its legs and you have time to act. Will you:
+[Score an X]
+You only just have time to throw yourself backward as the net sweeps over your head inches away from you. The Thaccoid pulls back its legs and you have time to act. Will you:
 
 Draw your blaster and fire at it?
 Fire at the grille it is standing on?
@@ -2091,7 +2103,8 @@ Turn to 413
 
 318
 
-[Score an X] You unleash a blast of superheated plasma at the bulkhead behind the Thaccoid. There is a blinding flash and a small hole appears in the wall. Instantly it is torn wide open by the force of the air in the Ark rushing out into the vacuum of space. There is a clicking cry of distress from the Thaccoid as it is lifted up and sucked towards the hole. You find yourself ripped off the ground by the escaping air hurtling after the Thaccoid. You watch horrified as it sweeps into space and then bursts like a ripe melon as the gases inside it rush out into open space. Black ichor and glistening grey viscera balloon outward into space.
+[Score an X]
+You unleash a blast of superheated plasma at the bulkhead behind the Thaccoid. There is a blinding flash and a small hole appears in the wall. Instantly it is torn wide open by the force of the air in the Ark rushing out into the vacuum of space. There is a clicking cry of distress from the Thaccoid as it is lifted up and sucked towards the hole. You find yourself ripped off the ground by the escaping air hurtling after the Thaccoid. You watch horrified as it sweeps into space and then bursts like a ripe melon as the gases inside it rush out into open space. Black ichor and glistening grey viscera balloon outward into space.
 
 If you have the harpoon/grapple backpack,
 If not,
@@ -2381,7 +2394,8 @@ If you score 7-12, turn to 370
 When you inform Yellowblades of your decision to make him a member of the TIME police, he steps forward, beaming, and gently shakes your hand. 'I shall try to be worthy of your esteem, Falcon,' he booms. You tell the Rigellian that he should present himself at the Hall of Honours on the stroke of fifteen. He salutes and leaves you to make the necessary preparations for the graduation ceremony. Turn to 393.
 
 364
-[Score an X] You drop to the floor and the claws clash together above your head. In an instant you are standing again, ready to attack once more. Will you:
+[Score an X]
+You drop to the floor and the claws clash together above your head. In an instant you are standing again, ready to attack once more. Will you:
 
 Fire at the grille it is standing on?
 Blast a hole in the bulkhead of the ship, opening the B Deck up to space?
@@ -2711,7 +2725,8 @@ The Silver Dart launches through space towards the second line of sails and the 
 
 418
 
-[Score an X] You twist aside, barely managing to fend off its fangs, which crash into the gridded floor. It rears up to strike once again at its trapped victim.
+[Score an X]
+You twist aside, barely managing to fend off its fangs, which crash into the gridded floor. It rears up to strike once again at its trapped victim.
 
 If you have a mini-laser on your wrist,
 If not you can only try to avoid its fangs once again.

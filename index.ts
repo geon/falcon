@@ -58,19 +58,10 @@ interface TextSection {
 	line: string;
 }
 
-const scoreLetters = [
-	"B" as const,
-	"C" as const,
-	"D" as const,
-	"G" as const,
-	"K" as const,
-	"T" as const,
-	"Q" as const,
-];
-type ScoreLetter = (typeof scoreLetters)[0];
 interface ScoreSection {
 	type: "score";
-	letter: ScoreLetter;
+	// What to score, like "a Q", "an X" or "XX".
+	score: string;
 }
 
 interface HeaderSection {
@@ -191,13 +182,11 @@ function parseTurnInstructions(sections: Section[]): Section[] {
 }
 
 function parseScores(sections: Section[]): Section[] {
-	const regExpString = "\\[score a ([" + scoreLetters.join("") + "])\\]";
-	const regExp = new RegExp(regExpString);
 	return sections.map((section) => {
 		if (section.type === "text") {
-			const match = section.line.match(regExp);
+			const match = section.line.match(/^\[score ((?:an? )?[A-Z]+)\]$/i);
 			if (match) {
-				return { type: "score", letter: match[1] as ScoreLetter };
+				return { type: "score", score: match[1] };
 			}
 		}
 
@@ -569,7 +558,7 @@ function renderTextSection(section: TextSection): string {
 	return "<p>" + section.line + "</p>";
 }
 function renderScoreSection(section: ScoreSection): string {
-	return "<p><b>[Score a " + section.letter + "]</b></p>";
+	return "<p><b>[Score " + section.score + "]</b></p>";
 }
 function renderHeaderSection(section: HeaderSection): string {
 	return "<h2>" + section.line + "</h2>";
