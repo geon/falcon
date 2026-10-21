@@ -648,7 +648,7 @@ function processBook(bookNumber: number) {
 	}
 }
 
-for (const bookNumber of [1, 2, 3]) {
+for (const bookNumber of [1, 2, 3, 4]) {
 	processBook(bookNumber);
 }
 
